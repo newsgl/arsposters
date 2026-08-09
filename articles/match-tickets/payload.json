@@ -1,0 +1,97 @@
+{
+  "title": {
+    "ru": "Как попасть на матч «Црвены звезды» или «Партизана»: гид по билетам",
+    "sr": "Kako do ulaznice za Zvezdu ili Partizan: vodič kroz karte",
+    "en": "How to get tickets for Crvena Zvezda or Partizan: a Belgrade matchday guide"
+  },
+  "description": {
+    "ru": "<p>Белград — один из немногих городов Европы, где два больших клуба живут практически на одной улице: от «Мараканы» до стадиона «Партизана» десять минут пешком. При этом футбол здесь удивительно доступный: билет на рядовой матч чемпионата стоит как чашка кофе с десертом. Баскетбол город любит не меньше — обе команды играют в Евролиге, и «Партизан» который год собирает полную арену. Рассказываем, где покупать билеты, сколько они стоят и что нужно знать перед походом на стадион.</p>",
+    "sr": "<p>Beograd je jedan od retkih gradova u Evropi u kome dva velika kluba žive praktično u istoj ulici: od Marakane do stadiona Partizana ima desetak minuta hoda. Fudbal je pritom pristupačan — karta za običnu prvenstvenu utakmicu košta koliko kafa i kolač. Košarku grad voli ništa manje: oba kluba igraju Evroligu, a Partizan iz sezone u sezonu puni Arenu. Evo gde se kupuju ulaznice, koliko koštaju i šta treba znati pre odlaska na stadion.</p>",
+    "en": "<p>Belgrade is one of the few cities in Europe where two big clubs live practically on the same street: the walk from Marakana to the Partizan stadium takes about ten minutes. Football here is remarkably affordable, and a regular league ticket costs about as much as coffee and cake. Basketball matters just as much: both clubs play in the EuroLeague, and Partizan fills the arena season after season. Here is where to buy tickets, what they cost and what to know before you go.</p>"
+  },
+  "cover": {
+    "file": "tickets-cover-marakana-derby.webp",
+    "alt": {
+      "ru": "Северная трибуна «Мараканы» во время вечного дерби",
+      "sr": "Severna tribina Marakane tokom večitog derbija",
+      "en": "The north stand of Marakana during the Eternal Derby"
+    },
+    "caption": {
+      "ru": "Фото: Viktor Markovic / Wikimedia Commons, CC BY 2.0",
+      "sr": "Foto: Viktor Markovic / Wikimedia Commons, CC BY 2.0",
+      "en": "Photo: Viktor Markovic / Wikimedia Commons, CC BY 2.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Цены ниже — ориентиры сезона 2025/26 и лета 2026 года; перед конкретным матчем сверяйтесь с сайтом клуба.</p><h2>«Црвена звезда»: стадион «Райко Митич»</h2><p>Домашняя арена «красно-белых» на Дединье (Ljutice Bogdana 1a) официально называется стадион «Райко Митич», но весь город зовёт её «Маракана» — в честь знаменитого стадиона в Рио. Вмещает около 50 тысяч зрителей, это самый большой стадион Сербии.</p><p>Билеты на отдельные матчи продаются на официальной платформе crvenazvezda.iticket.rs и в кассах у стадиона. Регистрация на сайте занимает пару минут, билет приходит электронным — достаточно показать его с телефона.</p><p>Порядок цен такой:</p><p>🔵 Рядовой матч Суперлиги — от нескольких сотен динаров, часто дешевле 500 (около 4 евро).</p><p>🔵 Дерби с «Партизаном» весной 2026 года: север — 600, восток — 1 000, запад — 1 200, трибуна «Синиши Михайловича» — 2 500 динаров (примерно от 5 до 21 евро).</p><p>🔵 Еврокубки — заметно дороже, и на них надо успевать: матчи Лиги чемпионов и Лиги Европы «Маракана» регулярно распродаёт полностью.</p><p>Премиум-абонемент на весь сезон 2026/27 (все домашние матчи, включая еврокубки) стоит от 11 900 динаров за север до 55 000 за центральную трибуну «Синиша Михайлович»; продление дешевле, чем покупка нового.</p><p>Север — трибуна «Делий», клубных ультрас: там стоят, поют и жгут файеры все 90 минут. Если хотите спокойно посмотреть футбол, берите запад или восток.</p>",
+        "sr": "<p>Cene u tekstu su orijentiri iz sezone 2025/26 i leta 2026 — pred konkretnu utakmicu proverite sajt kluba.</p><h2>Crvena zvezda: stadion „Rajko Mitić\"</h2><p>Domaći teren crveno-belih na Dedinju (Ljutice Bogdana 1a) ceo grad zove Marakana. Sa oko 50.000 mesta to je najveći stadion u Srbiji.</p><p>Ulaznice za pojedinačne utakmice prodaju se na zvaničnoj platformi crvenazvezda.iticket.rs i na blagajnama stadiona. Obična prvenstvena utakmica košta od nekoliko stotina dinara; derbi sa Partizanom u proleće 2026. bio je 600 (sever) do 2.500 dinara (tribina „Siniša Mihajlović\"). Evropske utakmice su skuplje i redovno se rasprodaju, pa karte treba loviti čim krene prodaja.</p><p>Premijum sezonska ulaznica za 2026/27 (sve domaće utakmice, uključujući evropske) košta od 11.900 dinara za sever do 55.000 za tribinu „Siniša Mihajlović\"; produženje je jeftinije od nove.</p><p>Sever je tribina Delija — tamo se stoji i peva svih 90 minuta. Za mirnije gledanje birajte zapad ili istok.</p>",
+        "en": "<p>The prices below are reference points from the 2025/26 season and summer 2026. Check the club website before a specific match.</p><h2>Crvena Zvezda: Rajko Mitić Stadium</h2><p>The home ground of the red and whites in Dedinje (Ljutice Bogdana 1a) is officially called Rajko Mitić Stadium, but the whole city calls it Marakana, after the famous stadium in Rio. It holds about 50,000 spectators and is the largest stadium in Serbia.</p><p>Single match tickets are sold on the official platform crvenazvezda.iticket.rs and at the stadium box offices. Registration takes a couple of minutes and tickets are electronic, so you just show them on your phone.</p><p>A regular SuperLiga match costs from a few hundred dinars, often under 500 (about 4 euros). The derby against Partizan in spring 2026 cost from 600 dinars (north stand) to 2,500 dinars (the Siniša Mihajlović stand), roughly 5 to 21 euros. European nights are pricier and sell out regularly, so buy early.</p><p>A premium season ticket for 2026/27 covers all home matches including European games and costs from 11,900 dinars for the north stand to 55,000 for the Siniša Mihajlović stand.</p><p>The north stand belongs to the Delije, the club's ultras: they stand and sing for the full 90 minutes. For a calmer view, choose the west or east stand.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>«Партизан»: стадион в Хумской</h2><p>Стадион «Партизана» (Humska 1) старше и меньше — около 30 тысяч мест, старожилы до сих пор называют его стадионом ЮНА. Атмосфера камернее, чем на «Маракане», но южная трибуна — дом «Гробарей» — по громкости не уступает северу соседей.</p><p>Билеты и абонементы клуб продаёт через платформу ticketline.rs. Основной формат — цифровой билет, который добавляется в кошелёк смартфона; физическую карту можно забрать только в точке Ticketline у северной трибуны.</p><p>Сезонный абонемент 2026/27 — самый дешёвый способ ходить на футбол в Белграде: юг стоит 4 000 динаров (около 34 евро) за все домашние матчи сезона, восток — 9 000, запад — 11 000. Владельцам прошлогодних абонементов, студентам и военным дают скидку 20% на восток и запад.</p>",
+        "sr": "<h2>Partizan: stadion u Humskoj</h2><p>Stadion Partizana (Humska 1) ima oko 30.000 mesta; stariji ga i dalje zovu stadion JNA. Jug je dom Grobara i po atmosferi ne zaostaje za severom komšija.</p><p>Karte i sezonske ulaznice klub prodaje preko platforme ticketline.rs. Osnovni format je digitalna ulaznica u novčaniku telefona; fizička kartica se preuzima samo na prodajnom mestu Ticketline-a kod severne tribine.</p><p>Sezonska ulaznica 2026/27 je najjeftiniji način da se gleda fudbal u Beogradu: jug košta 4.000 dinara za sve domaće utakmice sezone, istok 9.000, zapad 11.000. Prošlogodišnji pretplatnici, studenti i vojna lica imaju popust od 20% na istok i zapad.</p>",
+        "en": "<h2>Partizan: the stadium in Humska</h2><p>The Partizan stadium (Humska 1) is older and smaller, with about 30,000 seats; older locals still call it the JNA stadium. The south stand is home to the Grobari and easily matches the noise of their neighbours' north.</p><p>The club sells tickets and season passes through ticketline.rs. The main format is a digital ticket added to your phone wallet; a physical card can only be collected at the Ticketline point by the north stand.</p><p>A season ticket for 2026/27 is the cheapest way to watch football in Belgrade: the south stand costs 4,000 dinars (about 34 euros) for every home match of the season, the east 9,000 and the west 11,000. Last season's holders, students and military personnel get a 20 percent discount on the east and west stands.</p>"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "partizan",
+      "file": "stadion-partizana-humska.webp",
+      "alt": {
+        "ru": "Стадион «Партизана» на Хумской улице",
+        "sr": "Stadion Partizana u Humskoj ulici",
+        "en": "Partizan Stadium in Humska Street"
+      },
+      "caption": {
+        "ru": "Фото: Bjoertvedt / Wikimedia Commons, CC BY-SA 3.0",
+        "sr": "Foto: Bjoertvedt / Wikimedia Commons, CC BY-SA 3.0",
+        "en": "Photo: Bjoertvedt / Wikimedia Commons, CC BY-SA 3.0"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>«Вечное дерби»</h2><p>Матч «Црвена звезда» — «Партизан» играется с 1947 года и остаётся главным спортивным событием страны. Весной 2026-го прошло уже 179-е дерби. Следующее футбольное — осенью, точная дата определится календарём Суперлиги; как только её объявят, матч появится в календаре Афиши.</p><p>Практика такая:</p><p>🔵 Билеты поступают в продажу примерно за неделю до матча, продаются только через официальные каналы клуба-хозяина.</p><p>🔵 Цены выше обычных, но по европейским меркам скромные: весной 2026 года от 600 до 2 500 динаров.</p><p>🔵 Гостевым болельщикам отводят отдельный сектор. В цветах одного клуба идти на трибуны другого — плохая идея, даже если билет куплен легально.</p><p>🔵 Приходите за полтора-два часа: очереди на досмотр перед дерби длинные.</p><p>Баскетбольное дерби ничуть не спокойнее футбольного. В сезоне Евролиги 2026/27 их два: 22 октября принимает «Партизан», 11 февраля 2027-го — «Звезда». Весной 2026 года билеты стоили от 2 500 динаров за верхний ярус до 100 000 за скай-бокс, и самые дорогие категории разошлись первыми.</p>",
+        "sr": "<h2>Večiti derbi</h2><p>Zvezda i Partizan igraju od 1947. godine; u proleće 2026. odigran je 179. derbi. Sledeći fudbalski je na jesen — čim raspored Superlige bude objavljen, utakmica će se naći u kalendaru Afiše.</p><p>🔵 Ulaznice kreću u prodaju otprilike nedelju dana pre meča, isključivo preko zvaničnih kanala domaćina.</p><p>🔵 Cene su više od uobičajenih, ali i dalje umerene: u proleće 2026. od 600 do 2.500 dinara.</p><p>🔵 Gostujući navijači imaju poseban sektor; u bojama jednog kluba na tribine drugog ne treba ići.</p><p>🔵 Dođite sat i po do dva ranije — redovi na pregledu pred derbi su dugi.</p><p>Košarkaški derbi nije ništa mirniji. U Evroligi 2026/27 igraju se dva: 22. oktobra kod Partizana i 11. februara 2027. kod Zvezde. U proleće 2026. karte su išle od 2.500 dinara za gornji nivo do 100.000 za skaj boks.</p>",
+        "en": "<h2>The Eternal Derby</h2><p>Crvena Zvezda and Partizan have played each other since 1947, and the fixture remains the biggest sporting event in the country. Spring 2026 saw the 179th derby. The next one comes in autumn: as soon as the SuperLiga schedule is out, the match will appear in the Afisha calendar.</p><p>A few practical points:</p><p>🔵 Tickets go on sale about a week before the match, only through the host club's official channels.</p><p>🔵 Prices are higher than usual but still modest by European standards: 600 to 2,500 dinars in spring 2026.</p><p>🔵 Away fans get a separate section. Wearing one club's colours in the other club's stands is a bad idea, even with a legally bought ticket.</p><p>🔵 Arrive an hour and a half to two hours early, as security queues before the derby are long.</p><p>The basketball derby is no calmer. The 2026/27 EuroLeague season has two: Partizan hosts on 22 October, Crvena Zvezda on 11 February 2027. In spring 2026 tickets ran from 2,500 dinars for the upper level to 100,000 for a skybox, and the top categories went first.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Баскетбол: Евролига в Белградской арене</h2><p>Главные баскетбольные вечера города проходят в Белградской арене на Новом Белграде (до 2024 года она называлась «Штарк-арена»). Зал вмещает около 18 тысяч зрителей, и на топ-матчах Евролиги он полон: «Партизан» несколько сезонов подряд держит лучшую посещаемость лиги. Менее статусные матчи АБА-лиги и чемпионата Сербии команды иногда проводят в зале «Александар Николич» (бывший «Пионир»).</p><p>Где покупать:</p><p>🔵 КК «Партизан» — ticketline.rs. Абонементы продаются волнами, и для покупки нужна членская карта клуба; билеты на отдельные топ-матчи уходят в первые часы продаж.</p><p>🔵 КК «Црвена звезда» — kkcrvenazvezda.ticketaza.com.</p><p>Если хотите попасть на конкретный матч Евролиги, следите за анонсом старта продаж на сайте клуба и не откладывайте покупку: на рядовые туры билеты есть свободно, на матчи с грандами — нет.</p>",
+        "sr": "<h2>Košarka: Evroliga u Beogradskoj areni</h2><p>Najveće košarkaške večeri grad gleda u Beogradskoj areni na Novom Beogradu (do 2024. Štark arena), koja prima oko 18.000 gledalaca. Partizan više sezona drži najbolju posećenost Evrolige. Manje utakmice ABA lige i prvenstva ponekad se igraju u hali „Aleksandar Nikolić\" (Pionir).</p><p>🔵 KK Partizan — ticketline.rs; sezonske se prodaju u fazama i traže člansku kartu kluba, a karte za najveće mečeve nestaju u prvim satima.</p><p>🔵 KK Crvena zvezda — kkcrvenazvezda.ticketaza.com.</p>",
+        "en": "<h2>Basketball: EuroLeague at the Belgrade Arena</h2><p>The city's big basketball nights happen at the Belgrade Arena in Novi Beograd (called Štark Arena until 2024). It seats about 18,000, and Partizan has led the EuroLeague in attendance for several seasons. Lesser ABA League and domestic games are sometimes played at the Aleksandar Nikolić hall, the former Pionir.</p><p>Where to buy:</p><p>🔵 KK Partizan: ticketline.rs. Season passes are sold in waves and require a club membership card; tickets for the biggest games disappear within hours.</p><p>🔵 KK Crvena Zvezda: kkcrvenazvezda.ticketaza.com.</p><p>For a specific EuroLeague match, watch the club website for the sale announcement and do not wait: regular rounds are easy to get into, games against the big names are not.</p>"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "arena",
+      "file": "beogradska-arena-derbi.webp",
+      "alt": {
+        "ru": "Белградская арена перед баскетбольным дерби «Партизан» — «Црвена звезда»",
+        "sr": "Beogradska arena pred košarkaški derbi Partizan — Crvena zvezda",
+        "en": "Belgrade Arena before the basketball derby between Partizan and Crvena Zvezda"
+      },
+      "caption": {
+        "ru": "Фото: Marko Stanojević / Wikimedia Commons, CC BY-SA 4.0",
+        "sr": "Foto: Marko Stanojević / Wikimedia Commons, CC BY-SA 4.0",
+        "en": "Photo: Marko Stanojević / Wikimedia Commons, CC BY-SA 4.0"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Документы, запреты и здравый смысл</h2><p>🔵 Заведите аккаунт на iTicket и Ticketline заранее, а не в день старта продаж.</p><p>🔵 На матчи повышенного риска (дерби, еврокубки) билеты именные: при покупке нужен документ, иностранцу — паспорт. Его же могут спросить на входе вместе с билетом.</p><p>🔵 На стадион нельзя проносить пиротехнику, оружие, стекло, банки и алкоголь; бутылки с крышками тоже отбирают на досмотре.</p><p>🔵 Детям на западе и востоке вполне комфортно. Клубы периодически устраивают акции с бесплатным входом для зрителей до 14 лет — «Звезда» делала такое в 2026 году.</p><p>🔵 Не покупайте билеты с рук и на перекупщицких сайтах: на именные матчи с чужим билетом просто не пустят.</p><p>🔵 Оба стадиона стоят в районе Аутокоманды, 10–15 минут от центра на такси или троллейбусах 40 и 41. Белградская арена — Новый Белград, блок 25.</p><p>Матчи обоих клубов, которые стоит увидеть, мы добавляем в календарь Афиши — там же концерты, фестивали и всё остальное, чем живёт Белград.</p>",
+        "sr": "<h2>Dokumenta, zabrane i zdrav razum</h2><p>🔵 Nalog na iTicket-u i Ticketline-u napravite unapred, ne na dan početka prodaje.</p><p>🔵 Za utakmice visokog rizika (derbi, evropske) ulaznice su na ime: pri kupovini treba dokument, strancu pasoš. Isti dokument mogu tražiti i na ulazu.</p><p>🔵 Na stadion se ne unose pirotehnika, oružje, staklo, limenke i alkohol; flaše sa čepom takođe ostaju na pregledu.</p><p>🔵 Deci je na zapadu i istoku sasvim udobno, a klubovi povremeno puštaju mlađe od 14 godina besplatno.</p><p>🔵 Ne kupujte karte iz druge ruke — tamo gde ulaznica glasi na ime, sa tuđom kartom nema ulaska.</p><p>🔵 Oba stadiona su kod Autokomande, 10–15 minuta od centra; Beogradska arena je u Bloku 25 na Novom Beogradu.</p><p>Utakmice oba kluba koje vredi videti dodajemo u kalendar Afiše — uz koncerte, festivale i sve ostalo čime Beograd živi.</p>",
+        "en": "<h2>Documents, rules and common sense</h2><p>🔵 Create your iTicket and Ticketline accounts in advance, not on the day sales open.</p><p>🔵 For high risk matches (derbies, European games) tickets are personalised: you need an ID to buy, a passport if you are a foreigner. You may be asked to show it at the gate along with the ticket.</p><p>🔵 Pyrotechnics, weapons, glass, cans and alcohol are banned; bottles with caps are also taken at security.</p><p>🔵 Kids are fine on the west and east stands, and the clubs occasionally let under 14s in for free.</p><p>🔵 Do not buy from touts or resale sites: with personalised tickets you simply will not get in on someone else's name.</p><p>🔵 Both stadiums sit near Autokomanda, 10 to 15 minutes from the centre by taxi or trolleybus 40 or 41. The Belgrade Arena is in Novi Beograd, Block 25.</p><p>We add the matches worth seeing to the Afisha calendar, along with the concerts, festivals and everything else happening in Belgrade.</p>"
+      }
+    }
+  ]
+}
