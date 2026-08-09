@@ -1,0 +1,97 @@
+{
+  "title": {
+    "ru": "Скадарлия и кафаны с живой музыкой: вечер по-сербски",
+    "sr": "Skadarlija i kafane sa živom muzikom: veče po srpski",
+    "en": "Skadarlija and the kafanas with live music: a proper Serbian night out"
+  },
+  "description": {
+    "ru": "<p>Кафана — это не ресторан, не бар и не кофейня, хотя внешне похожа на всё сразу. Это сербский институт с пятивековой историей: место, где заключали сделки и мирили поссорившихся, писали стихи и создавали театры, где оркестр играет до полуночи, а за соседним столом обязательно поют. Официант здесь не торопит, счёт не приносят, пока не попросишь, и никто не удивится, если вы просидите четыре часа за одной ракией. Рассказываем, как устроен кафанский вечер, куда идти за живой музыкой и почему главная богемная улица Белграда — побратим парижского Монмартра.</p>",
+    "sr": "<p>Kafana nije ni restoran, ni bar, ni kafić, iako liči na sve troje. To je institucija sa viševekovnom istorijom: mesto gde su se sklapali poslovi i mirile zavađene strane, pisale pesme i osnivala pozorišta, gde orkestar svira do ponoći, a za susednim stolom se obavezno peva. Konobar vas ne požuruje, račun ne stiže dok ga ne zatražite, i niko se ne čudi ako uz jednu rakiju presedite četiri sata. Evo kako izgleda kafansko veče, gde se ide po živu muziku i zašto je najboemskija beogradska ulica pobratim pariskog Monmartra.</p>",
+    "en": "<p>A kafana is not a restaurant, not a bar and not a coffee house, although it looks like all three at once. It is a Serbian institution with five centuries of history: a place where deals were struck and quarrels settled, poems written and theatres founded, where the orchestra plays till midnight and the next table is always singing. The waiter never hurries you, the bill only appears when you ask for it, and nobody minds if you spend four hours over a single rakija. Here is how a kafana evening works, where to go for live music, and why Belgrade's bohemian street is officially twinned with Montmartre.</p>"
+  },
+  "cover": {
+    "file": "kafana-cover-boemsko-vece.webp",
+    "alt": {
+      "ru": "Оркестр играет у стола в скадарлийской кафане вечером",
+      "sr": "Orkestar svira uz sto u skadarlijskoj kafani uveče",
+      "en": "An orchestra playing at a table in a Skadarlija kafana at night"
+    },
+    "caption": {
+      "ru": "Фото: Krumb77 / Wikimedia Commons, CC BY-SA 3.0",
+      "sr": "Foto: Krumb77 / Wikimedia Commons, CC BY-SA 3.0",
+      "en": "Photo: Krumb77 / Wikimedia Commons, CC BY-SA 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Если совсем коротко: для первого раза выбирайте Скадарлию, бронируйте стол на пятницу или субботу заранее и не уходите до того, как оркестр доберётся до вашего стола.</p><h2>Пять веков за одним столом</h2><p>Начнём с факта, которым белградцы заслуженно гордятся: по данным сербских историков, первая кафана Европы открылась именно здесь, на Дорчоле, в 1522 году — в ней подавали только чёрный кофе. Лондон и Париж обзавелись кофейнями на добрую сотню лет позже: первое английское кафе открылось в Оксфорде в 1652-м. Само слово «кафана» — турецкое наследие: дом, где пьют кофе.</p><p>Старейшая из сохранившихся кафан города работает с 1823 года и называется «?» — просто вопросительный знак, «Знак питања». По самой известной версии, хозяин хотел назвать её «У Соборной церкви», но церкви напротив такое соседство с алкоголем не понравилось. В знак протеста на дверь повесили вопросительный знак — «временно, пока не придумаем». Висит третий век. С 1946 года кафана — памятник культуры, и зайти туда стоит хотя бы ради низких турецких столиков и ощущения, что за двести лет здесь мало что переставляли.</p>",
+        "sr": "<p>Ako baš ukratko: za prvi put birajte Skadarliju, sto za petak ili subotu rezervišite unapred i ne idite kući dok orkestar ne stigne do vašeg stola.</p><h2>Pet vekova za istim stolom</h2><p>Počnimo činjenicom na koju su Beograđani s pravom ponosni: po podacima istoričara, prva kafana u Evropi otvorena je upravo ovde, na Dorćolu, 1522. godine — služila se samo crna kafa. London i Pariz dobili su svoje kafedžinice dobar vek kasnije: prvi engleski kafe otvoren je u Oksfordu 1652.</p><p>Najstarija sačuvana kafana grada radi od 1823. i zove se „?\" — prosto znak pitanja. Po najpoznatijoj verziji, vlasnik je hteo ime „Kod Saborne crkve\", ali se crkva preko puta pobunila protiv takvog komšiluka. U znak protesta na vrata je okačen upitnik — „privremeno\". Visi već treći vek. Od 1946. kafana je spomenik kulture.</p>",
+        "en": "<p>The short version: for a first visit choose Skadarlija, book a table in advance for Friday or Saturday, and do not leave before the orchestra reaches your table.</p><h2>Five centuries at one table</h2><p>Start with a fact Belgraders are rightly proud of: according to Serbian historians, the first kafana in Europe opened right here, in the Dorćol quarter, in 1522, serving nothing but black coffee. London and Paris got their coffee houses a good century later; the first English coffee house opened in Oxford in 1652.</p><p>The oldest surviving kafana in the city has been working since 1823 and is called \"?\", just a question mark. The best known version of the story: the owner wanted to name it \"By the Cathedral\", the church across the street objected to such a neighbour, and a question mark went up on the door as a protest, \"temporarily\". It has hung there for two centuries. The kafana has been a protected cultural monument since 1946.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Скадарлия: улица, которая стала легендой</h2><p>Скадарская улица — меньше четырёхсот метров брусчатки под горку. Начиналась она скромно: в 1825 году здесь стояло цыганское поселение Шичан-мала. Богемной улица стала на рубеже веков, а окончательно — после 1901 года, когда снесли гостиницу «Дарданеллы» у нынешней площади Республики, и её постояльцы — писатели, актёры и художники — дружно переехали в скадарлийские кафаны.</p><p>Самый знаменитый из местных жителей — Джура Якшич, поэт и живописец, главный сербский романтик и главный сербский богемец в одном лице. Он жил и умер в доме № 34 на Скадарской; сегодня это культурный центр, где летними вечерами читают стихи. Перед домом сидит бронзовый Джура, и с ним фотографируется вся улица.</p><p>Два факта для застольной беседы. Первый: 22 октября 1977 года Скадарлия официально побратималась с парижским Монмартром — таблички об этом висят на обеих улицах. Второй: чешма-себиль в нижнем конце улицы — копия знаменитой сараевской, подарок Сараева Белграду в 1989 году.</p>",
+        "sr": "<h2>Skadarlija: ulica koja je postala legenda</h2><p>Skadarska ulica je manje od četiristo metara kaldrme. Boemska je postala posle 1901, kada je srušena gostionica „Dardaneli\" kod današnjeg Trga republike, pa su se njeni gosti — pisci, glumci i slikari — preselili u skadarlijske kafane.</p><p>Najslavniji stanovnik ulice je Đura Jakšić, pesnik i slikar, najveći srpski romantičar i najveći boem u jednoj osobi. Živeo je i umro u kući broj 34; danas je to kulturni centar u kome se letnjim večerima čita poezija, a ispred sedi bronzani Đura.</p><p>Dve činjenice za kafanski razgovor. Prva: 22. oktobra 1977. Skadarlija se zvanično pobratimila sa pariskim Monmartrom — table o tome stoje na obe ulice. Druga: sebilj na dnu ulice je kopija čuvenog sarajevskog, poklon Sarajeva Beogradu iz 1989.</p>",
+        "en": "<h2>Skadarlija: the street that became a legend</h2><p>Skadarska Street is less than four hundred metres of cobblestones running downhill. It turned bohemian after 1901, when the Dardaneli inn near today's Republic Square was demolished and its regulars, writers, actors and painters, moved together into the kafanas of Skadarlija.</p><p>The street's most famous resident was Đura Jakšić, poet and painter, Serbia's greatest romantic and greatest bohemian in one person. He lived and died at number 34; today the house is a cultural centre with poetry readings on summer evenings, and a bronze Đura sits outside.</p><p>Two facts for the dinner table. First: on 22 October 1977 Skadarlija was officially twinned with Montmartre in Paris, and plaques on both streets record it. Second: the sebilj fountain at the bottom of the street is a copy of the famous one in Sarajevo, a gift from that city to Belgrade in 1989.</p>"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "vecer",
+      "file": "skadarska-vecer.webp",
+      "alt": {
+        "ru": "Скадарская улица вечером: брусчатка и фонари",
+        "sr": "Skadarska ulica uveče: kaldrma i fenjeri",
+        "en": "Skadarska Street in the evening: cobblestones and lanterns"
+      },
+      "caption": {
+        "ru": "Фото: Михајло Анђелковић / Wikimedia Commons, CC BY-SA 3.0",
+        "sr": "Foto: Mihajlo Anđelković / Wikimedia Commons, CC BY-SA 3.0",
+        "en": "Photo: Mihajlo Anđelković / Wikimedia Commons, CC BY-SA 3.0"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Кафаны Скадарлии: куда садиться</h2><p>🔵 «Три шешира» («Три шляпы») — старейшая действующая кафана улицы, открыта в 1864 году в бывшей мастерской шляпника: отсюда и название, и три жестяные шляпы на вывеске. Живая музыка каждый вечер.</p><p>🔵 «Два елена» («Два оленя») — сосед и вечный конкурент, работает с 1867 года. Большие залы, оркестр, стены в картинах и фотографиях полутора веков гостей.</p><p>🔵 «Има дана» — младшая из знаменитых, открыта в 1969-м; «Има дана» — это ещё и название старогородской песни, которую здесь закажут при вас не один раз, — «будут ещё дни».</p><p>🔵 «Два бела голуба», «Шешир мой», «Златни бокал» — меньше туристов, тот же жанр: скатерти в клетку, тамбураши, сач и вино в графине.</p><p>В летописях скадарлийских кафан значатся Тито, Джими Хендрикс, Джордж Буш-старший и шахматист Анатолий Карпов; путеводители добавляют к списку королей и премьер-министров. Проверить всех не берёмся, но фотографии на стенах «Двух оленей» намекают, что список неполный.</p>",
+        "sr": "<h2>Skadarlijske kafane: gde sesti</h2><p>🔵 „Tri šešira\" — najstarija kafana ulice koja i danas radi, otvorena 1864. u bivšoj šeširdžijskoj radionici: otud ime i tri limena šešira na firmi. Živa muzika svako veče.</p><p>🔵 „Dva jelena\" — komšija i večiti konkurent, radi od 1867. Veliki saloni, orkestar, zidovi puni slika i fotografija poznatih gostiju.</p><p>🔵 „Ima dana\" — najmlađa među čuvenima, otvorena 1969; istoimenu starogradsku pesmu ovde će naručiti pred vama više puta.</p><p>🔵 „Dva bela goluba\", „Šešir moj\", „Zlatni bokal\" — manje turista, isti žanr: karirani stolnjaci, tamburaši, sač i vino u bokalu.</p><p>U letopisima skadarlijskih kafana pominju se Tito, Džimi Hendriks, Džordž Buš stariji i šahista Anatolij Karpov; vodiči dodaju kraljeve i premijere. Fotografije na zidovima „Dva jelena\" nagoveštavaju da spisak nije potpun.</p>",
+        "en": "<h2>The kafanas of Skadarlija: where to sit</h2><p>🔵 Tri šešira (Three Hats) is the oldest kafana on the street still working, opened in 1864 in a former hatter's workshop, hence the name and the three tin hats on the sign. Live music every night.</p><p>🔵 Dva jelena (Two Deer) is the neighbour and eternal rival, open since 1867: big halls, an orchestra, walls covered with pictures of a century and a half of guests.</p><p>🔵 Ima dana is the youngest of the famous ones, opened in 1969; the old town song of the same name will be requested around you more than once.</p><p>🔵 Dva bela goluba, Šešir moj and Zlatni bokal have fewer tourists and the same genre: checked tablecloths, tamburica players, slow-cooked veal and wine by the carafe.</p><p>The chronicles of Skadarlija's kafanas mention Tito, Jimi Hendrix, George Bush senior and the chess champion Anatoly Karpov; guidebooks add kings and prime ministers. We cannot verify them all, but the photographs on the walls of Dva jelena suggest the list is incomplete.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Старогородская музыка: как это работает</h2><p>Музыка в кафане — не фон, а часть ужина. Играют старогородские песни (staro­gradska muzika) — городской романс конца XIX века, жанр между сербским фольклором и венским салоном. Оркестр — скрипка, гармонь, контрабас, часто тамбурица — ходит от стола к столу.</p><p>Правила простые:</p><p>🔵 Пока оркестр играет «в зал», это бесплатно — музыка входит в вечер.</p><p>🔵 Хотите свою песню — подзовите музыкантов и закажите «на увце» (буквально «на ушко»): оркестр играет для вашего стола. За это принято оставлять музыкантам деньги — сумма на ваше усмотрение, но пустая просьба считается дурным тоном.</p><p>🔵 Не знаете, что заказать, — попросите «Има дана» или «Ајде Јано»: их здесь играли тысячи раз и сыграют с удовольствием ещё раз.</p><p>🔵 Подпевать можно и нужно. Сербский застольный вокал — жанр коллективный, и через час вы в него вольётесь.</p>",
+        "sr": "<h2>Starogradska muzika: kako to funkcioniše</h2><p>Muzika u kafani nije pozadina nego deo večere. Svira se starogradska muzika — gradska romansa s kraja XIX veka. Orkestar ide od stola do stola.</p><p>🔵 Dok orkestar svira „u salu\", to je besplatno — muzika ide uz veče.</p><p>🔵 Hoćete svoju pesmu — naručite „na uvce\": orkestar svira za vaš sto, a muzičarima se ostavlja bakšiš. Iznos je stvar procene, ali prazna želja se smatra lošim manirima.</p><p>🔵 Ne znate šta biste — tražite „Ima dana\" ili „Ajde Jano\": svirali su ih hiljadu puta i rado će opet.</p><p>🔵 Pevanje uz orkestar je poželjno. Kafansko pevanje je kolektivni žanr.</p>",
+        "en": "<h2>Starogradska music: how it works</h2><p>Music in a kafana is part of the dinner, not background. The genre is starogradska muzika, urban romance songs from the late 19th century, somewhere between Serbian folk and a Viennese salon. The orchestra, violin, accordion, double bass and often a tamburica, moves from table to table.</p><p>The rules are simple:</p><p>🔵 While the orchestra plays for the whole room, it is free; music comes with the evening.</p><p>🔵 If you want your own song, call the musicians over and order it \"na uvce\" (literally \"into the ear\"): the orchestra plays for your table, and you are expected to tip them. The amount is up to you, but asking without tipping is considered bad form.</p><p>🔵 No idea what to request? Ask for \"Ima dana\" or \"Ajde Jano\": they have played them a thousand times and will happily play them again.</p><p>🔵 Singing along is welcome. Kafana singing is a collective genre, and within an hour you will join in.</p>"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "svirac",
+      "file": "svirac-u-prozoru.webp",
+      "alt": {
+        "ru": "Контрабасист в окне кафаны на Скадарлии",
+        "sr": "Kontrabasista u prozoru kafane na Skadarliji",
+        "en": "A double bass player in a kafana window in Skadarlija"
+      },
+      "caption": {
+        "ru": "Фото: Krumb77 / Wikimedia Commons, CC BY-SA 3.0",
+        "sr": "Foto: Krumb77 / Wikimedia Commons, CC BY-SA 3.0",
+        "en": "Photo: Krumb77 / Wikimedia Commons, CC BY-SA 3.0"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как спланировать вечер</h2><p>🔵 Кафанский вечер начинается часов в восемь и всерьёз расходится к десяти. Уходить раньше одиннадцати — значит уйти до лучшего.</p><p>🔵 На пятницу и субботу стол бронируйте за несколько дней, по телефону или на сайте кафаны. В будни проще, но музыка есть не везде и не всегда — уточняйте при брони.</p><p>🔵 Скадарлия дороже среднего белградского ресторана — это плата за адрес и оркестр. Точные цены смотрите в меню на сайтах кафан; строчки «музыка» в счёте не будет.</p><p>🔵 Из еды берите то, что готовится долго и пахнет дымом: телятину из сача, плескавицу, чевапи, на закуску — каймак и проју. Вегетарианцу выжить можно: гибаница, печёный перец, пребранац.</p><p>🔵 Дресс-кода нет: за соседними столами будут и костюмы, и джинсы.</p><p>🔵 Добираться просто: Скадарлия начинается в двух минутах ходьбы от площади Республики. Обратно ночью — такси или пешком по центру.</p><p>Кафана — самый короткий путь к сербскому «мераку», искусству неторопливого удовольствия. А если после Скадарлии захочется продолжения — концерты, фестивали и вечера старогородской музыки мы собираем в календаре Афиши.</p>",
+        "sr": "<h2>Kako isplanirati veče</h2><p>🔵 Kafansko veče počinje oko osam, a razgoreva se do deset. Otići pre jedanaest znači otići pre najboljeg.</p><p>🔵 Za petak i subotu rezervišite sto nekoliko dana ranije. Radnim danima je lakše, ali muziku proverite pri rezervaciji.</p><p>🔵 Skadarlija je skuplja od prosečnog beogradskog restorana — to je cena adrese i orkestra. Stavke „muzika\" u računu nema.</p><p>🔵 Od jela birajte ono što se dugo sprema: teletinu ispod sača, pljeskavicu, ćevape, uz kajmak i proju za početak.</p><p>🔵 Dres-koda nema: za susednim stolovima biće i odela i farmerki.</p><p>🔵 Skadarlija počinje na dva minuta hoda od Trga republike.</p><p>Kafana je najkraći put do meraka. A ako posle Skadarlije poželite nastavak — koncerte, festivale i večeri starogradske muzike skupljamo u kalendaru Afiše.</p>",
+        "en": "<h2>Planning your evening</h2><p>🔵 A kafana evening starts around eight and truly warms up by ten. Leaving before eleven means leaving before the best part.</p><p>🔵 Book a table several days ahead for Friday or Saturday, by phone or on the kafana's website. Weekdays are easier, but check whether there is music that night when you book.</p><p>🔵 Skadarlija costs more than an average Belgrade restaurant; that is the price of the address and the orchestra. Check menus on the kafanas' websites. There is no \"music\" line on the bill.</p><p>🔵 Order food that takes time and smoke: veal from the sač, pljeskavica, ćevapi, with kajmak and proja to start. Vegetarians survive well on gibanica, roasted peppers and prebranac.</p><p>🔵 There is no dress code: the next tables will hold both suits and jeans.</p><p>🔵 Getting there is easy: Skadarlija starts two minutes on foot from Republic Square.</p><p>A kafana is the shortest route to merak, the Serbian art of unhurried pleasure. And if one evening in Skadarlija leaves you wanting more, we collect concerts, festivals and starogradska music nights in the Afisha calendar.</p>"
+      }
+    }
+  ]
+}
