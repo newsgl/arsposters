@@ -1,0 +1,97 @@
+{
+  "title": {
+    "ru": "Классическая музыка в Белграде: Коларац, филармония и опера",
+    "sr": "Klasična muzika u Beogradu: Kolarac, filharmonija i opera",
+    "en": "Classical music in Belgrade: Kolarac, the Philharmonic and the opera"
+  },
+  "description": {
+    "ru": "<p>Классическая музыка — самый удобный жанр для жизни в чужой стране: ей не нужен переводчик. При этом в Белграде она ещё и удивительно доступна: билет в оперу здесь может стоить дешевле билета в кино, а на сцену Коларца приезжают музыканты, на которых в Вене или Лондоне билеты разбирают за месяцы. Рассказываем, как устроен концертный сезон, где искать программу и сколько это стоит.</p>",
+    "sr": "<p>Klasična muzika je najzgodniji žanr za život u stranoj zemlji: ne treba joj prevodilac. U Beogradu je uz to i iznenađujuće pristupačna — karta za operu ume da košta manje od bioskopske, a na scenu Kolarca dolaze muzičari za koje se u Beču ili Londonu ulaznice razgrabe mesecima unapred. Evo kako izgleda koncertna sezona, gde se traži program i koliko šta košta.</p>",
+    "en": "<p>Classical music is the most convenient genre for life in a foreign country: it needs no translator. In Belgrade it is also surprisingly affordable. An opera ticket here can cost less than a cinema ticket, and the Kolarac stage hosts musicians whose concerts in Vienna or London sell out months ahead. Here is how the concert season works, where to find the programme and what it costs.</p>"
+  },
+  "cover": {
+    "file": "classical-cover-filharmonija-kolarac.webp",
+    "alt": {
+      "ru": "Белградская филармония на сцене Большого зала Коларца",
+      "sr": "Beogradska filharmonija na sceni Velike dvorane Kolarca",
+      "en": "The Belgrade Philharmonic on the stage of the Kolarac Great Hall"
+    },
+    "caption": {
+      "ru": "Фото: Marko Đoković / Белградская филармония / Wikimedia Commons, CC BY-SA 4.0",
+      "sr": "Foto: Marko Đoković / Beogradska filharmonija / Wikimedia Commons, CC BY-SA 4.0",
+      "en": "Photo: Marko Đoković / Belgrade Philharmonic / Wikimedia Commons, CC BY-SA 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Главное о календаре: концертный сезон в Белграде живёт с октября по июнь, так что сейчас — самое время посмотреть программу и разобрать лучшие даты сезона 2026/27.</p><h2>Коларац: зал, построенный на завещание торговца</h2><p>История главного концертного зала города началась с человека, который не имел к музыке никакого отношения. Илья Милосавлевич Коларац (1800–1878) — белградский торговец, разбогатевший на своём деле и оставшийся без наследников. Всё состояние он завещал народному просвещению и культуре. На эти деньги в 1932 году построили здание Коларчева народного университета на Студенческом тргу — с большим концертным залом примерно на 1 200 мест, самым большим в тогдашнем Белграде. Первый концерт в Большом зале прошёл 4 февраля 1932 года, и с тех пор «Коларац» — синоним слов «классический концерт» в этом городе.</p><p>Зал ценят за акустику и демократичность: сюда ходят в джинсах и с детьми, а билеты на многие вечера стоят как две чашки кофе. Программа — на kolarac.rs; помимо больших вечеров, там регулярно идут камерные концерты и музыкальные циклы.</p>",
+        "sr": "<p>Najvažnije o kalendaru: koncertna sezona živi od oktobra do juna, pa je sada pravi trenutak da se pogleda program i rezervišu najbolji datumi sezone 2026/27.</p><h2>Kolarac: dvorana podignuta testamentom jednog trgovca</h2><p>Istorija glavne koncertne dvorane grada počela je čovekom koji s muzikom nije imao nikakve veze. Ilija Milosavljević Kolarac (1800–1878), beogradski trgovac bez naslednika, celokupnu imovinu zaveštao je prosveti i kulturi svog naroda. Tim novcem podignuta je 1932. zgrada Kolarčevog narodnog univerziteta na Studentskom trgu, sa velikom dvoranom od oko 1.200 mesta — najvećom u tadašnjem Beogradu. Prvi koncert u Velikoj dvorani održan je 4. februara 1932, i od tada je „Kolarac\" sinonim za klasični koncert u ovom gradu.</p><p>Dvorana se ceni zbog akustike i demokratičnosti: dolazi se i u farmerkama i sa decom, a ulaznice za mnoge večeri koštaju kao dve kafe. Program je na kolarac.rs.</p>",
+        "en": "<p>The key thing about the calendar: the concert season runs from October to June, so right now is the moment to browse the 2026/27 programme and pick the best dates.</p><h2>Kolarac: a hall built on a merchant's will</h2><p>The story of the city's main concert hall began with a man who had nothing to do with music. Ilija Milosavljević Kolarac (1800-1878) was a Belgrade merchant with no heirs who left his entire fortune to the education and culture of his people. That money built the Kolarac People's University building on Studentski Trg in 1932, with a great hall of about 1,200 seats, the largest in Belgrade at the time. The first concert in the Great Hall took place on 4 February 1932, and \"Kolarac\" has been a synonym for a classical concert in this city ever since.</p><p>The hall is loved for its acoustics and its lack of pretence: people come in jeans and with children, and tickets for many evenings cost as much as two coffees. The programme is at kolarac.rs.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Белградская филармония: сезон Fortissimo</h2><p>Белградская филармония дала первый концерт 13 июня 1923 года; за пультом стоял её основатель, композитор Стеван Христич. Через сто лет это главный оркестр страны, и его сезон — стержень музыкального года.</p><p>Сезон 2026/27 называется Fortissimo: 25 концертов с октября 2026-го по июнь 2027-го, все — в Большом зале Коларца. Из заявленных гостей сезона — пианист Ланг Ланг и дирижёр Зубин Мета; традиционные новогодние концерты — 24 и 25 декабря. Оркестр играет по пятницам в 20:00, программа сезона целиком выложена на bgf.rs.</p><p>Как покупать:</p><p>🔵 Онлайн — на bgf.rs, билеты электронные.</p><p>🔵 В кассе филармонии на Студенческом тргу, 11: будни с 10:00 до 20:00, суббота с 10:00 до 14:00.</p><p>🔵 Абонементы на сезон продаются летом: сначала продлевают свои пакеты прошлогодние абонентщики, потом остатки поступают в свободную продажу. Если хотите абонемент на 2027/28 — следите за анонсом в июне.</p><p>🔵 На концерты со звёздными гостями билеты уходят быстро; на обычные пятничные программы можно спокойно купить за неделю.</p>",
+        "sr": "<h2>Beogradska filharmonija: sezona Fortissimo</h2><p>Filharmonija je prvi koncert dala 13. juna 1923, pod upravom osnivača, kompozitora Stevana Hristića. Sto godina kasnije to je centralni orkestar zemlje, a njena sezona — kičma muzičke godine.</p><p>Sezona 2026/27 zove se Fortissimo: 25 koncerata od oktobra 2026. do juna 2027, svi u Velikoj dvorani Kolarca. Među najavljenim gostima su pijanista Lang Lang i dirigent Zubin Mehta; tradicionalni novogodišnji koncerti su 24. i 25. decembra. Orkestar svira petkom u 20:00, ceo program je na bgf.rs.</p><p>🔵 Onlajn kupovina — bgf.rs, ulaznice su elektronske.</p><p>🔵 Blagajna filharmonije, Studentski trg 11: radnim danima 10–20, subotom 10–14.</p><p>🔵 Pretplate se prodaju leti: prvo stari pretplatnici produžavaju pakete, ostatak ide u slobodnu prodaju. Za sezonu 2027/28 pratite najavu u junu.</p><p>🔵 Za koncerte sa zvezdama karte nestaju brzo; za obične petkove ima ih i nedelju dana ranije.</p>",
+        "en": "<h2>The Belgrade Philharmonic: season Fortissimo</h2><p>The Philharmonic gave its first concert on 13 June 1923, conducted by its founder, the composer Stevan Hristić. A century later it is the country's central orchestra, and its season is the spine of the musical year.</p><p>The 2026/27 season is called Fortissimo: 25 concerts from October 2026 to June 2027, all in the Great Hall of Kolarac. Announced guests include the pianist Lang Lang and the conductor Zubin Mehta; the traditional New Year concerts are on 24 and 25 December. The orchestra plays on Fridays at 8 pm, and the full programme is at bgf.rs.</p><p>🔵 Buy online at bgf.rs; tickets are electronic.</p><p>🔵 The Philharmonic box office is at Studentski Trg 11: weekdays 10 am to 8 pm, Saturdays 10 am to 2 pm.</p><p>🔵 Season subscriptions are sold in summer: existing subscribers renew first, the rest go on open sale. For 2027/28, watch for the announcement in June.</p><p>🔵 Concerts with star guests sell out fast; ordinary Friday programmes can be bought a week ahead without any hunting.</p>"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "kolarac",
+      "file": "kolarac-zgrada.webp",
+      "alt": {
+        "ru": "Здание Задужбины Илии М. Коларца на Студенческом тргу",
+        "sr": "Zgrada Zadužbine Ilije M. Kolarca na Studentskom trgu",
+        "en": "The Ilija M. Kolarac Endowment building on Studentski Trg"
+      },
+      "caption": {
+        "ru": "Фото: Zvonko / Wikimedia Commons, public domain",
+        "sr": "Foto: Zvonko / Wikimedia Commons, javno vlasništvo",
+        "en": "Photo: Zvonko / Wikimedia Commons, public domain"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Опера и балет: Народный театр</h2><p>Опера в Белграде живёт в здании Народного театра на площади Республики — того самого, с квадригой. Оперная и балетная труппы играют на большой сцене несколько раз в неделю; репертуар классический: «Кармен», «Травиата», «Тоска», «Лебединое озеро», «Щелкунчик» под Новый год.</p><p>Теперь о ценах, потому что в них главная новость. Обычный вечерний спектакль стоит от 300 динаров за шестую категорию мест до 2 000–2 500 за лучшие кресла партера. Даже премьеры — от 500 до 3 500 динаров. Дороже всего новогодние «Щелкунчик» и гала-концерт — до 6 000. Для сравнения: 300 динаров — это два-три евро, дешевле билета в кино. Слушать живой оркестр за эти деньги — белградская роскошь, о которой мало кто знает.</p><p>Билеты продаются онлайн на narodnopozoriste.rs (нужна регистрация) и в кассе театра; телефонных броней для частных лиц нет. Опера идёт на языке оригинала. Расписание публикуется помесячно — премьеры и заметные вводы мы добавляем в календарь Афиши.</p>",
+        "sr": "<h2>Opera i balet: Narodno pozorište</h2><p>Beogradska opera živi u zgradi Narodnog pozorišta na Trgu republike. Operski i baletski ansambl igraju na velikoj sceni nekoliko puta nedeljno; repertoar je klasičan: „Karmen\", „Travijata\", „Toska\", „Labudovo jezero\", „Krcko Oraščić\" pred Novu godinu.</p><p>Sada o cenama, jer je u njima glavna vest. Običan večernji naslov košta od 300 dinara za šestu kategoriju do 2.000–2.500 za najbolja mesta u parteru. Čak i premijere idu od 500 do 3.500. Najskuplji su novogodišnji „Krcko\" i gala koncert — do 6.000. Za 300 dinara slušati živ orkestar — beogradski luksuz za koji malo ko zna.</p><p>Ulaznice se kupuju onlajn na narodnopozoriste.rs (potrebna registracija) i na blagajni; telefonskih rezervacija za pojedince nema. Opera se izvodi na jeziku originala.</p>",
+        "en": "<h2>Opera and ballet: the National Theatre</h2><p>Belgrade's opera lives in the National Theatre building on Republic Square, the one with the quadriga on the roof. The opera and ballet companies perform on the main stage several times a week, and the repertoire is classic: Carmen, La Traviata, Tosca, Swan Lake, and The Nutcracker before New Year.</p><p>Now the prices, because they are the headline. A regular evening performance costs from 300 dinars for the sixth seating category to 2,000 or 2,500 for the best stalls. Even premieres run from 500 to 3,500 dinars. The most expensive nights are the New Year Nutcracker and the gala concert, up to 6,000. For perspective: 300 dinars is two to three euros, less than a cinema ticket. A live orchestra for that money is a Belgrade luxury few people know about.</p><p>Tickets are sold online at narodnopozoriste.rs (registration required) and at the theatre box office; there are no phone reservations for individuals. Operas are performed in the original language.</p>"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "pozoriste",
+      "file": "narodno-pozoriste.webp",
+      "alt": {
+        "ru": "Здание Народного театра на площади Республики",
+        "sr": "Zgrada Narodnog pozorišta na Trgu republike",
+        "en": "The National Theatre building on Republic Square"
+      },
+      "caption": {
+        "ru": "Фото: Михајло Анђелковић / Wikimedia Commons, CC BY-SA 3.0",
+        "sr": "Foto: Mihajlo Anđelković / Wikimedia Commons, CC BY-SA 3.0",
+        "en": "Photo: Mihajlo Anđelković / Wikimedia Commons, CC BY-SA 3.0"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Мадленианум, BEMUS и остальная карта</h2><p>🔵 Мадленианум в Земуне — первая частная опера в этой части Европы: её основала в 1998 году меценатка Мадлена Цептер и назвала собственным именем. Камерные оперные постановки, балет, мюзиклы и концерты в очень красивом зале; репертуар — на operatheatremadlenianum.com.</p><p>🔵 BEMUS — старейший музыкальный фестиваль Сербии, идёт с 1969 года. Каждую осень на несколько октябрьских недель в город съезжаются оркестры и солисты со всего мира; концерты проходят на Коларце, в Народном театре и не только.</p><p>🔵 Камерную музыку стоит искать также в зале Дома армии, галерее САНУ и белградских церквях — за этими площадками удобно следить через афиши Коларца и BEMUS.</p>",
+        "sr": "<h2>Madlenianum, BEMUS i ostatak mape</h2><p>🔵 Madlenianum u Zemunu — prva privatna opera u ovom delu Evrope, osnovala ju je 1998. Madlena Cepter i dala joj svoje ime. Kamerne operske produkcije, balet, mjuzikli; repertoar na operatheatremadlenianum.com.</p><p>🔵 BEMUS — najstariji muzički festival u Srbiji, traje od 1969. Svake jeseni, tokom oktobarskih nedelja, u grad dolaze orkestri i solisti iz celog sveta.</p><p>🔵 Kamernu muziku vredi tražiti i u Domu Vojske, galeriji SANU i beogradskim crkvama.</p>",
+        "en": "<h2>Madlenianum, BEMUS and the rest of the map</h2><p>🔵 Madlenianum in Zemun is the first private opera house in this part of Europe, founded in 1998 by the patron Madlena Zepter and named after her. Chamber opera productions, ballet, musicals and concerts in a beautiful hall; repertoire at operatheatremadlenianum.com.</p><p>🔵 BEMUS is Serbia's oldest music festival, running since 1969. Every autumn, for a few October weeks, orchestras and soloists from around the world come to the city.</p><p>🔵 Chamber music is also worth seeking out at the Army Hall, the SANU gallery and Belgrade's churches.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как собраться на концерт</h2><p>🔵 Строгого дресс-кода нет нигде, включая оперу: пиджак не обязателен, уместны и джинсы. Белградская публика одевается «по случаю», но никто не косится.</p><p>🔵 Опаздывать нельзя: после третьего звонка в зал Коларца и Народного театра не пускают до паузы. Приходите минут за пятнадцать.</p><p>🔵 С детьми — можно и нужно: у Коларца и филармонии есть детские и семейные программы, а «Щелкунчик» в декабре — самый детский спектакль года. На вечерние оперы детей до определённого возраста могут не пустить — уточняйте при покупке.</p><p>🔵 Программки в Народном театре и на Коларце скромные и дешёвые, часто с кратким содержанием — для оперы полезно.</p><p>🔵 Если хочется просто попробовать жанр — начните с пятничного концерта филармонии или камерного вечера на Коларце: программы недлинные, а билеты не приходится ловить.</p><p>Концерты классики, оперные премьеры и фестивальные афиши мы собираем в календаре Афиши — загляните туда перед тем, как планировать вечер: сезон 2026/27 обещает быть громким, название Fortissimo обязывает.</p>",
+        "sr": "<h2>Kako se spremiti za koncert</h2><p>🔵 Strogog dres-koda nema nigde, ni u operi: sako nije obavezan, farmerke su u redu.</p><p>🔵 Kašnjenje ne prolazi: posle trećeg zvona u salu se ne ulazi do pauze. Dođite petnaestak minuta ranije.</p><p>🔵 Sa decom — slobodno: Kolarac i filharmonija imaju dečje i porodične programe, a decembarski „Krcko Oraščić\" je najdečjija predstava godine. Za večernje opere proverite uzrasno ograničenje pri kupovini.</p><p>🔵 Za prvi susret sa žanrom najzgodniji su petkovi filharmonije ili kamerno veče na Kolarcu: programi nisu dugi, a karte se ne love.</p><p>Koncerte klasike, operske premijere i festivalske programe skupljamo u kalendaru Afiše — sezona 2026/27 obećava, ime Fortissimo obavezuje.</p>",
+        "en": "<h2>Getting ready for a concert</h2><p>🔵 There is no strict dress code anywhere, including the opera: a jacket is optional and jeans are fine.</p><p>🔵 Do not be late: after the third bell you will not be let into the hall until the interval. Arrive fifteen minutes early.</p><p>🔵 Bring children: Kolarac and the Philharmonic run family programmes, and the December Nutcracker is the most child-friendly show of the year. For evening operas, check the age limit when buying.</p><p>🔵 For a first taste of the genre, start with a Friday Philharmonic concert or a chamber evening at Kolarac: the programmes are not long and the tickets are easy to get.</p><p>We collect classical concerts, opera premieres and festival programmes in the Afisha calendar. The 2026/27 season promises to be loud; the name Fortissimo obliges.</p>"
+      }
+    }
+  ]
+}
