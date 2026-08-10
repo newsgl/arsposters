@@ -1,0 +1,133 @@
+{
+  "node_id": 475,
+  "title": {
+    "ru": "Продаём билеты на ваши события через Google",
+    "sr": "Prodajemo karte za vaše događaje preko Google pretrage",
+    "en": "We sell tickets to your events through Google search"
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "key": "intro",
+      "value": {
+        "ru": "<p><strong>Afisha.rs</strong> — полная афиша Белграда на трёх языках: русском, сербском и английском. У нас самая большая русскоязычная аудитория среди всех сайтов-афиш Сербии. Это люди, которые живут в Белграде и каждую неделю выбирают, куда пойти: на концерт, стендап, спектакль, фестиваль, лекцию или детское событие.</p><p>Публикация события в общей ленте бесплатна: пришлите анонс на <a href=\"mailto:info@afisha.rs\">info@afisha.rs</a>, и редакция добавит его на сайт. Если задача не «присутствовать», а продать билеты, для этого есть четыре платных формата.</p><h2>Поисковый трафик из Google на покупку билетов</h2><p>Главный формат и главное, что мы умеем. Мы выводим страницу вашего события на первые места в Google по запросам, которыми люди ищут билеты. Ниже реальные скриншоты выдачи по событиям, с которыми мы работали.</p>",
+        "sr": "<p><strong>Afisha.rs</strong> je kompletan spisak događaja u Beogradu na tri jezika: ruskom, srpskom i engleskom. Imamo najveću publiku koja govori ruski među svim sajtovima za događaje u Srbiji. To su ljudi koji žive u Beogradu i svake nedelje biraju kuda da izađu: na koncert, stend-ap, predstavu, festival, predavanje ili dečji događaj.</p><p>Objavljivanje događaja u opštem programu je besplatno: pošaljite najavu na <a href=\"mailto:info@afisha.rs\">info@afisha.rs</a> i redakcija će je dodati na sajt. Ako cilj nije samo prisustvo nego prodaja karata, postoje četiri plaćena formata.</p><h2>Poseta iz Google pretrage koja kupuje karte</h2><p>Glavni format i ono što radimo najbolje. Stranicu vašeg događaja dovodimo na prva mesta u Google pretrazi po upitima kojima ljudi traže karte. Ispod su stvarni snimci rezultata pretrage za događaje sa kojima smo radili.</p>",
+        "en": "<p><strong>Afisha.rs</strong> is a complete listing of Belgrade events in three languages: Russian, Serbian and English. We have the largest Russian-speaking audience among all event listing sites in Serbia. These are people who live in Belgrade and pick something to attend every week: concerts, stand-up, theatre, festivals, lectures and children's events.</p><p>Listing an event in the general feed is free: send the announcement to <a href=\"mailto:info@afisha.rs\">info@afisha.rs</a> and the editors will add it to the site. If the goal is not just to be listed but to sell tickets, there are four paid formats.</p><h2>Google search traffic for ticket sales</h2><p>Our main format and what we do best. We get your event's page to the top of Google results for the queries people type when they look for tickets. Below are real screenshots of search results for events we have worked with.</p>"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "monetochka",
+      "file": "monetochka.jpg",
+      "alt": {
+        "ru": "Выдача Google по запросу «монеточка белград»: afisha.rs на первом месте",
+        "sr": "Google rezultati za upit „монеточка белград\": afisha.rs na prvom mestu",
+        "en": "Google results for the query \"монеточка белград\": afisha.rs in first place"
+      },
+      "caption": {
+        "ru": "Запрос «монеточка белград»: карточка события на Afisha.rs первая, выше официального сайта артистки",
+        "sr": "Upit „монеточка белград\" (Monetočka Beograd): stranica događaja na Afisha.rs je prva, iznad zvaničnog sajta izvođačice",
+        "en": "Query \"монеточка белград\" (Monetochka Belgrade): the Afisha.rs event page is first, above the artist's official website"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "ahedzhakova",
+      "file": "ahedzhakova.jpg",
+      "alt": {
+        "ru": "Выдача Google по запросу «лия ахеджакова белград»: afisha.rs на первом месте",
+        "sr": "Google rezultati za upit „лия ахеджакова белград\": afisha.rs na prvom mestu",
+        "en": "Google results for the query \"лия ахеджакова белград\": afisha.rs in first place"
+      },
+      "caption": {
+        "ru": "Запрос «лия ахеджакова белград»: первое место, выше сайта организатора гастролей",
+        "sr": "Upit „лия ахеджакова белград\" (Lija Ahedžakova Beograd): prvo mesto, iznad sajta organizatora turneje",
+        "en": "Query \"лия ахеджакова белград\" (Liya Akhedzhakova Belgrade): first place, above the tour organizer's website"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "chuzhoi",
+      "file": "chuzhoi.jpg",
+      "alt": {
+        "ru": "Выдача Google по запросу «денис чужой белград»: afisha.rs на первом месте",
+        "sr": "Google rezultati za upit „денис чужой белград\": afisha.rs na prvom mestu",
+        "en": "Google results for the query \"денис чужой белград\": afisha.rs in first place"
+      },
+      "caption": {
+        "ru": "Запрос «денис чужой белград»: первое место, выше официального сайта артиста",
+        "sr": "Upit „денис чужой белград\" (Denis Čužoj Beograd): prvo mesto, iznad zvaničnog sajta izvođača",
+        "en": "Query \"денис чужой белград\" (Denis Chuzhoy Belgrade): first place, above the comedian's official website"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "mashkova",
+      "file": "mashkova.jpg",
+      "alt": {
+        "ru": "Выдача Google по запросу «мария машкова белград»: afisha.rs на первом месте",
+        "sr": "Google rezultati za upit „мария машкова белград\": afisha.rs na prvom mestu",
+        "en": "Google results for the query \"мария машкова белград\": afisha.rs in first place"
+      },
+      "caption": {
+        "ru": "Запрос «мария машкова белград»: первое место",
+        "sr": "Upit „мария машкова белград\" (Maša Maškova Beograd): prvo mesto",
+        "en": "Query \"мария машкова белград\" (Masha Mashkova Belgrade): first place"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "nezlob",
+      "file": "nezlob.jpg",
+      "alt": {
+        "ru": "Выдача Google по запросу «александр незлобин белград»: afisha.rs на первом и втором месте",
+        "sr": "Google rezultati za upit „александр незлобин белград\": afisha.rs na prvom i drugom mestu",
+        "en": "Google results for the query \"александр незлобин белград\": afisha.rs in first and second place"
+      },
+      "caption": {
+        "ru": "Запрос «александр незлобин белград»: первое и второе место занимают две наши страницы",
+        "sr": "Upit „александр незлобин белград\" (Aleksandar Nezlobin Beograd): prvo i drugo mesto drže dve naše stranice",
+        "en": "Query \"александр незлобин белград\" (Alexander Nezlobin Belgrade): two of our pages hold first and second place"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "sbpc",
+      "file": "sbpc.jpg",
+      "alt": {
+        "ru": "Выдача Google по запросу «самое большое простое число белград»: afisha.rs на первом месте",
+        "sr": "Google rezultati za upit „самое большое простое число белград\": afisha.rs na prvom mestu",
+        "en": "Google results for the query \"самое большое простое число белград\": afisha.rs in first place"
+      },
+      "caption": {
+        "ru": "Запрос «самое большое простое число белград»: первое место, выше блока ответа нейросети",
+        "sr": "Upit „самое большое простое число белград\" (SBPČ Beograd): prvo mesto, iznad bloka sa AI odgovorom",
+        "en": "Query \"самое большое простое число белград\" (SBPCh Belgrade): first place, above the AI answer block"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "ai-overview",
+      "file": "ai-overview-ptvp.jpg",
+      "alt": {
+        "ru": "Выдача Google по запросу «последние танки в париже белград»: afisha.rs на первых двух местах, карточка цитируется в AI Overview",
+        "sr": "Google rezultati za upit „последние танки в париже белград\": afisha.rs na prve dve pozicije, stranica citirana u AI Overview",
+        "en": "Google results for the query \"последние танки в париже белград\": afisha.rs in the top two positions, cited by the AI Overview"
+      },
+      "caption": {
+        "ru": "Запрос «последние танки в париже белград»: первые две позиции, а Google AI Overview собирает ответ по нашей карточке",
+        "sr": "Upit „последние танки в париже белград\" (Poslednie tanki v Pariže Beograd): prve dve pozicije, a Google AI Overview svoj odgovor sastavlja na osnovu naše stranice",
+        "en": "Query \"последние танки в париже белград\" (Poslednie Tanki v Parizhe Belgrade): the top two positions, and Google AI Overview builds its answer from our page"
+      }
+    },
+    {
+      "bundle": "text",
+      "key": "body",
+      "value": {
+        "ru": "<p>Последний скриншот отдельно важен: Google всё чаще отвечает на запросы готовой сводкой от нейросети, и источником этой сводки становятся наши страницы. Ваше событие попадает и в классическую выдачу, и в ответы ИИ.</p><p>Человек, который вводит в Google название артиста и город, уже решил пойти. Ему не нужна реклама, ему нужна ссылка на покупку. По первой органической позиции кликают чаще, чем по рекламному блоку над ней: рекламу пользователи узнают и пролистывают. И если контекстная реклама списывает деньги за каждый клик до самого дня события, то органическая позиция, один раз занятая, работает бесплатно. Поэтому вывод страницы события в топ стоит организатору дешевле, чем кампания в Google Ads, а трафика даёт больше.</p><p>Важно про сроки: поисковое продвижение требует времени. Чем раньше вы приходите с событием, тем прочнее страница успевает закрепиться в выдаче к началу продаж.</p><h2>Верхний баннер</h2><p>Слайдер в самой верхней части главной страницы. Это первое, что видит каждый посетитель сайта, ещё до ленты событий. Баннер ведёт напрямую на страницу вашего события с кнопкой покупки билетов.</p><h2>«Выбор Афиши»</h2><p>Редакторская подборка лучших событий города. Она выводится отдельным блоком на главной странице и на собственной странице подборки. Карточки «Выбора» крупнее обычных, и читатели относятся к ним как к рекомендации редакции, а не как к объявлению.</p><h2>«Афиша рекомендует»</h2><p>Раздел статей о жизни города. Здесь выходят партнёрские материалы: развёрнутый рассказ о вашем событии, площадке или проекте на трёх языках. В отличие от баннера, статья не исчезает после даты события. Она остаётся на сайте, продолжает собирать поисковый трафик и работает на ваш бренд месяцами.</p><h2>Как заказать</h2><p>Цены — от 149 €. Точная стоимость зависит от формата, события и задачи.</p><p>Напишите на <a href=\"mailto:afishaserbia@gmail.com\">afishaserbia@gmail.com</a> или в телеграм <a href=\"https://t.me/StanislavLeo\">@StanislavLeo</a>: что за событие, когда оно проходит и какая цель стоит. Ответим с конкретным предложением по форматам и ценам в течение 8 рабочих часов.</p><p>Бесплатное размещение анонсов — <a href=\"mailto:info@afisha.rs\">info@afisha.rs</a>.<br>Телеграм-канал — <a href=\"https://t.me/afishars\">t.me/afishars</a>.</p>",
+        "sr": "<p>Poslednji snimak je posebno važan. Google sve češće odgovara na upite gotovim AI sažetkom, a izvor tog sažetka su naše stranice. Vaš događaj se pojavljuje i u klasičnim rezultatima i u AI odgovorima.</p><p>Čovek koji u Google ukuca ime izvođača i grad već je odlučio da ide. Njemu ne treba reklama, treba mu link za kupovinu. Na prvi organski rezultat klikće se češće nego na reklamni blok iznad njega: korisnici prepoznaju reklame i preskaču ih. Plaćeni oglasi naplaćuju svaki klik do samog dana događaja, dok jednom zauzeta organska pozicija radi besplatno. Zato dovođenje stranice događaja na vrh pretrage organizatora košta manje od Google Ads kampanje, a donosi više poseta.</p><p>Napomena o rokovima: pozicioniranje u pretrazi traži vreme. Što ranije dođete sa događajem, to se stranica pre učvrsti u rezultatima pre početka prodaje karata.</p><h2>Gornji baner</h2><p>Slajder na samom vrhu početne strane. To je prvo što vidi svaki posetilac sajta, pre liste događaja. Baner vodi direktno na stranicu vašeg događaja sa dugmetom za kupovinu karata.</p><h2>Izbor „Afiše\"</h2><p>Urednički izbor najboljih događaja u gradu. Prikazuje se kao poseban blok na početnoj strani i na sopstvenoj stranici. Kartice „Izbora\" su veće od običnih i čitaoci ih doživljavaju kao preporuku redakcije, a ne kao oglas.</p><h2>Afiša preporučuje</h2><p>Rubrika tekstova o životu grada. Tu izlaze partnerski materijali: detaljna priča o vašem događaju, prostoru ili projektu na tri jezika. Za razliku od banera, tekst ne nestaje posle datuma događaja. Ostaje na sajtu, i dalje skuplja posete iz pretrage i mesecima radi za vaš brend.</p><h2>Kako naručiti</h2><p>Cene su od 149 €. Tačna cena zavisi od formata, događaja i cilja.</p><p>Pišite na <a href=\"mailto:afishaserbia@gmail.com\">afishaserbia@gmail.com</a> ili na Telegram <a href=\"https://t.me/StanislavLeo\">@StanislavLeo</a>: koji je događaj, kada se održava i šta želite da postignete. Odgovorićemo konkretnom ponudom formata i cena u roku od 8 radnih sati.</p><p>Besplatno objavljivanje najava: <a href=\"mailto:info@afisha.rs\">info@afisha.rs</a>.<br>Telegram kanal: <a href=\"https://t.me/afishars\">t.me/afishars</a>.</p>",
+        "en": "<p>The last screenshot matters on its own. Google increasingly answers queries with an AI-generated summary, and our pages are the source it builds from. Your event gets into both the classic results and the AI answers.</p><p>A person who types an artist's name and a city into Google has already decided to go. They do not need convincing, they need a link to buy. The first organic result gets more clicks than the ad block above it: users recognize ads and scroll past. Paid search ads charge for every click until the day of the event, while an organic position, once taken, keeps working for free. Getting an event page to the top therefore costs an organizer less than a Google Ads campaign and brings more traffic.</p><p>A note on timing: search promotion takes time. The earlier you bring us the event, the more firmly the page settles in the results before ticket sales begin.</p><h2>Top banner</h2><p>The slider at the very top of the homepage. It is the first thing every visitor sees, before the event feed. The banner leads directly to your event page with the ticket button.</p><h2>Afisha's Choice</h2><p>The editors' selection of the best events in the city. It appears as a separate block on the homepage and on its own page. Choice cards are larger than regular ones, and readers treat them as an editorial recommendation rather than an ad.</p><h2>Afisha Recommends</h2><p>A section with articles about city life. This is where partner materials are published: a detailed story about your event, venue or project in three languages. Unlike a banner, an article does not disappear after the event date. It stays on the site, keeps collecting search traffic and works for your brand for months.</p><h2>How to order</h2><p>Prices start at 149 €. The exact cost depends on the format, the event and the goal.</p><p>Write to <a href=\"mailto:afishaserbia@gmail.com\">afishaserbia@gmail.com</a> or on Telegram <a href=\"https://t.me/StanislavLeo\">@StanislavLeo</a>: what the event is, when it takes place and what you want to achieve. We will reply with a specific proposal on formats and prices within 8 working hours.</p><p>Free event announcements: <a href=\"mailto:info@afisha.rs\">info@afisha.rs</a>.<br>Telegram channel: <a href=\"https://t.me/afishars\">t.me/afishars</a>.</p>"
+      }
+    }
+  ]
+}
