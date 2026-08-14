@@ -1,0 +1,97 @@
+{
+  "title": {
+    "ru": "Концертные площадки Белграда: гид по залам, клубам и open-air",
+    "sr": "Koncertne scene Beograda: vodič kroz dvorane, klubove i open-air",
+    "en": "Belgrade concert venues: a guide to the halls, clubs and open-air stages"
+  },
+  "description": {
+    "ru": "<p>В Белграде почти каждый вечер где-то играет живая музыка, и главный вопрос обычно не «идти ли», а «куда именно». Ответ сильно зависит от зала: одна и та же афиша звучит по-разному на арене на восемнадцать тысяч человек и в клубе на сто пятьдесят. Мы собрали главные концертные адреса города — от стадионных шоу до дворов с маленькими сценами — с историями, за которые эти площадки любят. У каждой из них есть своя страница в нашем справочнике: по ссылкам — актуальные события.</p>",
+    "sr": "<p>U Beogradu skoro svako veče negde svira živa muzika, pa glavno pitanje obično nije „da li ići\", nego „gde tačno\". A odgovor mnogo zavisi od sale: isti program zvuči potpuno različito u areni za osamnaest hiljada ljudi i u klubu za sto pedeset. Sakupili smo glavne koncertne adrese grada — od stadionskih spektakala do dvorišta sa malim binama — sa pričama zbog kojih se te scene vole. Svaka ima svoju stranicu u našem imeniku: na linkovima su aktuelni događaji.</p>",
+    "en": "<p>Live music plays somewhere in Belgrade almost every night, so the real question is usually not whether to go out but where exactly. The answer depends a lot on the room: the same lineup sounds completely different in an arena for eighteen thousand people and in a club for a hundred and fifty. Here are the city's main concert addresses, from stadium shows to courtyards with tiny stages, with the stories these venues are loved for. Each one has its own page in our venue directory: follow the links for current events.</p>"
+  },
+  "cover": {
+    "file": "venues-cover-arena.webp",
+    "alt": {
+      "ru": "Зал Белградской арены со сценой перед шоу",
+      "sr": "Sala Beogradske arene sa binom pred šou",
+      "en": "The Belgrade Arena hall with a stage before a show"
+    },
+    "caption": {
+      "ru": "Фото: Jovan Marković / Wikimedia Commons, CC BY 2.0",
+      "sr": "Foto: Jovan Marković / Wikimedia Commons, CC BY 2.0",
+      "en": "Photo: Jovan Marković / Wikimedia Commons, CC BY 2.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Ориентироваться проще всего по калибру: звёзды мировых туров играют на арене и открытых пространствах, всё «среднее» живёт в трёх больших залах, а самое интересное в клубной жизни происходит на маленьких сценах в центре.</p><h2>Арена и open-air: стадионный калибр</h2><p>🔵 <a href=\"/ru/venue/beogradska-arena\">Белградская арена</a> на Новом Белграде — самый большой зал страны, около 18 тысяч мест. Здесь проходят мировые туры, Евролига и главные шоу года; до 2024-го зал назывался «Штарк-ареной», и в городе это имя ещё в ходу. Кстати, о том, как попасть здесь на баскетбольное дерби, у нас есть <a href=\"/ru/recommend/kak-popast-na-matc-crveny-zvezdy-ili-partizana-gid-po-biletam-ru654\">отдельный гид</a>.</p><p>🔵 <a href=\"/ru/venues/usce-park\">Парк Ушче</a> — главная открытая площадка Белграда: тут ставят сцены для больших фестивалей и концертов под открытым небом, от Beer Fest до стадионных гастролёров, которым не хватило крыши.</p>",
+        "sr": "<p>Najlakše je orijentisati se po kalibru: svetske turneje idu u arenu i na otvorene prostore, sve „srednje\" živi u tri velike dvorane, a najzanimljiviji deo klupskog života dešava se na malim scenama u centru.</p><h2>Arena i open-air: stadionski kalibar</h2><p>🔵 <a href=\"/sr/venue/beogradska-arena\">Beogradska arena</a> na Novom Beogradu — najveća dvorana u zemlji, oko 18.000 mesta: svetske turneje, Evroliga i najveći spektakli godine. Do 2024. zvala se Štark arena i grad je još zove tako. Kako se ovde dolazi na košarkaški derbi — u našem <a href=\"/sr/recommend/kako-do-ulaznice-za-zvezdu-ili-partizan-vodic-kroz-karte-sr654\">vodiču kroz karte</a>.</p><p>🔵 <a href=\"/sr/venues/usce-park\">Park Ušće</a> — glavna otvorena scena grada: veliki festivali i koncerti pod vedrim nebom, od Beer Festa do zvezda kojima krov nije dovoljan.</p>",
+        "en": "<p>The easiest way to navigate is by calibre: world tours play the arena and the open-air spaces, everything mid-sized lives in three big halls, and the most interesting club life happens on small stages in the centre.</p><h2>The arena and open-air: stadium calibre</h2><p>🔵 The <a href=\"/en/venue/beogradska-arena\">Belgrade Arena</a> in Novi Beograd is the country's biggest hall, around 18,000 seats: world tours, EuroLeague basketball and the largest shows of the year. Until 2024 it was called Štark Arena, and the city still uses that name. For how to get into the basketball derby here, see our <a href=\"/en/recommend/how-to-get-tickets-for-crvena-zvezda-or-partizan-a-belgrade-matchday-g-en654\">match ticket guide</a>.</p><p>🔵 <a href=\"/en/venues/usce-park\">Ušće Park</a> is the city's main open-air ground: big festivals and outdoor concerts, from Beer Fest to touring stars who need more space than any roof can offer.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Большие залы: три очень разные истории</h2><p>🔵 <a href=\"/ru/venue/sava-centar\">Сава-центр</a> на Новом Белграде — крупнейший концертный зал Сербии: после реконструкции за 120 миллионов евро его Синий зал вмещает 4 050 зрителей. Открывали обновлённый зал 3 сентября 2023 года концертом Здравко Чолича — и с тех пор афиша не пустует: сюда привозят всё, от симфонических программ до больших эстрадных имён.</p><p>🔵 <a href=\"/ru/venue/mts-dvorana\">MTS Dvorana</a> на Дечанской — зал с самой богатой биографией в городе. Он открылся в 1957 году как Дом синдиката, в семидесятые его звали «белградской Олимпией»: именно здесь в 1971-м прошёл первый кинофестиваль FEST и первый джазовый «Ньюпорт в Белграде» — тот самый, где играли Дюк Эллингтон и Майлз Дэвис. После реконструкции в зале 1 300 мест и отличный звук; репертуар — от рок-концертов до русскоязычного стендапа.</p><p>🔵 <a href=\"/ru/venue/zaduzbina-ilije-m-kolarca\">Задужбина Илии М. Коларца</a> на Студенческом тргу — дом классической музыки с 1932 года, зал на 1 200 мест со знаменитой акустикой. Про Коларац, филармонию и оперу у нас есть <a href=\"/ru/recommend/klassiceskaa-muzyka-v-belgrade-kolarac-filarmonia-i-opera-ru656\">отдельная статья</a>.</p>",
+        "sr": "<h2>Velike dvorane: tri vrlo različite priče</h2><p>🔵 <a href=\"/sr/venue/sava-centar\">Sava centar</a> — najveća koncertna dvorana Srbije: posle rekonstrukcije od 120 miliona evra Plava dvorana prima 4.050 gledalaca. Obnovljena sala otvorena je 3. septembra 2023. koncertom Zdravka Čolića i od tada program ne staje.</p><p>🔵 <a href=\"/sr/venue/mts-dvorana\">MTS Dvorana</a> u Dečanskoj — sala sa najbogatijom biografijom u gradu. Otvorena 1957. kao Dom sindikata, sedamdesetih je zvana „beogradska Olimpija\": tu su 1971. održani prvi FEST i prvi džez festival „Njuport u Beogradu\" — onaj na kome su svirali Djuk Elington i Majls Dejvis. Posle rekonstrukcije ima 1.300 mesta i odličan zvuk.</p><p>🔵 <a href=\"/sr/venue/zaduzbina-ilije-m-kolarca\">Zadužbina Ilije M. Kolarca</a> na Studentskom trgu — dom klasične muzike od 1932, sala sa 1.200 mesta i čuvenom akustikom. O Kolarcu, filharmoniji i operi imamo <a href=\"/sr/recommend/klasicna-muzika-u-beogradu-kolarac-filharmonija-i-opera-sr656\">poseban tekst</a>.</p>",
+        "en": "<h2>The big halls: three very different stories</h2><p>🔵 <a href=\"/en/venue/sava-centar\">Sava Centar</a> is Serbia's largest concert hall: after a 120 million euro reconstruction its Blue Hall seats 4,050. The renovated hall reopened on 3 September 2023 with a concert by Zdravko Čolić, and the programme has not paused since.</p><p>🔵 <a href=\"/en/venue/mts-dvorana\">MTS Dvorana</a> on Dečanska has the richest biography in town. It opened in 1957 as Dom Sindikata, was nicknamed \"Belgrade's Olympia\" in the seventies, and hosted both the first FEST film festival and the first \"Newport in Belgrade\" jazz festival in 1971, the one where Duke Ellington and Miles Davis played. After reconstruction it seats 1,300 and sounds excellent.</p><p>🔵 The <a href=\"/en/venue/zaduzbina-ilije-m-kolarca\">Ilija M. Kolarac Endowment</a> on Studentski Trg has been the home of classical music since 1932: a 1,200 seat hall with famous acoustics. We have a <a href=\"/en/recommend/classical-music-in-belgrade-kolarac-the-philharmonic-and-the-opera-en656\">separate article</a> about Kolarac, the Philharmonic and the opera.</p>"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "plava",
+      "file": "sava-centar-plava-sala.webp",
+      "alt": {
+        "ru": "Синий зал Сава-центра после реконструкции",
+        "sr": "Plava sala Sava centra posle rekonstrukcije",
+        "en": "The Blue Hall of Sava Centar after reconstruction"
+      },
+      "caption": {
+        "ru": "Фото: Sadko / Wikimedia Commons, CC BY 4.0",
+        "sr": "Foto: Sadko / Wikimedia Commons, CC BY 4.0",
+        "en": "Photo: Sadko / Wikimedia Commons, CC BY 4.0"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Средний калибр: залы с характером</h2><p>🔵 <a href=\"/ru/venues/dom-omladine-beograda\">Дом молодёжи</a> на Македонской — городская институция: концерты, лекции, кинопоказы и главная джазовая сцена страны — каждый ноябрь именно Дом молодёжи принимает Белградский джазовый фестиваль.</p><p>🔵 <a href=\"/ru/venue/dorcol-platz\">Dorćol Platz</a> на Дорчоле — бывший склад, ставший одной из любимых альтернативных сцен города: инди, электроника, металл, фестивали поменьше.</p><p>🔵 <a href=\"/ru/venues/barutana\">Barutana</a> — пороховой погреб XVIII века в нижнем городе Калемегданской крепости, летом работающий как open-air амфитеатр. Концерт в крепостном рву на закате — одно из самых красивых музыкальных впечатлений Белграда.</p><p>🔵 <a href=\"/ru/venue/kc-grad\">KC Grad</a> в Савамале — культурный центр в старом складе у реки: небольшие концерты, выставки и вечеринки, много лет держит марку места, где «что-то происходит».</p>",
+        "sr": "<h2>Srednji kalibar: sale sa karakterom</h2><p>🔵 <a href=\"/sr/venues/dom-omladine-beograda\">Dom omladine</a> u Makedonskoj — gradska institucija: koncerti, tribine, projekcije i glavna džez scena zemlje — svakog novembra baš Dom omladine prima Beogradski džez festival.</p><p>🔵 <a href=\"/sr/venue/dorcol-platz\">Dorćol Platz</a> — nekadašnji magacin koji je postao jedna od omiljenih alternativnih scena grada: indi, elektronika, metal, manji festivali.</p><p>🔵 <a href=\"/sr/venues/barutana\">Barutana</a> — barutni magacin iz XVIII veka u Donjem gradu Kalemegdana, leti open-air amfiteatar. Koncert u tvrđavskom rovu u sumrak jedno je od najlepših muzičkih iskustava Beograda.</p><p>🔵 <a href=\"/sr/venue/kc-grad\">KC Grad</a> u Savamali — kulturni centar u starom skladištu kraj reke: mali koncerti, izložbe, žurke.</p>",
+        "en": "<h2>Mid-sized: halls with character</h2><p>🔵 <a href=\"/en/venues/dom-omladine-beograda\">Dom Omladine</a> on Makedonska is a city institution: concerts, talks, screenings and the country's main jazz stage. Every November it hosts the Belgrade Jazz Festival.</p><p>🔵 <a href=\"/en/venue/dorcol-platz\">Dorćol Platz</a> is a former warehouse turned into one of the city's favourite alternative stages: indie, electronic, metal, smaller festivals.</p><p>🔵 <a href=\"/en/venues/barutana\">Barutana</a> is an 18th century gunpowder magazine in the lower town of the Kalemegdan fortress, working as an open-air amphitheatre in summer. A concert in the fortress moat at dusk is one of Belgrade's most beautiful musical experiences.</p><p>🔵 <a href=\"/en/venue/kc-grad\">KC Grad</a> in Savamala is a cultural centre in an old riverside warehouse: small gigs, exhibitions and parties.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Клубы: там, где начинается настоящий Белград</h2><p>🔵 Двор <a href=\"/ru/venues/polet\">«Полета»</a> на Цетиньской, 15 — территория бывшей пивоварни, которая превратилась в целый квартал маленьких сцен и баров. Вечером пятницы здесь можно перемещаться между тремя концертами, не выходя из двора.</p><p>🔵 <a href=\"/ru/venues/elektropionir\">Elektropionir</a> на Дечанской — клубная сцена, где соседствуют гитарные концерты, электроника и танцевальные вечера.</p><p>🔵 <a href=\"/ru/venues/klub-under\">Klub Under</a> на Рузвельтовой — подвал в лучшем смысле слова: панк, дарквейв, пост-панк и всё тёмное и гитарное.</p><p>🔵 <a href=\"/ru/venue/zappa-baza\">Zappa Baza</a> у Небойшиной башни и её плавучая сестра <a href=\"/ru/venue/zappa-barka\">Zappa Barka</a> — два зала одной команды у подножия Калемегдана. Здесь чаще всего играют русскоязычные артисты, приезжающие в Белград, — от инди-групп до больших сольников.</p>",
+        "sr": "<h2>Klubovi: tu počinje pravi Beograd</h2><p>🔵 Dvorište <a href=\"/sr/venues/polet\">Poleta</a> u Cetinjskoj 15 — kompleks stare pivare pretvoren u čitav kvart malih bina i barova. Petkom uveče možete menjati tri koncerta ne izlazeći iz dvorišta.</p><p>🔵 <a href=\"/sr/venues/elektropionir\">Elektropionir</a> u Dečanskoj — klupska scena gde se smenjuju gitarski koncerti, elektronika i igranke.</p><p>🔵 <a href=\"/sr/venues/klub-under\">Klub Under</a> na Ruzveltovoj — podrum u najboljem smislu reči: pank, darkvejv, post-pank.</p><p>🔵 <a href=\"/sr/venue/zappa-baza\">Zappa Baza</a> kod Kule Nebojše i njena ploveća sestra <a href=\"/sr/venue/zappa-barka\">Zappa Barka</a> — dve scene iste ekipe u podnožju Kalemegdana; tu najčešće sviraju ruskojezični izvođači u Beogradu.</p>",
+        "en": "<h2>The clubs: where the real Belgrade begins</h2><p>🔵 The courtyard of <a href=\"/en/venues/polet\">Polet</a> at Cetinjska 15 is an old brewery complex turned into a whole quarter of small stages and bars. On a Friday night you can move between three concerts without leaving the yard.</p><p>🔵 <a href=\"/en/venues/elektropionir\">Elektropionir</a> on Dečanska is a club stage that alternates guitar gigs, electronic nights and dance parties.</p><p>🔵 <a href=\"/en/venues/klub-under\">Klub Under</a> on Ruzveltova is a basement in the best sense of the word: punk, darkwave and post-punk.</p><p>🔵 <a href=\"/en/venue/zappa-baza\">Zappa Baza</a> by the Nebojša Tower and its floating sister <a href=\"/en/venue/zappa-barka\">Zappa Barka</a> are two stages run by the same crew at the foot of Kalemegdan; this is where Russian-language artists visiting Belgrade play most often.</p>"
+      }
+    },
+    {
+      "bundle": "image",
+      "key": "kula",
+      "file": "kula-cetinjska.webp",
+      "alt": {
+        "ru": "Башня старой пивоварни с часами на Цетиньской, 15",
+        "sr": "Kula stare pivare sa satom u Cetinjskoj 15",
+        "en": "The old brewery clock tower at Cetinjska 15"
+      },
+      "caption": {
+        "ru": "Башня пивоварни BIP над двором Цетиньской, 15 — теперь внизу клубы и бары. Фото: Александр Сигачёв / Wikimedia Commons, CC0",
+        "sr": "Kula pivare BIP iznad dvorišta Cetinjske 15 — dole su sada klubovi i barovi. Foto: Aleksandr Sigačov / Wikimedia Commons, CC0",
+        "en": "The BIP brewery tower above the Cetinjska 15 courtyard, now home to clubs and bars. Photo: Aleksandr Sigachev / Wikimedia Commons, CC0"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как выбрать вечер и не промахнуться</h2><p>🔵 Расписание каждой площадки живёт на её странице в нашем справочнике — ссылки выше. Билетная ссылка всегда есть в карточке события: мы проверяем её при публикации.</p><p>🔵 На арену и в Сава-центр билеты покупайте заранее, особенно на гастролёров: цены растут от партера к сцене, а лучшие места уходят в первые дни продаж.</p><p>🔵 В клубах всё проще: билет на входе или по предпродаже за пару сотен динаров, начало «после восьми» на деле означает девять.</p><p>🔵 Летом смотрите open-air: Barutana, Ушче и десятки разовых площадок — сезон под открытым небом в Белграде длится с мая по сентябрь.</p><p>🔵 Не знаете, с чего начать, — откройте раздел «Концерты» в календаре Афиши и выберите зал по настроению: этот гид подскажет, чего ждать от адреса на билете.</p><p>Новые события на всех этих сценах мы добавляем в календарь ежедневно — а если у площадки появится новая страница, этот гид пополнится.</p>",
+        "sr": "<h2>Kako izabrati veče</h2><p>🔵 Raspored svake scene živi na njenoj stranici u imeniku — linkovi su gore; link za karte uvek stoji u kartici događaja.</p><p>🔵 Za arenu i Sava centar karte kupujte ranije: najbolja mesta odu prvih dana prodaje.</p><p>🔵 U klubovima je prostije: karta na ulazu ili u pretprodaji za par stotina dinara, a „posle osam\" u praksi znači devet.</p><p>🔵 Leti gledajte open-air: Barutana, Ušće i desetine povremenih scena — sezona pod vedrim nebom traje od maja do septembra.</p><p>Nove događaje na svim ovim scenama dodajemo u kalendar Afiše svakodnevno.</p>",
+        "en": "<h2>Picking your night</h2><p>🔵 Each venue's schedule lives on its directory page, linked above; the ticket link is always in the event card.</p><p>🔵 For the arena and Sava Centar, buy early: the best seats go in the first days of sale.</p><p>🔵 Clubs are simpler: a ticket at the door or a presale for a couple of hundred dinars, and \"doors at eight\" in practice means nine.</p><p>🔵 In summer, watch the open-air listings: Barutana, Ušće and dozens of pop-up stages. The outdoor season in Belgrade runs from May to September.</p><p>We add new events on all these stages to the Afisha calendar daily.</p>"
+      }
+    }
+  ]
+}
