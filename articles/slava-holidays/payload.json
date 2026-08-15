@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Слава, два Рождества и другие сербские праздники: как их отмечает город",
+    "sr": "Slava, dva Božića i ostali praznici: kako ih grad slavi",
+    "en": "Slava, two Christmases and other Serbian holidays: how the city celebrates"
+  },
+  "description": {
+    "ru": "<p>Сербский праздничный календарь для приезжего полон сюрпризов: Рождество здесь в январе, Новый год празднуют дважды, а самый важный семейный праздник — вовсе не день рождения. Разбираем главные местные традиции и то, как они меняют жизнь города: что закрыто, что происходит на улицах и к чему готовиться.</p>",
+    "sr": "<p>Srpski praznični kalendar pun je iznenađenja za došljaka: Božić je u januaru, Nova godina se slavi dvaput, a najvažniji porodični praznik uopšte nije rođendan. Prolazimo kroz glavne tradicije i kroz to kako one menjaju život grada.</p>",
+    "en": "<p>The Serbian holiday calendar is full of surprises for a newcomer: Christmas falls in January, New Year is celebrated twice, and the most important family holiday is not a birthday at all. Here are the main local traditions and how they change the life of the city.</p>"
+  },
+  "cover": {
+    "file": "slava-cover-kolac.webp",
+    "alt": {
+      "ru": "Руки семьи держат славский колач",
+      "sr": "Ruke porodice drže slavski kolač",
+      "en": "Family hands holding the slava kolač bread"
+    },
+    "caption": {
+      "ru": "Славский колач ломают всей семьёй. Фото: Beznadje / Wikimedia Commons, CC BY-SA 4.0",
+      "sr": "Slavski kolač se lomi cijelom porodicom. Foto: Beznadje / Wikimedia Commons, CC BY-SA 4.0",
+      "en": "The slava kolač is broken by the whole family. Photo: Beznadje / Wikimedia Commons, CC BY-SA 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Практические расписания к конкретным датам мы делаем отдельными материалами — например, про <a href=\"/ru/recommend/prazdniki-i-nerabocie-dni-v-serbii-do-konca-2026-goda-cto-zakryto-cto--ru653\">нерабочие дни до конца 2026 года</a>. Здесь — о сути традиций.</p><h2>Слава: главный праздник, которого нет в календаре</h2><p>Слава — день святого покровителя семьи, передающийся по мужской линии из поколения в поколение. У каждой семьи свой святой и своя дата; самая массовая — Никольдан, день Святого Николы 19 декабря, когда «пола Србије слави» — празднует полстраны. С 2014 года слава включена в список нематериального культурного наследия ЮНЕСКО.</p><p>Для города это означает: в чей-то славский день маленькие семейные магазины и кафаны могут не открыться, а записка «Славимо славу» на дверях — обычное дело. Если вас позвали на славу — это честь: приносят вино или мелкий подарок, за столом будут жито, славский колач и очень много еды.</p>",
+        "sr": "<p>Praktične rasporede za konkretne datume radimo kao posebne tekstove — na primer o <a href=\"/sr/recommend/praznici-i-neradni-dani-u-srbiji-do-kraja-2026-sta-ne-radi-sta-radi-i--sr653\">neradnim danima do kraja 2026.</a> Ovde je reč o suštini.</p><h2>Slava: glavni praznik koga nema u kalendaru</h2><p>Slava je dan svetitelja zaštitnika porodice i prenosi se s kolena na koleno. Svaka porodica ima svog sveca i svoj datum; najmasovnija je Nikoljdan, 19. decembar — „pola Srbije slavi\". Od 2014. slava je na UNESCO listi nematerijalnog nasleđa.</p><p>Za grad to znači: na nečiju slavu male porodične radnje i kafane umeju da ne otvore, a cedulja „Slavimo slavu\" na vratima je normalna stvar. Ako ste pozvani na slavu — to je čast: nosi se vino ili sitan poklon, a na stolu su žito, slavski kolač i mnogo, mnogo hrane.</p>",
+        "en": "<p>We publish practical schedules for specific dates separately, for example on <a href=\"/en/recommend/public-holidays-and-non-working-days-in-serbia-until-the-end-of-2026-w-en653\">non-working days until the end of 2026</a>. This article is about the traditions themselves.</p><h2>Slava: the main holiday missing from your calendar</h2><p>A slava is the day of a family's patron saint, passed down through generations. Every family has its own saint and date; the most widespread is Nikoljdan, Saint Nicholas Day on 19 December, when \"half of Serbia celebrates\". Since 2014 the slava has been on the UNESCO list of intangible cultural heritage.</p><p>For the city this means that on someone's slava day small family shops and kafanas may simply not open, and a note saying \"Slavimo slavu\" on a door is a normal sight. If you are invited to a slava, it is an honour: bring wine or a small gift, and expect žito, the slava kolač bread and a great deal of food.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Два Рождества и два Новых года</h2><p>Сербская церковь живёт по юлианскому календарю, поэтому Рождество здесь 7 января, а в ночь с 13 на 14 января страна отмечает «сербский Новый год». При этом «обычный» Новый год 1 января и католическое Рождество 25 декабря городу тоже не чужие: получается праздничный марафон длиной в полтора месяца. Накануне православного Рождества у храмов жгут бадняк — дубовые ветки, символ домашнего очага; главное действо — у храма Святого Саввы.</p>",
+        "sr": "<h2>Dva Božića i dve Nove godine</h2><p>Srpska crkva živi po julijanskom kalendaru: Božić je 7. januara, a u noći 13. na 14. januar slavi se srpska Nova godina. Pri tome ni 1. januar ni katolički Božić gradu nisu strani — ispada praznični maraton od mesec i po. Uoči Božića pale se badnjaci; najsvečanije je kod Hrama Svetog Save.</p>",
+        "en": "<h2>Two Christmases and two New Years</h2><p>The Serbian church follows the Julian calendar, so Christmas here is on 7 January, and on the night of 13 to 14 January the country marks the Serbian New Year. The \"regular\" 1 January and Catholic Christmas on 25 December are not foreign to the city either, which adds up to a holiday marathon a month and a half long. On Christmas Eve oak branches called badnjak are burned by the churches, most ceremonially at the Church of Saint Sava.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Пасха и весенние праздники</h2><p>Васкрс — сербская Пасха — второй по значимости церковный праздник: красят яйца, бьются ими «на выигрыш» и расходятся по семейным обедам; нерабочими являются дни с Великой пятницы по понедельник. Из светских дат главные — Сретение (15 февраля, День государственности) и Первомай, который сербы отмечают как классический выезд на природу с роштилем: города в эти дни пустеют.</p>",
+        "sr": "<h2>Vaskrs i prolećni praznici</h2><p>Vaskrs je drugi po značaju crkveni praznik: farbaju se jaja, tuca se „na pobedu\", neradni su dani od Velikog petka do ponedeljka. Od svetovnih datuma glavni su Sretenje (15. februar, Dan državnosti) i Prvi maj — klasičan uranak sa roštiljem, kada grad opusti.</p>",
+        "en": "<h2>Easter and the spring holidays</h2><p>Vaskrs, the Serbian Easter, is the second most important church holiday: eggs are dyed and cracked in friendly duels, and the non-working days run from Good Friday to Easter Monday. Among secular dates the main ones are Sretenje, Statehood Day on 15 February, and the First of May, which Serbs celebrate as a classic countryside picnic with a grill, leaving the city noticeably empty.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Городские традиции, которые стоит увидеть</h2><p>🔵 Бадни-дан (6 января): вечером у храмов жгут дубовые ветки — зрелищнее всего у Храма Святого Саввы.</p><p>🔵 Богоявленское купание (19 января): заплывы за крестом в ледяной воде — в Белграде плывут у Земуна и на Аде.</p><p>🔵 Славские витрины пекарен: перед большими славами пекарни заставлены колачами — красиво само по себе.</p><p>🔵 Новогодний doček на площадях — и его повтор через две недели, 13 января, когда город празднует «сербскую» версию.</p>",
+        "sr": "<h2>Gradske tradicije koje vredi videti</h2><p>🔵 Badnji dan (6. januar): večernje paljenje badnjaka, najsvečanije kod Hrama.</p><p>🔵 Bogojavljenje (19. januar): plivanje za časni krst u ledenoj vodi — u Beogradu kod Zemuna i na Adi.</p><p>🔵 Slavski izlozi pekara pred velike slave.</p><p>🔵 Novogodišnji doček na trgovima — i repriza 13. januara.</p>",
+        "en": "<h2>City traditions worth seeing</h2><p>🔵 Badnji Dan (6 January): the evening burning of oak branches, grandest at the Church of Saint Sava.</p><p>🔵 Epiphany (19 January): swimming for the holy cross in icy water, in Belgrade at Zemun and Ada.</p><p>🔵 Bakery windows before the big slava days, stacked with ceremonial kolač bread.</p><p>🔵 The New Year doček on the squares, with a repeat two weeks later on 13 January.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Что это значит для ваших планов</h2><p>🔵 Перед церковными праздниками проверяйте наши материалы о режиме работы: закрываться может неожиданно много всего.</p><p>🔵 Праздники — время специальных событий: концерты, ярмарки и детские программы этих дат мы собираем в календаре Афиши.</p><p>🔵 Если вы гость на славе или Рождестве — не приходите с пустыми руками и с пустым желудком: и то и другое здесь исправят немедленно.</p><p>Сербские праздники — быстрый курс местной культуры: один Никольдан объясняет про страну больше, чем путеводитель. Календарь подскажет, когда начинать наблюдения.</p>",
+        "sr": "<h2>Šta to znači za vaše planove</h2><p>🔵 Pred crkvene praznike proverite naše tekstove o radnom vremenu: zatvara se više nego što se očekuje.</p><p>🔵 Praznici su vreme posebnih događaja — koncerte, bazare i dečje programe tih datuma skupljamo u kalendaru Afiše.</p><p>🔵 Ako ste gost na slavi — ne dolazite praznih ruku ni praznog stomaka: i jedno i drugo ovde se ispravlja odmah.</p>",
+        "en": "<h2>What this means for your plans</h2><p>🔵 Before church holidays, check our articles on working hours: more closes than you would expect.</p><p>🔵 Holidays bring special events: we collect the concerts, fairs and children's programmes of those dates in the Afisha calendar.</p><p>🔵 If you are a guest at a slava or Christmas table, do not arrive with empty hands or an empty stomach. Both will be corrected immediately.</p>"
+      }
+    }
+  ]
+}

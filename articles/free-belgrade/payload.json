@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Бесплатный Белград: музеи, события и места без билета",
+    "sr": "Besplatni Beograd: muzeji, događaji i mesta bez ulaznice",
+    "en": "Free Belgrade: museums, events and places without a ticket"
+  },
+  "description": {
+    "ru": "<p>Белград устроен щедро: заметная часть городской жизни здесь не стоит ни динара. Крепость, набережные, открытые концерты, вернисажи, дни бесплатных музеев — при желании культурную неделю можно собрать вообще без трат. Рассказываем, где искать бесплатное системно, а не случайно.</p>",
+    "sr": "<p>Beograd je velikodušan grad: dobar deo gradskog života ovde ne košta ni dinar. Tvrđava, kejovi, otvoreni koncerti, vernisaži, besplatni dani muzeja — kulturna nedelja može da se složi i bez trošenja. Evo gde se besplatno traži sistemski, a ne slučajno.</p>",
+    "en": "<p>Belgrade is generously built: a good part of city life here costs nothing at all. The fortress, the riverbanks, open-air concerts, exhibition openings, free museum days. With a little planning you can fill a cultural week without spending a dinar. Here is how to find the free things systematically rather than by accident.</p>"
+  },
+  "cover": {
+    "file": "free-cover-pobednik.webp",
+    "alt": {
+      "ru": "Памятник Победник на Калемегдане",
+      "sr": "Spomenik Pobednik na Kalemegdanu",
+      "en": "The Pobednik monument at Kalemegdan"
+    },
+    "caption": {
+      "ru": "Фото: Zvezdazvezdica / Wikimedia Commons, CC BY-SA 4.0",
+      "sr": "Foto: Zvezdazvezdica / Wikimedia Commons, CC BY-SA 4.0",
+      "en": "Photo: Zvezdazvezdica / Wikimedia Commons, CC BY-SA 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>В нашем календаре бесплатные события помечены ценой «0» — их публикуется по несколько в день, от лекций до концертов.</p><h2>Всегда бесплатно</h2><p>🔵 Калемегданская крепость — главная бесплатная достопримечательность страны: валы, бастионы, смотровые на слияние Савы и Дуная. Вход на территорию свободный в любое время.</p><p>🔵 Храм Святого Саввы — вход свободный, включая украшенную мозаиками крипту.</p><p>🔵 Ада Циганлия летом: пляжи и набережные без входной платы.</p><p>🔵 Парки, набережные Земуна и Нового Белграда, пешеходная Кнез-Михайлова со уличными музыкантами — сам город как аттракцион.</p>",
+        "sr": "<p>U našem kalendaru besplatni događaji nose cenu „0\" — objavljujemo ih po nekoliko dnevno.</p><h2>Uvek besplatno</h2><p>🔵 Kalemegdanska tvrđava — glavna besplatna znamenitost zemlje: bedemi, bastioni, pogled na ušće. Ulaz je slobodan u svako doba.</p><p>🔵 Hram Svetog Save — ulaz slobodan, uključujući kriptu u mozaicima.</p><p>🔵 Ada Ciganlija leti: plaže i staze bez naplate.</p><p>🔵 Parkovi, zemunski i novobeogradski kej, Knez Mihailova sa uličnim muzičarima.</p>",
+        "en": "<p>In our calendar free events carry the price \"0\", and several are published every day.</p><h2>Always free</h2><p>🔵 The Kalemegdan fortress, the country's main free sight: ramparts, bastions and viewpoints over the confluence of the Sava and the Danube. Entry to the grounds is free at any hour.</p><p>🔵 The Church of Saint Sava, including the mosaic-covered crypt.</p><p>🔵 Ada Ciganlija in summer: beaches and paths without an entry fee.</p><p>🔵 The parks, the Zemun and Novi Beograd quays, and pedestrian Knez Mihailova with its street musicians.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Музеи: дни и часы бесплатного входа</h2><p>У многих белградских музеев есть регулярные бесплатные дни или вечера — обычно раз в неделю или в месяц; актуальный порядок лучше проверять на сайте конкретного музея, режимы периодически меняются. Отдельная дата — «Ночь музеев» в мае, когда десятки площадок города открыты допоздна по одному билету или вовсе свободно. Галереи и культурные центры (о них у нас будет отдельный материал) бесплатны почти всегда: вернисажи по будням — целый жанр белградской светской жизни.</p>",
+        "sr": "<h2>Muzeji: besplatni dani i večeri</h2><p>Mnogi muzeji imaju redovne besplatne dane ili večeri — obično jednom nedeljno ili mesečno; tačan režim proverite na sajtu muzeja, pravila se menjaju. Posebna noć je majska „Noć muzeja\", kada su desetine adresa otvorene do kasno. Galerije i kulturni centri besplatni su skoro uvek: vernisaži radnim danima poseban su žanr beogradskog društvenog života.</p>",
+        "en": "<h2>Museums: free days and evenings</h2><p>Many Belgrade museums have regular free days or evenings, usually once a week or once a month; check the museum's own site, as the rules change now and then. A special date is Museum Night in May, when dozens of venues stay open late. Galleries and cultural centres are free almost always: weekday exhibition openings are a whole genre of Belgrade social life.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Бесплатные события каждую неделю</h2><p>🔵 Лекции и разговорные клубы — в культурных центрах и институтах (Французский институт, Гёте-институт, городские библиотеки) вход, как правило, свободный.</p><p>🔵 Открытые концерты: летние сцены, городские фестивали, программы районных культурных центров.</p><p>🔵 Вернисажи выставок — с бесплатным входом и, часто, бокалом вина.</p><p>🔵 Йога и спорт в парках летом, городские праздники, ярмарки и маркеты.</p><p>Всё это ежедневно попадает в календарь Афиши с ценой «0» — заведите привычку фильтровать.</p>",
+        "sr": "<h2>Besplatni događaji svake nedelje</h2><p>🔵 Predavanja i razgovorni klubovi u kulturnim centrima i institutima (Francuski institut, Gete institut, biblioteke) — ulaz po pravilu slobodan.</p><p>🔵 Otvoreni koncerti: letnje scene, gradski festivali, programi domova kulture.</p><p>🔵 Vernisaži izložbi — besplatni, često i uz čašu vina.</p><p>🔵 Joga i sport u parkovima leti, gradske proslave, bazari.</p><p>Sve to svakodnevno ulazi u kalendar Afiše sa cenom „0\".</p>",
+        "en": "<h2>Free events every week</h2><p>🔵 Talks and conversation clubs at cultural centres and institutes (the French Institute, the Goethe-Institut, city libraries) are usually free to attend.</p><p>🔵 Open-air concerts: summer stages, city festivals, neighbourhood cultural centre programmes.</p><p>🔵 Exhibition openings, free and often with a glass of wine.</p><p>🔵 Yoga and sport in the parks in summer, city holidays, fairs and markets.</p><p>All of it lands in the Afisha calendar daily with the price \"0\".</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Бесплатное для детей</h2><p>Детские программы районных культурных центров, праздники в парках, открытые мастер-классы на маркетах и фестивалях — бесплатного детского в Белграде много, особенно летом. Постоянные адреса детского Белграда мы собрали в <a href=\"/ru/recommend/kuda-pojti-s-rebenkom-v-belgrade-postoannye-mesta-i-regularnye-program-ru724\">отдельном гиде</a>.</p>",
+        "sr": "<h2>Besplatno za decu</h2><p>Dečji programi domova kulture, proslave u parkovima, otvorene radionice na bazarima i festivalima — besplatnog dečjeg sadržaja je mnogo, naročito leti. Stalne dečje adrese skupili smo u <a href=\"/sr/recommend/kuda-sa-detetom-u-beogradu-stalna-mesta-i-redovni-programi-sr724\">posebnom vodiču</a>.</p>",
+        "en": "<h2>Free things for children</h2><p>Children's programmes at neighbourhood cultural centres, park festivities, open workshops at markets and festivals: there is plenty of free children's Belgrade, especially in summer. We collected the permanent addresses in a <a href=\"/en/recommend/belgrade-with-kids-the-permanent-places-and-regular-programmes-en724\">separate guide</a>.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как жить культурно и бесплатно: стратегия</h2><p>🔵 Раз в неделю открывайте календарь Афиши и смотрите события с ценой «0» — их стабильно больше, чем кажется.</p><p>🔵 Подпишитесь на @afishars в телеграме: бесплатные события мы анонсируем наравне с платными.</p><p>🔵 «Вход за донат» — младший брат бесплатного: платите, сколько считаете правильным. Так живёт заметная часть камерной сцены.</p><p>🔵 И помните главное бесплатное удовольствие города: закат над слиянием двух рек с Калемегданской стены. Он не отменяется никогда.</p>",
+        "sr": "<h2>Strategija</h2><p>🔵 Jednom nedeljno otvorite kalendar Afiše i pogledajte događaje sa cenom „0\" — ima ih stabilno više nego što se čini.</p><p>🔵 Pratite @afishars na telegramu: besplatno najavljujemo ravnopravno sa plaćenim.</p><p>🔵 „Ulaz uz donaciju\" je mlađi brat besplatnog: dajete koliko smatrate da vredi.</p><p>🔵 I glavno besplatno zadovoljstvo grada: zalazak sunca nad ušćem sa kalemegdanskog zida. On se ne otkazuje nikad.</p>",
+        "en": "<h2>The strategy</h2><p>🔵 Once a week, open the Afisha calendar and filter for events priced \"0\". There are consistently more than you expect.</p><p>🔵 Follow @afishars on Telegram: we announce free events alongside paid ones.</p><p>🔵 \"Entry by donation\" is the younger sibling of free: you pay what you think is right.</p><p>🔵 And remember the city's main free pleasure: sunset over the confluence from the Kalemegdan wall. It is never cancelled.</p>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Мастер-классы и курсы в Белграде: где учиться руками",
+    "sr": "Radionice i kursevi u Beogradu: gde se uči rukama",
+    "en": "Workshops and courses in Belgrade: learning with your hands"
+  },
+  "description": {
+    "ru": "<p>Белград — удобный город, чтобы наконец попробовать то, до чего годами не доходили руки: керамику, живопись, линогравюру, танцы или сербскую кухню. Мастерских и студий много, вход в большинство — без подготовки и с нулевого уровня, а язык мастер-класса часто вообще не важен: руки понимают без перевода.</p>",
+    "sr": "<p>Beograd je zgodan grad da se konačno proba ono za šta godinama nije bilo vremena: keramika, slikanje, linogravura, ples ili srpska kuhinja. Radionica i studija ima mnogo, u većinu se ulazi bez pripreme i od nule, a jezik radionice često nije ni bitan: ruke razumeju bez prevoda.</p>",
+    "en": "<p>Belgrade is a good city for finally trying the things you never got around to: ceramics, painting, linocut, dancing or Serbian cooking. There are plenty of studios and workshops, most welcome complete beginners, and the language of a workshop often barely matters: hands understand without translation.</p>"
+  },
+  "cover": {
+    "file": "workshops-cover-grncarija.webp",
+    "alt": {
+      "ru": "Керамика из Злакусы: горшки ручной работы",
+      "sr": "Grnčarija iz Zlakuse: ručno rađeni sudovi",
+      "en": "Zlakusa pottery: handmade clay vessels"
+    },
+    "caption": {
+      "ru": "Фото: Milica Buha / Wikimedia Commons, CC BY-SA 4.0",
+      "sr": "Foto: Milica Buha / Wikimedia Commons, CC BY-SA 4.0",
+      "en": "Photo: Milica Buha / Wikimedia Commons, CC BY-SA 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Разовые мастер-классы мы публикуем в одноимённом разделе календаря каждую неделю; здесь — карта жанров и постоянных форматов.</p><h2>Керамика, коллаж и всё, что можно унести домой</h2><p>Самый популярный жанр — предметный: слепить, склеить, напечатать и забрать с собой. В афише регулярно появляются керамические мастер-классы, коллаж-клубы, линогравюра и печатная графика, роспись и работа с деревом. Формат стандартный: два-три часа, все материалы включены, результат уносите с собой. Уровень входа — нулевой, и это не вежливость, а правда.</p>",
+        "sr": "<p>Pojedinačne radionice objavljujemo u istoimenoj rubrici kalendara svake nedelje; ovde je mapa žanrova.</p><h2>Keramika, kolaž i sve što se nosi kući</h2><p>Najpopularniji žanr je predmetni: oblikovati, zalepiti, otisnuti i poneti. U programu se redovno pojavljuju keramičke radionice, kolaž-klubovi, linogravura i grafika, oslikavanje, rad sa drvetom. Standard: dva-tri sata, materijali uključeni, rezultat ide s vama. Nivo znanja: nula — i to nije ljubaznost nego istina.</p>",
+        "en": "<p>We publish one-off workshops in the Master Classes section of the calendar every week; this is a map of the genres.</p><h2>Ceramics, collage and everything you can carry home</h2><p>The most popular genre is the tangible one: shape it, glue it, print it and take it home. The listings regularly offer ceramics workshops, collage clubs, linocut and printmaking, painting and woodwork. The standard format: two or three hours, materials included, result goes home with you. Entry level: zero, and that is not politeness but the truth.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Рисование: от скетчбука до мастерской</h2><p>Художественный Белград принимает новичков дружелюбно: наброски с натуры, акварельные встречи, вечерние сессии рисования с бокалом, курсы академического рисунка в студиях. Русскоязычных форматов много — от разовых занятий до постоянных групп. Отдельный жанр — наброски в городе: летом группы рисуют на Калемегдане и в старых двориках.</p>",
+        "sr": "<h2>Crtanje: od skečbuka do ateljea</h2><p>Likovni Beograd prima početnike ljubazno: skiciranje, akvarel-susreti, večernje crtanje uz čašu vina, kursevi akademskog crteža. Poseban žanr je crtanje u gradu: leti grupe crtaju na Kalemegdanu i po starim dvorištima.</p>",
+        "en": "<h2>Drawing: from sketchbook to studio</h2><p>Artistic Belgrade receives beginners kindly: life sketching, watercolour meetups, evening drawing sessions with a glass of wine, academic drawing courses. There are many Russian-language formats, from one-off classes to standing groups. A separate genre is urban sketching: in summer, groups draw at Kalemegdan and in the old courtyards.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Кухня, вино и ремёсла по-сербски</h2><p>Гастрономические мастер-классы — способ породниться с местной культурой быстрее всякого учебника: лепка питы и гибаницы, айвар по осени, сербское вино с сомелье. Следите и за «Ночами ремёсел» на маркетах — там пробуют всё подряд, от каллиграфии до столярки, по цене символической или вовсе бесплатно.</p>",
+        "sr": "<h2>Kuhinja, vino i zanati</h2><p>Gastronomske radionice su najbrži način da se orodite s lokalnom kulturom: pita i gibanica, ajvar na jesen, srpska vina sa someljeom. Pratite i zanatske večeri na bazarima — tamo se proba sve redom, po simboličnoj ceni ili besplatno.</p>",
+        "en": "<h2>Cooking, wine and crafts the Serbian way</h2><p>Food workshops are the fastest way to bond with the local culture: pita and gibanica dough, ajvar in autumn, Serbian wine with a sommelier. Watch for craft nights at the markets too, where you can try everything from calligraphy to woodwork for a symbolic price or for free.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Танцы и тело</h2><p>Танцевальные студии зовут без пары и без опыта: сальса, бачата, свинг, народные коло-вечера, где хоровод принимает любого. Рядом — йога (летом в парках, часто бесплатно), пилатес и растяжка. Регулярные занятия обычно устроены как «первое пробное бесплатно или дёшево» — удобно перепробовать всё и остаться там, где понравилось.</p>",
+        "sr": "<h2>Ples i telo</h2><p>Plesni studiji zovu bez para i bez iskustva: salsa, bačata, sving, večeri narodnog kola gde kolo prima svakoga. Tu su i joga (leti u parkovima, često besplatno), pilates, istezanje. Redovni časovi obično idu po principu „prvi probni besplatno ili jeftino\".</p>",
+        "en": "<h2>Dance and the body</h2><p>Dance studios welcome you without a partner and without experience: salsa, bachata, swing, and folk kolo nights where the circle accepts everyone. Alongside: yoga (in the parks in summer, often free), pilates and stretching. Regular classes usually run on a \"first trial free or cheap\" basis, so you can sample everything and stay where it feels right.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как выбрать и записаться</h2><p>🔵 Раздел «Мастер-классы» в календаре Афиши — там и разовые события, и старты курсов.</p><p>🔵 Запись почти всегда обязательна: мест в мастерской обычно 8–12. Ссылка или телеграм — в карточке события.</p><p>🔵 Цены: разовый мастер-класс — обычно одна-три тысячи динаров с материалами; курсы дороже.</p><p>🔵 Языковой барьер — не причина откладывать: показывают здесь больше, чем рассказывают, а группы давно привыкли к смеси сербского, русского и английского.</p><p>Мастер-класс — лучший формат для знакомств после квизов: два часа общего дела связывают быстрее любого нетворкинга. И да, кривая чашка первой керамики — обязательный сувенир белградского периода жизни.</p>",
+        "sr": "<h2>Kako izabrati i prijaviti se</h2><p>🔵 Rubrika „Radionice\" u kalendaru Afiše — i pojedinačni događaji i počeci kurseva.</p><p>🔵 Prijava je skoro uvek obavezna: mesta je obično 8–12. Link ili telegram — u kartici događaja.</p><p>🔵 Cene: pojedinačna radionica obično hiljadu do tri hiljade dinara sa materijalima; kursevi više.</p><p>🔵 Jezička barijera nije razlog za odlaganje: ovde se više pokazuje nego priča.</p>",
+        "en": "<h2>How to choose and sign up</h2><p>🔵 The Master Classes section of the Afisha calendar carries both one-off events and course starts.</p><p>🔵 Registration is almost always required: a workshop usually seats 8 to 12 people. The link or Telegram is in the event card.</p><p>🔵 Prices: a one-off workshop usually costs one to three thousand dinars with materials; courses cost more.</p><p>🔵 The language barrier is not a reason to postpone: things here are shown more than told, and groups are long used to a mix of Serbian, Russian and English.</p><p>A workshop is the best format for meeting people after quizzes: two hours of shared work connect faster than any networking. And yes, the crooked cup from your first ceramics class is the mandatory souvenir of your Belgrade years.</p>"
+      }
+    }
+  ]
+}

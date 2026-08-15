@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Театры Белграда: что смотреть, если не знаешь сербского",
+    "sr": "Pozorišni Beograd za one koji (još) ne znaju srpski",
+    "en": "Belgrade theatre without Serbian: what to watch and where"
+  },
+  "description": {
+    "ru": "<p>Театральный Белград велик и дёшев: сцен в городе десятки, билеты по московским или европейским меркам почти символические, а сезон длится с сентября по июнь. Главный вопрос приезжего — язык. Хорошая новость: половина театральной афиши Белграда доступна и без сербского, если знать, что выбирать.</p>",
+    "sr": "<p>Pozorišni Beograd je velik i jeftin: scena ima na desetine, karte su po evropskim merilima skoro simbolične, a sezona traje od septembra do juna. Glavno pitanje došljaka je jezik. Dobra vest: pola beogradskog pozorišnog programa dostupno je i bez srpskog — ako znate šta da birate.</p>",
+    "en": "<p>Theatrical Belgrade is large and cheap: the city has dozens of stages, tickets are almost symbolic by European standards, and the season runs from September to June. The newcomer's main question is language. The good news: half of Belgrade's theatre listings are accessible without Serbian, if you know what to choose.</p>"
+  },
+  "cover": {
+    "file": "theatres-cover-narodno-night.webp",
+    "alt": {
+      "ru": "Народный театр в Белграде вечером",
+      "sr": "Narodno pozorište u Beogradu uveče",
+      "en": "The National Theatre in Belgrade at night"
+    },
+    "caption": {
+      "ru": "Фото: NenaAn / Wikimedia Commons, CC BY-SA 3.0",
+      "sr": "Foto: NenaAn / Wikimedia Commons, CC BY-SA 3.0",
+      "en": "Photo: NenaAn / Wikimedia Commons, CC BY-SA 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Русскоязычные спектакли и антрепризы мы отдельно собираем в разделе «Театр» календаря Афиши — а этот гид про то, как ходить в сербский театр.</p><h2>Что работает без языка</h2><p>🔵 Опера и балет в Народном театре: язык оригинала плюс музыка — либретто можно прочитать заранее, остальное сделает сцена. Вдобавок это самый дешёвый способ провести вечер в бархатном зале — подробности в <a href=\"/ru/recommend/klassiceskaa-muzyka-v-belgrade-kolarac-filarmonia-i-opera-ru656\">статье о классической музыке</a>.</p><p>🔵 Танцевальные и пластические постановки, современный танец, физический театр — на фестивалях и малых сценах их много.</p><p>🔵 Кукольный театр для детей: картинка работает без слов, дошкольникам перевод не нужен.</p><p>🔵 Мюзиклы и музыкальные спектакли, где сюжет понятен по жанру.</p>",
+        "sr": "<p>Ruskojezične predstave posebno skupljamo u rubrici „Pozorište\" kalendara Afiše, a ovaj vodič je o tome kako se ide u srpsko pozorište.</p><h2>Šta radi bez jezika</h2><p>🔵 Opera i balet u Narodnom pozorištu: jezik originala plus muzika — libreto se pročita unapred, ostalo uradi scena. Detalji u <a href=\"/sr/recommend/klasicna-muzika-u-beogradu-kolarac-filharmonija-i-opera-sr656\">tekstu o klasičnoj muzici</a>.</p><p>🔵 Plesne i fizičke predstave, savremeni ples — na festivalima i malim scenama ih je mnogo.</p><p>🔵 Lutkarske predstave za decu: slika radi bez reči.</p><p>🔵 Mjuzikli, gde je priča jasna iz žanra.</p>",
+        "en": "<p>We collect Russian-language shows separately in the Theatre section of the Afisha calendar; this guide is about going to Serbian theatre.</p><h2>What works without the language</h2><p>🔵 Opera and ballet at the National Theatre: original language plus music means you can read the libretto in advance and let the stage do the rest. Details in our <a href=\"/en/recommend/classical-music-in-belgrade-kolarac-the-philharmonic-and-the-opera-en656\">classical music article</a>.</p><p>🔵 Dance and physical theatre, of which festivals and small stages offer plenty.</p><p>🔵 Puppet theatre for children: the image works without words.</p><p>🔵 Musicals, where the genre carries the plot.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Главные сцены города</h2><p>🔵 Народный театр на площади Республики — опера, балет и драма под одной крышей, здание с квадригой и полуторавековой историей.</p><p>🔵 Югославский драматический (JDP) — главная драматическая сцена страны с современной режиссурой.</p><p>🔵 «Ателье 212» — театр, придумавший BITEF; смелые постановки и камерный зал.</p><p>🔵 Белградский драматический театр (BDP), «Звездара театр», «Терazije» с мюзиклами — у каждого свой характер.</p><p>🔵 Мадленианум в Земуне — частная опера и музыкальный театр.</p>",
+        "sr": "<h2>Glavne scene grada</h2><p>🔵 Narodno pozorište na Trgu republike — opera, balet i drama pod jednim krovom.</p><p>🔵 Jugoslovensko dramsko pozorište — centralna dramska scena sa savremenom režijom.</p><p>🔵 Atelje 212 — pozorište koje je izmislilo BITEF.</p><p>🔵 Beogradsko dramsko, Zvezdara teatar, Pozorište na Terazijama sa mjuziklima.</p><p>🔵 Madlenianum u Zemunu — privatna opera i muzički teatar.</p>",
+        "en": "<h2>The main stages</h2><p>🔵 The National Theatre on Republic Square: opera, ballet and drama under one roof.</p><p>🔵 The Yugoslav Drama Theatre (JDP): the country's central drama stage with modern directing.</p><p>🔵 Atelje 212: the theatre that invented BITEF.</p><p>🔵 The Belgrade Drama Theatre, Zvezdara Teatar, and Terazije Theatre with its musicals.</p><p>🔵 Madlenianum in Zemun: a private opera and musical theatre.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Сербский театр с подсказками</h2><p>Ходить на драму без языка тоже можно — с подготовкой. Выбирайте постановки по знакомым текстам: Чехова, Шекспира или Гоголя здесь ставят регулярно, и знание сюжета заменяет субтитры. На фестивалях (прежде всего BITEF в сентябре) зарубежные постановки часто идут с сербскими и английскими титрами — следите за пометками в программе. А славянское ухо через месяц-другой начинает выхватывать со сцены больше, чем вы ожидаете.</p>",
+        "sr": "<h2>Srpsko pozorište uz pomoć</h2><p>Na dramu bez jezika može se ići uz pripremu: birajte predstave po poznatim tekstovima — Čehov, Šekspir ili Gogolj idu redovno, a poznata priča menja titl. Na festivalima (pre svega BITEF u septembru) strane predstave često idu sa srpskim i engleskim titlovima. A slovensko uho posle mesec-dva počinje da hvata sa scene više nego što očekujete.</p>",
+        "en": "<h2>Serbian drama with training wheels</h2><p>You can go to drama without the language if you prepare: choose productions of texts you know. Chekhov, Shakespeare and Gogol are staged regularly, and knowing the plot replaces subtitles. At festivals (BITEF in September above all) foreign productions often run with Serbian and English surtitles: watch for the notes in the programme. And a Slavic ear starts catching more from the stage within a month or two than you would expect.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Русский театр в Белграде</h2><p>Русскоязычная театральная жизнь города активна: антрепризы с известными артистами, местные русскоязычные труппы и студии, детские спектакли. Все они появляются в нашем разделе «Театр» — от больших гастролей до камерных читок. Здесь же и импровизация: русскоязычные импро-шоу идут регулярно и по цене билета в кино.</p>",
+        "sr": "<h2>Rusko pozorište u Beogradu</h2><p>Ruskojezični pozorišni život grada je živ: gostovanja sa poznatim glumcima, lokalne trupe i studiji, dečje predstave, improvizacija. Sve se pojavljuje u našoj rubrici „Pozorište\".</p>",
+        "en": "<h2>Russian theatre in Belgrade</h2><p>The city's Russian-language theatre life is busy: touring productions with well-known actors, local companies and studios, children's shows, improv nights. All of it appears in our Theatre section, from big tours to intimate readings.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Практика</h2><p>🔵 Билеты — в кассах театров и онлайн; у Народного театра нужна регистрация на сайте. Цены на драму — от нескольких сотен динаров.</p><p>🔵 Сезон: сентябрь — июнь. Летом театры в отпуске, зато работают фестивали и летние сцены.</p><p>🔵 Одеваться можно свободно, опаздывать нельзя: после третьего звонка не пустят.</p><p>🔵 Начало спектаклей — обычно 19:30 или 20:00, идут без антракта чаще, чем с ним: проверяйте хронометраж.</p><p>Театр — самый недооценённый жанр эмигрантского Белграда. Начните с оперы или знакомой классики — и через сезон вы будете спорить о сербской режиссуре, как будто всю жизнь тут прожили.</p>",
+        "sr": "<h2>Praktično</h2><p>🔵 Karte — na blagajnama i onlajn; kod Narodnog pozorišta treba registracija na sajtu. Drama — od nekoliko stotina dinara.</p><p>🔵 Sezona: septembar—jun. Leti pozorišta odmaraju, rade festivali i letnje scene.</p><p>🔵 Oblačenje slobodno, kašnjenje ne prolazi: posle trećeg zvona nema ulaska.</p><p>🔵 Početak je obično u 19:30 ili 20:00; predstave češće idu bez pauze — proverite trajanje.</p>",
+        "en": "<h2>Practical notes</h2><p>🔵 Tickets are sold at theatre box offices and online; the National Theatre requires site registration. Drama starts from a few hundred dinars.</p><p>🔵 The season runs September to June. In summer the theatres rest and the festivals and open-air stages take over.</p><p>🔵 Dress freely, but do not be late: after the third bell you will not get in.</p><p>🔵 Curtain is usually at 7:30 or 8 pm, and shows run without an interval more often than with one: check the running time.</p>"
+      }
+    }
+  ]
+}
