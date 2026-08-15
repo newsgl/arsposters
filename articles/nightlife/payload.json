@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Клубы и сплавы Белграда: гид по ночной жизни",
+    "sr": "Klubovi i splavovi: vodič kroz beogradsku noć",
+    "en": "Clubs and splavovi: a guide to Belgrade nightlife"
+  },
+  "description": {
+    "ru": "<p>Ночная репутация Белграда заслужена честно: город умеет не спать. Главная местная особенность — сплавы, плавучие клубы на воде, из-за которых летняя ночная жизнь здесь не похожа ни на одну другую европейскую столицу. Разбираем, как устроена ночь по-белградски: где танцуют, когда приходить и чем сплав отличается от клуба.</p>",
+    "sr": "<p>Noćna reputacija Beograda je pošteno zarađena: grad ume da ne spava. Glavna lokalna posebnost su splavovi — plutajući klubovi na vodi, zbog kojih letnji noćni život ovde ne liči ni na jednu drugu evropsku prestonicu. Evo kako je noć organizovana po beogradski.</p>",
+    "en": "<p>Belgrade's nightlife reputation is honestly earned: this city knows how not to sleep. The main local peculiarity is the splav, the floating club on the water, which makes summer nightlife here unlike any other European capital. Here is how the Belgrade night works: where people dance, when to arrive, and how a splav differs from a club.</p>"
+  },
+  "cover": {
+    "file": "nightlife-cover-splavovi.webp",
+    "alt": {
+      "ru": "Сплавы на Дунае в Белграде",
+      "sr": "Splavovi na Dunavu u Beogradu",
+      "en": "Splavovi floating clubs on the Danube in Belgrade"
+    },
+    "caption": {
+      "ru": "Фото: Mister No / Wikimedia Commons, CC BY 3.0",
+      "sr": "Foto: Mister No / Wikimedia Commons, CC BY 3.0",
+      "en": "Photo: Mister No / Wikimedia Commons, CC BY 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Вечеринки и клубные события мы публикуем в календаре выборочно — самые заметные; за полной ночной повесткой следите в анонсах самих клубов.</p><h2>Сплавы: клубы на воде</h2><p>Сплав — это баржа или понтон у берега Савы и Дуная, превращённый в клуб, бар или ресторан. Их десятки вдоль набережных Нового Белграда и Земуна. Сезонность прямая: лето — время сплавов, зима — городских клубов. Жанры на любой вкус: электроника, поп, регги, живые группы и турбофолк для смелых. У воды прохладнее, вид на ночной город — бонусом; танцпол при этом слегка покачивается, и к этому привыкаешь быстрее, чем ожидаешь.</p>",
+        "sr": "<p>Žurke i klupske događaje objavljujemo u kalendaru izborno — najupečatljivije; za punu noćnu agendu pratite najave samih klubova.</p><h2>Splavovi: klubovi na vodi</h2><p>Splav je barža ili ponton uz obalu Save i Dunava pretvoren u klub, bar ili restoran. Ima ih na desetine duž novobeogradskog i zemunskog keja. Sezona je jasna: leto je vreme splavova, zima gradskih klubova. Žanrovi po ukusu: elektronika, pop, rege, svirke uživo i turbofolk za hrabre. Uz vodu je svežije, pogled na noćni grad ide gratis; podijum se blago ljulja — navikne se brže nego što mislite.</p>",
+        "en": "<p>We publish parties and club events in the calendar selectively, the most notable ones; for the full nightly agenda follow the clubs' own announcements.</p><h2>Splavovi: clubs on the water</h2><p>A splav is a barge or pontoon moored along the Sava and Danube banks, converted into a club, bar or restaurant. There are dozens along the Novi Beograd and Zemun quays. The seasonality is simple: summer belongs to the splavovi, winter to the city clubs. Genres for every taste: electronic, pop, reggae, live bands and turbofolk for the brave. It is cooler by the water, the night city view comes free, and the dance floor sways slightly. You get used to it faster than you expect.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Клубы на суше</h2><p>Зимняя (и не только) клубная жизнь живёт в городе: подвалы и дворы Савамалы, кварталы Цетиньской, 15 с их барами и сценами, клубы Дорчола. Мы описывали главные адреса в <a href=\"/ru/recommend/koncertnye-plosadki-belgrada-gid-po-zalam-klubam-i-open-air-ru719\">гиде по площадкам</a>: Drugstore для техно-марафонов, KC Grad и двор «Полета» для всего остального. Электронная сцена Белграда — одна из самых уважаемых в регионе; лайнапы смотрите в анонсах клубов.</p>",
+        "sr": "<h2>Klubovi na kopnu</h2><p>Zimski (i ne samo) klupski život živi u gradu: podrumi i dvorišta Savamale, Cetinjska 15 sa svojim barovima i binama, klubovi Dorćola. Glavne adrese opisali smo u <a href=\"/sr/recommend/koncertne-scene-beograda-vodic-kroz-dvorane-klubove-i-open-air-sr719\">vodiču kroz koncertne scene</a>. Beogradska elektronska scena spada među najcenjenije u regionu.</p>",
+        "en": "<h2>Clubs on land</h2><p>Winter (and not only winter) club life lives in the city: the basements and courtyards of Savamala, the Cetinjska 15 quarter with its bars and stages, the clubs of Dorćol. We described the main addresses in the <a href=\"/en/recommend/belgrade-concert-venues-a-guide-to-the-halls-clubs-and-open-air-stages-en719\">venue guide</a>. Belgrade's electronic scene is among the most respected in the region; check the clubs' announcements for lineups.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Кафаны ночью и живая музыка</h2><p>Если танцпол — не ваш формат, белградская ночь предлагает альтернативу: кафаны с оркестрами гуляют до глубокой ночи — как это устроено, мы писали в <a href=\"/ru/recommend/skadarlia-i-kafany-s-zivoj-muzykoj-vecer-po-serbski-ru655\">гиде по кафанам</a>. Между клубом и кафаной — пласт баров с живой музыкой и джемами: гитарные вечера, джаз, блюз. Это самый недооценённый сегмент белградской ночи.</p>",
+        "sr": "<h2>Kafane noću i muzika uživo</h2><p>Ako podijum nije vaš format, noć nudi alternativu: kafane sa orkestrima vesele se do duboko u noć — kako to izgleda, pisali smo u <a href=\"/sr/recommend/skadarlija-i-kafane-sa-zivom-muzikom-vece-po-srpski-sr655\">vodiču kroz kafane</a>. Između kluba i kafane je sloj barova sa svirkama i džemovima: gitarske večeri, džez, bluz — najpotcenjeniji deo beogradske noći.</p>",
+        "en": "<h2>Kafanas by night and live music</h2><p>If the dance floor is not your format, the Belgrade night offers an alternative: kafanas with orchestras celebrate deep into the night. We described how that works in the <a href=\"/en/recommend/skadarlija-and-the-kafanas-with-live-music-a-proper-serbian-night-out-en655\">kafana guide</a>. Between the club and the kafana lies a layer of bars with live gigs and jams: guitar nights, jazz, blues. It is the most underrated segment of the Belgrade night.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Правила ночи</h2><p>🔵 Время: раньше полуночи в клубах пусто; пик — час-три ночи. Сплавы летом гуляют до рассвета.</p><p>🔵 Вход: часто бесплатный или несколько сотен динаров; на именитых гостей — предпродажа. Столы на сплавах бронируют заранее, особенно в выходные.</p><p>🔵 Дресс-код мягкий, но на «нарядных» сплавах в шортах могут развернуть. Паспорт носить с собой — спросить могут.</p><p>🔵 Цены на напитки — заметно ниже западноевропейских клубных.</p><p>🔵 Такси ночью работает исправно; пешком по набережным тоже ходят — город ночью спокойный, но обычная городская осторожность не отменяется.</p>",
+        "sr": "<h2>Pravila noći</h2><p>🔵 Vreme: pre ponoći je u klubovima prazno; špic je od jedan do tri. Splavovi leti guraju do zore.</p><p>🔵 Ulaz: često besplatan ili par stotina dinara; za poznata imena pretprodaja. Stolovi na splavovima se rezervišu unapred, naročito vikendom.</p><p>🔵 Dres-kod je mek, ali na „sređenim\" splavovima u šortsu mogu da vas vrate. Dokument nosite — mogu da traže.</p><p>🔵 Cene pića su primetno niže od zapadnoevropskih klupskih.</p><p>🔵 Taksi noću radi uredno; uobičajena gradska opreznost se ne ukida.</p>",
+        "en": "<h2>Rules of the night</h2><p>🔵 Timing: before midnight the clubs are empty; the peak is one to three in the morning. In summer the splavovi run till dawn.</p><p>🔵 Entry: often free or a few hundred dinars; presale for known guests. Tables on splavovi are booked in advance, especially at weekends.</p><p>🔵 The dress code is soft, but the fancier splavovi may turn away shorts. Carry ID: they may ask.</p><p>🔵 Drink prices are noticeably below Western European club levels.</p><p>🔵 Taxis run reliably at night; the usual city caution still applies.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>С чего начать</h2><p>🔵 Лето: выберите сплав по жанру, забронируйте стол на компанию — и оцените рассвет над рекой с танцпола.</p><p>🔵 Зима: пятница в дворе Цетиньской, 15 — три бара и две сцены на выбор без плана.</p><p>🔵 Не хочется грохота — живой джем в баре или ночная кафана: та же ночная жизнь, только слышно собеседника.</p><p>Белградская ночь дружелюбна и небрежна к расписаниям: сюда не приходят по плану, отсюда уходят по рассвету. Начните с малого — город сам подскажет продолжение.</p>",
+        "sr": "<h2>Odakle početi</h2><p>🔵 Leto: izaberite splav po žanru, rezervišite sto — i dočekajte zoru nad rekom sa podijuma.</p><p>🔵 Zima: petak u dvorištu Cetinjske 15 — tri bara i dve bine bez plana.</p><p>🔵 Ako grmljavina nije za vas — džem u baru ili noćna kafana: isti noćni život, samo se čuje sagovornik.</p>",
+        "en": "<h2>Where to start</h2><p>🔵 Summer: pick a splav by genre, book a table for your crew, and rate the sunrise over the river from the dance floor.</p><p>🔵 Winter: Friday in the Cetinjska 15 courtyard, three bars and two stages with no plan needed.</p><p>🔵 If you want no thunder, a live jam in a bar or a late kafana gives you the same nightlife, but you can hear your companions.</p>"
+      }
+    }
+  ]
+}

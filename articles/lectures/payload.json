@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Лекции, разговорные клубы и языковые встречи в Белграде",
+    "sr": "Predavanja, razgovorni klubovi i jezičke večeri u Beogradu",
+    "en": "Talks, conversation clubs and language meetups in Belgrade"
+  },
+  "description": {
+    "ru": "<p>Белград — город, где по вечерам учатся: лекции об истории и науке, разговорные клубы на трёх языках, публичные дискуссии и научпоп-вечера в барах. Для переехавших это ещё и самый естественный способ встроиться в среду: час умного разговора знакомит с городом лучше десяти прогулок. Собрали карту интеллектуальных вечеров.</p>",
+    "sr": "<p>Beograd je grad koji uveče uči: predavanja o istoriji i nauci, razgovorni klubovi na tri jezika, javne diskusije i naučnopopularne večeri po barovima. Za doseljenike to je i najprirodniji način da se uklope u sredinu. Evo mape intelektualnih večeri.</p>",
+    "en": "<p>Belgrade is a city that studies in the evenings: history and science talks, conversation clubs in three languages, public discussions and science-pop nights in bars. For newcomers this is also the most natural way to plug into the environment: an hour of clever conversation introduces the city better than ten walks. Here is the map of the intellectual evenings.</p>"
+  },
+  "cover": {
+    "file": "lectures-cover-misino.webp",
+    "alt": {
+      "ru": "Капетан-Мишино здание Белградского университета",
+      "sr": "Kapetan Mišino zdanje Beogradskog univerziteta",
+      "en": "The Kapetan Miša building of the University of Belgrade"
+    },
+    "caption": {
+      "ru": "Фото: Djordje Stakić / Wikimedia Commons, CC BY-SA 3.0",
+      "sr": "Foto: Djordje Stakić / Wikimedia Commons, CC BY-SA 3.0",
+      "en": "Photo: Djordje Stakić / Wikimedia Commons, CC BY-SA 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Все лекции и встречи мы публикуем в разделе «Лекции» календаря — от университетских до барных.</p><h2>Лекции на русском</h2><p>Русскоязычная лекционная сцена Белграда на удивление плотная: истории о городе и Балканах, искусствоведческие циклы, психология, кино и литература. Постоянные дома жанра — Auditoria на Дорчоле и другие пространства Дорчола и центра; форматы — от классической лекции до показа с обсуждением. Вход обычно недорогой или за донат. Отдельный поджанр — лекции-прогулки по городу: история Белграда ногами.</p>",
+        "sr": "<p>Sva predavanja i susrete objavljujemo u rubrici „Predavanja\" kalendara — od univerzitetskih do barskih.</p><h2>Predavanja na ruskom</h2><p>Ruskojezična scena predavanja u Beogradu je iznenađujuće gusta: priče o gradu i Balkanu, ciklusi o umetnosti, psihologija, film i književnost. Stalni domovi žanra su Auditoria na Dorćolu i druga mesta u centru; formati — od klasičnog predavanja do projekcije sa razgovorom. Ulaz je obično jeftin ili uz donaciju. Poseban podžanr su predavanja-šetnje: istorija Beograda nogama.</p>",
+        "en": "<p>We publish all talks and meetups in the Lectures section of the calendar, from university halls to bars.</p><h2>Talks in Russian</h2><p>Belgrade's Russian-language lecture scene is surprisingly dense: stories of the city and the Balkans, art history cycles, psychology, film and literature. The genre's permanent homes are Auditoria in Dorćol and other spaces around the centre; the formats run from the classic lecture to a screening with discussion. Entry is usually cheap or by donation. A separate sub-genre is the walking lecture: Belgrade history on foot.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Сербский: где практиковать</h2><p>Выучить язык по учебнику — полдела; разговорные клубы делают вторую половину. Языковые кафе и тандем-встречи собирают тех, кто учит сербский, и тех, кто хочет практиковать русский или английский, — обмен получается честный. Следите за встречами в календаре и не бойтесь приходить с уровнем «здраво и хвала»: это ровно то место, где так и начинают.</p>",
+        "sr": "<h2>Srpski: gde vežbati</h2><p>Naučiti jezik iz udžbenika je pola posla; razgovorni klubovi rade drugu polovinu. Jezičke kafane i tandem-susreti skupljaju one koji uče srpski i one koji žele da vežbaju ruski ili engleski — razmena ispadne poštena. Ne bojte se doći sa nivoom „zdravo i hvala\": upravo tu se tako i počinje.</p>",
+        "en": "<h2>Serbian: where to practise</h2><p>Learning the language from a textbook is half the job; conversation clubs do the other half. Language cafes and tandem meetups bring together people learning Serbian and people who want to practise Russian or English, so the exchange is honest. Watch the calendar for meetups, and do not be afraid to come with a \"zdravo and hvala\" level: this is exactly where people start that way.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Лекции на сербском и английском</h2><p>🔵 Культурные институты — Французский институт, Гёте-институт, Институт Сервантеса — ведут открытые программы: лекции, дискуссии, кинопоказы, часто на английском или с переводом.</p><p>🔵 Дом молодёжи и культурные центры — трибуны, дискуссии и научпоп на сербском: отличная языковая практика с интересным содержанием.</p><p>🔵 Музеи и галереи сопровождают выставки кураторскими экскурсиями и лекциями — вход часто по билету выставки.</p>",
+        "sr": "<h2>Predavanja na srpskom i engleskom</h2><p>🔵 Kulturni instituti — Francuski institut, Gete institut, Servantes — vode otvorene programe: predavanja, diskusije, projekcije, često na engleskom ili sa prevodom.</p><p>🔵 Dom omladine i kulturni centri — tribine i naučnopop na srpskom: odlična jezička praksa uz zanimljiv sadržaj.</p><p>🔵 Muzeji i galerije prate izložbe kustoskim turama i predavanjima.</p>",
+        "en": "<h2>Talks in Serbian and English</h2><p>🔵 The cultural institutes, from the French Institute to the Goethe-Institut and the Cervantes Institute, run open programmes: talks, discussions, screenings, often in English or with translation.</p><p>🔵 Dom Omladine and the cultural centres host panels and science-pop in Serbian: excellent language practice with interesting content.</p><p>🔵 Museums and galleries accompany their exhibitions with curator tours and lectures, often included in the exhibition ticket.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Наука в баре</h2><p>Научпоп-вечера — живой жанр: астрономические вечера с телескопами, «наука в пабе», встречи с исследователями. Плюс обсерватория и планетарий на Калемегдане с регулярными программами. Формат демократичный: никто не проверяет дипломы, вопросы приветствуются, после лекции все остаются на разговор.</p>",
+        "sr": "<h2>Nauka u baru</h2><p>Naučnopopularne večeri su živ žanr: astronomske večeri sa teleskopima, „nauka u pabu\", susreti sa istraživačima. Tu su i opservatorija i planetarijum na Kalemegdanu sa redovnim programima. Format je demokratski: niko ne proverava diplome, pitanja su dobrodošla.</p>",
+        "en": "<h2>Science in a bar</h2><p>Science-pop nights are a living genre: astronomy evenings with telescopes, science-in-the-pub events, meetings with researchers. Add the observatory and planetarium at Kalemegdan with their regular programmes. The format is democratic: nobody checks diplomas, questions are welcome, and everyone stays to talk afterwards.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как выбрать свой формат</h2><p>🔵 Хотите слушать — начните с русскоязычной лекции по теме, которая и так интересна.</p><p>🔵 Хотите говорить — идите в разговорный клуб: два-три визита, и у вас появятся знакомые лица.</p><p>🔵 Хотите и то и другое на сербском — трибуны Дома молодёжи: медленная понятная речь лекторов — лучший аудиокурс.</p><p>🔵 Расписание всей недели — в разделе «Лекции»; бесплатные события помечены ценой «0».</p><p>Интеллектуальный Белград не требует приглашений: двери открыты, стулья свободны. Приходите послушать — останетесь поспорить.</p>",
+        "sr": "<h2>Kako izabrati svoj format</h2><p>🔵 Želite da slušate — počnite od predavanja na ruskom o temi koja vas ionako zanima.</p><p>🔵 Želite da govorite — razgovorni klub: dve-tri posete i imaćete poznata lica.</p><p>🔵 Želite oboje na srpskom — tribine Doma omladine: spor, jasan govor predavača najbolji je audio-kurs.</p><p>🔵 Raspored cele nedelje — u rubrici „Predavanja\"; besplatno nosi cenu „0\".</p>",
+        "en": "<h2>How to pick your format</h2><p>🔵 Want to listen? Start with a Russian-language talk on a topic you already like.</p><p>🔵 Want to speak? Go to a conversation club: two or three visits and you will have familiar faces.</p><p>🔵 Want both in Serbian? The Dom Omladine panels: the lecturers' slow, clear speech is the best audio course available.</p><p>🔵 The whole week's schedule is in the Lectures section; free events carry the price \"0\".</p><p>Intellectual Belgrade requires no invitation: the doors are open and the chairs are free. Come to listen; you will stay to argue.</p>"
+      }
+    }
+  ]
+}

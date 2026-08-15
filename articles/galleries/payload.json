@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Галереи и выставки Белграда: где следить за искусством",
+    "sr": "Galerije i izložbe: gde pratiti umetnost u Beogradu",
+    "en": "Galleries and exhibitions: following art in Belgrade"
+  },
+  "description": {
+    "ru": "<p>Выставочный Белград больше, чем кажется с улицы: за скромными дверями старого города прячутся десятки галерей, а музейная сцена за последние годы пережила второе рождение. Рассказываем, где смотреть искусство — от национальной классики до завтрашнего авангарда — и как устроен местный выставочный ритм.</p>",
+    "sr": "<p>Izložbeni Beograd je veći nego što izgleda sa ulice: iza skromnih vrata starog grada krije se na desetine galerija, a muzejska scena je poslednjih godina doživela drugo rođenje. Evo gde se gleda umetnost — od nacionalne klasike do sutrašnje avangarde.</p>",
+    "en": "<p>Exhibition Belgrade is bigger than it looks from the street: dozens of galleries hide behind the modest doors of the old town, and the museum scene has lived through a rebirth in recent years. Here is where to look at art, from the national classics to tomorrow's avant-garde, and how the local exhibition rhythm works.</p>"
+  },
+  "cover": {
+    "file": "galleries-cover-msu.webp",
+    "alt": {
+      "ru": "Музей современного искусства в парке Ушче",
+      "sr": "Muzej savremene umetnosti na Ušću",
+      "en": "The Museum of Contemporary Art in Ušće park"
+    },
+    "caption": {
+      "ru": "Фото: Fred Romero / Wikimedia Commons, CC BY 4.0",
+      "sr": "Foto: Fred Romero / Wikimedia Commons, CC BY 4.0",
+      "en": "Photo: Fred Romero / Wikimedia Commons, CC BY 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Открытия выставок и большие проекты мы публикуем в календаре Афиши; галерейная жизнь тем и хороша, что почти вся бесплатна.</p><h2>Большая тройка музеев</h2><p>🔵 Народный музей на площади Республики — национальная коллекция от археологии до французских импрессионистов; после долгой реконструкции музей снова в строю.</p><p>🔵 Музей современного искусства в парке Ушче — модернистское здание-скульптура и югославский модернизм внутри; вокруг — скульптурный парк с видом на реку.</p><p>🔵 Музей Югославии с Домом цветов — искусство, история и миф о стране, которой нет; про него у нас есть отдельная статья.</p>",
+        "sr": "<p>Otvaranja izložbi i velike projekte objavljujemo u kalendaru Afiše; galerijski život je utoliko lepši što je skoro sav besplatan.</p><h2>Velika trojka muzeja</h2><p>🔵 Narodni muzej na Trgu republike — nacionalna kolekcija od arheologije do francuskih impresionista; posle duge rekonstrukcije muzej je ponovo u stroju.</p><p>🔵 Muzej savremene umetnosti na Ušću — modernistička zgrada-skulptura i jugoslovenski modernizam unutra; okolo park skulptura s pogledom na reku.</p><p>🔵 Muzej Jugoslavije sa Kućom cveća — umetnost, istorija i mit o zemlji koje nema.</p>",
+        "en": "<p>We publish exhibition openings and major projects in the Afisha calendar; the beauty of gallery life is that almost all of it is free.</p><h2>The big three museums</h2><p>🔵 The National Museum on Republic Square: the national collection from archaeology to the French impressionists, back in service after a long reconstruction.</p><p>🔵 The Museum of Contemporary Art in Ušće park: a modernist sculpture of a building with Yugoslav modernism inside, and a sculpture park with a river view around it.</p><p>🔵 The Museum of Yugoslavia with the House of Flowers: art, history and the myth of a country that no longer exists.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Галереи и культурные центры</h2><p>Галерейная карта центра плотная: Культурный центр Белграда у площади Республики, залы САНУ на Кнез-Михайловой, павильон «Цвиета Зузорич» на Калемегдане, U10 и молодые пространства, галереи культурных центров и факультетов. Отдельный жанр — художественный павильон и галереи Дома молодёжи. Вход почти всюду свободный, экспозиции меняются каждые несколько недель — заглядывать стоит регулярно.</p>",
+        "sr": "<h2>Galerije i kulturni centri</h2><p>Galerijska mapa centra je gusta: Kulturni centar Beograda kod Trga, sale SANU u Knez Mihailovoj, paviljon „Cvijeta Zuzorić\" na Kalemegdanu, U10 i mlada prostranstva, galerije kulturnih centara i fakulteta. Ulaz je skoro svuda slobodan, postavke se menjaju na nekoliko nedelja.</p>",
+        "en": "<h2>Galleries and cultural centres</h2><p>The centre's gallery map is dense: the Cultural Centre of Belgrade near the square, the SANU halls on Knez Mihailova, the Cvijeta Zuzorić pavilion at Kalemegdan, U10 and the young spaces, the galleries of cultural centres and faculties. Entry is free almost everywhere and the shows change every few weeks, so regular visits pay off.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Вернисажи: искусство как светская жизнь</h2><p>Открытие выставки по-белградски — это будний вечер, знакомые лица, короткая речь куратора и разговоры до закрытия. Вход свободный, дресс-кода нет, чужаков не бывает — за пару месяцев регулярных вернисажей вы начнёте здороваться с половиной зала. Анонсы открытий смотрите в календаре: это самый простой способ войти в художественную среду города.</p>",
+        "sr": "<h2>Vernisaži: umetnost kao društveni život</h2><p>Otvaranje izložbe po beogradski — radno veče, poznata lica, kratka reč kustosa i razgovori do zatvaranja. Ulaz slobodan, dres-koda nema, stranaca nema — posle par meseci redovnih vernisaža pozdravljaćete se sa pola sale. Najave otvaranja su u kalendaru.</p>",
+        "en": "<h2>Openings: art as social life</h2><p>An exhibition opening Belgrade-style is a weekday evening, familiar faces, a short word from the curator and conversations until closing. Entry is free, there is no dress code and there are no outsiders: after a couple of months of regular openings you will greet half the room. Watch the calendar for announcements; it is the easiest way into the city's art world.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>События выставочного года</h2><p>🔵 Октябрьский салон (ныне Белградская биеннале) — главный смотр современного искусства.</p><p>🔵 «Ночь музеев» в мае — марафон по десяткам площадок за один вечер.</p><p>🔵 Ярмарки искусства и дизайна, недели галерей, открытые ателье — рассыпаны по сезону; следите за анонсами.</p><p>🔵 Русскоязычные художники Белграда регулярно показываются и в местных галереях, и на самоорганизованных площадках — эти выставки мы отмечаем отдельно.</p>",
+        "sr": "<h2>Događaji izložbene godine</h2><p>🔵 Oktobarski salon (danas Beogradsko bijenale) — glavna smotra savremene umetnosti.</p><p>🔵 Majska „Noć muzeja\" — maraton kroz desetine adresa za jedno veče.</p><p>🔵 Sajmovi umetnosti i dizajna, nedelje galerija, otvoreni ateljei — rasuti kroz sezonu.</p><p>🔵 Ruskojezični umetnici Beograda redovno izlažu i u lokalnim galerijama i na samoorganizovanim mestima.</p>",
+        "en": "<h2>The exhibition year</h2><p>🔵 The October Salon (now the Belgrade Biennale) is the main survey of contemporary art.</p><p>🔵 Museum Night in May is a marathon through dozens of venues in one evening.</p><p>🔵 Art and design fairs, gallery weeks and open studios are scattered through the season.</p><p>🔵 Belgrade's Russian-speaking artists show regularly in local galleries and self-organized spaces, and we flag those exhibitions separately.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Практика</h2><p>🔵 Музеи: билеты недороги, у многих есть бесплатные дни; понедельник — почти всюду выходной, проверяйте перед визитом.</p><p>🔵 Галереи: бесплатно, часы обычно с полудня до вечера.</p><p>🔵 Хотите системности — выберите два-три пространства и ходите на каждую смену экспозиции: через полгода вы будете ориентироваться в сербском искусстве лучше многих местных.</p><p>Искусство здесь на расстоянии одной прогулки: маршрут «три галереи и кофе» умещается в два часа субботы. Начните с ближайшего вернисажа из календаря.</p>",
+        "sr": "<h2>Praktično</h2><p>🔵 Muzeji: karte su jeftine, mnogi imaju besplatne dane; ponedeljkom je skoro svuda zatvoreno — proverite pred polazak.</p><p>🔵 Galerije: besplatno, radno vreme obično od podneva do večeri.</p><p>🔵 Za sistem: izaberite dva-tri prostora i idite na svaku smenu postavke — za pola godine snalazićete se u srpskoj umetnosti bolje od mnogih domaćih.</p>",
+        "en": "<h2>Practical notes</h2><p>🔵 Museums: tickets are cheap and many have free days; Monday is closing day almost everywhere, so check before you go.</p><p>🔵 Galleries: free, usually open from noon to evening.</p><p>🔵 If you want a system, pick two or three spaces and visit every new show: in half a year you will navigate Serbian art better than many locals.</p><p>Art here is one walk away: the route of \"three galleries and a coffee\" fits into two Saturday hours. Start with the nearest opening in the calendar.</p>"
+      }
+    }
+  ]
+}

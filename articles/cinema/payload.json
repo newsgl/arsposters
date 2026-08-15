@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Кино в Белграде: где смотреть фильмы в оригинале",
+    "sr": "Bioskopski Beograd: gde se filmovi gledaju u originalu",
+    "en": "Cinema in Belgrade: where to watch films in the original"
+  },
+  "description": {
+    "ru": "<p>Для многих переехавших это открытие номер один: в сербских кинотеатрах фильмы не дублируют. Всё, кроме детской анимации, идёт на языке оригинала с сербскими субтитрами — голливудская премьера звучит по-английски, французская драма по-французски. Если вы соскучились по кино на большом экране, Белград устроен для вас удобнее, чем кажется.</p>",
+    "sr": "<p>Za mnoge doseljenike ovo je otkriće broj jedan: u srpskim bioskopima filmovi se ne sinhronizuju. Sve osim dečje animacije ide na jeziku originala sa srpskim titlovima. Ako vam nedostaje veliko platno, Beograd je za vas zgodniji nego što izgleda.</p>",
+    "en": "<p>For many newcomers this is discovery number one: Serbian cinemas do not dub films. Everything except children's animation runs in the original language with Serbian subtitles. A Hollywood premiere sounds in English, a French drama in French. If you miss the big screen, Belgrade is set up for you better than it seems.</p>"
+  },
+  "cover": {
+    "file": "cinema-cover-kinoteka.webp",
+    "alt": {
+      "ru": "Здание Югославской кинотеки на Узун-Мирковой",
+      "sr": "Zgrada Jugoslovenske kinoteke u Uzun Mirkovoj",
+      "en": "The Yugoslav Film Archive building on Uzun Mirkova"
+    },
+    "caption": {
+      "ru": "Фото: Nikolina Šepić / Wikimedia Commons, CC BY-SA 4.0",
+      "sr": "Foto: Nikolina Šepić / Wikimedia Commons, CC BY-SA 4.0",
+      "en": "Photo: Nikolina Šepić / Wikimedia Commons, CC BY-SA 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Сеансы кинофестивалей и специальные показы мы публикуем в календаре Афиши; здесь — постоянная карта кинотеатров и фестивальный календарь года.</p><h2>Мультиплексы: премьеры в оригинале</h2><p>Сетевые кинотеатры в торговых центрах показывают мировой прокат в обычном режиме: оригинальная дорожка, сербские субтитры. Для англоязычных фильмов это значит «как дома»; для остальных — тренировка сербского бонусом. Исключение одно: детские мультфильмы чаще идут в сербском дубляже — проверяйте пометки sinhronizovano (дубляж) и titlovano (субтитры) при покупке.</p>",
+        "sr": "<p>Festivalske projekcije i posebne prikaze objavljujemo u kalendaru Afiše; ovde je stalna mapa bioskopa i festivalski kalendar godine.</p><h2>Multipleksi: premijere u originalu</h2><p>Mrežni bioskopi u tržnim centrima prikazuju svetski repertoar u originalu sa titlovima. Izuzetak su dečji crtaći, koji češće idu sinhronizovano — proveravajte oznake „sinhronizovano\" i „titlovano\" pri kupovini.</p>",
+        "en": "<p>We publish festival screenings and special showings in the Afisha calendar; here is the permanent map of the cinemas and the festival calendar of the year.</p><h2>The multiplexes: premieres in the original</h2><p>The chain cinemas in the shopping centres show worldwide releases in the usual local way: original soundtrack, Serbian subtitles. For English-language films that means \"just like home\"; for the rest, Serbian practice comes as a bonus. The one exception: children's cartoons more often run dubbed. Check the labels \"sinhronizovano\" (dubbed) and \"titlovano\" (subtitled) when buying.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Кинотека: храм киноархива</h2><p>Югославская кинотека — главный кинематографический адрес города и один из крупнейших киноархивов Европы. В зале на Узун-Мирковой крутят классику — от немого кино до ретроспектив великих режиссёров, часто по символическим ценам. Отдельное здание кинотеки на Косовской показывает архивные программы ежедневно. Совет: даже если фильм вам знаком наизусть, сходить в Кинотеку стоит ради самого ритуала — это кино как его смотрели сто лет назад, только с удобными креслами.</p>",
+        "sr": "<h2>Kinoteka: hram filmskog arhiva</h2><p>Jugoslovenska kinoteka je glavna filmska adresa grada i jedan od najvećih filmskih arhiva Evrope. U sali u Uzun Mirkovoj vrti se klasika — od nemog filma do retrospektiva velikih režisera, često po simboličnim cenama; zgrada u Kosovskoj prikazuje arhivske programe svakodnevno. Savet: u Kinoteku vredi otići i zbog samog rituala — to je bioskop kakav se gledao pre sto godina, samo sa udobnijim sedištima.</p>",
+        "en": "<h2>The Kinoteka: a temple of the film archive</h2><p>The Yugoslav Film Archive, the Kinoteka, is the city's main cinematic address and one of the largest film archives in Europe. The hall on Uzun Mirkova screens the classics, from silent film to retrospectives of the great directors, often at symbolic prices; the Kosovska building shows archive programmes daily. A tip: even if you know a film by heart, the Kinoteka is worth visiting for the ritual itself. It is cinema as it was watched a century ago, only with comfortable seats.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Артхаус и летние сцены</h2><p>🔵 Дом молодёжи и культурные центры регулярно показывают фестивальное и авторское кино.</p><p>🔵 Летние кинотеатры — отдельная белградская радость: показы под открытым небом в парках, во дворах и на крышах, чаще всего бесплатные или за донат. Следите за летними программами в календаре.</p><p>🔵 Кинопоказы с обсуждениями — жанр русскоязычной сцены: клубы и пространства собирают вечера вокруг классики и документалистики.</p>",
+        "sr": "<h2>Arthaus i letnje scene</h2><p>🔵 Dom omladine i kulturni centri redovno prikazuju festivalski i autorski film.</p><p>🔵 Letnji bioskopi su posebna beogradska radost: projekcije pod otvorenim nebom u parkovima i dvorištima, najčešće besplatne ili uz donaciju.</p><p>🔵 Projekcije sa razgovorom — žanr ruskojezične scene: klubovi prave večeri oko klasike i dokumentaraca.</p>",
+        "en": "<h2>Arthouse and the summer screens</h2><p>🔵 Dom Omladine and the cultural centres regularly show festival and auteur cinema.</p><p>🔵 Open-air summer cinemas are a particular Belgrade joy: screenings in parks, courtyards and rooftops, usually free or by donation.</p><p>🔵 Screenings with discussions are a genre of the Russian-language scene: clubs build evenings around classics and documentaries.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Фестивальный календарь</h2><p>🔵 FEST (конец февраля — март) — главный кинофестиваль страны, работающий с 1971 года: мировое кино большими блоками, билеты недорогие, залы полные.</p><p>🔵 Beldocs (май) — международный фестиваль документального кино.</p><p>🔵 Кинофестивали поменьше рассыпаны по всему году: этнографическое кино, короткий метр, национальные недели кино — почти каждый месяц что-то идёт.</p><p>Все фестивальные программы появляются в календаре Афиши по мере анонсов.</p>",
+        "sr": "<h2>Festivalski kalendar</h2><p>🔵 FEST (kraj februara — mart) — glavni filmski festival zemlje, radi od 1971: svetski film u velikim blokovima, karte pristupačne, sale pune.</p><p>🔵 Beldocs (maj) — međunarodni festival dokumentarnog filma.</p><p>🔵 Manji festivali rasuti su kroz celu godinu: etnografski film, kratki metar, nacionalne nedelje filma.</p>",
+        "en": "<h2>The festival calendar</h2><p>🔵 FEST (late February to March) is the country's main film festival, running since 1971: world cinema in big blocks, affordable tickets, full halls.</p><p>🔵 Beldocs (May) is the international documentary festival.</p><p>🔵 Smaller festivals are scattered through the year: ethnographic film, shorts, national cinema weeks.</p><p>All festival programmes appear in the Afisha calendar as they are announced.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Практика</h2><p>🔵 Билет в мультиплекс — несколько сотен динаров, будние дневные сеансы дешевле; Кинотека и культурные центры — ещё дешевле.</p><p>🔵 Расписания смотрите на сайтах кинотеатров; фестивальные показы и специальные события — у нас.</p><p>🔵 Попкорн в Кинотеку не носят: там свой жанр — тишина и титры.</p><p>Кино в оригинале — из тех местных привычек, к которым привыкаешь мгновенно и навсегда. Пересмотреть любимый фильм на большом экране, а не на ноутбуке, — законный повод выйти из дома в любой вечер недели.</p>",
+        "sr": "<h2>Praktično</h2><p>🔵 Karta za multipleks — nekoliko stotina dinara, radnim danima jeftinije; Kinoteka i kulturni centri — još jeftinije.</p><p>🔵 Repertoare gledajte na sajtovima bioskopa; festivalske projekcije i posebne događaje — kod nas.</p><p>🔵 Kokice se u Kinoteku ne nose: tamo važi drugi žanr — tišina i titlovi.</p>",
+        "en": "<h2>Practical notes</h2><p>🔵 A multiplex ticket costs a few hundred dinars, with weekday matinees cheaper; the Kinoteka and cultural centres cost even less.</p><p>🔵 Check listings on the cinemas' sites; festival screenings and special events are with us.</p><p>🔵 Do not bring popcorn to the Kinoteka: a different genre applies there, silence and subtitles.</p>"
+      }
+    }
+  ]
+}
