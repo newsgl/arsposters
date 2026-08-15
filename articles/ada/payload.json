@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Ада Циганлия и Лидо: летний гид по пляжному Белграду",
+    "sr": "Ada Ciganlija i Lido: letnji vodič kroz plažni Beograd",
+    "en": "Ada Ciganlija and Lido: the summer guide to beach Belgrade"
+  },
+  "description": {
+    "ru": "<p>У Белграда нет моря, но есть Ада Циганлия — остров-полуостров на Саве с озером, семью километрами пляжей и статусом «белградского моря». Летом сюда переезжает полгорода: купаться, крутить педали, играть в пляжный волейбол и провожать закаты с кабаном чевапи. Разбираем, как устроена Ада и её младший брат Лидо на земунской стороне.</p>",
+    "sr": "<p>Beograd nema more, ali ima Adu Ciganliju — ostrvo-poluostrvo na Savi sa jezerom, kilometrima plaža i statusom „beogradskog mora\". Leti se ovamo preseli pola grada: na kupanje, pedale, odbojku na pesku i zalaske uz ćevape. Evo kako funkcionišu Ada i njen mlađi brat Lido sa zemunske strane.</p>",
+    "en": "<p>Belgrade has no sea, but it has Ada Ciganlija: an island-peninsula on the Sava with a lake, kilometres of beaches and the status of \"Belgrade's seaside\". In summer half the city moves here to swim, pedal, play beach volleyball and watch sunsets over grilled ćevapi. Here is how Ada works, along with its younger sibling Lido on the Zemun side.</p>"
+  },
+  "cover": {
+    "file": "ada-cover-sunset.webp",
+    "alt": {
+      "ru": "Закат над Савским озером на Аде Циганлии",
+      "sr": "Zalazak nad Savskim jezerom na Adi Ciganliji",
+      "en": "Sunset over the Sava lake at Ada Ciganlija"
+    },
+    "caption": {
+      "ru": "Фото: Monte666 / Wikimedia Commons, CC BY-SA 4.0",
+      "sr": "Foto: Monte666 / Wikimedia Commons, CC BY-SA 4.0",
+      "en": "Photo: Monte666 / Wikimedia Commons, CC BY-SA 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Летние события — открытые тренировки, фестивали и вечеринки на Аде — появляются в календаре Афиши всю тёплую половину года.</p><h2>Озеро и пляжи</h2><p>Савское озеро — закрытая вода без течения: тёплая, спокойная, с оборудованными бетонными и галечными пляжами по периметру. Вход свободный, спасатели и душевые летом работают, вода официально проверяется. Народу в выходные много — за тишиной приезжайте в будни утром или выбирайте дальние точки острова.</p>",
+        "sr": "<p>Letnje događaje — treninge, festivale i žurke na Adi — objavljujemo u kalendaru cele tople polovine godine.</p><h2>Jezero i plaže</h2><p>Savsko jezero je zatvorena voda bez matice: topla, mirna, sa uređenim plažama po obodu. Ulaz je slobodan, spasioci i tuševi leti rade, voda se zvanično kontroliše. Vikendom je gužva — za mir dolazite radnim danom ujutru ili birajte dalje tačke ostrva.</p>",
+        "en": "<p>Summer events on Ada, from open trainings to festivals and parties, appear in the Afisha calendar all through the warm half of the year.</p><h2>The lake and the beaches</h2><p>The Sava lake is enclosed water without a current: warm, calm, with equipped beaches around the rim. Entry is free, lifeguards and showers work in summer, and the water is officially monitored. Weekends are crowded; for quiet come on a weekday morning or pick the island's far ends.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Спорт: главная спортплощадка города</h2><p>Ада — это километры велодорожек и роликовых трасс (прокат на месте), SUP и каяки на озере, пляжный волейбол и футбол, скалодром, вейк-кабель на малом озере и легендарные утренние пробежки вокруг воды — круг около восьми километров. Оборудование почти на всё берётся в аренду; уровень «впервые пробую» здесь никого не смущает.</p>",
+        "sr": "<h2>Sport: glavni gradski teren</h2><p>Ada su kilometri biciklističkih i rolerskih staza (iznajmljivanje na licu mesta), SUP i kajaci na jezeru, odbojka i fudbal na pesku, veštačka stena, vejk-kabl na malom jezeru i legendarna jutarnja trčanja oko vode — krug od oko osam kilometara. Oprema se iznajmljuje skoro za sve; nivo „prvi put probam\" ovde nikoga ne buni.</p>",
+        "en": "<h2>Sport: the city's main playing field</h2><p>Ada means kilometres of cycling and rollerblading tracks (rentals on site), SUP boards and kayaks on the lake, beach volleyball and football, a climbing wall, a wakeboard cable on the small lake and the legendary morning runs around the water, a loop of about eight kilometres. Almost everything can be rented, and the \"first time trying\" level embarrasses nobody here.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Еда и закаты</h2><p>Периметр озера — сплошная линия кафан, гриль-киосков и кафе: чевапи и плескавица у воды — законный финал купального дня. Вечером Ада не закрывается: бары работают допоздна, а закаты над Савой отсюда — из главных городских. Часть заведений живёт и зимой — Ада остаётся местом прогулок круглый год.</p>",
+        "sr": "<h2>Hrana i zalasci</h2><p>Obod jezera je neprekidna linija kafana, roštilj-kioska i kafića: ćevapi uz vodu su legitiman kraj kupačkog dana. Uveče se Ada ne zatvara: barovi rade do kasno, a ovdašnji zalasci nad Savom spadaju u glavne gradske.</p>",
+        "en": "<h2>Food and sunsets</h2><p>The lake's rim is a continuous line of kafanas, grill kiosks and cafes: ćevapi by the water are the legitimate end of a swimming day. In the evening Ada does not close: the bars work late, and the sunsets over the Sava rank among the city's best. Some places stay open in winter too, and Ada remains a walking spot all year.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Лидо: дикий пляж Земуна</h2><p>Лидо — песчаный пляж на Большом военном островище напротив Земуна: по-настоящему летнее место с характером «дикого» отдыха. Главный аттракцион — сам путь: летом к пляжу наводят понтонный мост от земунской набережной. Инфраструктуры меньше, чем на Аде, зато песок настоящий и Дунай рядом. Работает только в сезон — следите за анонсами открытия понтона.</p>",
+        "sr": "<h2>Lido: divlja plaža Zemuna</h2><p>Lido je peščana plaža na Velikom ratnom ostrvu naspram Zemuna: pravo letnje mesto sa karakterom „divljeg\" odmora. Glavna atrakcija je sam put: leti se do plaže postavlja pontonski most sa zemunskog keja. Infrastrukture je manje nego na Adi, ali je pesak pravi, a Dunav odmah tu. Radi samo u sezoni.</p>",
+        "en": "<h2>Lido: Zemun's wild beach</h2><p>Lido is the sandy beach on the Great War Island opposite Zemun: a properly summery place with a \"wild\" holiday character. The main attraction is the journey itself: in summer a pontoon bridge is laid from the Zemun quay to the beach. There is less infrastructure than on Ada, but the sand is real and the Danube is right there. It works only in season; watch for the pontoon opening announcements.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Практика</h2><p>🔵 Добраться до Ады: автобусы до Ada Ciganlija с обеих сторон реки; на велосипеде — по набережным, самый приятный путь.</p><p>🔵 Деньги: вход бесплатный, платные — прокаты, шезлонги и еда. Наличные пригодятся у киосков.</p><p>🔵 С детьми: мелководные зоны, площадки и мороженое каждые сто метров; про остальной детский город — в <a href=\"/ru/recommend/kuda-pojti-s-rebenkom-v-belgrade-postoannye-mesta-i-regularnye-program-ru724\">нашем гиде</a>.</p><p>🔵 Сезон: купальный — с июня по сентябрь; спортивно-прогулочный — круглый год.</p><p>Ада — ответ Белграда на вопрос «куда все делись в июле». Присоединяйтесь: море не обязательно, когда есть остров.</p>",
+        "sr": "<h2>Praktično</h2><p>🔵 Prevoz do Ade: autobusi sa obe strane reke; biciklom po kejovima — najlepši put.</p><p>🔵 Novac: ulaz besplatan, plaćaju se iznajmljivanja, ležaljke i hrana. Keš dobro dođe kod kioska.</p><p>🔵 Sa decom: plićaci, igrališta i sladoled na svakih sto metara; ostatak dečjeg grada — u <a href=\"/sr/recommend/kuda-sa-detetom-u-beogradu-stalna-mesta-i-redovni-programi-sr724\">našem vodiču</a>.</p><p>🔵 Sezona: kupanje jun—septembar; sport i šetnja — cele godine.</p>",
+        "en": "<h2>Practical notes</h2><p>🔵 Getting to Ada: buses from both sides of the river, or by bicycle along the quays, the prettiest way.</p><p>🔵 Money: entry is free; rentals, loungers and food are paid. Cash helps at the kiosks.</p><p>🔵 With children: shallow zones, playgrounds and ice cream every hundred metres; the rest of children's Belgrade is in <a href=\"/en/recommend/belgrade-with-kids-the-permanent-places-and-regular-programmes-en724\">our guide</a>.</p><p>🔵 Season: swimming from June to September; sport and walks all year round.</p><p>Ada is Belgrade's answer to \"where did everyone go in July\". Join in: you do not need a sea when you have an island.</p>"
+      }
+    }
+  ]
+}

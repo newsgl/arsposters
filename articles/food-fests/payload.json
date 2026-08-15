@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Гастрофестивали Белграда: год еды под открытым небом",
+    "sr": "Gastro-festivali Beograda: godina hrane pod otvorenim nebom",
+    "en": "Belgrade food festivals: a year of eating outdoors"
+  },
+  "description": {
+    "ru": "<p>Белград ест с удовольствием и любит делать это на улице: с весны до осени в городе один за другим идут фестивали еды — от бургеров и крафтового пива до вина и веганской кухни. Это самый вкусный способ провести выходные и заодно посмотреть, как город умеет собираться за одним столом. Разбираем гастрономический календарь года.</p>",
+    "sr": "<p>Beograd jede sa zadovoljstvom i voli to da radi na ulici: od proleća do jeseni u gradu se ređaju festivali hrane — od burgera i kraft piva do vina i veganske kuhinje. To je najukusniji način da se provede vikend. Evo gastronomskog kalendara godine.</p>",
+    "en": "<p>Belgrade eats with pleasure and likes doing it in the street: from spring to autumn the city runs food festival after food festival, from burgers and craft beer to wine and vegan cooking. It is the tastiest way to spend a weekend and to watch the city gather around one table. Here is the gastronomic calendar of the year.</p>"
+  },
+  "cover": {
+    "file": "food-cover-cevapi.webp",
+    "alt": {
+      "ru": "Чевапи с луком — сербская уличная классика",
+      "sr": "Ćevapi sa lukom — srpski ulični klasik",
+      "en": "Ćevapi with onions, the Serbian street classic"
+    },
+    "caption": {
+      "ru": "Фото: young shanahan / Wikimedia Commons, CC BY 2.0",
+      "sr": "Foto: young shanahan / Wikimedia Commons, CC BY 2.0",
+      "en": "Photo: young shanahan / Wikimedia Commons, CC BY 2.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Все гастрособытия с датами появляются в календаре Афиши по мере анонсов — здесь описан ежегодный ритм.</p><h2>Большая тройка лета</h2><p>🔵 Belgrade Beer Fest — главный фестиваль пива: конец лета, большие сцены, пивоварни от гигантов до крафта и концертная программа в нагрузку. Один из самых массовых фестивалей страны.</p><p>🔵 Belgrade Burger Fest — праздник бургера с конкурсной интригой: десятки грилей соревнуются за звание лучшего.</p><p>🔵 Уличная еда на Ташмайдане и городские стритфуд-фестивали — формат «весь мир на одной площади»: от азиатской лапши до балканского роштиля.</p>",
+        "sr": "<p>Sva gastro-događanja sa datumima ulaze u kalendar Afiše po najavama — ovde je opisan godišnji ritam.</p><h2>Velika letnja trojka</h2><p>🔵 Belgrade Beer Fest — glavni festival piva: kraj leta, velike bine, pivare od giganata do krafta i koncertni program pride.</p><p>🔵 Belgrade Burger Fest — praznik burgera sa takmičarskom intrigom: deseci roštilja bore se za titulu.</p><p>🔵 Ulična hrana na Tašmajdanu i gradski strit-fud festivali — „ceo svet na jednom trgu\".</p>",
+        "en": "<p>All food events with dates enter the Afisha calendar as they are announced; this piece describes the annual rhythm.</p><h2>The big summer three</h2><p>🔵 Belgrade Beer Fest, the main beer festival: late summer, big stages, breweries from giants to craft, with a concert programme thrown in. One of the country's most massive festivals.</p><p>🔵 Belgrade Burger Fest, the burger holiday with a competitive plot: dozens of grills fight for the title.</p><p>🔵 Street food on Tašmajdan and the city's street food festivals: the whole world on one square, from Asian noodles to Balkan roštilj.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Вино, ракия и напитки</h2><p>Осень и зима — время напитков: винные салоны и Wine Week, фестивали ракии, крафтовые пивные события поменьше. Про винную сцену у нас есть отдельный гид; события ищите в календаре по слову «вино».</p>",
+        "sr": "<h2>Vino, rakija i pića</h2><p>Jesen i zima su vreme pića: vinski saloni i Wine Week, festivali rakije, manja kraft-pivska događanja. O vinskoj sceni imamo poseban vodič; događaje tražite u kalendaru.</p>",
+        "en": "<h2>Wine, rakija and drinks</h2><p>Autumn and winter belong to drinks: wine salons and Wine Week, rakija festivals, smaller craft beer events. We have a separate guide to the wine scene; search the calendar for the events.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Нишевые радости</h2><p>🔵 Vege Fest — веганская и вегетарианская сцена: стритфуд, лекции, рынок продуктов.</p><p>🔵 Сырные и медовые фестивали, дни локальных продуктов — камерные, но душевные.</p><p>🔵 Кулинарные события в рамках больших праздников: гастрономические зоны есть почти у каждого городского фестиваля.</p><p>🔵 Рождественские и новогодние ярмарки — сезонная еда: кувано вино, роштиль и сладости.</p>",
+        "sr": "<h2>Nišne radosti</h2><p>🔵 Vege Fest — veganska i vegetarijanska scena.</p><p>🔵 Festivali sira i meda, dani lokalnih proizvoda — kamerni ali topli.</p><p>🔵 Gastro-zone postoje skoro na svakom gradskom festivalu.</p><p>🔵 Praznični bazari — sezonska hrana: kuvano vino, roštilj, slatkiši.</p>",
+        "en": "<h2>Niche joys</h2><p>🔵 Vege Fest, the vegan and vegetarian scene: street food, talks, a produce market.</p><p>🔵 Cheese and honey festivals and local product days, intimate but warm.</p><p>🔵 Food zones exist at almost every city festival.</p><p>🔵 Christmas and New Year fairs bring the seasonal menu: mulled wine, grill and sweets.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как устроен гастрофестиваль по-белградски</h2><p>Вход обычно бесплатный или символический — платите за еду и напитки внутри. Наличные ускоряют очередь, хотя карты берут почти все. Пик толпы — вечер субботы; гурманский час — открытие в пятницу, пока всё свежее и без очередей. Детей берут с собой без раздумий: это семейный формат с музыкой и площадками.</p>",
+        "sr": "<h2>Kako izgleda gastro-festival po beogradski</h2><p>Ulaz je obično besplatan ili simboličan — plaća se hrana i piće unutra. Keš ubrzava red, mada kartice primaju skoro svi. Špic gužve je subota uveče; gurmanski sat je otvaranje u petak, dok je sve sveže i bez redova. Deca se vode bez razmišljanja: format je porodičan.</p>",
+        "en": "<h2>How a Belgrade food festival works</h2><p>Entry is usually free or symbolic; you pay for food and drink inside. Cash speeds up the queue, though almost everyone takes cards. The crowd peaks on Saturday evening; the gourmet hour is the Friday opening, while everything is fresh and queueless. Children come along without a second thought: this is a family format with music and playgrounds.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Календарная стратегия</h2><p>🔵 Весна: открытие сезона, первые стритфуд-выходные.</p><p>🔵 Лето: пик — пиво, бургеры, уличная еда, фестивальные зоны на Ушчу и площадях.</p><p>🔵 Осень: вино, ракия, урожайные ярмарки.</p><p>🔵 Зима: праздничные ярмарки и тёплая еда на улице.</p><p>Следите за разделом фестивалей в календаре — даты объявляются за несколько недель. И приходите голодными: это единственное обязательное правило жанра.</p>",
+        "sr": "<h2>Kalendarska strategija</h2><p>🔵 Proleće: otvaranje sezone, prvi strit-fud vikendi.</p><p>🔵 Leto: špic — pivo, burgeri, ulična hrana, festivalske zone na Ušću.</p><p>🔵 Jesen: vino, rakija, berbe.</p><p>🔵 Zima: praznični bazari i topla hrana na ulici.</p><p>Pratite festivale u kalendaru — datumi se objavljuju nekoliko nedelja unapred. I dolazite gladni: to je jedino obavezno pravilo žanra.</p>",
+        "en": "<h2>The calendar strategy</h2><p>🔵 Spring: the season opens with the first street food weekends.</p><p>🔵 Summer: the peak, with beer, burgers, street food and festival zones at Ušće and on the squares.</p><p>🔵 Autumn: wine, rakija and harvest fairs.</p><p>🔵 Winter: holiday markets and warm food outdoors.</p><p>Watch the festivals section of the calendar; dates are announced a few weeks ahead. And come hungry: it is the genre's only mandatory rule.</p>"
+      }
+    }
+  ]
+}

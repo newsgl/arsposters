@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Зимний Белград: катки, купания и тёплые укрытия",
+    "sr": "Zimski Beograd: klizališta, kupanja i topla skloništa",
+    "en": "Winter Belgrade: ice rinks, icy swims and warm shelters"
+  },
+  "description": {
+    "ru": "<p>Белградская зима — недооценённый сезон: снега немного, минус мягкий, а городская жизнь не замирает, а перебирается — на катки, в кафаны, в залы и музеи. Рассказываем, чем занят город с декабря по февраль, помимо праздников, — о них у нас есть <a href=\"/ru/recommend/novyj-god-i-rozdestvo-v-belgrade-kak-gorod-vstrecaet-prazdniki-ru734\">отдельная статья</a>.</p>",
+    "sr": "<p>Beogradska zima je potcenjena sezona: snega je malo, minus je mek, a gradski život se ne gasi nego seli — na klizališta, u kafane, sale i muzeje. Evo čime grad živi od decembra do februara, mimo praznika — o njima imamo <a href=\"/sr/recommend/nova-godina-i-bozic-u-beogradu-kako-grad-docekuje-praznike-sr734\">poseban tekst</a>.</p>",
+    "en": "<p>The Belgrade winter is an underrated season: there is little snow, the frost is mild, and city life does not freeze but relocates, to the rinks, the kafanas, the halls and the museums. Here is what the city does from December to February beyond the holidays, which have <a href=\"/en/recommend/new-year-and-christmas-in-belgrade-how-the-city-celebrates-en734\">an article of their own</a>.</p>"
+  },
+  "cover": {
+    "file": "winter-cover-kalemegdan.webp",
+    "alt": {
+      "ru": "Снежный Калемегдан в феврале",
+      "sr": "Snežni Kalemegdan u februaru",
+      "en": "Snowy Kalemegdan in February"
+    },
+    "caption": {
+      "ru": "Фото: Aktron / Wikimedia Commons, CC BY 3.0",
+      "sr": "Foto: Aktron / Wikimedia Commons, CC BY 3.0",
+      "en": "Photo: Aktron / Wikimedia Commons, CC BY 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Материал сезонный: адреса катков и зимние программы конкретного года объявляются к декабрю — соберём их в календаре.</p><h2>Катки и зимний спорт</h2><p>С декабря в городе заливают катки: главный обычно работает в центре, свои появляются в районах и торговых центрах. Прокат коньков на месте, цены символические. Лыжники и сноубордисты уезжают на Копаоник и Златибор, но для пробы жанра есть и городская опция — склоны Кошутняка с зимними программами. А моржи и просто смелые ныряют в Саву и Дунай — кульминация 19 января, на богоявленских заплывах.</p>",
+        "sr": "<p>Tekst je sezonski: adrese klizališta i zimske programe konkretne godine objavljuju se do decembra — skupićemo ih u kalendaru.</p><h2>Klizališta i zimski sport</h2><p>Od decembra se u gradu zalivaju klizališta: glavno obično radi u centru, svoja niču po opštinama i tržnim centrima. Iznajmljivanje klizaljki na mestu, cene simbolične. Skijaši odlaze na Kopaonik i Zlatibor, a za probu žanra tu su i padine Košutnjaka. Moržovi i prosto hrabri zaranjaju u Savu i Dunav — vrhunac je 19. januara na bogojavljenskom plivanju.</p>",
+        "en": "<p>This is a seasonal piece: each year's rink addresses and winter programmes are announced by December, and we will gather them in the calendar.</p><h2>Rinks and winter sport</h2><p>From December the city floods its ice rinks: the main one usually works in the centre, with others appearing in the districts and shopping centres. Skate rental is on site and prices are symbolic. Skiers and snowboarders leave for Kopaonik and Zlatibor, but for a taste of the genre there are also the Košutnjak slopes with winter programmes. And the hardy dive into the Sava and the Danube, culminating on 19 January at the Epiphany swims.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Тёплая программа: сезон залов</h2><p>Зима — пик культурного сезона: филармония и опера в разгаре (<a href=\"/ru/recommend/klassiceskaa-muzyka-v-belgrade-kolarac-filarmonia-i-opera-ru656\">гид по классике</a>), театры играют ежедневно, музеи пустеют от туристов — лучшее время для <a href=\"/ru/recommend/muzei-belgrada-bolsoj-gid-ru735\">большого музейного гида</a>. Концертный график не редеет: залы работают круглый год, а клубная жизнь просто переезжает с сплавов под крышу.</p>",
+        "sr": "<h2>Topli program: sezona sala</h2><p>Zima je špic kulturne sezone: filharmonija i opera u punom pogonu (<a href=\"/sr/recommend/klasicna-muzika-u-beogradu-kolarac-filharmonija-i-opera-sr656\">vodič kroz klasiku</a>), pozorišta igraju svakodnevno, muzeji su bez turista — najbolje vreme za <a href=\"/sr/recommend/muzeji-beograda-veliki-vodic-sr735\">veliki muzejski vodič</a>. Koncertni raspored ne redi: sale rade cele godine, a klupski život se prosto seli sa splavova pod krov.</p>",
+        "en": "<h2>The warm programme: hall season</h2><p>Winter is the peak of the cultural season: the Philharmonic and the opera are in full swing (<a href=\"/en/recommend/classical-music-in-belgrade-kolarac-the-philharmonic-and-the-opera-en656\">the classical guide</a>), the theatres play daily, and the museums empty of tourists, which makes it the best time for <a href=\"/en/recommend/the-museums-of-belgrade-the-big-guide-en735\">the big museum guide</a>. The concert schedule does not thin out: the halls work all year, and club life simply moves from the splavovi under a roof.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Кафана как зимний вид спорта</h2><p>Зимой кафана раскрывается по-настоящему: печка, ракия, горячий сач и оркестр — всё, что нужно, когда за окном серо. Мы писали <a href=\"/ru/recommend/skadarlia-i-kafany-s-zivoj-muzykoj-vecer-po-serbski-ru655\">подробный гид по кафанам</a>; зимняя поправка одна — бронируйте столы у печки, их разбирают первыми. К кафанам добавьте купатила городских пекарен: горячая пита зимним утром — маленькое белградское счастье.</p>",
+        "sr": "<h2>Kafana kao zimski sport</h2><p>Zimi se kafana otvara u punom sjaju: peć, rakija, vreo sač i orkestar — sve što treba kad je napolju sivo. Napisali smo <a href=\"/sr/recommend/skadarlija-i-kafane-sa-zivom-muzikom-vece-po-srpski-sr655\">detaljan vodič kroz kafane</a>; zimska dopuna je jedna — rezervišite stolove uz peć, oni odu prvi.</p>",
+        "en": "<h2>The kafana as a winter sport</h2><p>In winter the kafana reveals itself fully: the stove, the rakija, the hot sač and the orchestra are everything you need when it is grey outside. We wrote <a href=\"/en/recommend/skadarlija-and-the-kafanas-with-live-music-a-proper-serbian-night-out-en655\">a detailed kafana guide</a>; the winter amendment is one line: book the tables by the stove, they go first. Add the city's bakeries: a hot pita on a winter morning is a small Belgrade happiness.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Зимние прогулки</h2><p>🔵 Снежный Калемегдан — главное зимнее зрелище города: крепость в снегу стоит раннего подъёма.</p><p>🔵 Земунский кей зимой пуст и красив; лебеди никуда не улетают.</p><p>🔵 Ада Циганлия работает как зимний парк: пробежки и прогулки вокруг замёрзающего озера.</p><p>🔵 Кошутняк и Топчидер — лес в городе, лучший снежный маршрут для детей с санками.</p>",
+        "sr": "<h2>Zimske šetnje</h2><p>🔵 Snežni Kalemegdan — glavni zimski prizor grada.</p><p>🔵 Zemunski kej je zimi prazan i lep; labudovi nikuda ne odleću.</p><p>🔵 Ada Ciganlija radi kao zimski park: trčanje i šetnja oko jezera.</p><p>🔵 Košutnjak i Topčider — šuma u gradu, najbolja snežna ruta za decu sa sankama.</p>",
+        "en": "<h2>Winter walks</h2><p>🔵 Snowy Kalemegdan is the city's main winter sight: the fortress under snow is worth the early rise.</p><p>🔵 The Zemun quay is empty and beautiful in winter; the swans do not fly anywhere.</p><p>🔵 Ada Ciganlija works as a winter park: runs and walks around the freezing lake.</p><p>🔵 Košutnjak and Topčider are the forest in the city, the best snowy route for kids with sledges.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Практика сезона</h2><p>🔵 Одежда: влажный ветреный минус ощущается холоднее сухого — слои и непродуваемая куртка решают.</p><p>🔵 Кошава — местный ветер, способный отменить прогулку: если дует, день создан для музея.</p><p>🔵 Световой день короткий: планируйте прогулки до 16:00, вечер отдавайте залам.</p><p>🔵 Все зимние события — от катков до концертов — собираем в календаре Афиши.</p><p>Зимний Белград — город для тех, кто умеет чередовать: час на морозе — вечер в тепле. Освоите этот ритм — полюбите зиму здесь сильнее лета.</p>",
+        "sr": "<h2>Praktično</h2><p>🔵 Odeća: vlažan vetrovit minus grize jače od suvog — slojevi i vetrovka rešavaju.</p><p>🔵 Košava ume da otkaže šetnju: kad duva, dan je stvoren za muzej.</p><p>🔵 Dan je kratak: šetnje planirajte do 16, veče dajte salama.</p><p>🔵 Sve zimske događaje skupljamo u kalendaru Afiše.</p>",
+        "en": "<h2>Season practicalities</h2><p>🔵 Clothing: the damp windy minus bites harder than a dry one; layers and a windproof jacket solve it.</p><p>🔵 The košava is the local wind that can cancel a walk: when it blows, the day is made for a museum.</p><p>🔵 Daylight is short: plan walks before 4 pm and give the evening to the halls.</p><p>🔵 We gather all winter events, from rinks to concerts, in the Afisha calendar.</p><p>Winter Belgrade is a city for those who can alternate: an hour in the frost, an evening in the warmth. Master that rhythm and you will love winter here more than summer.</p>"
+      }
+    }
+  ]
+}

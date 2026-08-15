@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Винный Белград: бары, дегустации и винные события",
+    "sr": "Vinski Beograd: barovi, degustacije i vinski događaji",
+    "en": "Wine Belgrade: bars, tastings and wine events"
+  },
+  "description": {
+    "ru": "<p>Сербское вино — одно из самых приятных открытий переезда: страна делает достойные вина уже полтора века, а последние годы переживает настоящий винный ренессанс — малые винодельни, автохтонные сорта и винные бары в каждом квартале центра. Рассказываем, как устроен винный Белград и где начинать знакомство.</p>",
+    "sr": "<p>Srpsko vino je jedno od najprijatnijih otkrića doseljenika: zemlja pravi ozbiljna vina već vek i po, a poslednjih godina živi pravi vinski renesans — male vinarije, autohtone sorte i vinski barovi u svakom kvartu centra. Evo kako izgleda vinski Beograd i gde početi.</p>",
+    "en": "<p>Serbian wine is one of the most pleasant discoveries of moving here: the country has made serious wine for a century and a half, and in recent years it has lived through a proper wine renaissance, with small wineries, indigenous varieties and wine bars in every central quarter. Here is how wine Belgrade works and where to start.</p>"
+  },
+  "cover": {
+    "file": "wine-cover-vinograd.webp",
+    "alt": {
+      "ru": "Виноградники в западной Сербии",
+      "sr": "Vinogradi u zapadnoj Srbiji",
+      "en": "Vineyards in western Serbia"
+    },
+    "caption": {
+      "ru": "Фото: Vladimir Pecikoza / Wikimedia Commons, CC BY-SA 4.0",
+      "sr": "Foto: Vladimir Pecikoza / Wikimedia Commons, CC BY-SA 4.0",
+      "en": "Photo: Vladimir Pecikoza / Wikimedia Commons, CC BY-SA 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Винные события — дегустации, салоны и фестивали — регулярно появляются в нашем календаре.</p><h2>Что пить: короткий словарь</h2><p>Начните с местного: прокупац — главный сербский красный сорт, тамяника — ароматный белый мускат, вранац — сосед из Черногории, смедеревка — лёгкое белое. Винные регионы — от Фрушка-Горы с её белыми до жупского и неготинского краёв с красными. Просите «домаће вино» осознанно: в кафане это может быть и разливной сюрприз, и локальная жемчужина.</p>",
+        "sr": "<p>Vinski događaji — degustacije, saloni i festivali — redovno su u našem kalendaru.</p><h2>Šta se pije: kratak rečnik</h2><p>Počnite od domaćeg: prokupac je glavna srpska crvena sorta, tamjanika mirisni beli muskat, vranac komšija iz Crne Gore, smederevka lako belo. Vinski regioni — od Fruške gore sa belim do župskog i negotinskog kraja sa crvenim. „Domaće vino\" u kafani tražite svesno: može biti i točeno iznenađenje i lokalni biser.</p>",
+        "en": "<p>Wine events, from tastings to salons and festivals, appear in our calendar regularly.</p><h2>What to drink: a short glossary</h2><p>Start local: prokupac is the flagship Serbian red variety, tamjanika an aromatic white muscat, vranac the neighbour from Montenegro, smederevka a light white. The wine regions run from Fruška Gora with its whites to the Župa and Negotin areas with their reds. Order \"domaće vino\" in a kafana consciously: it can be a house-pour surprise or a local gem.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Винные бары и энотеки</h2><p>Винная карта города выросла стремительно: энотеки и бары с сербскими картами есть на Дорчоле, в Савамале, на Врачаре. Формат дружелюбный: вина по бокалам, сеты для знакомства, сомелье без снобизма — просите «что-то сербское, что нас удивит», и вечер сложится. Бутылку домой удобно брать в специализированных винотеках — выбор сербского там шире, чем в супермаркете, а советы бесплатны.</p>",
+        "sr": "<h2>Vinski barovi i enoteke</h2><p>Vinska mapa grada je brzo narasla: enoteke i barovi sa srpskim kartama postoje na Dorćolu, u Savamali, na Vračaru. Format je prijateljski: vina na čaše, setovi za upoznavanje, somelijeri bez snobizma — tražite „nešto srpsko što će nas iznenaditi\" i veče je rešeno. Flašu za kući zgodnije je uzeti u specijalizovanim vinotekama.</p>",
+        "en": "<h2>Wine bars and enotecas</h2><p>The city's wine map has grown fast: enotecas and bars with Serbian lists live in Dorćol, Savamala and Vračar. The format is friendly: wines by the glass, discovery flights, sommeliers without snobbery. Ask for \"something Serbian that will surprise us\" and the evening arranges itself. For a bottle to take home, the specialist wine shops beat the supermarkets on selection, and the advice is free.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Дегустации и винные школы</h2><p>Регулярный жанр городской афиши — дегустации с сомелье: вертикали одного сорта, вечера региона, вино в паре с сыром или шоколадом. Заходят и винные школы выходного дня для начинающих. Вход обычно от одной до трёх тысяч динаров — дешевле, чем те же форматы в Западной Европе, и без очередей.</p>",
+        "sr": "<h2>Degustacije i vinske škole</h2><p>Redovan žanr gradskog programa su degustacije sa someljeom: vertikale jedne sorte, večeri regiona, vino u paru sa sirom ili čokoladom. Rade i vikend-škole vina za početnike. Ulaz je obično hiljadu do tri hiljade dinara — jeftinije nego isti formati na Zapadu, i bez redova.</p>",
+        "en": "<h2>Tastings and wine schools</h2><p>A regular genre of the city's listings is the sommelier-led tasting: verticals of one variety, evenings of a region, wine paired with cheese or chocolate. Weekend wine schools for beginners run too. Entry is usually one to three thousand dinars, cheaper than the same formats in Western Europe, and without the queues.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Салоны и фестивали</h2><p>Большие винные события собирают сотни этикеток под одной крышей: винные салоны и недели проходят в городе несколько раз в год — от больших смотров до камерных салонов малых виноделен. Это лучший способ за вечер попробовать десяток виноделен и увезти домой любимца; билет обычно включает бокал и дегустации. Анонсы — в календаре Афиши.</p>",
+        "sr": "<h2>Saloni i festivali</h2><p>Velika vinska događanja skupljaju stotine etiketa pod jednim krovom: vinski saloni i nedelje dešavaju se u gradu nekoliko puta godišnje. To je najbolji način da za veče probate desetak vinarija; karta obično uključuje čašu i degustacije. Najave — u kalendaru Afiše.</p>",
+        "en": "<h2>Salons and festivals</h2><p>The big wine events gather hundreds of labels under one roof: wine salons and weeks happen in the city several times a year, from large surveys to intimate salons of small wineries. It is the best way to try a dozen wineries in one evening and carry home a favourite; the ticket usually includes a glass and the tastings. Announcements are in the Afisha calendar.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Куда дальше: винодельни</h2><p>Следующий уровень — поехать к источнику: винодельни Фрушка-Горы и Смедерева принимают гостей с дегустациями, до многих меньше часа от города. Формат «винный уикенд» здесь пока не затоптан туристами — пользуйтесь, пока так.</p><p>Винный Белград щедр и нетороплив: здесь наливают, рассказывают и не торопят. Начните с ближайшей дегустации из календаря — прокупац сам расскажет остальное.</p>",
+        "sr": "<h2>Kuda dalje: vinarije</h2><p>Sledeći nivo je odlazak na izvor: vinarije Fruške gore i Smedereva primaju goste uz degustacije, do mnogih je manje od sata od grada. Format „vinski vikend\" ovde još nije izgažen turistima — koristite dok je tako.</p>",
+        "en": "<h2>The next level: the wineries</h2><p>The next step is to go to the source: the wineries of Fruška Gora and Smederevo receive guests for tastings, many less than an hour from the city. The \"wine weekend\" format here is not yet trampled by tourists. Use it while it lasts.</p><p>Wine Belgrade is generous and unhurried: they pour, they tell stories, and they never rush you. Start with the nearest tasting in the calendar; the prokupac will explain the rest itself.</p>"
+      }
+    }
+  ]
+}
