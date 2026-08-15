@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Маркеты и барахолки Белграда: где искать вещи с историей",
+    "sr": "Bazari i buvljaci Beograda: gde se traže stvari sa istorijom",
+    "en": "Belgrade markets and flea markets: hunting for things with a history"
+  },
+  "description": {
+    "ru": "<p>Белград — город с развитой культурой маркетов: дизайнерские ярмарки, крафт-базары, винтаж и фотобарахолки идут круглый год, а классические зелёные рынки никуда не делись и остаются отдельным жанром городской жизни. Рассказываем, где охотиться за вещами с историей и подарками не из торгового центра.</p>",
+    "sr": "<p>Beograd je grad sa razvijenom kulturom bazara: dizajnerski marketi, kraft-sajmovi, vintidž i foto-berze idu cele godine, a klasične zelene pijace ostaju poseban žanr gradskog života. Evo gde se lovi na stvari sa istorijom i poklone koji nisu iz tržnog centra.</p>",
+    "en": "<p>Belgrade has a well-developed market culture: designer fairs, craft bazaars, vintage sales and photo flea markets run all year round, while the classic green markets remain a separate genre of city life. Here is where to hunt for things with a history and for gifts that do not come from a shopping mall.</p>"
+  },
+  "cover": {
+    "file": "markets-cover-kalenic.webp",
+    "alt": {
+      "ru": "Рынок Каленич на Врачаре",
+      "sr": "Kalenić pijaca na Vračaru",
+      "en": "Kalenić market in Vračar"
+    },
+    "caption": {
+      "ru": "Фото: Mister No / Wikimedia Commons, CC BY 3.0",
+      "sr": "Foto: Mister No / Wikimedia Commons, CC BY 3.0",
+      "en": "Photo: Mister No / Wikimedia Commons, CC BY 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Даты конкретных маркетов появляются в календаре Афиши — обычно за неделю-две до события.</p><h2>Дизайн-маркеты и крафт-ярмарки</h2><p>Регулярный жанр городской афиши: локальные дизайнеры, керамика, украшения, иллюстрация и мыло ручной варки под одной крышей. Маркеты кочуют по площадкам — от двориков Стари-града до культурных центров — и особенно густо идут перед праздниками: предновогодние базары начинаются с конца ноября. Wilko Market и подобные форматы совмещают шопинг с музыкой и едой — это скорее выходной, чем закупка.</p>",
+        "sr": "<p>Datumi konkretnih marketa ulaze u kalendar Afiše — obično nedelju-dve pre događaja.</p><h2>Dizajn-marketi i kraft-sajmovi</h2><p>Redovan žanr gradskog programa: lokalni dizajneri, keramika, nakit, ilustracija i ručni sapuni pod jednim krovom. Marketi sele po scenama — od dvorišta Starog grada do kulturnih centara — a najgušće idu pred praznike: predpraznični bazari kreću od kraja novembra. Formati poput Wilko Marketa spajaju kupovinu sa muzikom i hranom — to je pre vikend nego nabavka.</p>",
+        "en": "<p>The dates of specific markets appear in the Afisha calendar, usually a week or two before the event.</p><h2>Design markets and craft fairs</h2><p>A regular genre of the city's listings: local designers, ceramics, jewellery, illustration and handmade soap under one roof. The markets migrate between venues, from Stari Grad courtyards to cultural centres, and run thickest before the holidays: the pre-New Year bazaars start in late November. Formats like Wilko Market combine shopping with music and food; they are a day out rather than an errand.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Винтаж и барахолки</h2><p>🔵 Foto Berza — легендарная фотобарахолка: старые камеры, объективы и плёнка; жанр для терпеливых и влюблённых.</p><p>🔵 Винтажные маркеты одежды — регулярный формат с примеркой и торгом.</p><p>🔵 Классическая большая барахолка (бувляк) на Новом Белграде — стихийный музей всего на свете: идти за атмосферой, уносить — что найдёте.</p><p>🔵 Антикварные ряды и букинисты — вокруг центра, работают постоянно.</p>",
+        "sr": "<h2>Vintidž i buvljaci</h2><p>🔵 Foto berza — legendarna berza fotoopreme: stare kamere, objektivi, film.</p><p>🔵 Vintidž marketi garderobe — redovan format sa probanjem i cenkanjem.</p><p>🔵 Klasični veliki buvljak na Novom Beogradu — stihijski muzej svega na svetu.</p><p>🔵 Antikvarnice i bukinisti — oko centra, rade stalno.</p>",
+        "en": "<h2>Vintage and flea markets</h2><p>🔵 Foto Berza is the legendary photo flea market: old cameras, lenses and film, a genre for the patient and the smitten.</p><p>🔵 Vintage clothing markets are a regular format with fitting and haggling.</p><p>🔵 The classic big flea market (buvljak) in Novi Beograd is a spontaneous museum of everything: go for the atmosphere, carry away whatever you find.</p><p>🔵 Antique rows and second-hand booksellers work permanently around the centre.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Зелёные рынки: жанр вне времени</h2><p>Пияца — не просто покупка овощей, а социальный институт: Каленич на Врачаре — самая атмосферная, Бајлони у Скадарлии — самая центровая, земунская — самая «городок в городке». Ходить лучше утром, торговаться — уместно, пробовать — предложат сами. Сыр, каймак, айвар и сезонные фрукты здесь честнее любого супермаркета.</p>",
+        "sr": "<h2>Zelene pijace: žanr van vremena</h2><p>Pijaca nije samo kupovina povrća nego društvena institucija: Kalenić na Vračaru je najatmosferičnija, Bajloni kod Skadarlije najcentralnija, zemunska — najviše „gradić u gradu\". Ide se ujutru, cenkanje je umesno, probanje nude sami. Sir, kajmak, ajvar i sezonsko voće ovde su pošteniji od svakog supermarketa.</p>",
+        "en": "<h2>Green markets: a genre outside time</h2><p>The pijaca is not just vegetable shopping but a social institution: Kalenić in Vračar is the most atmospheric, Bajloni by Skadarlija the most central, and Zemun's the most \"town within a town\". Go in the morning, haggle politely, and expect to be offered tastings. The cheese, kajmak, ajvar and seasonal fruit here are more honest than any supermarket.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Календарь маркетов</h2><p>🔵 Весна и осень — пик дизайн-маркетов и винтажа.</p><p>🔵 Лето — уличные ярмарки при фестивалях и вечерние маркеты.</p><p>🔵 Конец ноября — декабрь — новогодние базары каждые выходные.</p><p>🔵 Зелёные рынки — ежедневно круглый год, лучший выбор по субботам с утра.</p>",
+        "sr": "<h2>Kalendar marketa</h2><p>🔵 Proleće i jesen — špic dizajn-marketa i vintidža.</p><p>🔵 Leto — ulični sajmovi uz festivale i večernji marketi.</p><p>🔵 Kraj novembra — decembar — novogodišnji bazari svakog vikenda.</p><p>🔵 Zelene pijace — svakodnevno; najbolji izbor subotom ujutru.</p>",
+        "en": "<h2>The market calendar</h2><p>🔵 Spring and autumn: the peak of design markets and vintage.</p><p>🔵 Summer: street fairs attached to festivals and evening markets.</p><p>🔵 Late November to December: New Year bazaars every weekend.</p><p>🔵 Green markets: daily all year, with the best choice on Saturday mornings.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Практика</h2><p>🔵 Наличные обязательны: карты на маркетах скорее исключение, на пияце — тем более.</p><p>🔵 Торг: на барахолке — да, у дизайнеров — нет, на пияце — мягко и с улыбкой.</p><p>🔵 Приходите к открытию за лучшим выбором или к закрытию за лучшими ценами.</p><p>🔵 Анонсы маркетов — в календаре Афиши; напоминаем: бесплатный вход у большинства.</p><p>Маркеты — самый человечный шопинг Белграда: за каждой вещью здесь стоит лицо, а не логистический центр. Начните с ближайших выходных.</p>",
+        "sr": "<h2>Praktično</h2><p>🔵 Keš je obavezan: kartice su na marketima izuzetak, na pijaci pogotovo.</p><p>🔵 Cenkanje: na buvljaku da, kod dizajnera ne, na pijaci meko i uz osmeh.</p><p>🔵 Dođite na otvaranje za najbolji izbor ili pred kraj za najbolje cene.</p><p>🔵 Najave marketa — u kalendaru Afiše; ulaz je kod većine besplatan.</p>",
+        "en": "<h2>Practical notes</h2><p>🔵 Cash is mandatory: cards are the exception at markets, and doubly so at the pijaca.</p><p>🔵 Haggling: yes at the flea market, no with the designers, gently and with a smile at the pijaca.</p><p>🔵 Come at opening for the best choice or near closing for the best prices.</p><p>🔵 Market announcements are in the Afisha calendar; entry to most is free.</p><p>Markets are Belgrade's most human shopping: behind every object here stands a face, not a logistics centre. Start this weekend.</p>"
+      }
+    }
+  ]
+}

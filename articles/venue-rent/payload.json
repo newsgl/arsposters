@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Как найти площадку для своего события в Белграде",
+    "sr": "Kako naći prostor za svoj događaj u Beogradu",
+    "en": "How to find a venue for your event in Belgrade"
+  },
+  "description": {
+    "ru": "<p>Продолжение нашей <a href=\"/ru/recommend/kak-besplatno-dobavit-sobytie-na-afishars-instrukcia-dla-organizatorov-ru720\">инструкции для организаторов</a>: событие придумано — осталось найти, где его провести. Белград в этом смысле щедрый город: пространств много, цены человеческие, а владельцы площадок открыты к переговорам. Разбираем, какие бывают варианты и на что смотреть.</p>",
+    "sr": "<p>Nastavak našeg <a href=\"/sr/recommend/kako-besplatno-dodati-dogadaj-na-afishars-uputstvo-za-organizatore-sr720\">uputstva za organizatore</a>: događaj je smišljen — ostaje da se nađe gde će se održati. Beograd je tu velikodušan: prostora ima mnogo, cene su ljudske, a vlasnici otvoreni za dogovor. Evo kakve opcije postoje i na šta se gleda.</p>",
+    "en": "<p>A continuation of our <a href=\"/en/recommend/how-to-list-your-event-on-afishars-for-free-a-guide-for-organizers-en720\">guide for organizers</a>: the event is invented, now it needs a room. Belgrade is generous here: there are many spaces, the prices are humane, and venue owners are open to negotiation. Here are the options and what to look at.</p>"
+  },
+  "cover": {
+    "file": "venuerent-cover-savahall.webp",
+    "alt": {
+      "ru": "Холл Сава-центра",
+      "sr": "Hol Sava centra",
+      "en": "The Sava Centar entrance hall"
+    },
+    "caption": {
+      "ru": "Фото: 100Goblins / Wikimedia Commons, CC BY-SA 4.0",
+      "sr": "Foto: 100Goblins / Wikimedia Commons, CC BY-SA 4.0",
+      "en": "Photo: 100Goblins / Wikimedia Commons, CC BY-SA 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Каталог площадок с картой — в разделе `/venues` нашего сайта: там все места, где проходят события из календаря.</p><h2>Типы площадок: от бара до зала</h2><p>🔵 Бары и клубы — самый простой вход: многим площадкам нужен контент, и за вечер, который приведёт гостей, аренду часто не берут вовсе — работаете «за бар». Идеально для квизов, стендапа, лекций и камерных концертов.</p><p>🔵 Культурные пространства и центры — залы с оборудованием под лекции, показы и мастер-классы; у городских центров культуры бывают льготные условия.</p><p>🔵 Лофты и студии — для мастер-классов, съёмок и частных событий; аренда почасовая.</p><p>🔵 Концертные клубы и залы — для музыки с серьёзным звуком; здесь уже настоящий прокат с райдером и расписанием.</p><p>🔵 Открытые пространства — дворы, крыши, парки: летний джокер, но с погодными рисками и вопросами разрешений.</p>",
+        "sr": "<p>Imenik prostora sa mapom je u rubrici `/venues` našeg sajta: tamo su sva mesta na kojima se dešavaju događaji iz kalendara.</p><h2>Tipovi prostora: od bara do dvorane</h2><p>🔵 Barovi i klubovi — najprostiji ulaz: mnogima treba sadržaj, i za veče koje dovodi goste zakup se često i ne naplaćuje — radi se „za šank\". Idealno za kvizove, stand-up, predavanja i kamerne koncerte.</p><p>🔵 Kulturni prostori i centri — sale sa opremom za predavanja, projekcije i radionice; gradski centri kulture umeju da imaju povoljne uslove.</p><p>🔵 Loftovi i studiji — za radionice, snimanja i privatne događaje; zakup po satu.</p><p>🔵 Koncertni klubovi i dvorane — za muziku sa ozbiljnim zvukom; tu je već pravi zakup sa rajderom i rasporedom.</p><p>🔵 Otvoreni prostori — dvorišta, krovovi, parkovi: letnji džoker, uz vremenske rizike i pitanja dozvola.</p>",
+        "en": "<p>The venue directory with a map is in the `/venues` section of our site: it lists every place where the calendar's events happen.</p><h2>Venue types: from bar to hall</h2><p>🔵 Bars and clubs are the simplest entry: many venues need content, and for an evening that brings guests the rent is often waived entirely, working \"for the bar\". Ideal for quizzes, stand-up, talks and intimate concerts.</p><p>🔵 Cultural spaces and centres: halls equipped for talks, screenings and workshops; municipal cultural centres sometimes have favourable terms.</p><p>🔵 Lofts and studios, for workshops, shoots and private events, rented by the hour.</p><p>🔵 Concert clubs and halls, for music with serious sound; this is proper rental territory with riders and schedules.</p><p>🔵 Open spaces, from courtyards to rooftops and parks: the summer joker, with weather risks and permit questions attached.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Сколько это стоит</h2><p>Вилка огромная: от «бесплатно за бар» до серьёзных ставок за концертный зал с техникой. Типичная логика: бар — процент с бара или символическая сумма; лофт — почасовая ставка; зал — фиксированная аренда плюс техперсонал. Всегда спрашивайте, что входит: звук, свет, человек за пультом, уборка. И помните сербскую специфику: цена в объявлении — начало разговора, а не приговор.</p>",
+        "sr": "<h2>Koliko košta</h2><p>Raspon je ogroman: od „besplatno za šank\" do ozbiljnih cena za dvoranu sa tehnikom. Tipična logika: bar — procenat od šanka ili simbolična suma; loft — satnica; dvorana — fiksni zakup plus tehničko osoblje. Uvek pitajte šta je uključeno: zvuk, svetlo, čovek za pultom, čišćenje. I pamtite lokalnu specifiku: cena iz oglasa je početak razgovora, ne presuda.</p>",
+        "en": "<h2>What it costs</h2><p>The range is enormous: from \"free for the bar takings\" to serious rates for an equipped concert hall. The typical logic: a bar takes a percentage of the bar or a symbolic sum; a loft charges hourly; a hall charges fixed rent plus technical staff. Always ask what is included: sound, light, a person at the desk, cleaning. And remember the local specifics: the advertised price is the start of a conversation, not a verdict.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как выбирать: чек-лист</h2><p>🔵 Вместимость честная, а не «сколько влезет»: 50 сидя — это не 50 стоя.</p><p>🔵 Звук: свой или привозить? Для лекции хватит колонки, для концерта — нет.</p><p>🔵 Логистика гостей: как добираться вечером, есть ли кондиционер летом и гардероб зимой.</p><p>🔵 Соседи: жилой дом над баром означает ранний финал громкого события.</p><p>🔵 Даты: у хороших площадок вечера пятницы и субботы расписаны на недели вперёд.</p>",
+        "sr": "<h2>Kako birati: spisak</h2><p>🔵 Kapacitet pošten, a ne „koliko stane\": 50 sedećih nije 50 stajaćih.</p><p>🔵 Zvuk: postoji ili se donosi? Za predavanje dovoljan je zvučnik, za koncert nije.</p><p>🔵 Logistika gostiju: kako se stiže uveče, ima li klime leti i garderobe zimi.</p><p>🔵 Komšije: stambena zgrada iznad bara znači rani kraj glasnog događaja.</p><p>🔵 Datumi: kod dobrih prostora petak i subota su zauzeti nedeljama unapred.</p>",
+        "en": "<h2>How to choose: the checklist</h2><p>🔵 Honest capacity, not \"as many as fit\": 50 seated is not 50 standing.</p><p>🔵 Sound: in place or brought in? A speaker suffices for a talk, not for a concert.</p><p>🔵 Guest logistics: how people get there at night, air conditioning in summer, a cloakroom in winter.</p><p>🔵 Neighbours: a residential building above a bar means an early end for a loud event.</p><p>🔵 Dates: at good venues Friday and Saturday nights book out weeks ahead.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Где искать</h2><p>Начните с нашего каталога `/venues` — по нему видно, какие площадки реально живут событиями и какими жанрами. Смотрите, где проходят события, похожие на ваше, и пишите площадке напрямую — контакты обычно в их соцсетях. Второй путь — спросить у организаторов похожих событий: сцена дружелюбная, советами делятся.</p>",
+        "sr": "<h2>Gde tražiti</h2><p>Počnite od našeg imenika `/venues` — po njemu se vidi koji prostori zaista žive od događaja i kojim žanrovima. Gledajte gde se dešavaju događaji slični vašem i pišite prostoru direktno. Drugi put: pitajte organizatore sličnih događaja — scena je prijateljska.</p>",
+        "en": "<h2>Where to look</h2><p>Start with our `/venues` directory: it shows which spaces genuinely live on events and in which genres. See where events similar to yours happen and write to the venue directly; contacts are usually in their social media. The second route is asking the organizers of similar events: the scene is friendly and advice flows freely.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>И приходите к нам</h2><p>Когда площадка найдена и дата назначена — <a href=\"/ru/recommend/kak-besplatno-dobavit-sobytie-na-afishars-instrukcia-dla-organizatorov-ru720\">пришлите событие нам</a>: разместим бесплатно на трёх языках. А если площадка у вас своя и вы хотите, чтобы события в ней находили организаторов, — напишите на info@afisha.rs: обсудим, как попасть в каталог и на страницы «Рекламы и Трафика».</p><p>Хорошее событие начинается с правильной комнаты. В Белграде она точно есть — осталось написать пару сообщений.</p>",
+        "sr": "<h2>I dođite kod nas</h2><p>Kad je prostor nađen i datum zakazan — <a href=\"/sr/recommend/kako-besplatno-dodati-dogadaj-na-afishars-uputstvo-za-organizatore-sr720\">pošaljite nam događaj</a>: objavićemo besplatno na tri jezika. A ako imate svoj prostor i želite da događaji u njemu nalaze organizatore — pišite na info@afisha.rs.</p>",
+        "en": "<h2>And come to us</h2><p>When the venue is found and the date is set, <a href=\"/en/recommend/how-to-list-your-event-on-afishars-for-free-a-guide-for-organizers-en720\">send us the event</a>: we publish free of charge in three languages. And if you own a venue and want events to find you, write to info@afisha.rs: we will discuss the directory and the Advertising and Traffic options.</p><p>A good event starts with the right room. Belgrade definitely has it; all that remains is a couple of messages.</p>"
+      }
+    }
+  ]
+}

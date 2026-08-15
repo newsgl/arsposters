@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "EXIT, Nišville и Guča: стоит ли ехать на большие фестивали Сербии",
+    "sr": "EXIT, Nišville i Guča: vredi li ići na velike festivale Srbije",
+    "en": "EXIT, Nišville and Guča: are Serbia's big festivals worth the trip"
+  },
+  "description": {
+    "ru": "<p>Три главных фестиваля Сербии проходят не в Белграде — и все три стоят дороги. EXIT в Нови-Саде входит в лигу больших европейских фестивалей, Nišville собирает джаз в нишской крепости, а Гуча — это стихия духовых оркестров, у которой нет аналогов нигде. Разбираем, чем они отличаются и как устроена поездка из Белграда.</p>",
+    "sr": "<p>Tri glavna festivala Srbije ne dešavaju se u Beogradu — i sva tri vrede puta. EXIT u Novom Sadu igra u ligi velikih evropskih festivala, Nišville skuplja džez u niškoj tvrđavi, a Guča je stihija trubača kakve nema nigde. Evo po čemu se razlikuju i kako izgleda put iz Beograda.</p>",
+    "en": "<p>Serbia's three main festivals happen outside Belgrade, and all three are worth the road. EXIT in Novi Sad plays in the league of Europe's big festivals, Nišville gathers jazz in the Niš fortress, and Guča is a force of brass orchestras with no equivalent anywhere. Here is how they differ and how the trip from Belgrade works.</p>"
+  },
+  "cover": {
+    "file": "festivals-cover-exit.webp",
+    "alt": {
+      "ru": "Толпа на фестивале EXIT в Петроварадинской крепости",
+      "sr": "Publika na festivalu EXIT u Petrovaradinskoj tvrđavi",
+      "en": "The crowd at EXIT festival in the Petrovaradin fortress"
+    },
+    "caption": {
+      "ru": "Фото: Jelena Ivanović, EXIT photo team / Wikimedia Commons, CC BY-SA 3.0",
+      "sr": "Foto: Jelena Ivanović, EXIT photo team / Wikimedia Commons, CC BY-SA 3.0",
+      "en": "Photo: Jelena Ivanović, EXIT photo team / Wikimedia Commons, CC BY-SA 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Афиша остаётся белградской, но по большим поводам мы выбираемся за город — как и вся наша аудитория. Даты и лайнапы конкретного года — в календаре по мере анонсов.</p><h2>EXIT: крепость, ставшая легендой</h2><p>EXIT проходит в июле в Петроварадинской крепости Нови-Сада — фестиваль, выросший из студенческого протеста 2000 года в одно из главных музыкальных событий Европы с хедлайнерами мирового уровня и десятками сцен, включая знаменитый танцевальный Dance Arena в крепостном рву до рассвета. Из Белграда — час-полтора: поезд или автобус до Нови-Сада ходят часто. Жильё на даты фестиваля бронируют за месяцы; вариант базы в Белграде с поездками на поезде тоже рабочий.</p>",
+        "sr": "<p>Afiša ostaje beogradska, ali za velike povode izlazimo iz grada — kao i sva naša publika. Datumi i lajnapi konkretne godine — u kalendaru po najavama.</p><h2>EXIT: tvrđava koja je postala legenda</h2><p>EXIT se održava u julu u Petrovaradinskoj tvrđavi: festival izrastao iz studentskog protesta 2000. u jedan od glavnih muzičkih događaja Evrope, sa hedlajnerima svetskog ranga i desetinama bina, uključujući čuvenu Dance Arenu u tvrđavskom rovu do zore. Iz Beograda sat-dva: vozovi i autobusi do Novog Sada idu često. Smeštaj za festivalske datume rezerviše se mesecima unapred; radi i varijanta baze u Beogradu sa vozom.</p>",
+        "en": "<p>Afisha remains a Belgrade calendar, but for the big occasions we leave the city, like all of our audience. Each year's dates and lineups appear in the calendar as they are announced.</p><h2>EXIT: the fortress that became a legend</h2><p>EXIT happens in July in the Petrovaradin fortress of Novi Sad: a festival that grew out of a student protest in 2000 into one of Europe's main musical events, with world-class headliners and dozens of stages, including the famous Dance Arena in the fortress moat running till dawn. From Belgrade it is an hour or ninety minutes: trains and buses to Novi Sad run often. Accommodation for festival dates books out months ahead; basing yourself in Belgrade and commuting by train also works.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Nišville: джаз в крепости</h2><p>Nišville — крупнейший джазовый фестиваль региона: август, Нишская крепость, международные звёзды и балканский колорит в одной программе. Атмосфера расслабленнее EXIT: это фестиваль, куда едут слушать и сидеть на траве. До Ниша из Белграда — два-три часа; фестиваль — хороший повод посмотреть и сам Ниш.</p>",
+        "sr": "<h2>Nišville: džez u tvrđavi</h2><p>Nišville je najveći džez festival regiona: avgust, Niška tvrđava, međunarodne zvezde i balkanski kolorit u istom programu. Atmosfera je opuštenija od EXIT-a: ovamo se ide da se sluša i sedi na travi. Do Niša dva-tri sata; festival je dobar povod da se vidi i sam Niš.</p>",
+        "en": "<h2>Nišville: jazz in a fortress</h2><p>Nišville is the region's biggest jazz festival: August, the Niš fortress, international stars and Balkan colour in one programme. The atmosphere is more relaxed than EXIT: this is a festival for listening and sitting on the grass. Niš is two to three hours away, and the festival is a good excuse to see the city itself.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Гуча: труба как стихия</h2><p>Фестиваль духовых оркестров в Гуче — самое сербское событие из всех возможных: село в Драгачеве на несколько августовских дней превращается в столицу трубы, роштиля и бесконечного кола. Сотни тысяч гостей, оркестры играют на сценах, в шатрах и прямо у столов. Это не концерт, а погружение: сюда едут за опытом, который невозможно объяснить, только прожить. Комфорт спартанский, впечатления — на всю жизнь.</p>",
+        "sr": "<h2>Guča: truba kao stihija</h2><p>Sabor trubača u Guči najsrpskiji je mogući događaj: selo u Dragačevu na nekoliko avgustovskih dana postaje prestonica trube, roštilja i beskrajnog kola. Stotine hiljada gostiju, orkestri sviraju na binama, u šatrama i pored stolova. To nije koncert nego uranjanje: ide se po iskustvo koje se ne objašnjava nego proživi. Komfor je spartanski, utisci doživotni.</p>",
+        "en": "<h2>Guča: the trumpet as a natural force</h2><p>The brass band festival in Guča is the most Serbian event imaginable: for a few August days a village in Dragačevo becomes the capital of the trumpet, the grill and the endless kolo dance. Hundreds of thousands of guests, orchestras playing on stages, in tents and right at the tables. It is not a concert but an immersion: you go for an experience that cannot be explained, only lived. The comfort is spartan; the impressions last a lifetime.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как ехать из Белграда</h2><p>🔵 EXIT: поездом или автобусом до Нови-Сада; можно одним днём на вечер, но ночёвка честнее — главное начинается затемно.</p><p>🔵 Nišville: автобус или поезд до Ниша, ночёвка желательна.</p><p>🔵 Гуча: автобусы в дни фестиваля, часть едет на машинах; ночевать — в палатках, у местных или в окрестных сёлах, бронировать заранее.</p><p>🔵 Билеты у всех трёх — на официальных сайтах; про сербские билетные сервисы мы писали в <a href=\"/ru/recommend/gde-pokupat-bilety-v-belgrade-gid-po-biletnym-operatoram-ru721\">гиде по операторам</a>.</p>",
+        "sr": "<h2>Kako se ide iz Beograda</h2><p>🔵 EXIT: vozom ili autobusom do Novog Sada; može i jednodnevno, ali je noćenje poštenije — glavno počinje po mraku.</p><p>🔵 Nišville: autobus ili voz do Niša, noćenje poželjno.</p><p>🔵 Guča: autobusi u dane sabora; noćenje u šatorima, kod domaćina ili po okolnim selima — rezervisati ranije.</p><p>🔵 Karte za sva tri — na zvaničnim sajtovima; o servisima za karte pisali smo u <a href=\"/sr/recommend/gde-se-u-beogradu-kupuju-ulaznice-vodic-kroz-prodavce-karata-sr721\">vodiču</a>.</p>",
+        "en": "<h2>How to travel from Belgrade</h2><p>🔵 EXIT: train or bus to Novi Sad; a day trip for the evening is possible, but staying over is more honest, as the main part begins after dark.</p><p>🔵 Nišville: bus or train to Niš, with an overnight stay advisable.</p><p>🔵 Guča: buses run on festival days and many drive; sleep in tents, with locals or in nearby villages, booked in advance.</p><p>🔵 Tickets for all three are on the official sites; we covered Serbian ticket services in <a href=\"/en/recommend/where-to-buy-event-tickets-in-belgrade-a-guide-to-the-ticket-operators-en721\">the operators guide</a>.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Стоит ли: честный вердикт</h2><p>EXIT — если хотите большой европейский фестиваль без цен большого европейского фестиваля. Nišville — если джаз и спокойный вечер в крепости звучат лучше, чем танцпол до утра. Гуча — если готовы к самому интенсивному культурному опыту Балкан. Правильный ответ на «куда ехать» — «на все три, в разные годы». Начните с ближайшего по календарю.</p>",
+        "sr": "<h2>Vredi li: pošten sud</h2><p>EXIT — ako želite veliki evropski festival bez cena velikog evropskog festivala. Nišville — ako džez i mirno veče u tvrđavi zvuče bolje od podijuma do jutra. Guča — ako ste spremni za najintenzivnije kulturno iskustvo Balkana. Tačan odgovor na „kuda ići\" glasi: na sva tri, različitih godina.</p>",
+        "en": "<h2>The honest verdict</h2><p>EXIT, if you want a big European festival without big European festival prices. Nišville, if jazz and a calm evening in a fortress sound better than a dance floor till morning. Guča, if you are ready for the most intense cultural experience of the Balkans. The correct answer to \"which one\" is all three, in different years. Start with whichever comes next on the calendar.</p>"
+      }
+    }
+  ]
+}

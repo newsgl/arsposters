@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Где выступить самому: опен-майки, джемы и открытые сцены Белграда",
+    "sr": "Gde nastupiti lično: open mic, džemovi i otvorene scene Beograda",
+    "en": "Your turn on stage: open mics, jams and Belgrade's open stages"
+  },
+  "description": {
+    "ru": "<p>Смотреть со сцены интереснее, чем из зала, — и Белград даёт такую возможность каждому: стендап-микрофоны, музыкальные джемы, караоке и поэтические чтения открыты для всех желающих. Никакого кастинга: записался — вышел — выступил. Рассказываем, где город разрешает попробовать себя.</p>",
+    "sr": "<p>Sa bine je zanimljivije nego iz sale — i Beograd tu mogućnost daje svakome: stand-up mikrofoni, muzički džemovi, karaoke i pesnička čitanja otvoreni su za sve. Nema kastinga: prijaviš se — izađeš — nastupiš. Evo gde grad dozvoljava da se probate.</p>",
+    "en": "<p>The view from the stage beats the view from the room, and Belgrade offers that chance to everyone: stand-up open mics, music jams, karaoke and poetry readings are open to all comers. No casting involved: sign up, walk out, perform. Here is where the city lets you try yourself.</p>"
+  },
+  "cover": {
+    "file": "openmic-cover-shure.webp",
+    "alt": {
+      "ru": "Классический микрофон Shure 55S",
+      "sr": "Klasični mikrofon Shure 55S",
+      "en": "The classic Shure 55S microphone"
+    },
+    "caption": {
+      "ru": "Фото: Holger.Ellgaard / Wikimedia Commons, CC BY-SA 3.0",
+      "sr": "Foto: Holger.Ellgaard / Wikimedia Commons, CC BY-SA 3.0",
+      "en": "Photo: Holger.Ellgaard / Wikimedia Commons, CC BY-SA 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Открытые форматы регулярно появляются в нашем календаре; ищите слова «open mic», «джем» и «караоке».</p><h2>Стендап: открытый микрофон</h2><p>Комедийные опен-майки — самый доступный вход в жанр: пять минут сцены получает любой записавшийся. Форматы идут на русском, сербском и английском (Tight Five и подобные — англоязычная классика жанра). Правила простые: запись заранее у организатора, тайминг святое, а «умереть» на первом выступлении — нормальная часть пути, зал здесь добрый. Проверки материала опытных комиков — соседний формат: туда идут слушать, но атмосфера та же, мастерская.</p>",
+        "sr": "<p>Otvoreni formati redovno su u našem kalendaru; tražite „open mic\", „džem\" i „karaoke\".</p><h2>Stand-up: otvoreni mikrofon</h2><p>Komičarski open mic je najpristupačniji ulaz u žanr: pet minuta bine dobija svako ko se prijavi. Formati idu na ruskom, srpskom i engleskom. Pravila su prosta: prijava unapred kod organizatora, tajming je svetinja, a „umreti\" na prvom nastupu normalan je deo puta — sala je ovde dobra. Provere materijala iskusnih komičara su susedni format: tamo se ide da se sluša, ali je atmosfera ista, radionička.</p>",
+        "en": "<p>Open formats appear in our calendar regularly; search for \"open mic\", \"jam\" and \"karaoke\".</p><h2>Stand-up: the open mic</h2><p>Comedy open mics are the most accessible entrance to the genre: five minutes of stage go to anyone who signs up. Formats run in Russian, Serbian and English (Tight Five and its kin are the English-language classics). The rules are simple: sign up in advance with the organizer, respect the timing as sacred, and know that \"dying\" at your first set is a normal part of the path, because the room here is kind. Work-in-progress nights by experienced comedians are the neighbouring format: you go there to listen, but the workshop atmosphere is the same.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Музыка: джемы и сейшны</h2><p>Джазовые и блюзовые джемы — старейший открытый формат города: хаус-бэнд начинает, дальше сцена открыта для всех со своим инструментом или голосом. Джемы живут в барах и клубах, у многих — постоянный день недели. Уровень допуска человеческий: сыграть стандарт достаточно. Для рокеров есть свои сейшны, для электронщиков — опен-дэки, где новичкам дают часовой слот.</p>",
+        "sr": "<h2>Muzika: džemovi i sešni</h2><p>Džez i bluz džemovi su najstariji otvoreni format grada: haus-bend počne, dalje je bina otvorena za sve sa instrumentom ili glasom. Džemovi žive po barovima i klubovima, mnogi imaju stalni dan u nedelji. Prag je ljudski: odsvirati standard je dovoljno. Za rokere postoje sešni, za elektroničare open-deck večeri sa satnim slotovima za početnike.</p>",
+        "en": "<h2>Music: jams and sessions</h2><p>Jazz and blues jams are the city's oldest open format: the house band starts, then the stage opens to anyone with an instrument or a voice. Jams live in bars and clubs, many with a fixed weekday. The entry bar is humane: playing a standard is enough. Rockers have their own sessions, and electronic producers get open-deck nights where newcomers receive an hour slot.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Караоке и вокал</h2><p>Караоке-вечера — самый массовый способ выйти к микрофону: русскоязычные караоке-вечеринки идут регулярно (в том числе в знакомой нам Auditoria), сербские бары со своими плейлистами — повсюду. Отдельная лига — «кафанское караоке», где вместо минусовки живой оркестр: спеть с тамбурашами «Има дана» — достижение, которое разблокируют не все местные.</p>",
+        "sr": "<h2>Karaoke i vokal</h2><p>Karaoke večeri su najmasovniji izlazak pred mikrofon: ruskojezične karaoke žurke idu redovno, srpski barovi sa svojim plejlistama su svuda. Posebna liga je „kafansko karaoke\" gde umesto matrice svira živ orkestar: otpevati „Ima dana\" sa tamburašima dostignuće je koje ne otključaju ni svi domaći.</p>",
+        "en": "<h2>Karaoke and voice</h2><p>Karaoke nights are the most massive way to reach a microphone: Russian-language karaoke parties run regularly (including at the familiar Auditoria), and Serbian bars with their own playlists are everywhere. A separate league is \"kafana karaoke\", where a live orchestra replaces the backing track: singing \"Ima dana\" with the tamburaši is an achievement not all locals have unlocked.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Слово: чтения и сторителлинг</h2><p>Поэтические чтения, открытые прозы, сторителлинг-вечера в духе «расскажи свою историю» — жанр растёт и на русском, и на сербском, и на английском. Формат бережный: аудитория приходит слушать, а не судить. Для пишущих в стол это самый короткий путь к первому читателю вслух.</p>",
+        "sr": "<h2>Reč: čitanja i storiteling</h2><p>Pesnička čitanja, otvorena proza, storiteling večeri — žanr raste i na ruskom, i na srpskom, i na engleskom. Format je pažljiv: publika dolazi da sluša, ne da sudi.</p>",
+        "en": "<h2>The word: readings and storytelling</h2><p>Poetry readings, open prose and tell-your-story nights are a growing genre in Russian, Serbian and English alike. The format is gentle: the audience comes to listen, not to judge. For those writing into a drawer, this is the shortest path to a first out-loud reader.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как решиться: инструкция</h2><p>🔵 Сходите зрителем один раз — поймёте формат и уровень.</p><p>🔵 Запишитесь сразу после — у организатора, в телеграме или на месте. Слоты разбирают быстро.</p><p>🔵 Готовьте меньше, чем разрешено: три крепкие минуты лучше пяти сырых.</p><p>🔵 Провал невозможен: открытые сцены существуют ровно для того, чтобы пробовать. Здесь это понимают все.</p><p>Белград — городок для дебютов: сцены маленькие, залы тёплые, ставки невысокие. Лучшего места попробовать то, о чём вы давно думаете, не будет. Календарь подскажет ближайший микрофон.</p>",
+        "sr": "<h2>Kako se odlučiti</h2><p>🔵 Odite jednom kao publika — shvatićete format i nivo.</p><p>🔵 Prijavite se odmah posle — kod organizatora, u telegramu ili na licu mesta. Slotovi brzo odu.</p><p>🔵 Spremite manje nego što je dozvoljeno: tri jaka minuta bolja su od pet sirovih.</p><p>🔵 Neuspeh je nemoguć: otvorene scene postoje baš zato da se proba. To ovde razumeju svi.</p>",
+        "en": "<h2>How to dare: the instruction</h2><p>🔵 Go once as a spectator: you will understand the format and the level.</p><p>🔵 Sign up right after, with the organizer, on Telegram or on the spot. Slots go fast.</p><p>🔵 Prepare less than allowed: three strong minutes beat five raw ones.</p><p>🔵 Failure is impossible: open stages exist precisely for trying. Everyone here understands that.</p><p>Belgrade is a town for debuts: the stages are small, the rooms are warm, the stakes are low. There will be no better place to try the thing you have long been thinking about. The calendar will point you to the nearest microphone.</p>"
+      }
+    }
+  ]
+}
