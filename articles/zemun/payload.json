@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Земун за один день: маршрут по городу в городе",
+    "sr": "Zemun za jedan dan: maršruta kroz grad u gradu",
+    "en": "Zemun in one day: a route through the city within the city"
+  },
+  "description": {
+    "ru": "<p>Формально Земун — район Белграда, фактически — отдельный маленький город с другой историей: до Первой мировой здесь проходила граница Австро-Венгрии, и по эту сторону Дуная всё до сих пор выглядит иначе — черепичные крыши, узкие улицы, среднеевропейский ритм. От площади Республики сюда полчаса, а ощущение — как будто съездили в другую страну. Вот маршрут на день.</p>",
+    "sr": "<p>Formalno je Zemun beogradska opština, faktički — poseban mali grad sa drugom istorijom: do Prvog svetskog rata ovde je prolazila granica Austrougarske, i s ove strane Dunava sve do danas izgleda drugačije — crepovi, uske ulice, srednjoevropski ritam. Od Trga republike pola sata, a osećaj — kao da ste otputovali u drugu zemlju. Evo maršrute za jedan dan.</p>",
+    "en": "<p>Formally Zemun is a Belgrade municipality; in practice it is a separate little town with a different history. Until the First World War the border of Austria-Hungary ran here, and on this side of the Danube everything still looks different: tiled roofs, narrow streets, a Central European rhythm. It is half an hour from Republic Square, and it feels like a trip to another country. Here is a route for one day.</p>"
+  },
+  "cover": {
+    "file": "zemun-cover-gardos.webp",
+    "alt": {
+      "ru": "Башня Гардош в Земуне",
+      "sr": "Kula Gardoš u Zemunu",
+      "en": "The Gardoš Tower in Zemun"
+    },
+    "caption": {
+      "ru": "Фото: Miljan Simonović / Wikimedia Commons, CC BY-SA 4.0",
+      "sr": "Foto: Miljan Simonović / Wikimedia Commons, CC BY-SA 4.0",
+      "en": "Photo: Miljan Simonović / Wikimedia Commons, CC BY-SA 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>События в Земуне — концерты на Гардоше, летние сцены, рынки — мы публикуем в общем календаре; фильтруйте по площадкам Земуна.</p><h2>Утро: набережная и лебеди</h2><p>Начните с Земунского кея — длинной набережной Дуная с лебедями, рыбаками и видом на Большое военное островище. Здесь лучший в городе неспешный завтрак: кафе на набережной работают с утра. Дальше — пешком вдоль воды в сторону старого города, мимо плавучих домиков и рыбацких лодок.</p>",
+        "sr": "<p>Događaje u Zemunu — koncerte na Gardošu, letnje scene, bazare — objavljujemo u opštem kalendaru.</p><h2>Jutro: kej i labudovi</h2><p>Počnite od zemunskog keja — duge dunavske šetnje sa labudovima, pecarošima i pogledom na Veliko ratno ostrvo. Tu je najbolji spori doručak u gradu: kafei na keju rade od jutra. Dalje — peške uz vodu ka starom gradu, pored kućica na vodi i ribarskih čamaca.</p>",
+        "en": "<p>We publish Zemun events, from Gardoš concerts to summer stages and markets, in the general calendar.</p><h2>Morning: the quay and the swans</h2><p>Start with the Zemun quay, a long Danube promenade with swans, fishermen and a view of the Great War Island. This is the city's best slow breakfast: the quayside cafes open early. Then walk along the water towards the old town, past houseboats and fishing boats.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>День: старый город и Гардош</h2><p>Старый Земун — это лабиринт улиц вокруг Господской и Главной: барочные фасады, старые дворы, городской рынок с лучшим на левом берегу выбором сыра и зелени. Отсюда поднимайтесь на холм Гардош к главному символу района — башне Гардош, построенной в 1896 году к тысячелетию венгерского присутствия на этих землях. С башни и от неё — лучший вид на Дунай, крыши Земуна и Белград вдали. Вокруг башни — старое кладбище и тихие улицы, будто не менявшиеся сто лет.</p>",
+        "sr": "<h2>Dan: stari grad i Gardoš</h2><p>Stari Zemun je lavirint ulica oko Gospodske i Glavne: barokne fasade, stara dvorišta, pijaca sa najboljim izborom sira na levoj obali. Odatle se penjite na Gardoš, do glavnog simbola opštine — kule podignute 1896. za milenijum mađarske države. Sa kule i oko nje — najbolji pogled na Dunav, zemunske krovove i Beograd u daljini.</p>",
+        "en": "<h2>Day: the old town and Gardoš</h2><p>Old Zemun is a labyrinth of streets around Gospodska and Glavna: baroque facades, old courtyards, and a market with the best cheese selection on the left bank. From there climb the Gardoš hill to the district's main symbol, the Gardoš tower, built in 1896 for the millennium of the Hungarian state. From the tower and around it you get the best view of the Danube, Zemun's rooftops and Belgrade in the distance.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Обед: рыба по-земунски</h2><p>Земун — рыбная столица Белграда: рибля чорба (острая рыбацкая уха), карп, судак и дунайская мелочь жареной горкой. Рыбные рестораны стоят и на набережной, и в старом городе; в выходные столы у воды лучше бронировать. Вегетарианцам тоже выжить несложно, но ехать в Земун и не попробовать чорбу — это как съездить в Неаполь мимо пиццы.</p>",
+        "sr": "<h2>Ručak: riba po zemunski</h2><p>Zemun je riblja prestonica Beograda: riblja čorba, šaran, smuđ i dunavska sitnež pržena u gomili. Riblji restorani stoje i na keju i u starom gradu; vikendom stolove uz vodu treba rezervisati. Otići u Zemun a ne probati čorbu — to je kao Napulj bez pice.</p>",
+        "en": "<h2>Lunch: fish the Zemun way</h2><p>Zemun is Belgrade's fish capital: riblja čorba (the spicy fisherman's soup), carp, pikeperch and small Danube fish fried by the pile. Fish restaurants line both the quay and the old town; book a waterside table at weekends. Vegetarians will survive easily, but going to Zemun without trying the čorba is like visiting Naples and skipping the pizza.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Вечер: закат и летняя сцена</h2><p>Вечером возвращайтесь на кей или поднимитесь снова на Гардош: закаты над Дунаем здесь считаются лучшими в городе, и это тот редкий случай, когда молва не преувеличивает. Летом на Гардоше работает открытая сцена с концертами и спектаклями — «Лето на Гардоше» в нашем календаре; поблизости — Мадленианум, если вечер хочется закончить оперой.</p>",
+        "sr": "<h2>Veče: zalazak i letnja scena</h2><p>Uveče se vratite na kej ili ponovo na Gardoš: ovdašnji zalasci nad Dunavom smatraju se najboljim u gradu — i glasine za promenu ne preteruju. Leti na Gardošu radi otvorena scena sa koncertima i predstavama („Leto na Gardošu\" u našem kalendaru); u blizini je i Madlenianum, ako veče želite da završite operom.</p>",
+        "en": "<h2>Evening: sunset and the summer stage</h2><p>In the evening return to the quay or climb Gardoš again: the local sunsets over the Danube are considered the best in the city, and for once the rumour does not exaggerate. In summer an open-air stage works on Gardoš with concerts and plays (\"Summer on Gardoš\" in our calendar); nearby is Madlenianum, if you want to end the evening with an opera.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Практика</h2><p>🔵 Добраться: автобусы с Зелёного венаца и из Нового Белграда; летом — самый красивый путь — кораблик по реке. Такси из центра — 15–20 минут без пробок.</p><p>🔵 Ходить: весь маршрут пешеходный, но брусчатка на Гардоше не любит каблуков.</p><p>🔵 Когда ехать: в любой сезон; лучшее время — тёплый вечер буднего дня, когда набережная живёт своей жизнью без толп.</p><p>🔵 С детьми: лебеди, кораблики, мороженое на кею — программа складывается сама. Постоянные детские адреса города — в <a href=\"/ru/recommend/kuda-pojti-s-rebenkom-v-belgrade-postoannye-mesta-i-regularnye-program-ru724\">нашем гиде</a>.</p><p>Земун — самый простой способ уехать из Белграда, не покидая Белграда. Полдня хватит, чтобы влюбиться; день — чтобы начать искать здесь квартиру.</p>",
+        "sr": "<h2>Praktično</h2><p>🔵 Prevoz: autobusi sa Zelenog venca i iz Novog Beograda; leti je najlepši put brodićem. Taksi iz centra — 15–20 minuta bez gužve.</p><p>🔵 Hodanje: cela maršruta je pešačka, ali kaldrma na Gardošu ne voli štikle.</p><p>🔵 Kada: u svako doba; najbolje toplo veče radnog dana, kada kej živi svoj život bez gužve.</p><p>🔵 Sa decom: labudovi, brodići, sladoled na keju — program se slaže sam. Stalne dečje adrese grada — u <a href=\"/sr/recommend/kuda-sa-detetom-u-beogradu-stalna-mesta-i-redovni-programi-sr724\">našem vodiču</a>.</p>",
+        "en": "<h2>Practical notes</h2><p>🔵 Getting there: buses from Zeleni Venac and Novi Beograd; in summer the prettiest way is by riverboat. A taxi from the centre takes 15 to 20 minutes without traffic.</p><p>🔵 Walking: the whole route is on foot, but the Gardoš cobblestones dislike heels.</p><p>🔵 When to go: any season; the best time is a warm weekday evening, when the quay lives its own life without crowds.</p><p>🔵 With children: swans, boats and ice cream on the quay make the programme assemble itself. The city's permanent children's addresses are in <a href=\"/en/recommend/belgrade-with-kids-the-permanent-places-and-regular-programmes-en724\">our guide</a>.</p><p>Zemun is the easiest way to leave Belgrade without leaving Belgrade. Half a day is enough to fall in love; a full day and you will start browsing local apartment listings.</p>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Новый год и Рождество в Белграде: как город встречает праздники",
+    "sr": "Nova godina i Božić u Beogradu: kako grad dočekuje praznike",
+    "en": "New Year and Christmas in Belgrade: how the city celebrates"
+  },
+  "description": {
+    "ru": "<p>Праздничный сезон в Белграде длиннее, чем почти где-либо: благодаря двум календарям город празднует полтора месяца — от католического Рождества в декабре до сербского Нового года в середине января. Улицы в иллюминации, на площадях концерты, на катках очереди. Рассказываем, как устроена белградская зима праздников и что в ней не пропустить.</p>",
+    "sr": "<p>Praznična sezona u Beogradu traje duže nego skoro bilo gde: zahvaljujući dvama kalendarima grad slavi mesec i po — od katoličkog Božića u decembru do srpske Nove godine sredinom januara. Ulice u iluminaciji, na trgovima koncerti, na klizalištima redovi. Evo kako izgleda beogradska praznična zima.</p>",
+    "en": "<p>The holiday season in Belgrade lasts longer than almost anywhere: thanks to two calendars the city celebrates for a month and a half, from Catholic Christmas in December to the Serbian New Year in mid January. Streets in lights, concerts on the squares, queues at the ice rinks. Here is how the Belgrade holiday winter works and what not to miss.</p>"
+  },
+  "cover": {
+    "file": "newyear-cover-winter.webp",
+    "alt": {
+      "ru": "Зимняя Скадарлия в снегу",
+      "sr": "Zimska Skadarlija pod snegom",
+      "en": "Skadarlija in winter snow"
+    },
+    "caption": {
+      "ru": "Фото: BuhaM / Wikimedia Commons, CC BY-SA 4.0",
+      "sr": "Foto: BuhaM / Wikimedia Commons, CC BY-SA 4.0",
+      "en": "Photo: BuhaM / Wikimedia Commons, CC BY-SA 4.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Материал сезонный: конкретные программы, ярмарки и концерты этой зимы мы добавим в календарь по мере анонсов — обычно город объявляет их в конце ноября — декабре.</p><h2>Полтора месяца праздников: расписание сезона</h2><p>🔵 25 декабря — католическое Рождество: для большинства рабочий день, но город уже сияет.</p><p>🔵 31 декабря — 1 января — Новый год: главная ночь сезона, doček на площадях, концерты, салют. 1 и 2 января — нерабочие.</p><p>🔵 6–7 января — сербское Рождество: бадняки у храмов вечером 6-го, семейный день 7-го (нерабочий).</p><p>🔵 13–14 января — сербский Новый год: город празднует второй раз, чуть спокойнее, но искренне.</p><p>Подробно о том, как устроены сербские праздники и слава, — в <a href=\"/ru/recommend/slava-dva-rozdestva-i-drugie-serbskie-prazdniki-kak-ih-otmecaet-gorod-ru727\">отдельной статье</a>.</p>",
+        "sr": "<p>Tekst je sezonski: konkretne programe, bazare i koncerte ove zime dodaćemo u kalendar po najavama — grad ih obično objavljuje krajem novembra i u decembru.</p><h2>Mesec i po praznika: raspored sezone</h2><p>🔵 25. decembar — katolički Božić: za većinu radni dan, ali grad već sija.</p><p>🔵 31. decembar — 1. januar — Nova godina: glavna noć sezone, doček na trgovima, koncerti, vatromet. 1. i 2. januar su neradni.</p><p>🔵 6–7. januar — Božić: badnjaci kod hramova uveče 6-og, porodični dan 7-og (neradni).</p><p>🔵 13–14. januar — srpska Nova godina: grad slavi drugi put, mirnije ali iskreno.</p><p>Detaljno o srpskim praznicima i slavi — u <a href=\"/sr/recommend/slava-dva-bozica-i-ostali-praznici-kako-ih-grad-slavi-sr727\">posebnom tekstu</a>.</p>",
+        "en": "<p>This is a seasonal piece: we will add this winter's specific programmes, fairs and concerts to the calendar as they are announced, usually in late November and December.</p><h2>A month and a half of holidays: the season's schedule</h2><p>🔵 25 December, Catholic Christmas: a working day for most, but the city already glows.</p><p>🔵 31 December to 1 January, New Year: the main night of the season, the doček on the squares, concerts, fireworks. The 1st and 2nd of January are non-working days.</p><p>🔵 6 and 7 January, Serbian Christmas: badnjak oak branches by the churches on the evening of the 6th, a family day on the 7th (non-working).</p><p>🔵 13 to 14 January, the Serbian New Year: the city celebrates a second time, a little quieter but sincerely.</p><p>For how Serbian holidays and the slava work in detail, see our <a href=\"/en/recommend/slava-two-christmases-and-other-serbian-holidays-how-the-city-celebrat-en727\">separate article</a>.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Огни, ярмарки и катки</h2><p>С конца ноября центр одевается в иллюминацию — Кнез-Михайлова и площади превращаются в открытку. Появляются новогодние ярмарки с кувaным вином (греяна ракия — местный ответ глинтвейну) и катки: главный обычно заливают в центре, работают и районные. Точные адреса сезона объявляются в декабре — соберём их в календаре и в отдельном зимнем материале.</p>",
+        "sr": "<h2>Svetla, bazari i klizališta</h2><p>Od kraja novembra centar se oblači u iluminaciju — Knez Mihailova i trgovi postaju razglednica. Niču novogodišnji bazari sa kuvanim vinom i grejanom rakijom i klizališta — glavno obično u centru, rade i opštinska. Tačne adrese sezone objavljuju se u decembru; skupićemo ih u kalendaru i posebnom zimskom tekstu.</p>",
+        "en": "<h2>Lights, fairs and ice rinks</h2><p>From late November the centre dresses in lights, and Knez Mihailova and the squares turn into a postcard. New Year fairs appear with mulled wine and grejana rakija (the local answer to mulled wine), and so do the ice rinks: the main one usually in the centre, with district rinks working too. The season's exact addresses are announced in December; we will collect them in the calendar and in a separate winter piece.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Новогодняя ночь: куда идти</h2><p>Главный выбор ночи — площадь или ресторан. Городской doček — это бесплатные концерты на открытых сценах: программу объявляют в декабре, звёзды сербской эстрады и рока прилагаются. Рестораны и кафаны продают новогодние программы с ужином и музыкой — бронировать нужно сильно заранее, цены на эту ночь особые. Третий путь — сплавы и клубы со своими вечеринками. И помните про вторую попытку: если 31-го что-то пошло не так, 13 января город даст переиграть.</p>",
+        "sr": "<h2>Novogodišnja noć: kuda</h2><p>Glavni izbor noći: trg ili restoran. Gradski doček su besplatni koncerti na otvorenim binama — program se objavljuje u decembru. Restorani i kafane prodaju novogodišnje programe sa večerom i muzikom — rezerviše se mnogo ranije, cene su te noći posebne. Treći put su splavovi i klubovi. I ne zaboravite drugu šansu: ako 31. nešto krene naopako, 13. januar daje reprizu.</p>",
+        "en": "<h2>New Year's Eve: where to go</h2><p>The night's main choice is the square or the restaurant. The city doček means free concerts on open stages: the programme is announced in December, Serbian pop and rock stars included. Restaurants and kafanas sell New Year programmes with dinner and music: book well in advance, and expect special prices for this night. The third route is the splavovi and the clubs with parties of their own. And remember the second chance: if the 31st goes wrong, 13 January lets you replay it.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Праздники с детьми</h2><p>Декабрь — время ёлок: русскоязычные детские центры и театры играют новогодние спектакли и утренники весь месяц, а «Щелкунчик» в Народном театре — главный семейный билет сезона (покупать заранее). Катки, ярмарочные карусели и подарочные маркеты дополняют программу. Все детские события сезона — в разделе «Дети».</p>",
+        "sr": "<h2>Praznici sa decom</h2><p>Decembar je vreme jelki: dečji centri i pozorišta igraju novogodišnje predstave ceo mesec, a „Krcko Oraščić\" u Narodnom pozorištu je glavna porodična karta sezone (kupovati unapred). Klizališta, vrteške i pokloni-bazari dopunjuju program.</p>",
+        "en": "<h2>Holidays with children</h2><p>December is the season of the ëlka: Russian-language children's centres and theatres play New Year shows all month, and The Nutcracker at the National Theatre is the family ticket of the season (buy early). Ice rinks, fair carousels and gift markets complete the programme. All the season's children's events are in the Kids section.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Практика сезона</h2><p>🔵 Билеты на новогодние концерты, «Щелкунчика» и ресторанные программы разбирают в первые недели декабря.</p><p>🔵 31 декабря магазины закрываются рано, 1 января почти всё отдыхает — запасайтесь заранее; о режиме работы мы делаем отдельные материалы перед праздниками.</p><p>🔵 Одевайтесь теплее, чем кажется нужным: стоять на площади в полночь — это минус и ветер с рек.</p><p>🔵 Сербское «Срећна Нова година!» выучится само после третьего тоста.</p><p>Белградская зима щедра на праздники: полтора месяца город даёт поводы выходить из дома. Следите за календарём — сезонные события начнём собирать с конца ноября.</p>",
+        "sr": "<h2>Praktično</h2><p>🔵 Karte za novogodišnje koncerte, „Krcka\" i restoranske programe razgrabe se prvih nedelja decembra.</p><p>🔵 31. decembra radnje se zatvaraju rano, 1. januara skoro sve odmara — o radnom vremenu pravimo posebne tekstove pred praznike.</p><p>🔵 Obucite se toplije nego što mislite: ponoć na trgu je minus i vetar sa reka.</p><p>🔵 „Srećna Nova godina!\" nauči se samo posle treće zdravice.</p>",
+        "en": "<h2>Season practicalities</h2><p>🔵 Tickets for New Year concerts, The Nutcracker and restaurant programmes go in the first weeks of December.</p><p>🔵 On 31 December the shops close early and on 1 January almost everything rests: stock up in advance. We publish separate working-hours articles before the holidays.</p><p>🔵 Dress warmer than seems necessary: standing on a square at midnight means sub-zero air and wind off the rivers.</p><p>🔵 The Serbian \"Srećna Nova godina!\" will learn itself by the third toast.</p><p>The Belgrade winter is generous with holidays: for a month and a half the city keeps giving you reasons to go out. Watch the calendar; we start collecting the season's events from late November.</p>"
+      }
+    }
+  ]
+}

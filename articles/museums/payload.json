@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Музеи Белграда: большой гид",
+    "sr": "Muzeji Beograda: veliki vodič",
+    "en": "The museums of Belgrade: the big guide"
+  },
+  "description": {
+    "ru": "<p>Музейный Белград недооценён даже теми, кто здесь живёт: за последнее десятилетие город заново открыл свои главные музеи после реконструкций, и сегодня здесь есть чем занять и день, и сезон. Собрали главные адреса — от национальной классики до Теслы и авиации — с подсказками, с чего начинать.</p>",
+    "sr": "<p>Muzejski Beograd je potcenjen čak i od onih koji ovde žive: u poslednjoj deceniji grad je posle rekonstrukcija ponovo otvorio svoje glavne muzeje, i danas ovde ima materijala i za dan i za sezonu. Evo glavnih adresa sa savetima odakle početi.</p>",
+    "en": "<p>Museum Belgrade is underrated even by the people who live here: over the past decade the city reopened its main museums after reconstructions, and today there is enough for a day or a season. Here are the main addresses, from the national classics to Tesla and aviation, with hints on where to start.</p>"
+  },
+  "cover": {
+    "file": "museums-cover-narodni.webp",
+    "alt": {
+      "ru": "Здание Народного музея на площади Республики",
+      "sr": "Zgrada Narodnog muzeja na Trgu republike",
+      "en": "The National Museum building on Republic Square"
+    },
+    "caption": {
+      "ru": "Фото: Fred Romero / Wikimedia Commons, CC BY 2.0",
+      "sr": "Foto: Fred Romero / Wikimedia Commons, CC BY 2.0",
+      "en": "Photo: Fred Romero / Wikimedia Commons, CC BY 2.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Выставки, музейные события и специальные программы мы публикуем в календаре Афиши; режимы и цены проверяйте на сайтах музеев — они меняются.</p><h2>Обязательная программа</h2><p>🔵 Народный музей (площадь Республики) — главная коллекция страны: от римских древностей до Надежды Петрович и европейской живописи. После долгой реконструкции — снова гордость города.</p><p>🔵 Музей современного искусства (Ушче) — югославский модернизм в здании-скульптуре среди парка; одна из самых фотогеничных музейных построек региона.</p><p>🔵 Музей Николы Теслы — маленький, но культовый: личный архив, урна и интерактивные демонстрации с молниями; экскурсии идут и на английском. Очереди по выходным — приходите к открытию.</p><p>🔵 Музей Югославии и Дом цветов — история страны, которой нет, и могила Тито; про музей у нас есть отдельная статья.</p>",
+        "sr": "<p>Izložbe i muzejske programe objavljujemo u kalendaru Afiše; radna vremena i cene proveravajte na sajtovima muzeja — menjaju se.</p><h2>Obavezni program</h2><p>🔵 Narodni muzej (Trg republike) — glavna kolekcija zemlje: od rimskih starina do Nadežde Petrović i evropskog slikarstva.</p><p>🔵 Muzej savremene umetnosti (Ušće) — jugoslovenski modernizam u zgradi-skulpturi usred parka.</p><p>🔵 Muzej Nikole Tesle — mali ali kultni: lični arhiv, urna i demonstracije sa munjama; ture idu i na engleskom. Vikendom su redovi — dođite na otvaranje.</p><p>🔵 Muzej Jugoslavije i Kuća cveća — istorija zemlje koje nema i Titov grob.</p>",
+        "en": "<p>We publish exhibitions and museum events in the Afisha calendar; check opening hours and prices on the museums' sites, as they change.</p><h2>The essential programme</h2><p>🔵 The National Museum (Republic Square): the country's main collection, from Roman antiquities to Nadežda Petrović and European painting. After a long reconstruction it is the city's pride again.</p><p>🔵 The Museum of Contemporary Art (Ušće): Yugoslav modernism in a sculpture of a building set in a park.</p><p>🔵 The Nikola Tesla Museum: small but cult, with the personal archive, the urn and interactive lightning demonstrations; tours run in English too. Weekend queues are real, so come at opening.</p><p>🔵 The Museum of Yugoslavia and the House of Flowers: the history of a country that no longer exists, and Tito's grave.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Для влюблённых в историю</h2><p>🔵 Военный музей на Калемегдане — от римских шлемов до техники ХХ века во рву крепости.</p><p>🔵 Этнографический музей — как жили на Балканах до города: костюмы, дома, ремёсла.</p><p>🔵 Музей Вука и Доситея — про рождение сербского языка и школы.</p><p>🔵 Конак кнегини Любицы — княжеский дом XIX века с балканским интерьером: самый атмосферный «маленький» музей центра.</p>",
+        "sr": "<h2>Za zaljubljene u istoriju</h2><p>🔵 Vojni muzej na Kalemegdanu — od rimskih šlemova do tehnike XX veka u tvrđavskom rovu.</p><p>🔵 Etnografski muzej — kako se živelo na Balkanu pre grada.</p><p>🔵 Muzej Vuka i Dositeja — rođenje srpskog jezika i škole.</p><p>🔵 Konak kneginje Ljubice — kneževska kuća XIX veka, najatmosferičniji „mali\" muzej centra.</p>",
+        "en": "<h2>For lovers of history</h2><p>🔵 The Military Museum at Kalemegdan: from Roman helmets to twentieth-century hardware in the fortress moat.</p><p>🔵 The Ethnographic Museum: how the Balkans lived before the city, in costumes, houses and crafts.</p><p>🔵 The Vuk and Dositej Museum: the birth of the Serbian language and school.</p><p>🔵 The Residence of Princess Ljubica: a nineteenth-century princely house with Balkan interiors, the most atmospheric \"small\" museum of the centre.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Наука, техника и небо</h2><p>🔵 Музей науки и техники — паровые машины, старые приборы и интерактив; лучший музей для похода с детьми после <a href=\"/ru/recommend/kuda-pojti-s-rebenkom-v-belgrade-postoannye-mesta-i-regularnye-program-ru724\">зоопарка</a>.</p><p>🔵 Музей авиации у аэропорта — купол с самолётами, включая обломки сбитого F-117; виден прямо с трассы на аэропорт.</p><p>🔵 Железнодорожный музей и ПТТ-музей — для ценителей ретро-техники.</p>",
+        "sr": "<h2>Nauka, tehnika i nebo</h2><p>🔵 Muzej nauke i tehnike — parne mašine i interaktiv; najbolji muzej za decu posle <a href=\"/sr/recommend/kuda-sa-detetom-u-beogradu-stalna-mesta-i-redovni-programi-sr724\">zoološkog</a>.</p><p>🔵 Muzej vazduhoplovstva kod aerodroma — kupola sa avionima, uključujući ostatke oborenog F-117.</p><p>🔵 Železnički i PTT muzej — za ljubitelje retro-tehnike.</p>",
+        "en": "<h2>Science, technology and the sky</h2><p>🔵 The Museum of Science and Technology: steam engines, old instruments and interactive exhibits; the best museum for kids after <a href=\"/en/recommend/belgrade-with-kids-the-permanent-places-and-regular-programmes-en724\">the zoo</a>.</p><p>🔵 The Aviation Museum by the airport: a dome full of aircraft, including the wreckage of the downed F-117, visible right from the airport road.</p><p>🔵 The Railway Museum and the PTT Museum, for lovers of retro technology.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Малый жанр: домá-музеи и коллекции</h2><p>Отдельное удовольствие Белграда — маленькие музеи на час: дом Иво Андрича, мемориальные квартиры художников, частные коллекции вроде музея Цептер с сербским искусством XX века. Они редко попадают в путеводители и почти никогда — в толпы. Плюс галерейная сцена, о которой мы писали в <a href=\"/ru/recommend/galerei-i-vystavki-belgrada-gde-sledit-za-iskusstvom-ru732\">гиде по выставкам</a>.</p>",
+        "sr": "<h2>Mali žanr: kuće-muzeji i kolekcije</h2><p>Posebno beogradsko zadovoljstvo su mali muzeji na sat vremena: kuća Ive Andrića, memorijalni stanovi umetnika, privatne kolekcije poput Cepter muzeja sa srpskom umetnošću XX veka. Retko upadaju u vodiče i skoro nikad u gužve. Tu je i galerijska scena iz našeg <a href=\"/sr/recommend/galerije-i-izlozbe-gde-pratiti-umetnost-u-beogradu-sr732\">vodiča kroz izložbe</a>.</p>",
+        "en": "<h2>The small genre: house museums and collections</h2><p>A particular Belgrade pleasure is the one-hour museum: Ivo Andrić's house, the memorial apartments of artists, private collections like the Zepter Museum of twentieth-century Serbian art. They rarely make the guidebooks and almost never draw crowds. Add the gallery scene from our <a href=\"/en/recommend/galleries-and-exhibitions-following-art-in-belgrade-en732\">exhibitions guide</a>.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как ходить по музеям в Белграде</h2><p>🔵 Понедельник — стандартный выходной; многие музеи работают допоздна один день в неделю.</p><p>🔵 Билеты недорогие; у многих музеев есть бесплатные дни — уточняйте на сайтах. Главный музейный праздник — майская «Ночь музеев».</p><p>🔵 Не пытайтесь охватить всё за раз: белградские музеи любят медленный темп. Один музей плюс кофе поблизости — формула идеального «культурного часа».</p><p>🔵 Музейные события — лекции, детские программы, тематические экскурсии — появляются в нашем календаре регулярно.</p><p>Начните с Теслы, продолжите Народным музеем — а дальше город сам разложит маршрут. Музейного Белграда хватит на годы.</p>",
+        "sr": "<h2>Kako se ide po muzejima</h2><p>🔵 Ponedeljak je standardni neradni dan; mnogi muzeji jedan dan u nedelji rade do kasno.</p><p>🔵 Karte su jeftine; mnogi imaju besplatne dane — proverite na sajtovima. Glavni praznik je majska „Noć muzeja\".</p><p>🔵 Ne pokušavajte sve odjednom: jedan muzej plus kafa u blizini — formula idealnog kulturnog sata.</p><p>🔵 Muzejski događaji — predavanja, dečji programi, tematske ture — redovno su u našem kalendaru.</p>",
+        "en": "<h2>How to do museums in Belgrade</h2><p>🔵 Monday is the standard closing day; many museums stay open late one evening a week.</p><p>🔵 Tickets are cheap and many museums have free days: check the sites. The main museum holiday is Museum Night in May.</p><p>🔵 Do not try to cover everything at once: Belgrade museums love a slow pace. One museum plus a coffee nearby is the formula for the perfect cultural hour.</p><p>🔵 Museum events, from talks to children's programmes and themed tours, appear in our calendar regularly.</p><p>Start with Tesla, continue with the National Museum, and the city will lay out the route from there. Museum Belgrade will last you years.</p>"
+      }
+    }
+  ]
+}

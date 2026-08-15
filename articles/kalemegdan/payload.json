@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Калемегдан: крепость как главная площадка города",
+    "sr": "Kalemegdan: tvrđava kao glavna scena grada",
+    "en": "Kalemegdan: the fortress as the city's main venue"
+  },
+  "description": {
+    "ru": "<p>Калемегдан — это не просто «главная достопримечательность» из путеводителя. Крепость над слиянием Савы и Дуная — полноценная городская площадка: здесь проходят концерты и фестивали, работают музеи и обсерватория, по стенам гуляют на рассвете и на закате, а летом крепостной ров превращается в амфитеатр. Разбираем Калемегдан как место, куда ходят не один раз, а всю жизнь.</p>",
+    "sr": "<p>Kalemegdan nije samo „glavna znamenitost\" iz vodiča. Tvrđava nad ušćem Save u Dunav je punopravna gradska scena: tu se dešavaju koncerti i festivali, rade muzeji i opservatorija, po bedemima se šeta u zoru i u suton, a leti tvrđavski rov postaje amfiteatar. Evo Kalemegdana kao mesta na koje se ne ide jednom, nego ceo život.</p>",
+    "en": "<p>Kalemegdan is not just the \"main sight\" from a guidebook. The fortress above the confluence of the Sava and the Danube is a full city venue: concerts and festivals happen here, museums and an observatory work here, people walk the walls at dawn and sunset, and in summer the fortress moat becomes an amphitheatre. Here is Kalemegdan as a place you visit not once but for a lifetime.</p>"
+  },
+  "cover": {
+    "file": "kalemegdan-cover-festung.webp",
+    "alt": {
+      "ru": "Калемегданская крепость над Савой",
+      "sr": "Kalemegdanska tvrđava nad Savom",
+      "en": "The Kalemegdan fortress above the Sava"
+    },
+    "caption": {
+      "ru": "Фото: Stefan Didam / Wikimedia Commons, CC BY-SA 3.0",
+      "sr": "Foto: Stefan Didam / Wikimedia Commons, CC BY-SA 3.0",
+      "en": "Photo: Stefan Didam / Wikimedia Commons, CC BY-SA 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>События в крепости и парке — от концертов до йоги — мы публикуем в календаре; вход на территорию свободный всегда.</p><h2>География: Верхний и Нижний город</h2><p>Крепость делится на Верхний город — с Победником, воротами и главными видами — и Нижний, спускающийся к рекам. Вокруг — Калемегданский парк с аллеями, памятниками и павильоном «Цвиета Зузорич». На осмотр с прогулкой закладывайте два часа; на «пройти насквозь по пути» — двадцать минут, и это одна из самых красивых транзитных троп Европы.</p>",
+        "sr": "<p>Događaje u tvrđavi i parku — od koncerata do joge — objavljujemo u kalendaru; ulaz na teritoriju je uvek slobodan.</p><h2>Geografija: Gornji i Donji grad</h2><p>Tvrđava se deli na Gornji grad — sa Pobednikom, kapijama i glavnim vidicima — i Donji, koji silazi ka rekama. Okolo je Kalemegdanski park sa alejama i paviljonom „Cvijeta Zuzorić\". Za obilazak sa šetnjom računajte dva sata; za prolaz „usput\" — dvadeset minuta, i to je jedna od najlepših tranzitnih staza Evrope.</p>",
+        "en": "<p>We publish events in the fortress and the park, from concerts to yoga, in the calendar; entry to the grounds is always free.</p><h2>Geography: the Upper and Lower Town</h2><p>The fortress divides into the Upper Town, with the Pobednik monument, the gates and the main views, and the Lower Town descending to the rivers. Around them lies Kalemegdan Park with its alleys and the Cvijeta Zuzorić pavilion. Budget two hours for a proper walk; twenty minutes for a pass-through, which happens to be one of Europe's most beautiful transit paths.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Что внутри: музеи и башни</h2><p>🔵 Военный музей во рву — техника и тысячелетие военной истории.</p><p>🔵 Народная обсерватория и планетарий — астрономические вечера и наблюдения в телескоп; программы выходного дня.</p><p>🔵 Башни и ворота — от Небойшиной кулы у воды до Часовой башни; галерея Природняцкого музея — у входа в парк.</p><p>🔵 Римский колодец, казематы и подземелья — с экскурсиями.</p><p>Плюс зоопарк у стен крепости — про него и другие детские адреса мы писали в <a href=\"/ru/recommend/kuda-pojti-s-rebenkom-v-belgrade-postoannye-mesta-i-regularnye-program-ru724\">детском гиде</a>.</p>",
+        "sr": "<h2>Šta je unutra: muzeji i kule</h2><p>🔵 Vojni muzej u rovu — tehnika i milenijum vojne istorije.</p><p>🔵 Narodna opservatorija i planetarijum — astronomske večeri i posmatranja teleskopom.</p><p>🔵 Kule i kapije — od Nebojšine kule uz vodu do Sahat-kule; galerija Prirodnjačkog muzeja na ulazu u park.</p><p>🔵 Rimski bunar, kazamati i podzemlje — uz ture.</p><p>Plus zoološki vrt uz zidine — o njemu u <a href=\"/sr/recommend/kuda-sa-detetom-u-beogradu-stalna-mesta-i-redovni-programi-sr724\">dečjem vodiču</a>.</p>",
+        "en": "<h2>What is inside: museums and towers</h2><p>🔵 The Military Museum in the moat: hardware and a millennium of military history.</p><p>🔵 The People's Observatory and the planetarium: astronomy evenings and telescope sessions, with weekend programmes.</p><p>🔵 Towers and gates, from the Nebojša Tower by the water to the Clock Tower; the Natural History Museum gallery at the park entrance.</p><p>🔵 The Roman Well, the casemates and the underground, visited with tours.</p><p>Plus the zoo by the fortress walls, covered in our <a href=\"/en/recommend/belgrade-with-kids-the-permanent-places-and-regular-programmes-en724\">kids guide</a>.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Крепость как сцена</h2><p>Летний Калемегдан — концертная площадка: в Барутане, пороховом погребе XVIII века, проходят концерты и вечера под открытым небом (<a href=\"/ru/recommend/koncertnye-plosadki-belgrada-gid-po-zalam-klubam-i-open-air-ru719\">мы описывали её</a> в гиде по площадкам), в парке — фестивали, ярмарки и открытые тренировки, у стен — йога на рассвете. Даже без билета крепость даёт программу каждый вечер: уличные музыканты, шахматисты на аллеях и лучший закат города со стены над слиянием.</p>",
+        "sr": "<h2>Tvrđava kao bina</h2><p>Letnji Kalemegdan je koncertna scena: u Barutani, barutnom magacinu XVIII veka, idu koncerti pod otvorenim nebom (<a href=\"/sr/recommend/koncertne-scene-beograda-vodic-kroz-dvorane-klubove-i-open-air-sr719\">opisali smo je</a> u vodiču kroz scene), u parku festivali i bazari, uz zidine joga u zoru. I bez karte tvrđava daje program svako veče: ulični muzičari, šahisti i najbolji zalazak grada sa zida nad ušćem.</p>",
+        "en": "<h2>The fortress as a stage</h2><p>Summer Kalemegdan is a concert ground: Barutana, the eighteenth-century gunpowder magazine, hosts open-air concerts (<a href=\"/en/recommend/belgrade-concert-venues-a-guide-to-the-halls-clubs-and-open-air-stages-en719\">we described it</a> in the venue guide), the park hosts festivals, fairs and open training sessions, and yoga happens by the walls at dawn. Even without a ticket the fortress offers a programme every evening: street musicians, chess players on the alleys, and the city's best sunset from the wall above the confluence.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Ритуалы: как ходят на Калемегдан местные</h2><p>🔵 На закат — к Победнику или на западные стены, за полчаса до захода; летом со своим пледом.</p><p>🔵 На рассвет — в тишину Нижнего города: туристов нет, город внизу просыпается.</p><p>🔵 Зимой — на снежный Калемегдан: крепость в снегу отменяет все claims о том, что вы «уже всё тут видели».</p><p>🔵 С гостями города — классический маршрут: Кнез-Михайлова → парк → Победник → спуск к Небойшиной куле.</p>",
+        "sr": "<h2>Rituali: kako lokalci idu na Kalemegdan</h2><p>🔵 Na zalazak — kod Pobednika ili na zapadne zidine, pola sata pre; leti sa ćebetom.</p><p>🔵 U zoru — u tišinu Donjeg grada: turista nema, grad se dole budi.</p><p>🔵 Zimi — na snežni Kalemegdan: tvrđava pod snegom poništava sve tvrdnje da ste „sve već videli\".</p><p>🔵 Sa gostima — klasika: Knez Mihailova → park → Pobednik → silazak do Nebojšine kule.</p>",
+        "en": "<h2>Rituals: how the locals do Kalemegdan</h2><p>🔵 For sunset, go to Pobednik or the western walls half an hour before; in summer bring a blanket.</p><p>🔵 For dawn, seek the silence of the Lower Town: no tourists, and the city wakes below.</p><p>🔵 In winter, come for snowy Kalemegdan: the fortress under snow cancels any claim that you have \"seen it all\".</p><p>🔵 With guests, walk the classic: Knez Mihailova, the park, Pobednik, then down to the Nebojša Tower.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Практика</h2><p>🔵 Вход в парк и крепость бесплатный и круглосуточный; билеты нужны только в музеи и на подземные экскурсии.</p><p>🔵 Обувь важнее плана: брусчатка и валы не любят каблуков.</p><p>🔵 Кофе и вода — у входов в парк; внутри выбор скромнее.</p><p>🔵 События в крепости — в нашем календаре: летом они появляются пачками.</p><p>Калемегдан — то место, по которому белградцы меряют сезоны: первая весенняя прогулка, первый летний концерт в Барутане, первый снег на стенах. Присоединяйтесь к этому календарю — он бесплатный.</p>",
+        "sr": "<h2>Praktično</h2><p>🔵 Ulaz u park i tvrđavu je besplatan i non-stop; karte trebaju samo za muzeje i podzemne ture.</p><p>🔵 Obuća je važnija od plana: kaldrma i bedemi ne vole štikle.</p><p>🔵 Kafa i voda — na ulazima u park; unutra je izbor skromniji.</p><p>🔵 Događaji u tvrđavi su u našem kalendaru: leti stižu u talasima.</p>",
+        "en": "<h2>Practical notes</h2><p>🔵 Entry to the park and fortress is free and round the clock; tickets are needed only for the museums and underground tours.</p><p>🔵 Footwear matters more than the plan: cobblestones and ramparts dislike heels.</p><p>🔵 Coffee and water are at the park entrances; inside the choice is modest.</p><p>🔵 Fortress events are in our calendar, and in summer they arrive in waves.</p><p>Kalemegdan is how Belgraders measure their seasons: the first spring walk, the first summer concert in Barutana, the first snow on the walls. Join that calendar; it is free.</p>"
+      }
+    }
+  ]
+}
