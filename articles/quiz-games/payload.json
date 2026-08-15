@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Квизы и настольные игры в Белграде: гид по регулярным играм",
+    "sr": "Kvizovi i društvene igre u Beogradu: vodič kroz redovne večeri",
+    "en": "Quizzes and board games in Belgrade: a guide to the regular game nights"
+  },
+  "description": {
+    "ru": "<p>Квизы — самый устойчивый жанр русскоязычного Белграда: пока концерты и гастроли приходят и уходят, командные игры идут каждую неделю, год за годом, и собирают полные залы. Если вы ещё не играли — вот как устроена эта сцена и с чего начать.</p>",
+    "sr": "<p>Kvizovi su najstabilniji žanr ruskojezičnog Beograda: dok koncerti i turneje dolaze i prolaze, timske igre idu svake nedelje, iz godine u godinu, i pune sale. Ako još niste igrali — evo kako ta scena izgleda i odakle početi.</p>",
+    "en": "<p>Quizzes are the most stable genre of Russian-speaking Belgrade: while concerts and tours come and go, team games run every week, year after year, and fill their venues. If you have not played yet, here is how the scene works and where to start.</p>"
+  },
+  "cover": {
+    "file": "quiz-cover-znak-pitanja.webp",
+    "alt": {
+      "ru": "Фонарь со знаком вопроса на фасаде кафаны «?»",
+      "sr": "Fenjer sa znakom pitanja na fasadi kafane „?\"",
+      "en": "The question mark lantern on the facade of the \"?\" kafana"
+    },
+    "caption": {
+      "ru": "Знак вопроса — вывеска старейшей кафаны Белграда: вопросы здесь любят с 1823 года. Фото: Ranko / Wikimedia Commons, CC BY-SA 3.0",
+      "sr": "Znak pitanja — firma najstarije beogradske kafane: pitanja ovde vole od 1823. Foto: Ranko / Wikimedia Commons, CC BY-SA 3.0",
+      "en": "The question mark is the sign of Belgrade’s oldest kafana: questions have been loved here since 1823. Photo: Ranko / Wikimedia Commons, CC BY-SA 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Главное: почти все игры требуют предварительной записи командой, а расписание на неделю всегда есть в разделе «Игры» нашего календаря.</p><h2>Какие квизы идут на русском</h2><p>В городе одновременно живут несколько регулярных франшиз и авторских проектов: SQUIZ с классическими и тематическими играми, «Шейкер Квиз» с музыкальными и «обо всём» форматами, MozgoQuiz, «Квиз, плиз!» и QuizHeroes. У каждого — свой характер: где-то упор на эрудицию, где-то на музыку, мемы или сериалы. Тематические игры — отдельное удовольствие: за один месяц в афише можно найти квиз про кино, географию, Евровидение и девяностые.</p>",
+        "sr": "<p>Najvažnije: skoro sve igre traže prethodnu prijavu tima, a nedeljni raspored je uvek u rubrici „Igre\" našeg kalendara.</p><h2>Koji kvizovi idu na ruskom</h2><p>U gradu paralelno žive nekoliko redovnih franšiza i autorskih projekata: SQUIZ sa klasičnim i tematskim igrama, Shaker Quiz sa muzičkim formatima, MozgoQuiz, Kviz plizi QuizHeroes. Svaki ima svoj karakter: negde je naglasak na erudiciji, negde na muzici, memovima ili serijama. Tematske igre su posebno zadovoljstvo: u jednom mesecu u programu se nađu kviz o filmu, geografiji, Evroviziji i devedesetim.</p>",
+        "en": "<p>The main thing: almost all games require advance team registration, and the weekly schedule is always in the Games section of our calendar.</p><h2>Which quizzes run in Russian</h2><p>Several regular franchises and original projects live in the city at once: SQUIZ with classic and themed games, Shaker Quiz with music formats, MozgoQuiz, Kviz Pliz and QuizHeroes. Each has its own character: some lean on erudition, others on music, memes or TV series. Themed games are a separate pleasure: in a single month the listings can offer quizzes about cinema, geography, Eurovision and the nineties.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Где играют</h2><p>Постоянные дома квизов — бары и клубы центра:</p><p>🔵 Santo Domingo на Студенческом тргу — главная квизовая площадка города: здесь идут игры сразу нескольких проектов.</p><p>🔵 DC Loža на Дорчоле — квизы, настолки и тематические вечера.</p><p>🔵 Auditoria и другие площадки подключаются под конкретные форматы.</p><p>Адрес всегда смотрите в карточке события: один и тот же квиз может кочевать между барами.</p>",
+        "sr": "<h2>Gde se igra</h2><p>🔵 Santo Domingo na Studentskom trgu — glavna kviz-scena grada: tu idu igre više projekata.</p><p>🔵 DC Loža na Dorćolu — kvizovi, društvene igre i tematske večeri.</p><p>🔵 Auditoria i druge scene uključuju se za pojedine formate.</p><p>Adresu uvek proverite u kartici događaja: isti kviz ume da se seli iz bara u bar.</p>",
+        "en": "<h2>Where the games happen</h2><p>🔵 Santo Domingo on Studentski Trg is the city's main quiz venue, hosting games from several projects.</p><p>🔵 DC Loža in Dorćol runs quizzes, board games and themed nights.</p><p>🔵 Auditoria and other venues join in for particular formats.</p><p>Always check the address in the event card: the same quiz can migrate between bars.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как устроена игра</h2><p>Стандартный вечер: команда от двух до восьми человек, несколько раундов по разным темам, бланки или планшеты, два-три часа игры. Взнос — обычно порядка тысячи динаров с человека, платится на месте. Записываться нужно заранее: у популярных игр мест не хватает уже за несколько дней. Собрать полную команду не обязательно — организаторы охотно объединяют «недокомплекты», и это, кстати, рабочий способ познакомиться с новыми людьми.</p>",
+        "sr": "<h2>Kako izgleda veče</h2><p>Standard: tim od dva do osam ljudi, nekoliko rundi na razne teme, dva-tri sata igre. Kotizacija je obično oko hiljadu dinara po osobi, plaća se na licu mesta. Prijava ide unapred: kod popularnih igara mesta nestanu nekoliko dana ranije. Pun tim nije obavezan — organizatori rado spajaju „nekomplete\", što je usput i dobar način za upoznavanje.</p>",
+        "en": "<h2>How a night works</h2><p>The standard: a team of two to eight people, several rounds on different topics, two or three hours of play. The fee is usually around a thousand dinars per person, paid on the spot. Register in advance: popular games run out of tables days ahead. A full team is not required, as organizers happily merge incomplete ones, which is also a working way to meet people.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Настолки и ролевые игры</h2><p>Настольная сцена живёт рядом с квизовой: регулярные вечера настолок (например, в DC Loža), партии в «Мафию», а для любителей больших форм — кампании Dungeons &amp; Dragons, в том числе подростковые группы. Вечера настолок обычно бесплатные или за символический взнос; игры находятся на месте, приходить можно без компании — за столами всегда есть место новичку.</p>",
+        "sr": "<h2>Društvene i rolne igre</h2><p>Pored kvizova žive i večeri društvenih igara (na primer u DC Loži), partije „Mafije\", a za ljubitelje velikih formi — kampanje Dungeons &amp; Dragons, uključujući tinejdžerske grupe. Večeri društvenih igara obično su besplatne ili uz simboličan prilog; igre se nalaze na mestu, može se doći i bez društva.</p>",
+        "en": "<h2>Board games and role-playing</h2><p>The board game scene lives next door: regular tabletop nights (at DC Loža, for example), Mafia games, and for lovers of the long form, Dungeons and Dragons campaigns, including teenage groups. Board game nights are usually free or a symbolic fee; games are provided, and you can come alone, as there is always room for a newcomer at the table.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>С чего начать</h2><p>🔵 Откройте раздел «Игры» в календаре Афиши и выберите ближайший вечер по вкусу: классика, музыка или настолки.</p><p>🔵 Запишитесь по ссылке из карточки — обычно это форма или телеграм организатора.</p><p>🔵 Нет команды — напишите организатору, что вы один или вдвоём: вас посадят к людям, и через пару игр у вас будет своя команда.</p><p>Квиз по средам — это тот якорь недели, вокруг которого эмигрантская жизнь собирается сама. Проверено сотнями белградских команд.</p>",
+        "sr": "<h2>Odakle početi</h2><p>🔵 Otvorite rubriku „Igre\" u kalendaru Afiše i izaberite veče po ukusu.</p><p>🔵 Prijavite se preko linka iz kartice — obično forma ili telegram organizatora.</p><p>🔵 Nemate tim — javite organizatoru da ste sami ili udvoje: smestiće vas, a posle par igara imaćete svoj tim.</p>",
+        "en": "<h2>Where to start</h2><p>🔵 Open the Games section of the Afisha calendar and pick the nearest night you like: classic, music or tabletop.</p><p>🔵 Register through the link in the card, usually a form or the organizer's Telegram.</p><p>🔵 No team? Tell the organizer you are alone or a pair: they will seat you with people, and after a couple of games you will have a team of your own.</p>"
+      }
+    }
+  ]
+}

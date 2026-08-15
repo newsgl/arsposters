@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Стендап на русском в Белграде: кто выступает и куда идти",
+    "sr": "Stand-up na ruskom u Beogradu: ko nastupa i gde se ide",
+    "en": "Russian-language stand-up in Belgrade: who performs and where to go"
+  },
+  "description": {
+    "ru": "<p>За последние годы Белград незаметно стал одной из столиц русскоязычного стендапа: сюда регулярно доезжают комики с мировыми турами, а между их визитами город живёт собственной сценой — с еженедельными вечерами, проверками материала и опен-майками. Если вы думали, что переезд означает прощание со стендапом на родном языке, — у нас хорошие новости.</p>",
+    "sr": "<p>Poslednjih godina Beograd je neprimetno postao jedna od prestonica stand-upa na ruskom jeziku: ovamo redovno stižu komičari sa svetskim turnejama, a između njihovih poseta grad živi sopstvenom scenom — sa nedeljnim večerima, proverama materijala i open-mic formatima.</p>",
+    "en": "<p>In recent years Belgrade has quietly become one of the capitals of Russian-language stand-up: top touring comedians include the city in their world tours, and between their visits the city runs a scene of its own, with weekly shows, work-in-progress nights and open mics.</p>"
+  },
+  "cover": {
+    "file": "standup-cover-mic.webp",
+    "alt": {
+      "ru": "Ретро-микрофон крупным планом",
+      "sr": "Retro mikrofon krupnim planom",
+      "en": "A retro microphone in close-up"
+    },
+    "caption": {
+      "ru": "Фото: Glide / Wikimedia Commons, CC BY 3.0",
+      "sr": "Foto: Glide / Wikimedia Commons, CC BY 3.0",
+      "en": "Photo: Glide / Wikimedia Commons, CC BY 3.0"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Коротко о главном: большие имена объявляются за месяц-два и продаются быстро, а местные вечера идут каждую неделю — следите за разделом Stand Up в календаре Афиши.</p><h2>Большие гастроли</h2><p>Русскоязычные комики первой величины включают Белград в европейские туры постоянно: за последний год через город проехали десятки сольников — от стадионных имён до звёзд ютуб-стендапа. Такие концерты проходят в больших залах — от MTS Dvorana до Сава-центра, — а билеты на самые громкие фамилии заканчиваются задолго до даты. Что это за залы, мы рассказывали в <a href=\"/ru/recommend/koncertnye-plosadki-belgrada-gid-po-zalam-klubam-i-open-air-ru719\">гиде по площадкам</a>.</p><p>Практическое правило: увидели анонс знакомой фамилии — не откладывайте. Гастролёры почти никогда не дают второй концерт.</p>",
+        "sr": "<p>Ukratko: velika imena se najavljuju mesec-dva unapred i brzo se rasprodaju, a lokalne večeri idu svake nedelje — pratite rubriku Stand Up u kalendaru Afiše.</p><h2>Velike turneje</h2><p>Najveći ruskojezični komičari redovno uključuju Beograd u evropske turneje: kroz grad su za godinu dana prošle desetine solo programa. Takvi koncerti idu u velikim salama — od MTS Dvorane do Sava centra; koje su to sale, pisali smo u <a href=\"/sr/recommend/koncertne-scene-beograda-vodic-kroz-dvorane-klubove-i-open-air-sr719\">vodiču kroz koncertne scene</a>. Praktično pravilo: vidite poznato ime — ne odlažite, gostujući komičari skoro nikad ne daju drugi termin.</p>",
+        "en": "<p>The short version: big names are announced a month or two ahead and sell out fast, while local nights run every week. Follow the Stand Up section of the Afisha calendar.</p><h2>The big tours</h2><p>The leading Russian-language comedians include Belgrade in their European tours all the time: dozens of solo shows have passed through the city in the last year. These play the big halls, from MTS Dvorana to Sava Centar; we described those rooms in our <a href=\"/en/recommend/belgrade-concert-venues-a-guide-to-the-halls-clubs-and-open-air-stages-en719\">venue guide</a>. The practical rule: if you see a familiar name announced, do not wait. Touring comedians almost never add a second show.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Местная сцена: комики, которые живут здесь</h2><p>Между гастролями стендап в Белграде не замирает: в городе сложилась собственная русскоязычная тусовка комиков — с постоянными форматами, совместными концертами и дуэтными программами вроде «В два ствола». Уровень разный, цены щадящие, атмосфера клубная: маленький зал, сцена на расстоянии вытянутой руки и материал, который часто пишется про нашу с вами эмигрантскую жизнь — от буквы Ш в документах до звонков родителям.</p>",
+        "sr": "<h2>Lokalna scena</h2><p>Između turneja stand-up ne miruje: u gradu postoji sopstvena ruskojezična scena komičara — sa stalnim formatima, zajedničkim koncertima i duetima. Cene su pristojne, atmosfera klupska: mala sala, bina na dohvat ruke i materijal koji se često piše o emigrantskom životu.</p>",
+        "en": "<h2>The local scene</h2><p>Between tours the scene does not sleep: Belgrade has its own community of Russian-speaking comedians with regular formats, joint shows and duo programmes. Prices are gentle and the atmosphere is properly club-like: a small room, the stage within arm's reach, and material often written about the emigrant life we all share.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Куда идти: адреса</h2><p>🔵 Ben Akiba в Савамале — комедийный клуб как он должен выглядеть: подвал, кирпич, низкий потолок. Здесь идут и сербские, и русскоязычные вечера.</p><p>🔵 Polet на Цетиньской и соседние сцены двора — частый дом для сольников и сборников.</p><p>🔵 Auditoria на Дорчоле — камерные вечера, импровизация и разговорные форматы.</p><p>🔵 Большие сольники — в залах: MTS Dvorana, Дом молодёжи, Сава-центр.</p><p>Площадки меняются от вечера к вечеру, так что надёжнее всего смотреть адрес в карточке конкретного события.</p>",
+        "sr": "<h2>Adrese</h2><p>🔵 Ben Akiba u Savamali — komedi klub kakav treba da bude: podrum, cigla, nizak plafon; idu i srpske i ruske večeri.</p><p>🔵 Polet u Cetinjskoj i susedne bine dvorišta — čest dom solo i grupnih programa.</p><p>🔵 Auditoria na Dorćolu — kamerne večeri i improvizacija.</p><p>🔵 Veliki solo programi — po dvoranama: MTS Dvorana, Dom omladine, Sava centar.</p><p>Scene se menjaju iz večeri u veče, pa adresu proverite u kartici konkretnog događaja.</p>",
+        "en": "<h2>The addresses</h2><p>🔵 Ben Akiba in Savamala is a comedy club as it should be: a basement, brick walls, a low ceiling. Serbian and Russian-language nights both run here.</p><p>🔵 Polet on Cetinjska and the neighbouring courtyard stages often host solo and group shows.</p><p>🔵 Auditoria in Dorćol does intimate nights and improv.</p><p>🔵 The big solo shows go to the halls: MTS Dvorana, Dom Omladine, Sava Centar.</p><p>Venues change from night to night, so check the address in the specific event card.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Опен-майки: посмотреть на рождение материала</h2><p>Отдельный жанр — открытые микрофоны и проверки материала: комики обкатывают новые шутки, вход обычно бесплатный или за донат, а зал становится соавтором. Идти стоит с правильными ожиданиями: это не концерт, а мастерская — часть шуток умрёт у вас на глазах, и в этом половина удовольствия. Регулярные опен-майки идут и на русском, и на английском; даты — в нашем календаре.</p>",
+        "sr": "<h2>Open-mic: rađanje materijala uživo</h2><p>Poseban žanr su otvoreni mikrofoni i provere materijala: komičari testiraju nove šale, ulaz je obično besplatan ili uz donaciju. Dolazite sa pravim očekivanjima: to nije koncert nego radionica — deo šala umreće vam pred očima, i u tome je pola zadovoljstva. Redovni open-mic ide i na ruskom i na engleskom.</p>",
+        "en": "<h2>Open mics: watching material being born</h2><p>A separate genre is the open mic and the work-in-progress night: comedians test new jokes, entry is usually free or by donation, and the room becomes a co-author. Come with the right expectations: this is a workshop, not a concert. Some jokes will die in front of you, and that is half the fun. Regular open mics run in both Russian and English.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как не пропускать</h2><p>🔵 Раздел Stand Up в календаре Афиши — мы добавляем и гастролёров, и локальные вечера.</p><p>🔵 Билеты на локальные вечера стоят от нескольких сотен динаров до пары тысяч, покупаются по ссылке из карточки — про билетные сервисы у нас есть <a href=\"/ru/recommend/gde-pokupat-bilety-v-belgrade-gid-po-biletnym-operatoram-ru721\">отдельный гид</a>.</p><p>🔵 Первые ряды — по классике жанра — зона риска: не садитесь туда, если не готовы стать частью программы.</p><p>Стендап — самый быстрый способ почувствовать себя в Белграде среди своих: час шуток про общий опыт лечит лучше многого. Приходите.</p>",
+        "sr": "<h2>Kako ništa ne propustiti</h2><p>🔵 Rubrika Stand Up u kalendaru Afiše — dodajemo i turneje i lokalne večeri.</p><p>🔵 Karte za lokalne večeri koštaju od par stotina dinara do par hiljada; kupuju se preko linka iz kartice — o servisima za karte imamo <a href=\"/sr/recommend/gde-se-u-beogradu-kupuju-ulaznice-vodic-kroz-prodavce-karata-sr721\">poseban vodič</a>.</p><p>🔵 Prvi redovi su, po klasici žanra, zona rizika: ne sedajte tamo ako niste spremni da postanete deo programa.</p>",
+        "en": "<h2>How not to miss anything</h2><p>🔵 The Stand Up section of the Afisha calendar carries both the tours and the local nights.</p><p>🔵 Local shows cost from a few hundred dinars to a couple of thousand; buy through the link in the event card. We have a <a href=\"/en/recommend/where-to-buy-event-tickets-in-belgrade-a-guide-to-the-ticket-operators-en721\">separate guide</a> to the ticket services.</p><p>🔵 The front rows are, by the classic rules of the genre, a risk zone: do not sit there unless you are ready to become part of the show.</p>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": {
+    "ru": "Куда пойти с ребёнком в Белграде: постоянные места и регулярные программы",
+    "sr": "Kuda sa detetom u Beogradu: stalna mesta i redovni programi",
+    "en": "Belgrade with kids: the permanent places and regular programmes"
+  },
+  "description": {
+    "ru": "<p>Белград — город, куда с детьми пускают везде: в кафаны, на фестивали и даже на вечерние концерты на открытом воздухе. Но кроме этой общей дружелюбности есть и целая инфраструктура специально для детей — от русскоязычных детских центров до театров и музеев. Собрали постоянные адреса, которые работают круглый год.</p>",
+    "sr": "<p>Beograd je grad u kome se sa decom ulazi svuda: u kafane, na festivale, čak i na večernje koncerte pod otvorenim nebom. Ali pored te opšte ljubaznosti postoji i čitava infrastruktura baš za decu — od dečjih centara do pozorišta i muzeja. Sakupili smo stalne adrese koje rade cele godine.</p>",
+    "en": "<p>Belgrade is a city where children are welcome everywhere: in kafanas, at festivals, even at open-air evening concerts. But beyond that general friendliness there is a whole infrastructure built for kids, from Russian-language children's centres to theatres and museums. Here are the permanent addresses that work all year round.</p>"
+  },
+  "cover": {
+    "file": "kids-cover-zoo-slon.webp",
+    "alt": {
+      "ru": "Слониха в белградском зоопарке на Калемегдане",
+      "sr": "Slonica u beogradskom zoološkom vrtu na Kalemegdanu",
+      "en": "An elephant at Belgrade Zoo on Kalemegdan"
+    },
+    "caption": {
+      "ru": "Фото: Serbia Economy Geek / Wikimedia Commons, CC BY-SA 4.0 (фрагмент)",
+      "sr": "Foto: Serbia Economy Geek / Wikimedia Commons, CC BY-SA 4.0 (isečak)",
+      "en": "Photo: Serbia Economy Geek / Wikimedia Commons, CC BY-SA 4.0 (crop)"
+    }
+  },
+  "material": [
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<p>Разовые события — спектакли, мастер-классы, лагерные смены — мы ежедневно добавляем в раздел «Дети» календаря Афиши; эта статья про места, куда можно прийти в любую неделю.</p><h2>Русскоязычные детские центры</h2><p>🔵 «Наше Место» — сеть пространств (Новый Белград и Врачар) с кружками, лагерными сменами, спектаклями и праздниками на русском. Один из главных центров детской эмигрантской жизни: от лего-смен до подростковых D&amp;D-групп.</p><p>🔵 Be Smart на Врачаре — детские клубы и субботние программы для дошкольников и младших школьников.</p><p>🔵 Lumos — образовательные и лагерные программы, городские смены на каникулах.</p><p>У всех — сезонные наборы: следите за анонсами в календаре, набор в осенние группы обычно идёт в конце августа и сентябре.</p>",
+        "sr": "<p>Pojedinačne događaje — predstave, radionice, kampove — svakodnevno dodajemo u rubriku „Deca\" kalendara Afiše; ovaj tekst je o mestima na koja se može doći bilo koje nedelje.</p><h2>Ruskojezični dečji centri</h2><p>🔵 „Naše Mesto\" — mreža prostora (Novi Beograd i Vračar) sa sekcijama, kampovima, predstavama i proslavama na ruskom.</p><p>🔵 Be Smart na Vračaru — dečji klubovi i subotnji programi za predškolce i mlađe osnovce.</p><p>🔵 Lumos — obrazovni i kamp-programi, gradske smene na raspustima.</p><p>Svi imaju sezonske upise: jesenje grupe se obično pune krajem avgusta i u septembru.</p>",
+        "en": "<p>One-off events, from shows to workshops and camps, go into the Kids section of the Afisha calendar daily; this article is about places you can visit any week.</p><h2>Russian-language children's centres</h2><p>🔵 Nashe Mesto is a network of spaces (Novi Beograd and Vračar) with clubs, camps, shows and parties in Russian, from Lego camps to teenage D&amp;D groups.</p><p>🔵 Be Smart in Vračar runs children's clubs and Saturday programmes for preschoolers and younger schoolkids.</p><p>🔵 Lumos offers educational and camp programmes, including city camps during school holidays.</p><p>All of them enrol seasonally: autumn groups usually fill up in late August and September.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Театры и сцены для детей</h2><p>Детский театр здесь — жанр с традицией: кукольные и драматические спектакли идут по выходным утром и днём. Главные адреса — театр «Бошко Буха» на площади Республики и Детский культурный центр на Таковской; русскоязычные труппы и антрепризы регулярно привозят и свои спектакли — они всегда есть в нашем разделе «Дети». Язык у сербских кукольных спектаклей — не преграда для дошкольников: картинка и музыка работают без перевода.</p>",
+        "sr": "<h2>Pozorišta i scene za decu</h2><p>Dečje pozorište je ovde žanr sa tradicijom: lutkarske i dramske predstave idu vikendom pre podne. Glavne adrese su pozorište „Boško Buha\" na Trgu republike i Dečji kulturni centar u Takovskoj; ruskojezične trupe redovno dovoze i svoje predstave. Jezik kod lutkarskih predstava nije prepreka za predškolce: slika i muzika rade bez prevoda.</p>",
+        "en": "<h2>Theatres and stages for children</h2><p>Children's theatre is a genre with tradition here: puppet and drama shows run on weekend mornings and afternoons. The main addresses are the Boško Buha theatre on Republic Square and the Children's Cultural Centre on Takovska; Russian-language companies bring their shows regularly too. For preschoolers the language of Serbian puppet shows is no barrier: image and music work without translation.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Музеи, которые дети любят</h2><p>🔵 Музей науки и техники — интерактивные экспонаты, которые можно трогать.</p><p>🔵 Музей естественной истории и его галерея на Калемегдане — динозавры и минералы.</p><p>🔵 Музей авиации у аэропорта — самолёты в натуральную величину.</p><p>🔵 Планетарий и обсерватория на Калемегдане — программы для детей по выходным.</p>",
+        "sr": "<h2>Muzeji koje deca vole</h2><p>🔵 Muzej nauke i tehnike — interaktivni eksponati koji se diraju.</p><p>🔵 Prirodnjački muzej i njegova galerija na Kalemegdanu — dinosaurusi i minerali.</p><p>🔵 Muzej vazduhoplovstva kod aerodroma — avioni u prirodnoj veličini.</p><p>🔵 Planetarijum i Narodna opservatorija na Kalemegdanu — programi vikendom.</p>",
+        "en": "<h2>Museums children love</h2><p>🔵 The Museum of Science and Technology, with interactive exhibits you are allowed to touch.</p><p>🔵 The Natural History Museum and its Kalemegdan gallery: dinosaurs and minerals.</p><p>🔵 The Aviation Museum by the airport, with full-size aircraft.</p><p>🔵 The Planetarium and the People's Observatory at Kalemegdan, with weekend programmes.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Парки и прогулки</h2><p>Классика: Калемегдан с игровыми площадками, зоопарком и видом на слияние рек; Ташмайдан с большой детской зоной; Ада Циганлия летом — пляж, велосипеды и верёвочные парки; Земунская набережная с лебедями — отдельный маленький мир, до которого стоит доехать. Зимой прогулки заменяют катки и крытые игровые — про них пишем в сезонных материалах.</p>",
+        "sr": "<h2>Parkovi i šetnje</h2><p>Klasika: Kalemegdan sa igralištima, zoološkim vrtom i pogledom na ušće; Tašmajdan sa velikom dečjom zonom; Ada Ciganlija leti — plaža, bicikli i avantura-parkovi; zemunski kej sa labudovima. Zimi šetnje menjaju klizališta i zatvorene igraonice — o njima pišemo u sezonskim tekstovima.</p>",
+        "en": "<h2>Parks and walks</h2><p>The classics: Kalemegdan with its playgrounds, the zoo and the view over the confluence; Tašmajdan with a big play area; Ada Ciganlija in summer with its beach, bikes and rope parks; the Zemun quay with its swans. In winter, ice rinks and indoor play centres take over; we cover those in seasonal articles.</p>"
+      }
+    },
+    {
+      "bundle": "text",
+      "value": {
+        "ru": "<h2>Как планировать</h2><p>🔵 Раздел «Дети» в календаре Афиши обновляется ежедневно: спектакли, мастер-классы, смены, ёлки.</p><p>🔵 На кружки и смены записывайтесь заранее — русскоязычные группы заполняются быстро.</p><p>🔵 Возраст всегда указан в карточке события; если сомневаетесь — контакты организатора там же.</p><p>Белград с ребёнком — это проще, чем кажется: полгорода живёт на улице, и детей здесь ждут почти везде.</p>",
+        "sr": "<h2>Kako planirati</h2><p>🔵 Rubrika „Deca\" u kalendaru Afiše obnavlja se svakodnevno: predstave, radionice, kampovi.</p><p>🔵 Za sekcije i kampove prijavljujte se ranije — ruskojezične grupe se brzo pune.</p><p>🔵 Uzrast je uvek naveden u kartici događaja; za nedoumice — kontakti organizatora su tamo.</p>",
+        "en": "<h2>How to plan</h2><p>🔵 The Kids section of the Afisha calendar updates daily: shows, workshops, camps, holiday programmes.</p><p>🔵 Sign up for clubs and camps early: Russian-language groups fill fast.</p><p>🔵 The age range is always in the event card; when in doubt, the organizer's contacts are there too.</p>"
+      }
+    }
+  ]
+}
