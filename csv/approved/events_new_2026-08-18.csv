@@ -1,0 +1,480 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+8/20/2026,8/20/2026,8/18/2026,738,MusicGroup,Miloš Čolović Sekstet,https://www.instagram.com/jade.visions/,,MusicEvent,Секстет Милоша Чоловича в Bluz i pivo,Miloš Čolović Sextet at Bluz i pivo,Sekstet Miloša Čolovića u Bluzu i pivu,https://raw.githubusercontent.com/newsgl/arsposters/main/738-MilosColovicSekstet.webp,,Concerts,"Хард-боп и пост-боп с примесью киномузыки и фри-джаза: секстет контрабасиста Милоша Чоловича играет в Bluz i pivo. 20 августа в 20:00, билет на входе 800 динаров.","Hard bop and post bop with film music and free jazz mixed in: double bassist Miloš Čolović brings his sextet to Bluz i pivo. 20 August at 20:00, 800 RSD at the door.","Hard bop i post bop sa primesama filmske muzike i fri džeza: sekstet kontrabasiste Miloša Čolovića svira u Bluzu i pivu. 20. avgusta u 20.00, karta na ulazu 800 dinara.","Секстет Милоша Чоловича играет в клубе Bluz i pivo на Цетиньской. Основа звучания это хард-боп и пост-боп, к которым добавлены киномузыка, фри-джаз и альтернативный рок.
+
+Группу ведёт контрабасист и композитор **Милош Чолович**, который живёт между Веной и Белградом. В составе играют заметные сербские джазмены.
+
+Альбом секстета To The Beat Of My Footsteps портал Jazzin.rs назвал лучшим сербским релизом 2025 года; пластинка попала в европейские ротации.
+
+Место: Bluz i pivo, Цетињска 15.
+
+Время: 20 августа, четверг, начало в 20:00.
+
+Цена: 800 динаров, билет на входе.","The Miloš Čolović Sextet plays at Bluz i pivo on Cetinjska. The sound rests on hard bop and post bop, with film music, free jazz and alternative rock worked in.
+
+The group is led by double bassist and composer **Miloš Čolović**, who lives between Vienna and Belgrade. The line-up brings together well-known Serbian jazz players.
+
+Jazzin.rs named the sextet's album To The Beat Of My Footsteps the best Serbian release of 2025, and the record picked up airplay across Europe.
+
+Venue: Bluz i pivo, Cetinjska 15.
+
+Time: Thursday 20 August, start at 20:00.
+
+Price: 800 RSD, tickets at the door.","Sekstet Miloša Čolovića svira u klubu Bluz i pivo u Cetinjskoj. Osnova zvuka su hard bop i post bop, a na njih se nadograđuju filmska muzika, fri džez i alternativni rok.
+
+Grupu vodi kontrabasista i kompozitor **Miloš Čolović**, koji živi između Beča i Beograda. U sastavu sviraju istaknuti srpski džezeri.
+
+Album seksteta To The Beat Of My Footsteps portal Jazzin.rs proglasio je najboljim srpskim izdanjem 2025. godine, a ploča je dobila i evropske rotacije.
+
+Mesto: Bluz i pivo, Cetinjska 15.
+
+Vreme: četvrtak, 20. avgust, početak u 20.00.
+
+Cena: 800 dinara, karta na ulazu.",20:00,800,Bluz i pivo,"Cetinjska 15, Beograd","44.817841,20.465828",https://t.me/zarko_tusic/4884,Žarko Tušić,,Bluz i pivo,,,,,,,"джаз, концерт, хард-боп, Bluz i pivo, Цетиньская","jazz, concert, hard bop, Bluz i pivo, Cetinjska","džez, koncert, hard bop, Bluz i pivo, Cetinjska"
+8/20/2026,8/20/2026,8/18/2026,739,Organization,DC Loža,https://t.me/dcloza,,EducationEvent,Gothic Mask Workshop в DC Loža,Gothic Mask Workshop at DC Loža,Gothic Mask Workshop u DC Loži,https://raw.githubusercontent.com/newsgl/arsposters/main/739-GothicMaskWorkshop.webp,,Master classes,"Мастер-класс по маскам из холодного фарфора: пигменты, текстиль, бисер и готовые шаблоны. 20 августа с 19:00 до полуночи, рекомендованный донат 1700 динаров.","A mask-making workshop with cold porcelain, pigments, textile, beads and ready mask templates. 20 August from 19:00 to midnight, recommended donation 1,700 RSD.","Radionica maski od hladnog porcelana: pigmenti, tekstil, perle i gotovi šabloni. 20. avgusta od 19.00 do ponoći, preporučena donacija 1.700 dinara.","В DC Loža делают маски: странные, красивые или пугающие, каждый решает сам. В работе холодный фарфор, столярный клей, акрил, мерцающие пигменты, текстиль, бисер и готовые шаблоны основы.
+
+Все базовые материалы дают организаторы. Можно принести своё: мелкие сокровища, сломанные украшения, непонятные предметы или даже обрывки мусора, которым найдётся место в маске.
+
+Мастер-класс начинается в 19:00, но присоединиться можно в любой момент до полуночи. На маску обычно уходит около двух часов, перерывы никто не считает.
+
+Место: DC Loža, Далматинска 84L, вход со стороны Иванковачке.
+
+Время: 20 августа, четверг, с 19:00 до 00:00.
+
+Цена: рекомендованный донат 1700 динаров.
+
+Запись: через бота @dcloza_bot.
+
+Язык: русский и английский.
+
+На этом мероприятии курят только снаружи.","DC Loža is running a mask workshop. Strange, beautiful or frightening is up to you. The materials are cold porcelain, wood glue, acrylics, shimmering pigments, textile, beads and ready-made mask blanks.
+
+The hosts provide everything basic. You can also bring your own small treasures, broken jewellery, odd objects or even bits of rubbish that deserve a second life on a mask.
+
+The workshop starts at 19:00, but you can join any time until midnight. A mask usually takes about two hours and you can break whenever you like.
+
+Venue: DC Loža, Dalmatinska 84L, entrance from Ivankovačka.
+
+Time: Thursday 20 August, 19:00 to 00:00.
+
+Price: recommended donation 1,700 RSD.
+
+Booking: through the bot @dcloza_bot.
+
+Language: Russian and English.
+
+Smoking outside only at this event.","U DC Loži se prave maske: čudne, lepe ili zastrašujuće, svako bira sam. U radu su hladni porcelan, stolarski lepak, akril, svetlucavi pigmenti, tekstil, perle i gotovi šabloni.
+
+Sav osnovni materijal obezbeđuju organizatori. Možete doneti i svoje: sitna blaga, polomljen nakit, neobične predmete ili čak komadiće otpada koji zaslužuju drugi život na maski.
+
+Radionica počinje u 19.00, ali se možete priključiti bilo kada do ponoći. Za masku obično treba oko dva sata, a pauze pravite kad želite.
+
+Mesto: DC Loža, Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Vreme: četvrtak, 20. avgust, od 19.00 do 00.00.
+
+Cena: preporučena donacija 1.700 dinara.
+
+Prijava: preko bota @dcloza_bot.
+
+Jezik: ruski i engleski.
+
+Na ovom događaju se puši samo napolju.",19:00,1700,DC Loža,"Dalmatinska 84L, Beograd","44.808482,20.480228",https://t.me/dcloza/1037,DC Loža,https://t.me/dcloza_bot,DC Loža,https://t.me/dcloza,,,,,,"мастер-класс, маски, холодный фарфор, DC Loža, рукоделие","workshop, masks, cold porcelain, DC Loža, crafts","radionica, maske, hladni porcelan, DC Loža, rukotvorine"
+8/20/2026,8/20/2026,8/18/2026,740,Organization,DC Loža,https://t.me/dcloza,ru,Festival,Феминистский клуб в DC Loža: «Девственницы-самоубийцы» Софии Копполы,Feminist Club at DC Loža: The Virgin Suicides by Sofia Coppola,Feministički klub u DC Loži: Devičanska samoubistva Sofije Kopole,https://raw.githubusercontent.com/newsgl/arsposters/main/740-FemClubVirginSuicides.webp,,Festivals,"Заключительная встреча летнего сезона женского кино в DC Loža: «Девственницы-самоубийцы» Софии Копполы и разговор после показа. 20 августа, сбор в 19:00, вход по донату.","The last session of the summer season of women's cinema at DC Loža: Sofia Coppola's The Virgin Suicides, followed by a discussion. 20 August, doors at 19:00, entry by donation.","Poslednji susret letnje sezone ženskog filma u DC Loži: Devičanska samoubistva Sofije Kopole i razgovor posle projekcije. 20. avgusta, okupljanje u 19.00, ulaz za donaciju.","Феминистский клуб в DC Loža закрывает летний сезон женского кино показом фильма **Софии Копполы** «Девственницы-самоубийцы», снятого по роману Джеффри Евгенидиса.
+
+Небольшой американский городок: подстриженные лужайки, летние бассейны, консервативные семьи, распятия на стенах и воскресные службы. За закрытыми дверями рок-пластинки под кроватью, дневники с тайными желаниями и попытки вырваться из душных комнат.
+
+Пять сестёр Лисбон растут в доме, где под контролем находятся их тела, желания и само право на собственную жизнь. История пяти загадочных девочек постепенно превращается в рассказ о взрослении и о том, каково это, когда тебя не слышат.
+
+Место: DC Loža, Далматинска 84L, вход со стороны Иванковачке.
+
+Время: 20 августа, четверг, сбор в 19:00, начало показа в 19:30.
+
+Цена: свободный донат на развитие пространства.
+
+Язык: английский с русскими субтитрами.
+
+На этом мероприятии курят только снаружи.","The feminist club at DC Loža closes its summer season of women's cinema with **Sofia Coppola**'s The Virgin Suicides, adapted from the Jeffrey Eugenides novel.
+
+A small American town: trimmed lawns, summer pools, conservative families, crucifixes on the walls and Sunday services. Behind closed doors there are rock records under the bed, diaries full of secret wishes and attempts to get out of stuffy rooms.
+
+The five Lisbon sisters grow up in a house where their bodies, their wishes and their right to a life of their own are all supervised. What starts as the story of five mysterious girls turns into a story about growing up and about not being heard.
+
+Venue: DC Loža, Dalmatinska 84L, entrance from Ivankovačka.
+
+Time: Thursday 20 August, doors at 19:00, screening starts at 19:30.
+
+Price: free donation towards the space.
+
+Language: English with Russian subtitles.
+
+Smoking outside only at this event.","Feministički klub u DC Loži zatvara letnju sezonu ženskog filma projekcijom Devičanskih samoubistava **Sofije Kopole**, snimljenih po romanu Džefrija Judžinidisa.
+
+Mali američki grad: uredno pokošeni travnjaci, letnji bazeni, konzervativne porodice, raspeća na zidovima i nedeljne službe. Iza zatvorenih vrata su rok ploče ispod kreveta, dnevnici sa tajnim željama i pokušaji da se izađe iz zagušljivih soba.
+
+Pet sestara Lizbon odrasta u kući u kojoj su pod nadzorom njihova tela, želje i samo pravo na sopstveni život. Priča o pet zagonetnih devojaka postepeno prerasta u priču o odrastanju i o tome kako je kada te niko ne čuje.
+
+Mesto: DC Loža, Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Vreme: četvrtak, 20. avgust, okupljanje u 19.00, projekcija počinje u 19.30.
+
+Cena: slobodna donacija za razvoj prostora.
+
+Jezik: engleski sa ruskim titlovima.
+
+Na ovom događaju se puši samo napolju.",19:30,0,DC Loža,"Dalmatinska 84L, Beograd","44.808482,20.480228",https://t.me/dcloza/1039,DC Loža,,DC Loža,https://t.me/dcloza,,,,,,"кинопоказ, кино, феминистский клуб, София Коппола, DC Loža","screening, cinema, feminist club, Sofia Coppola, DC Loža","projekcija, film, feministički klub, Sofija Kopola, DC Loža"
+8/21/2026,8/23/2026,8/18/2026,741,Organization,Тур Ноу Футур,https://t.me/turnofutur,ru,Festival,Тур Ноу Футур — три дня в палаточном лагере на Авале,"Tur No Futur, three days at a tent camp on Avala","Tur No Futur, tri dana u kampu na Avali",https://raw.githubusercontent.com/newsgl/arsposters/main/741-TurNoFutur.webp,,Festivals,"Три дня в лесу на Авале: акустический сет Ермена Анти, лекции и разговоры, кинопоказ, панк-рок караоке и диджей-сеты. 21 по 23 августа, вход за донат, место под палатку бесплатное.","Three days in the woods on Avala: an acoustic set by Ermen Anti, talks and lectures, a film screening, punk rock karaoke and DJ sets. 21 to 23 August, entry by donation, tent pitches free.","Tri dana u šumi na Avali: akustični set Ermena Antija, predavanja i razgovori, projekcija filma, pank rok karaoke i di-džej setovi. Od 21. do 23. avgusta, ulaz za donaciju, mesto za šator besplatno.","Фестиваль Тур Ноу Футур уезжает из Белграда в лес на Авале и остаётся там на три дня. Программа собрана вокруг музыки, разговоров и совместного лагерного быта.
+
+В первый день выступает **Ермен Анти**, основатель и лидер группы «Адаптация», с акустическим сетом; концерт открывает Макс Липатов из группы «Беловодье». Дальше идут диджей-сеты, во второй день добавляются лекции и дискуссии о политике, экономике, войне и обществе, кинопоказ фильма «Кушнир» и панк-рок караоке. Среди выступающих политэкономист **Илья Матвеев** и социолог **Олег Журавлёв**. Днём работают спортивные площадки: баскетбол, волейбол, дартс.
+
+Приехать можно на один день или взять палатку и остаться на все три: место под палатку бесплатное. На площадке веганская еда и бар с алкогольными и безалкогольными напитками, в субботу проходит благотворительный аукцион. Организаторы отдельно пишут, что можно с детьми и собаками, ответственность за них остаётся на взрослых, и что на фестивале работает awareness team.
+
+Место: Авала, около часа от Белграда на автобусе. Точную точку в лесу организаторы публикуют в своём телеграм-канале.
+
+Время: с 21 по 23 августа, открытие в пятницу в 19:00.
+
+Цена: вход свободный, организаторы принимают донаты.
+
+Язык: русский.","The Tur No Futur festival leaves Belgrade for the woods on Avala and stays there for three days. The programme is built around music, talks and shared camp life.
+
+Day one has an acoustic set by **Ermen Anti**, founder and frontman of the band Adaptatsiya, opened by Max Lipatov of Belovodye. DJ sets follow. Day two adds lectures and discussions about politics, economics, war and society, a screening of the film Kushnir and punk rock karaoke. The speakers include political economist **Ilya Matveev** and sociologist **Oleg Zhuravlev**. During the day there are sports areas with basketball, volleyball and darts.
+
+You can come for a day or bring a tent and stay for all three: pitches are free. There is vegan food on site and a bar with alcoholic and soft drinks, and a charity auction on Saturday. The organisers note that children and dogs are welcome, with the adults responsible for them, and that an awareness team works at the festival.
+
+Venue: Avala, about an hour from Belgrade by bus. The organisers publish the exact spot in the woods in their Telegram channel.
+
+Time: 21 to 23 August, opening on Friday at 19:00.
+
+Price: free entry, the organisers accept donations.
+
+Language: Russian.","Festival Tur No Futur odlazi iz Beograda u šumu na Avali i tamo ostaje tri dana. Program je okupljen oko muzike, razgovora i zajedničkog kampovanja.
+
+Prvog dana nastupa **Ermen Anti**, osnivač i vođa grupe Adaptacija, sa akustičnim setom; koncert otvara Maks Lipatov iz grupe Belovodje. Zatim slede di-džej setovi, a drugog dana dolaze predavanja i diskusije o politici, ekonomiji, ratu i društvu, projekcija filma Kušnjir i pank rok karaoke. Među govornicima su politekonomista **Ilja Matvejev** i sociolog **Oleg Žuravljov**. Preko dana rade sportski tereni: košarka, odbojka, pikado.
+
+Možete doći na jedan dan ili poneti šator i ostati sva tri: mesto za šator je besplatno. Na terenu su veganska hrana i bar sa alkoholnim i bezalkoholnim pićima, a u subotu se održava dobrotvorna aukcija. Organizatori posebno navode da su deca i psi dobrodošli, uz odgovornost odraslih, i da na festivalu radi awareness tim.
+
+Mesto: Avala, oko sat vremena od Beograda autobusom. Tačnu tačku u šumi organizatori objavljuju na svom telegram kanalu.
+
+Vreme: od 21. do 23. avgusta, otvaranje u petak u 19.00.
+
+Cena: ulaz je slobodan, organizatori primaju donacije.
+
+Jezik: ruski.",19:00,0,Avala,"Avala, Beograd","44.690396,20.520282",https://t.me/turnofutur,Тур Ноу Футур,,Тур Ноу Футур,https://t.me/turnofutur,,,,,,"фестиваль, лагерь, Авала, лекции, панк","festival, camp, Avala, lectures, punk","festival, kamp, Avala, predavanja, pank"
+8/21/2026,9/17/2026,8/18/2026,742,Organization,Etnografski muzej u Beogradu,https://etnografskimuzej.rs/,,Festival,«Манаково културно лето 14» — вечера во дворе Манакова дома,"Manakovo kulturno leto 14, evenings in the courtyard of Manak's House",Manakovo kulturno leto 14 u dvorištu Manakove kuće,https://raw.githubusercontent.com/newsgl/arsposters/main/742-ManakovoKulturnoLeto.webp,,Festivals,"Почти месяц концертов, детских спектаклей, поэтических вечеров и кинопоказов во дворе Манакова дома. С 21 августа по 17 сентября, концерты 800 динаров, детские спектакли 600, часть программ бесплатно.","Almost a month of concerts, children's plays, poetry evenings and film screenings in the courtyard of Manak's House. 21 August to 17 September, concerts 800 RSD, children's plays 600, some programmes free.","Skoro mesec dana koncerata, dečjih predstava, pesničkih večeri i projekcija u dvorištu Manakove kuće. Od 21. avgusta do 17. septembra, koncerti 800 dinara, dečje predstave 600, deo programa besplatan.","Этнографический музей четырнадцатый год превращает двор **Манакова дома** в летнюю сцену. Дом стоит на углу улиц Гаврила Принципа и Кралевича Марка и сам по себе редкий образец старобалканской архитектуры.
+
+Музыкальная программа идёт от блюза и джаза до староградской музыки, романсов, этно, киномузыки, французской классики, рок-н-ролла, рокабилли, джаз-фьюжна и оперы. Открытие 21 августа в 20:30 отдано севдалинкам: концерт «А што ћемо љубав крити» поют Биляна Петкович, Весна Димич и Зоран Велькович.
+
+Отдельный детский блок называется «Позориштанце на Ђумруку»: спектакли «Мачке наопачке», «Езопове поучне басне», «Нове авантуре летеће Скај и Спајдермена», «Зачарано краљевство», «Патролне шапе у акцији» и «Доживљаји Петра Пана». В цикле «Стихови на Ђумруку» проходят поэтические вечера с Неманей Драгашем и Стояном Срдичем, в «Књига на Ђумруку» литературный вечер Марко Мил. Поповича, а 6 сентября в «Кино Манак» показывают греческий фильм «Рекле су ми шкољке» Йоргоса Луридаса.
+
+Вход свободный на четыре программы: поэтический вечер Немани Драгаша 30 августа, вечер Стояна Срдича 5 сентября, кинопоказ 6 сентября и литературный вечер 10 сентября, все в 20:30.
+
+Место: Манакова кућа, Гаврила Принципа 5.
+
+Время: с 21 августа по 17 сентября. Детские программы в 19:00, вечерние в 20:30.
+
+Цена: концерты 800 динаров, детские спектакли 600 динаров, на отдельные программы вход свободный. Билеты на Tickets.rs и в кассе музея.","For the fourteenth year the Ethnographic Museum turns the courtyard of **Manak's House** into a summer stage. The house stands on the corner of Gavrila Principa and Kraljevića Marka and is itself a rare example of old Balkan architecture.
+
+The music runs from blues and jazz to old town songs, romances, ethno, film music, French classical, rock and roll, rockabilly, jazz fusion and opera. The opening on 21 August at 20:30 goes to sevdalinka: the concert A što ćemo ljubav kriti is performed by Biljana Petković, Vesna Dimić and Zoran Veljković.
+
+The children's strand is called Pozorištance na Đumruku and includes the plays Mačke naopačke, Ezopove poučne basne, Nove avanture leteće Skaj i Spajdermena, Začarano kraljevstvo, Patrolne šape u akciji and Doživljaji Petra Pana. Stihovi na Đumruku brings poetry evenings with Nemanja Dragaš and Stojan Srdić, Knjiga na Đumruku a literary evening with Marko Mil. Popović, and on 6 September Kino Manak screens the Greek film Rekle su mi školjke by Yorgos Louridas.
+
+Four programmes are free: the poetry evening with Nemanja Dragaš on 30 August, the evening with Stojan Srdić on 5 September, the screening on 6 September and the literary evening on 10 September, all at 20:30.
+
+Venue: Manakova kuća, Gavrila Principa 5.
+
+Time: 21 August to 17 September. Children's programmes at 19:00, evening events at 20:30.
+
+Price: concerts 800 RSD, children's plays 600 RSD, some programmes free. Tickets on Tickets.rs and at the museum box office.","Etnografski muzej četrnaestu godinu pretvara dvorište **Manakove kuće** u letnju scenu. Kuća stoji na uglu ulica Gavrila Principa i Kraljevića Marka i sama je redak primer starobalkanske arhitekture.
+
+Muzički program ide od bluza i džeza do starogradske muzike, romansi, etna, filmske muzike, francuske klasike, rokenrola, rokabilija, džez fjužna i opere. Otvaranje 21. avgusta u 20.30 pripada sevdalinkama: koncert A što ćemo ljubav kriti izvode Biljana Petković, Vesna Dimić i Zoran Veljković.
+
+Poseban dečji segment zove se Pozorištance na Đumruku: predstave Mačke naopačke, Ezopove poučne basne, Nove avanture leteće Skaj i Spajdermena, Začarano kraljevstvo, Patrolne šape u akciji i Doživljaji Petra Pana. U ciklusu Stihovi na Đumruku održavaju se pesničke večeri sa Nemanjom Dragašem i Stojanom Srdićem, u Knjizi na Đumruku književno veče Marka Mil. Popovića, a 6. septembra Kino Manak prikazuje grčki film Rekle su mi školjke Jorgosa Luridasa.
+
+Ulaz je slobodan na četiri programa: pesničko veče Nemanje Dragaša 30. avgusta, veče Stojana Srdića 5. septembra, projekcija 6. septembra i književno veče 10. septembra, sve u 20.30.
+
+Mesto: Manakova kuća, Gavrila Principa 5.
+
+Vreme: od 21. avgusta do 17. septembra. Dečji programi u 19.00, večernji u 20.30.
+
+Cena: koncerti 800 dinara, dečje predstave 600 dinara, na pojedine programe ulaz je slobodan. Ulaznice na Tickets.rs i na blagajni muzeja.",20:30,600,Manakova kuća,"Gavrila Principa 5, Beograd","44.813740,20.454390",https://etnografskimuzej.rs/manakovo-kulturno-leto-14/,etnografskimuzej.rs,https://biletarnica.etnografskimuzej.rs/repertoar.php,Etnografski muzej u Beogradu,https://etnografskimuzej.rs/,,,,,,"фестиваль, концерты, детские спектакли, Манаков дом, Этнографический музей","festival, concerts, children theatre, Manak House, Ethnographic Museum","festival, koncerti, dečje predstave, Manakova kuća, Etnografski muzej"
+8/22/2026,8/23/2026,8/18/2026,743,Organization,Master Land,https://t.me/iyliiaart,ru,EducationEvent,Мастер-класс по керамике в Master Land,Ceramics Workshop at Master Land,Radionica keramike u Master Landu,https://raw.githubusercontent.com/newsgl/arsposters/main/743-KeramikaMasterLand.webp,,Master classes,"Двухчасовой мастер-класс по керамике на Дорчоле: лепка кружки, фильтра для кофе или тарелки и роспись ангобами. 22 и 23 августа, 3600 динаров, материалы и обжиг включены.","A two-hour ceramics workshop in Dorćol: shape a mug, a coffee filter or a plate and paint it with engobes. 22 and 23 August, 3,600 RSD, materials and firing included.","Dvočasovna radionica keramike na Dorćolu: oblikovanje šolje, filtera za kafu ili tanjira i oslikavanje engobama. 22. i 23. avgusta, 3.600 dinara, materijal i pečenje uključeni.","Мастер-класс по керамике в мастерской Master Land на Дорчоле. Занятие рассчитано на любой возраст и любой уровень, опыт работы с глиной не нужен.
+
+За два часа каждый участник делает своё изделие: кружку, фильтр для кофе или тарелку, и расписывает его ангобами. Готовые вещи потом обжигают, так что посудой можно пользоваться и мыть её в посудомоечной машине. Материалы, глазурь и обжиг входят в стоимость.
+
+Отдельно можно записаться на индивидуальное занятие за гончарным кругом.
+
+Место: Master Land, Господар Јованова 10.
+
+Время: 22 августа в 17:30, 23 августа в 12:00 и в 17:30. Продолжительность два часа.
+
+Цена: 3600 динаров.
+
+Запись: в телеграм @iyliiaart.
+
+Язык: русский.","A ceramics workshop at the Master Land studio in Dorćol. It suits any age and any level, and no experience with clay is needed.
+
+Over two hours each participant makes one piece, a mug, a coffee filter or a plate, and paints it with engobes. The pieces are fired afterwards, so the result can be used and washed in a dishwasher. Materials, glaze and firing are included in the price.
+
+Individual sessions at the potter's wheel can be booked separately.
+
+Venue: Master Land, Gospodar Jovanova 10.
+
+Time: 22 August at 17:30, 23 August at 12:00 and at 17:30. Each session lasts two hours.
+
+Price: 3,600 RSD.
+
+Booking: on Telegram, @iyliiaart.
+
+Language: Russian.","Radionica keramike u ateljeu Master Land na Dorćolu. Namenjena je svakom uzrastu i svakom nivou, iskustvo sa glinom nije potrebno.
+
+Za dva sata svaki učesnik napravi svoj predmet: šolju, filter za kafu ili tanjir, i oslika ga engobama. Predmeti se posle peku, pa se posuđe može koristiti i prati u mašini. Materijal, glazura i pečenje su uračunati u cenu.
+
+Posebno se može zakazati i individualni čas na grnčarskom kolu.
+
+Mesto: Master Land, Gospodar Jovanova 10.
+
+Vreme: 22. avgusta u 17.30, 23. avgusta u 12.00 i u 17.30. Trajanje dva sata.
+
+Cena: 3.600 dinara.
+
+Prijava: na telegramu @iyliiaart.
+
+Jezik: ruski.",17:30,3600,Master Land,"Gospodar Jovanova 10, Beograd","44.823187,20.456702",https://t.me/vstrechi_v_belgrade/12684,Встречи в Белграде,https://t.me/iyliiaart,Master Land,,,,,,,"мастер-класс, керамика, глина, Дорчол, рукоделие","workshop, ceramics, clay, Dorćol, crafts","radionica, keramika, glina, Dorćol, rukotvorine"
+8/23/2026,8/23/2026,8/18/2026,744,Person,Katrin Naumova,https://t.me/dcloza,,EducationEvent,Фотолаборатория в DC Loža: проявка фотограмм в вине,Photolab at DC Loža: developing photograms in wine,Fotolaboratorija u DC Loži: razvijanje fotograma u vinu,https://raw.githubusercontent.com/newsgl/arsposters/main/744-WinePhotolab.webp,,Master classes,"Мастер-класс по фотограммам: снимки без камеры и без обычной химии, проявитель заменяет красное вино. 23 августа в 17:00, рекомендованный донат 1000 динаров.","A photogram workshop: images made without a camera and without standard chemistry, with red wine instead of developer. 23 August at 17:00, recommended donation 1,000 RSD.","Radionica fotograma: snimci bez kamere i bez uobičajene hemije, umesto razvijača koristi se crno vino. 23. avgusta u 17.00, preporučena donacija 1.000 dinara.","Фотограмма появилась раньше самой фотографии: предметы кладут прямо на светочувствительную бумагу, засвечивают и проявляют. В DC Loža вместо химического проявителя используют красное вино, танины в нём работают как восстановитель. Проявка идёт медленнее и мягче, изображение получается менее контрастным, слегка выцветшим и заранее непредсказуемым.
+
+На занятии разбирают, как устроена фотограмма и почему вино проявляет изображение, собирают композиции и засвечивают их, проявляют отпечатки в тёмной комнате, а затем фиксируют, промывают и забирают работы домой. Ведёт мастер-класс **Катрин Наумова**.
+
+Опыт не нужен.
+
+Место: DC Loža, Далматинска 84L, вход со стороны Иванковачке.
+
+Время: 23 августа, воскресенье, начало в 17:00.
+
+Цена: рекомендованный донат 1000 динаров.
+
+Запись: через бота @dcloza_bot.
+
+Язык: русский и английский.
+
+На этом мероприятии не курят.","The photogram is older than photography itself: objects are placed straight onto light-sensitive paper, exposed and then developed. At DC Loža the chemical developer is replaced by red wine, whose tannins act as a reducing agent. Development is slower and gentler, and the image comes out lower in contrast, slightly faded and hard to predict.
+
+The session covers how a photogram works and why wine develops an image, then moves on to building compositions and exposing them, developing the prints in a darkroom, fixing and washing them and taking the work home. The workshop is led by **Katrin Naumova**.
+
+No experience is needed.
+
+Venue: DC Loža, Dalmatinska 84L, entrance from Ivankovačka.
+
+Time: Sunday 23 August, start at 17:00.
+
+Price: recommended donation 1,000 RSD.
+
+Booking: through the bot @dcloza_bot.
+
+Language: Russian and English.
+
+No smoking at this event.","Fotogram je stariji od same fotografije: predmeti se stavljaju direktno na svetlosno osetljiv papir, osvetle se i zatim razvijaju. U DC Loži hemijski razvijač zamenjuje crno vino, čiji tanini deluju kao redukciono sredstvo. Razvijanje je sporije i mekše, a slika ispada manje kontrastna, blago izbledela i nepredvidiva.
+
+Na času se objašnjava kako fotogram funkcioniše i zašto vino razvija sliku, prave se kompozicije i osvetljavaju, otisci se razvijaju u mračnoj komori, a zatim fiksiraju, ispiraju i nose kući. Radionicu vodi **Katrin Naumova**.
+
+Iskustvo nije potrebno.
+
+Mesto: DC Loža, Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Vreme: nedelja, 23. avgust, početak u 17.00.
+
+Cena: preporučena donacija 1.000 dinara.
+
+Prijava: preko bota @dcloza_bot.
+
+Jezik: ruski i engleski.
+
+Na ovom događaju se ne puši.",17:00,1000,DC Loža,"Dalmatinska 84L, Beograd","44.808482,20.480228",https://t.me/dcloza/1047,DC Loža,https://t.me/dcloza_bot,DC Loža,https://t.me/dcloza,,,,,,"мастер-класс, фотография, фотограмма, DC Loža, тёмная комната","workshop, photography, photogram, DC Loža, darkroom","radionica, fotografija, fotogram, DC Loža, mračna komora"
+8/24/2026,8/28/2026,8/18/2026,745,Person,Jovana Simonović,https://www.kccukarica.rs/,,ChildrensEvent,«Певајте са Јованом» — бесплатные музыкальные мастерские в КЦ «Чукарица»,"Pevajte sa Jovanom, free music workshops at Čukarica Cultural Centre","Pevajte sa Jovanom, besplatne muzičke radionice u KC Čukarica",https://raw.githubusercontent.com/newsgl/arsposters/main/745-PevajteSaJovanom.webp,,Kids,"Пять дней бесплатных музыкальных занятий для детей от трёх до восьми лет: пение, ритмические игры и знакомство с инструментами. С 24 по 28 августа, каждый день с 10:00 до 11:00, по предварительной записи.","Five days of free music sessions for children aged three to eight: singing, rhythm games and an introduction to instruments. 24 to 28 August, daily from 10:00 to 11:00, booking required.","Pet dana besplatnih muzičkih časova za decu od tri do osam godina: pevanje, ritmičke igre i upoznavanje sa instrumentima. Od 24. do 28. avgusta, svakog dana od 10.00 do 11.00, uz prethodnu prijavu.","Культурный центр «Чукарица» проводит неделю бесплатных музыкальных мастерских для детей от трёх до восьми лет. Занятия идут в рамках вокальной школы «Певајте са Јованом».
+
+В пятидневную программу входят уроки пения, ритмические игры и знакомство с музыкальными инструментами. Ведёт мастерские музыкальный педагог **Йована Симонович**.
+
+Участие бесплатное, но мест ограниченное количество: записываться нужно заранее по телефону.
+
+Место: Културни центар Чукарица, Тургењевљева 5, Баново брдо.
+
+Время: с 24 по 28 августа, каждый день с 10:00 до 11:00.
+
+Цена: бесплатно.
+
+Запись: по телефону 011 355 2678.
+
+Возраст: от 3 до 8 лет.","The Čukarica Cultural Centre is running a week of free music workshops for children aged three to eight. The sessions are part of the Pevajte sa Jovanom singing school.
+
+The five-day programme includes singing lessons, rhythm games and an introduction to musical instruments. The workshops are led by music teacher **Jovana Simonović**.
+
+Taking part is free but places are limited, so booking ahead by phone is required.
+
+Venue: Kulturni centar Čukarica, Turgenjevljeva 5, Banovo brdo.
+
+Time: 24 to 28 August, daily from 10:00 to 11:00.
+
+Price: free.
+
+Booking: by phone on 011 355 2678.
+
+Age: 3 to 8 years.","Kulturni centar Čukarica organizuje nedelju besplatnih muzičkih radionica za decu od tri do osam godina. Časovi se održavaju u okviru vokalne škole Pevajte sa Jovanom.
+
+Petodnevni program obuhvata časove pevanja, ritmičke igre i upoznavanje sa muzičkim instrumentima. Radionice vodi muzički pedagog **Jovana Simonović**.
+
+Učešće je besplatno, ali je broj mesta ograničen, pa je prijava telefonom obavezna.
+
+Mesto: Kulturni centar Čukarica, Turgenjevljeva 5, Banovo brdo.
+
+Vreme: od 24. do 28. avgusta, svakog dana od 10.00 do 11.00.
+
+Cena: besplatno.
+
+Prijava: telefonom na 011 355 2678.
+
+Uzrast: od 3 do 8 godina.",10:00,0,Kulturni centar Čukarica,"Turgenjevljeva 5, Beograd","44.783240,20.417517",https://www.kccukarica.rs/,KC Čukarica,,Kulturni centar Čukarica,https://www.kccukarica.rs/,,011 355 2678,3-8,,,"дети, музыка, пение, бесплатно, КЦ Чукарица","kids, music, singing, free, KC Čukarica","deca, muzika, pevanje, besplatno, KC Čukarica"
+8/24/2026,8/28/2026,8/18/2026,746,Organization,Lumos Beograd,https://t.me/Lumos_Beograd,ru,ChildrensEvent,Lumos_fest — последняя летняя смена лагеря Lumos,"Lumos_fest, the last summer session at Lumos camp","Lumos_fest, poslednja letnja smena kampa Lumos",https://raw.githubusercontent.com/newsgl/arsposters/main/746-LumosFest.webp,,Kids,"Пятидневная городская смена про фестивали разных стран: день огорода, Иван Купала, летний Хеллоуин, китайский Новый год с красками холи. С 24 по 28 августа, для детей 6 по 12 лет.","A five-day city camp session about festivals around the world: a garden day, Ivan Kupala, a summer Halloween and a Chinese New Year with Holi colours. 24 to 28 August, for children aged 6 to 12.","Petodnevna gradska smena o festivalima raznih zemalja: dan bašte, Ivanjdan, letnji Noć veštica i kineska Nova godina sa holi bojama. Od 24. do 28. avgusta, za decu od 6 do 12 godina.","Последняя летняя смена лагеря Lumos построена вокруг праздников и фестивалей разных стран, каждый день отдан своему.
+
+День огорода: как в разных странах отмечают дни помидоров и огурцов, томатная битва и собственный огород прямо на смене. Иван Купала: традиции древних славян, венки и купание в бассейне. Летоуин: страшный квест, руки зомби своими руками и музей паранормальных существ. Китайский Новый год: вместо пиротехники краски холи, так что чистой одежды в этот день ждать не стоит, плюс танцы с драконами. В финальный день фестиваль фестивалей: гигантские арт-объекты в стиле «Архстояния», шуточные спортивные состязания, самодельные самолёты и день дружбы.
+
+Смену проводят Дарья и Елизавета.
+
+Место: Lumos Beograd, Булевар деспота Стефана 7.
+
+Время: с 24 по 28 августа, с 10:00 до 18:00.
+
+Цена: 22 000 динаров плюс питание 1000 динаров в день (завтраки, обеды, полдники).
+
+Запись: по форме на forms.gle.
+
+Возраст: от 6 до 12 лет.
+
+Вопросы: @lumos_beograd_admin.","The last summer session at Lumos camp is built around holidays and festivals from around the world, one per day.
+
+Garden day: how different countries celebrate tomatoes and cucumbers, a tomato fight and a vegetable patch planted at the camp itself. Ivan Kupala: old Slavic traditions, flower wreaths and a swim in the pool. Summerween: a scary quest, home-made zombie hands and a museum of paranormal creatures. Chinese New Year: Holi colours instead of fireworks, so nobody comes home in clean clothes, plus dragon dances. The final day is a festival of festivals with giant art objects in the style of Arkhstoyanie, joke sports contests, home-made planes and a friendship day.
+
+The session is run by Darya and Elizaveta.
+
+Venue: Lumos Beograd, Bulevar despota Stefana 7.
+
+Time: 24 to 28 August, 10:00 to 18:00.
+
+Price: 22,000 RSD plus meals at 1,000 RSD a day (breakfast, lunch and an afternoon snack).
+
+Booking: through the form on forms.gle.
+
+Age: 6 to 12 years.
+
+Questions: @lumos_beograd_admin.","Poslednja letnja smena kampa Lumos građena je oko praznika i festivala raznih zemalja, svaki dan pripada jednom.
+
+Dan bašte: kako se u različitim zemljama slave dani paradajza i krastavaca, bitka paradajzom i sopstvena bašta zasađena na smeni. Ivanjdan: tradicije starih Slovena, venci i kupanje u bazenu. Letnji Noć veštica: strašni kvest, zombi ruke i muzej paranormalnih bića. Kineska Nova godina: umesto pirotehnike holi boje, pa čistu odeću tog dana ne treba očekivati, uz igre sa zmajevima. Poslednji dan je festival festivala: džinovski umetnički objekti u stilu Arhstojanija, šaljiva sportska takmičenja, ručno pravljeni avioni i dan prijateljstva.
+
+Smenu vode Darja i Jelizaveta.
+
+Mesto: Lumos Beograd, Bulevar despota Stefana 7.
+
+Vreme: od 24. do 28. avgusta, od 10.00 do 18.00.
+
+Cena: 22.000 dinara plus ishrana 1.000 dinara dnevno (doručak, ručak i užina).
+
+Prijava: preko formulara na forms.gle.
+
+Uzrast: od 6 do 12 godina.
+
+Pitanja: @lumos_beograd_admin.",10:00,22000,Lumos Beograd,"Bulevar despota Stefana 7, Beograd","44.816733,20.464417",https://t.me/Lumos_Beograd/1638,Lumos Beograd,https://forms.gle/fLPe32aVK7hSrY12A,Lumos Beograd,https://t.me/Lumos_Beograd,,,6-12,,,"дети, лагерь, городская смена, Lumos, фестиваль","kids, camp, day camp, Lumos, festival","deca, kamp, gradska smena, Lumos, festival"
+8/25/2026,8/25/2026,8/18/2026,747,Person,Соня Минина,https://luma.com/a3hbvgiu,ru,EducationEvent,"Лекция «Между Софоклом и Данте. Три идеи, создавшие Европу» в «Аудитории»","Lecture Between Sophocles and Dante: three ideas that made Europe, at Auditoria","Predavanje Između Sofokla i Dantea: tri ideje koje su stvorile Evropu, u Auditoriji",https://raw.githubusercontent.com/newsgl/arsposters/main/747-MezhduSofoklomIDante.webp,,Lectures,"Четвёртая лекция цикла «Летнее чтение»: что произошло между греческой трагедией и «Божественной комедией» и какие три идеи держат европейскую культуру. 25 августа в 19:00, 1500 динаров по регистрации.","The fourth lecture in the Summer Reading series: what happened between Greek tragedy and the Divine Comedy, and which three ideas hold European culture together. 25 August at 19:00, 1,500 RSD with registration.","Četvrto predavanje ciklusa Letnje čitanje: šta se dogodilo između grčke tragedije i Božanstvene komedije i koje tri ideje drže evropsku kulturu. 25. avgusta u 19.00, 1.500 dinara uz prijavu.","Как Европа прошла путь от мира рока и героев к миру личности, совести и свободы? Почему спустя две тысячи лет мы продолжаем читать Платона и мыслить категориями Аристотеля? Новая встреча цикла «Летнее чтение» разбирает три идеи, без которых европейской культуры не было бы.
+
+Истина. Платон сформулировал представление о вечных идеях: Благе, Красоте и Справедливости как высшей реальности. Его философия задала европейское понимание истины, добра, красоты и нравственного идеала.
+
+Разум. Аристотель создал язык, на котором Европа училась мыслить почти две тысячи лет. Речь пойдёт о логике, природе знания и добродетели как сознательном выборе.
+
+Свобода и милосердие. Христианство изменило представление человека о самом себе: там, где античный мир видел власть судьбы, оно провозгласило свободу воли и личную ответственность. На лекции обсуждают, как христианская мысль вступила в диалог с античной философией.
+
+В конце составляют круг текстов, без которых трудно понять Данте, Шекспира, Мильтона и Рембрандта.
+
+Лекцию ведёт **Соня Минина**, филолог (СПбГУ), специалист по классическим языкам и литературе, преподаватель латыни.
+
+Место: «Аудитория», Војводе Добрњца 48.
+
+Время: 25 августа, вторник, начало в 19:00.
+
+Цена: 1500 динаров наличными на входе, регистрация обязательна.
+
+Язык: русский.","How did Europe get from a world of fate and heroes to a world of the individual, conscience and freedom? Why, two thousand years on, do we still read Plato and think in Aristotle's categories? This session of the Summer Reading series takes apart three ideas without which European culture would not exist.
+
+Truth. Plato set out the notion of eternal ideas: the Good, Beauty and Justice as a higher reality. His philosophy shaped the European understanding of truth, goodness, beauty and the moral ideal.
+
+Reason. Aristotle built the language Europe used to think for nearly two thousand years. The talk covers logic, the nature of knowledge and virtue as a deliberate choice.
+
+Freedom and mercy. Christianity changed how people saw themselves: where the ancient world saw the power of fate, it declared free will and personal responsibility. The lecture looks at how Christian thought entered into dialogue with ancient philosophy.
+
+It closes with a reading list, the texts you need to make sense of Dante, Shakespeare, Milton and Rembrandt.
+
+The lecture is given by **Sonya Minina**, a philologist (St Petersburg State University) specialising in classical languages and literature and teaching Latin.
+
+Venue: Auditoria, Vojvode Dobrnjca 48.
+
+Time: Tuesday 25 August, start at 19:00.
+
+Price: 1,500 RSD, cash at the door, registration required.
+
+Language: Russian.","Kako je Evropa prešla put od sveta sudbine i heroja do sveta ličnosti, savesti i slobode? Zašto i posle dve hiljade godina i dalje čitamo Platona i mislimo Aristotelovim kategorijama? Novi susret ciklusa Letnje čitanje razlaže tri ideje bez kojih evropske kulture ne bi bilo.
+
+Istina. Platon je formulisao predstavu o večnim idejama: Dobru, Lepoti i Pravdi kao višoj stvarnosti. Njegova filozofija odredila je evropsko shvatanje istine, dobra, lepote i moralnog ideala.
+
+Razum. Aristotel je stvorio jezik na kojem je Evropa učila da misli skoro dve hiljade godina. Govori se o logici, prirodi znanja i vrlini kao svesnom izboru.
+
+Sloboda i milosrđe. Hrišćanstvo je promenilo predstavu čoveka o samom sebi: tamo gde je antički svet video vlast sudbine, ono je proglasilo slobodu volje i ličnu odgovornost. Na predavanju se razmatra kako je hrišćanska misao stupila u dijalog sa antičkom filozofijom.
+
+Na kraju se sastavlja krug tekstova bez kojih je teško razumeti Dantea, Šekspira, Miltona i Rembranta.
+
+Predavanje vodi **Sonja Minina**, filolog (Univerzitet u Sankt Peterburgu), stručnjak za klasične jezike i književnost i predavač latinskog.
+
+Mesto: Auditoria, Vojvode Dobrnjca 48.
+
+Vreme: utorak, 25. avgust, početak u 19.00.
+
+Cena: 1.500 dinara gotovinom na ulazu, prijava je obavezna.
+
+Jezik: ruski.",19:00,1500,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://t.me/auditoria_belgrade/1599,Аудитория,https://luma.com/a3hbvgiu,Auditoria,https://www.instagram.com/auditoria_beograd/,,,,,,"лекция, философия, античность, Летнее чтение, Аудитория","lecture, philosophy, antiquity, Summer Reading, Auditoria","predavanje, filozofija, antika, Letnje čitanje, Auditorija"
+9/26/2026,9/26/2026,8/18/2026,748,Person,Мария Кардакова,https://www.instagram.com/marysstories/,ru,EducationEvent,Лекция Марии Кардаковой «Родом из детства» в Teatar 78,Maria Kardakova's lecture Rooted in Childhood at Teatar 78,Predavanje Marije Kardakove Poreklom iz detinjstva u Teatru 78,https://raw.githubusercontent.com/newsgl/arsposters/main/748-RodomIzDetstva.webp,,Lectures,"Нутрициолог Мария Кардакова о том, как детские установки про еду продолжают работать во взрослом возрасте. 26 сентября в 16:00 в Teatar 78, 3300 динаров.","Nutritionist Maria Kardakova on how childhood rules about food keep working in adult life. 26 September at 16:00 at Teatar 78, 3,300 RSD.","Nutricionista Marija Kardakova o tome kako dečji stavovi o hrani nastavljaju da deluju u odraslom dobu. 26. septembra u 16.00 u Teatru 78, 3.300 dinara.","Отношения с едой начинаются задолго до первой диеты. «Доешь всё до конца», «сладкое получишь, если будешь хорошо себя вести», «от хлеба толстеют», «ты уже достаточно съела»: вместе с едой мы перенимаем правила, страхи и установки, которые потом годами определяют, как мы едим.
+
+На лекции разбирают, почему люди переедают, боятся отдельных продуктов, испытывают вину после еды и почему бывает так сложно просто есть нормально. Отдельная часть посвящена тому, что с этим можно сделать во взрослом возрасте и как не передать те же сценарии своим детям.
+
+Читает лекцию **Мария Кардакова**, нутрициолог.
+
+Место: Teatar 78, Ресавска 78а.
+
+Время: 26 сентября, суббота, начало в 16:00.
+
+Цена: 3300 динаров, билеты на сайте организатора.
+
+Возраст: 14+.
+
+Язык: русский.","Our relationship with food starts long before the first diet. ""Finish your plate"", ""you get dessert if you behave"", ""bread makes you fat"", ""you have had enough"": along with the food we pick up rules, fears and assumptions that go on shaping how we eat for years.
+
+The lecture looks at why people overeat, why they fear particular foods, why guilt follows a meal and why simply eating normally can be so hard. A separate part covers what can be done about it as an adult and how to avoid passing the same patterns on to your own children.
+
+The lecture is given by nutritionist **Maria Kardakova**.
+
+Venue: Teatar 78, Resavska 78a.
+
+Time: Saturday 26 September, start at 16:00.
+
+Price: 3,300 RSD, tickets on the organiser's website.
+
+Age: 14+.
+
+Language: Russian.","Odnos prema hrani počinje mnogo pre prve dijete. ""Pojedi sve do kraja"", ""slatko dobijaš ako budeš dobar"", ""od hleba se goji"", ""dosta si pojela"": zajedno sa hranom usvajamo pravila, strahove i stavove koji godinama određuju kako jedemo.
+
+Na predavanju se razmatra zašto ljudi prejedaju, zašto se plaše pojedinih namirnica, zašto posle obroka dolazi osećaj krivice i zašto je ponekad teško jednostavno jesti normalno. Poseban deo posvećen je tome šta se sa tim može uraditi u odraslom dobu i kako iste obrasce ne preneti na svoju decu.
+
+Predavanje drži nutricionista **Marija Kardakova**.
+
+Mesto: Teatar 78, Resavska 78a.
+
+Vreme: subota, 26. septembar, početak u 16.00.
+
+Cena: 3.300 dinara, ulaznice na sajtu organizatora.
+
+Uzrast: 14+.
+
+Jezik: ruski.",16:00,3300,Teatar 78,"Resavska 78, Beograd","44.801504,20.457327",https://adaptacija.tic.rs/ru/NPkna8KN,Adaptacija Belgrade,https://adaptacija.tic.rs/ru/NPkna8KN,Adaptacija Belgrade,https://adaptacija.tic.rs/,,,14+,,,"лекция, нутрициология, еда, психология, Teatar 78","lecture, nutrition, food, psychology, Teatar 78","predavanje, nutricionizam, hrana, psihologija, Teatar 78"
