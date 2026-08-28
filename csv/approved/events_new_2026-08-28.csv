@@ -1,0 +1,255 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+9/19/2026,9/19/2026,8/28/2026,826,Person,Саша Гришаев,https://www.youtube.com/@alexgrshv,ru,ComedyEvent,Саша Гришаев со стендап-концертом «Ронин» в баре Buratina,"Sasha Grishaev brings his stand-up show ""Ronin"" to Buratina Bar","Saša Grišajev sa stand-up koncertom ""Ronin"" u baru Buratina",https://raw.githubusercontent.com/newsgl/arsposters/main/826-SashaGrishaevRonin.webp,,Stand Up,"Сольный концерт Саши Гришаева «Ронин»: два часа про здоровье, работу и бытовые кризисы, рассказанные подчёркнуто нелитературным языком. 19 сентября в баре Buratina, начало в 19:00, билеты от 1500 динаров.","Sasha Grishaev brings his solo show ""Ronin"" to Buratina Bar: two hours about health, work and everyday crises, delivered in pointedly unliterary language. 19 September, starts at 19:00, tickets from 1500 dinars.","Solo koncert Saše Grišajeva ""Ronin"": dva sata o zdravlju, poslu i svakodnevnim krizama, ispričano naglašeno neknjiževnim jezikom. Nastup je 19. septembra u baru Buratina od 19.00, karte od 1500 dinara.","**Саша Гришаев** финалист второго сезона «Открытого микрофона» на ТНТ, участник стендап- и ютуб-проектов, победитель роаст-баттлов и автор нескольких сольных концертов. На YouTube у него выложены сольники «Призраки» и «Панк-рок концерт»: по ним можно заранее понять, что за человек выйдет на сцену.
+
+Новая программа **«Ронин»** держится на приземлённых темах: здоровье, работа, кризисы на любой вкус и разбор новой бытовой реальности. Формулировки при этом нарочито нелитературные, на филигранность сил уже не осталось.
+
+Продолжительность: два часа.
+
+Цена: от 1500 динаров.
+
+Язык: русский.
+
+Организатор: «Опять Эти».
+
+Время начала в источниках разошлось: на билетной странице стоит начало в 19:00 и двери в 18:00, в телеграм-анонсе двери в 19:00 и начало в 19:30. Здесь приведены данные билетной страницы, время стоит уточнить перед выходом.","**Sasha Grishaev** was a finalist in the second season of ""Open Mic"" on TNT, has appeared in stand-up and YouTube projects, won roast battles and released several solo shows. His specials ""Ghosts"" and ""Punk Rock Concert"" are on YouTube, so you can work out in advance what kind of performer walks on stage.
+
+The new programme **""Ronin""** stays with down to earth material: health, work, crises of every size and a survey of the new domestic reality. The wording is deliberately unliterary, since there was no energy left for polish.
+
+Running time: two hours.
+
+Price: from 1500 dinars.
+
+Language: Russian.
+
+Promoter: Opyat Eti.
+
+The sources disagree on the start: the ticket page lists a 19:00 start with doors at 18:00, while the Telegram announcement gives doors at 19:00 and a 19:30 start. The ticket page figures are used here, so it is worth checking the time before you set out.","**Saša Grišajev** je finalista druge sezone ""Otvorenog mikrofona"" na TNT-u, učesnik stand-up i jutjub projekata, pobednik roast bitaka i autor nekoliko solo koncerata. Na Jutjubu su mu dostupni solo nastupi ""Prizraki"" i ""Punk rok koncert"", pa se unapred vidi kakav tip izlazi na binu.
+
+Novi program **""Ronin""** oslanja se na prizemne teme: zdravlje, posao, krize svih veličina i pregled nove svakodnevice. Formulacije su namerno neknjiževne, za filigranski jezik snage više nije bilo.
+
+Trajanje: dva sata.
+
+Cena: od 1500 dinara.
+
+Jezik: ruski.
+
+Organizator: Opjat Eti.
+
+Izvori se ne slažu oko početka: na stranici za karte stoji početak u 19.00 i ulaz od 18.00, a u telegram najavi ulaz u 19.00 i početak u 19.30. Ovde su navedeni podaci sa stranice za karte, pa vreme vredi proveriti pre polaska.",19:00,1500,Buratina,"Svetogorska 46, 11000 Beograd","44.812702,20.469690",https://t.me/standup_beo/2487,Опять Эти,https://potalonu.com/events/7ad487f4-df27-40d9-acb6-8e742a4adb86,Опять Эти,https://t.me/standup_beo,,,,,,"стендап, комедия, сольный концерт, Buratina, русский язык","stand-up, comedy, solo show, Buratina, Russian language","stand-up, komedija, solo koncert, Buratina, ruski jezik"
+8/31/2026,8/31/2026,8/28/2026,827,PerformingGroup,BELEF,https://belef.rs/,,ChildrensEvent,"Детский спектакль «Kola, pešak, smešak» в Конаке княгини Любицы","Children's play ""Kola, pešak, smešak"" at Princess Ljubica's Residence","Dečja predstava ""Kola, pešak, smešak"" u Konaku kneginje Ljubice",https://raw.githubusercontent.com/newsgl/arsposters/main/827-KolaPesakSmesak.webp,,Kids,"Интерактивный спектакль о правилах дорожного движения: герои попадают в запутанные ситуации на дороге, а зрители помогают им найти выход. 31 августа в 19:00 в Конаке княгини Любицы, вход свободный.","An interactive play about road safety: the characters get stuck in tangled traffic situations and the young audience helps them find a way out. 31 August at 19:00 at Princess Ljubica's Residence, free entry.","Interaktivna predstava o saobraćajnim pravilima: junaci upadaju u zamršene situacije na putu, a publika im pomaže da nađu rešenje. Igra se 31. avgusta u 19.00 u Konaku kneginje Ljubice, ulaz je slobodan.","Постановка **«Kola, pešak, smešak»** идёт в программе «Детский понедельник» фестиваля BELEF. Правила дорожного движения здесь объясняются через игру: герои попадают в путаные ситуации на дороге, а дети из зала подсказывают им, как поступить.
+
+Спектакль построен на общении с залом, так что зрители становятся полноценными участниками действия. Динамичный сюжет и добрый юмор делают вечер полезным для маленьких пешеходов.
+
+Играют Александра Манасиевич и Фуад Табучич.
+
+Цена: вход свободный.
+
+Язык: сербский.
+
+Организатор: BELEF и Центр белградских фестивалей.","The play **""Kola, pešak, smešak""** runs within the Children's Monday strand of the BELEF festival. Road safety is taught through play here: the characters land in tangled traffic situations and the children in the hall tell them what to do.
+
+The show is built on talking to the audience, so the children become part of the action rather than watching from a distance. A brisk plot and gentle humour make the evening useful for small pedestrians.
+
+Performed by Aleksandra Manasijević and Fuad Tabučić.
+
+Price: free entry.
+
+Language: Serbian.
+
+Organiser: BELEF and the Belgrade Festivals Centre.","Predstava **""Kola, pešak, smešak""** igra se u okviru programa Dečji ponedeljak festivala BELEF. Saobraćajna pravila se ovde objašnjavaju kroz igru: junaci upadaju u zamršene situacije na putu, a deca iz publike im govore kako da postupe.
+
+Predstava je građena na razgovoru sa salom, pa mališani postaju učesnici radnje, a ne samo gledaoci. Dinamična priča i dobroćudan humor čine veče korisnim za male pešake.
+
+Igraju Aleksandra Manasijević i Fuad Tabučić.
+
+Cena: ulaz je slobodan.
+
+Jezik: srpski.
+
+Organizator: BELEF i Centar beogradskih festivala.",19:00,0,Konak kneginje Ljubice,"Kneza Sime Markovića 8, 11000 Beograd","44.817105,20.452235",https://t.me/sta_imas_beograd/4718,Šta ima Beograd,,BELEF,https://belef.rs/,,,,,,"дети, спектакль, интерактив, правила дорожного движения, BELEF","kids, theatre, interactive, road safety, BELEF","deca, predstava, interaktivno, saobraćajna pravila, BELEF"
+8/30/2026,8/30/2026,8/28/2026,828,Person,Юлия Берникова,https://t.me/vstrechi_v_belgrade,ru,EducationEvent,Киноклуб «Кино после кино»: «Опасный элемент» в антикафе Black Cat,"Kino posle kino film club: ""Radioactive"" at Anticafe Black Cat","Filmski klub ""Kino posle kino"": ""Radioactive"" u antikafeu Black Cat",https://raw.githubusercontent.com/newsgl/arsposters/main/828-OpasnyjElement.webp,,Lectures,"Биографическая драма «Опасный элемент» (Radioactive, 2019) о Пьере и Марии Кюри, а после показа разговор о фильме в психологическом ключе с ведущей Юлией Берниковой. 30 августа, сбор в 16:30, 1500 динаров с фуршетом и напитками.","The biographical drama ""Radioactive"" (2019) about Pierre and Marie Curie, followed by a conversation about the film in psychological terms led by Julia Bernikova. 30 August, guests gather at 16:30, 1500 dinars including a light buffet and drinks.","Biografska drama ""Radioactive"" (2019) o Pjeru i Mariji Kiri, a posle projekcije sledi razgovor o filmu u psihološkom ključu sa voditeljkom Julijom Bernikovom. Okupljanje je 30. avgusta u 16.30, ulaznica 1500 dinara sa posluženjem i pićem.","В последнее воскресенье лета киноклуб **«Кино после кино»** показывает биографическую драму «Опасный элемент» (Radioactive, 2019). Это история Пьера и Марии Кюри: любовников, первооткрывателей и гениев, чьи открытия спасли миллионы жизней и одновременно создали угрозу для человечества.
+
+Режиссёр картины Маржан Сатрапи, автор «Персиполиса», в главных ролях Розамунд Пайк и Сэм Райли.
+
+После просмотра участники обсуждают фильм в психологическом ключе с ведущей **Юлией Берниковой**, и высказаться может каждый. Быть психологом для этого не нужно: встреча развлекательная, а не профессиональная, и в клубе принято относиться друг к другу бережно.
+
+Сбор гостей в 16:30, показ начинается в 17:00.
+
+Цена: 1500 динаров. В неё входят лёгкий фуршетный стол, чай, кофе и сладости без ограничений; вино, крафтовое пиво и прохладительные напитки покупаются отдельно.
+
+Язык: русский.
+
+Запись: в личных сообщениях организаторам, места ограничены.","On the last Sunday of summer the film club **Kino posle kino** screens the biographical drama ""Radioactive"" (2019). It follows Pierre and Marie Curie: lovers, discoverers and geniuses whose findings saved millions of lives and at the same time created a threat to humanity.
+
+The film is directed by Marjane Satrapi, author of ""Persepolis"", and stars Rosamund Pike and Sam Riley.
+
+After the screening the group discusses the film in psychological terms with host **Julia Bernikova**, and everyone gets a chance to speak. No background in psychology is required: the meeting is there for pleasure rather than professional analysis, and the club asks its guests to treat each other gently.
+
+Guests gather at 16:30 and the screening starts at 17:00.
+
+Price: 1500 dinars, covering a light buffet plus unlimited tea, coffee and sweets. Wine, craft beer and soft drinks are bought separately.
+
+Language: Russian.
+
+Registration: by direct message to the organisers, places are limited.","Poslednje nedelje leta filmski klub **""Kino posle kino""** prikazuje biografsku dramu ""Radioactive"" (2019). To je priča o Pjeru i Mariji Kiri: ljubavnicima, pronalazačima i genijima čija su otkrića spasla milione života i istovremeno stvorila pretnju za čovečanstvo.
+
+Film režira Maržan Satrapi, autorka ""Persepolisa"", a glavne uloge tumače Rozamund Pajk i Sem Rajli.
+
+Posle projekcije učesnici razgovaraju o filmu u psihološkom ključu sa voditeljkom **Julijom Bernikovom**, i svako može da kaže svoj utisak. Znanje psihologije nije potrebno: susret je zabavan, a ne stručni, i u klubu se pazi na obzir prema drugima.
+
+Okupljanje gostiju je u 16.30, projekcija počinje u 17.00.
+
+Cena: 1500 dinara. U cenu ulaze lagano posluženje, čaj, kafa i slatkiši bez ograničenja; vino, kraft pivo i sokovi plaćaju se posebno.
+
+Jezik: ruski.
+
+Prijava: u ličnim porukama organizatorima, broj mesta je ograničen.",16:30,1500,Anticafe Black Cat,"Braće Baruh 6, 11000 Beograd","44.825284,20.458099",https://t.me/vstrechi_v_belgrade/12772,Встречи в Белграде,,Кино после кино,https://t.me/vstrechi_v_belgrade,,,,,,"киноклуб, кинопоказ, обсуждение, психология, русский язык","film club, screening, discussion, psychology, Russian language","filmski klub, projekcija, razgovor, psihologija, ruski jezik"
+9/15/2026,9/15/2026,8/28/2026,829,Person,Алёна Швец,https://en.wikipedia.org/wiki/Alyona_Shvets,,MusicEvent,Алёна Швец в Zappa Baza: первый концерт в Белграде,Alyona Shvets at Zappa Baza: her first Belgrade show,Aljona Švec u Zappa Bazi: prvi nastup u Beogradu,https://raw.githubusercontent.com/newsgl/arsposters/main/829-AlenaShvets.webp,https://open.spotify.com/artist/7m9RH1V73dYjGv8RgGP39c,Concerts,"Российская автор-исполнительница в жанрах инди-поп и пост-бард впервые играет в Белграде. 15 сентября в Zappa Baza, начало в 19:00, билеты от 35 до 60 евро, это примерно от 4100 до 7000 динаров.","The Russian singer-songwriter, working in indie pop and post-bard, plays Belgrade for the first time. 15 September at Zappa Baza, starting at 19:00, tickets run from 35 to 60 euros, roughly 4100 to 7000 dinars.","Ruska kantautorka indi-pop i post-bard zvuka prvi put nastupa u Beogradu. Koncert je 15. septembra u Zappa Bazi od 19.00, karte od 35 do 60 evra, otprilike od 4100 do 7000 dinara.","**Алёна Швец** пишет песни о подростковой жизни, первой любви, разочарованиях и бунтарстве. Этот материал собрал ей большую аудиторию в соцсетях и на стриминговых платформах, а узнаваемый образ «девочки с гитарой» дополняют образный язык и отсылки к литературе.
+
+Жанрово это инди-поп и пост-бард: песни устроены как небольшие истории, и держатся они на откровенности, а не на продакшене.
+
+В Белграде она играет впервые, площадка Zappa Baza на Савском пристанище.
+
+Цена: от 35 до 60 евро. Билеты продаются в евро, поэтому сумма в динарах меняется вместе с курсом: по курсу около 117 динаров за евро это примерно от 4100 до 7000 динаров.
+
+Билеты: виджет xtix на сайте промоутера, отдельно продаются билеты за рубли и за криптовалюту.
+
+Промоутер: Balkan Promo.","**Alyona Shvets** writes songs about teenage life, first love, disappointment and rebellion. That material built her a large following on social media and streaming platforms, and the recognisable ""girl with a guitar"" image is filled out by vivid language and literary references.
+
+The genre is indie pop and post-bard: the songs work as small stories and rest on candour rather than production.
+
+This is her first Belgrade appearance, at Zappa Baza on the Sava embankment.
+
+Price: 35 to 60 euros. Tickets are sold in euros, so the dinar figure moves with the exchange rate: at roughly 117 dinars to the euro that comes to about 4100 to 7000 dinars.
+
+Tickets: the xtix widget on the promoter's site, with separate options for roubles and cryptocurrency.
+
+Promoter: Balkan Promo.","**Aljona Švec** piše pesme o tinejdžerskom životu, prvoj ljubavi, razočaranjima i buntu. Taj materijal joj je doneo veliku publiku na društvenim mrežama i strimingu, a prepoznatljivu sliku ""devojke sa gitarom"" dopunjuju slikovit jezik i književne reference.
+
+Žanrovski je to indi-pop i post-bard: pesme su sklopljene kao male priče i drže se na iskrenosti, a ne na produkciji.
+
+U Beogradu nastupa prvi put, u klubu Zappa Baza na Savskom pristaništu.
+
+Cena: od 35 do 60 evra. Karte se prodaju u evrima, pa se iznos u dinarima menja sa kursom: po kursu od oko 117 dinara za evro to je približno 4100 do 7000 dinara.
+
+Karte: xtix vidžet na sajtu promotera, uz zasebnu prodaju u rubljama i kriptovalutama.
+
+Promoter: Balkan Promo.",19:00,4095,Zappa Baza,"Bulevar Vojvode Bojovića 30a, 11000 Beograd","44.820671,20.448039",https://balkan-promo.com/Alena_Shvets/,Balkan Promo,https://hub.xtix.ai/v1/widgets/common?token=eyJhbGciOiJIUzI1NiIsImlzcyI6Imh1Yi54dGl4LmFpIiwidHlwIjoiSldUIn0.eyJwIjoiNjg0MmNkOTFiYmJkYjg4MTIxOWY1MWFhIn0.X_h0g41QonS4kZTMaYT0EhSxp3GHzFpwsqzvlFmM52s&lang=ru&event=6a301c41da19ae77e55fa02c&s=1,Balkan Promo,https://balkan-promo.com/,,,,,,"концерт, инди-поп, пост-бард, Zappa Baza, авторская песня","concert, indie pop, post-bard, Zappa Baza, singer-songwriter","koncert, indi-pop, post-bard, Zappa Baza, kantautorka"
+9/5/2026,9/6/2026,8/28/2026,830,Organization,Silosi,https://silosi.rs/,,Festival,Prirodnjački bazar в Силосах: ярмарка натуральной косметики и мёда,Prirodnjački bazar at Silosi: a fair of natural cosmetics and honey,Prirodnjački bazar u Silosima: sajam prirodne kozmetike i meda,https://raw.githubusercontent.com/newsgl/arsposters/main/830-PrirodnjackiBazar.webp,,Festivals,"Органическая ярмарка в Силосах: натуральная косметика, мёд и продукты на его основе, товары небольших производителей. 5 и 6 сентября с 12:00 до 18:00, вход свободный, в программе мастер-класс по уходу за комнатными растениями.","An organic fair at Silosi: natural cosmetics, honey and honey-based products, plus goods from small producers. 5 and 6 September from 12:00 to 18:00, free entry, with a workshop on caring for houseplants.","Organski sajam u Silosima: prirodna kozmetika, med i proizvodi od meda, roba malih proizvođača. Održava se 5. i 6. septembra od 12.00 do 18.00, ulaz je slobodan, a u programu je i radionica o nezi sobnih biljaka.","**Prirodnjački bazar** занимает Силосы на два дня. Здесь собираются небольшие производители: натуральная косметика, мёд и продукты на его основе, а также другие товары, сделанные в сотрудничестве с природой.
+
+Отдельным пунктом программы идёт мастер-класс ботанического сообщества **Pelcerijada**. На интерактивном занятии рассказывают, как правильно срезать черенки, подбирать грунт и пересаживать растения так, чтобы они прижились, и как устроить зелёный уголок в городской квартире.
+
+Время работы: с 12:00 до 18:00 в оба дня.
+
+Цена: вход свободный.
+
+Площадка: Силосы на Дунайской набережной в Луке Београд.","The **Prirodnjački bazar** takes over Silosi for two days. Small producers gather here with natural cosmetics, honey and honey-based products, along with other goods made in partnership with nature.
+
+A separate item on the programme is a workshop by the botanical community **Pelcerijada**. The hands-on session covers how to take cuttings properly, choose soil and repot plants so they take root, and how to build a green corner in a city flat.
+
+Opening hours: 12:00 to 18:00 on both days.
+
+Price: free entry.
+
+Venue: the Silosi complex on the Danube quay in Luka Beograd.","**Prirodnjački bazar** zauzima Silose na dva dana. Okupljaju se mali proizvođači: prirodna kozmetika, med i proizvodi na bazi meda, kao i druga roba nastala u saradnji sa prirodom.
+
+Poseban deo programa je radionica botaničke zajednice **Pelcerijada**. Na interaktivnom času govori se o tome kako se pravilno režu reznice, kako se bira zemlja i kako se biljke presađuju da bi se primile, kao i kako se pravi zeleni kutak u gradskom stanu.
+
+Radno vreme: od 12.00 do 18.00 oba dana.
+
+Cena: ulaz je slobodan.
+
+Lokacija: kompleks Silosa na Dunavskom keju u Luci Beograd.",12:00,0,Silosi,"Dunavski kej, Luka Beograd, 11000 Beograd","44.828501,20.471762",https://t.me/sta_imas_beograd/4721,Šta ima Beograd,,Prirodnjački bazar,https://www.instagram.com/pelcerijada/,,,,,,"ярмарка, натуральная косметика, мёд, растения, Силосы","fair, natural cosmetics, honey, plants, Silosi","sajam, prirodna kozmetika, med, biljke, Silosi"
+9/4/2026,9/11/2026,8/28/2026,831,Person,Nina Orlić Udović,https://ateljevitraz.com/,,Festival,Выставка витражей «Svetlopis» Нины Орлич Удович в галерее Green Door,"""Svetlopis"": stained glass by Nina Orlić Udović at the Green Door gallery","Izložba vitraža ""Svetlopis"" Nine Orlić Udović u galeriji Green Door",https://raw.githubusercontent.com/newsgl/arsposters/main/831-Svetlopis.webp,,Festivals,"Коллекция витражей студии Mozzaik по мотивам сербского культурного наследия: ручная работа из цветного стекла, традиционные орнаменты и исторические символы. Открытие 4 сентября в 19:00, выставка работает до 11 сентября, вход свободный.","A collection of stained glass by the Mozzaik studio built on motifs of Serbian cultural heritage: handmade coloured glass, traditional ornaments and historical symbols. The opening is on 4 September at 19:00 and the show runs until 11 September, free entry.","Kolekcija vitraža studija Mozzaik na motive srpskog kulturnog nasleđa: ručni rad od obojenog stakla, tradicionalni ornamenti i istorijski simboli. Svečano otvaranje je 4. septembra u 19.00, izložba traje do 11. septembra, ulaz je slobodan.","Персональная выставка **«Svetlopis»** показывает витражи мастера **Нины Орлич Удович** и её студии Mozzaik. Коллекция посвящена мотивам сербского культурного наследия.
+
+Все работы выполнены вручную из цветного стекла, и игра света и тени оживляет в них традиционные орнаменты и исторические символы. Отсюда и название: светопись.
+
+Выставка проходит при поддержке Министерства культуры Сербии.
+
+Открытие: 4 сентября в 19:00, дальше экспозиция работает до 11 сентября.
+
+Цена: вход свободный.
+
+Площадка: галерея Green Door на Краля Петра 61.","The solo exhibition **""Svetlopis""** presents stained glass by **Nina Orlić Udović** and her Mozzaik studio. The collection is devoted to motifs of Serbian cultural heritage.
+
+Every piece is made by hand from coloured glass, and the play of light and shadow brings traditional ornaments and historical symbols to life. Hence the title, which means writing with light.
+
+The exhibition is held with the support of the Ministry of Culture of Serbia.
+
+Opening: 4 September at 19:00, after which the show stays up until 11 September.
+
+Price: free entry.
+
+Venue: the Green Door gallery at Kralja Petra 61.","Samostalna izložba **""Svetlopis""** predstavlja vitraže majstorke **Nine Orlić Udović** i njenog studija Mozzaik. Kolekcija je posvećena motivima srpskog kulturnog nasleđa.
+
+Svi radovi su izrađeni ručno od obojenog stakla, a igra svetla i senke oživljava tradicionalne ornamente i istorijske simbole. Otuda i naziv izložbe.
+
+Izložba se održava pod pokroviteljstvom Ministarstva kulture Srbije.
+
+Otvaranje: 4. septembra u 19.00, a postavka ostaje do 11. septembra.
+
+Cena: ulaz je slobodan.
+
+Lokacija: galerija Green Door u Kralja Petra 61.",19:00,0,Green Door Art Corner,"Kralja Petra 61, 11000 Beograd","44.821061,20.456474",https://t.me/sta_imas_beograd/4722,Šta ima Beograd,,Mozzaik Glass Studio,https://ateljevitraz.com/,,,,,,"выставка, витражи, стекло, культурное наследие, Green Door","exhibition, stained glass, glass, cultural heritage, Green Door","izložba, vitraž, staklo, kulturno nasleđe, Green Door"
+9/6/2026,9/6/2026,8/28/2026,832,Person,Екатерина Сорочан,https://t.me/lav_i_zabac,ru,EducationEvent,Математика в сербской школе: встреча с Екатериной Сорочан в «Лаве и Жабце»,Maths in Serbian schools: a talk with Ekaterina Sorochan at Lav i Žabac,Matematika u srpskoj školi: razgovor sa Jekaterinom Soročan u knjižari Lav i Žabac,https://raw.githubusercontent.com/newsgl/arsposters/main/832-MatematikaUSrpskojSkoli.webp,,Lectures,"Повторная встреча для родителей: чем сербская программа по математике отличается от российской, где после переезда появляются пробелы, как устроены олимпиады. 6 сентября в 18:00 в книжном «Лав и Жабац», участие бесплатное по регистрации.","A repeat session for parents: how the Serbian maths curriculum differs from the Russian one, where gaps appear after a move, and how the olympiad system works. 6 September at 18:00 at the Lav i Žabac bookshop, free with registration.","Ponovljeni razgovor za roditelje: po čemu se srpski program matematike razlikuje od ruskog, gde posle preseljenja nastaju rupe u znanju i kako funkcionišu olimpijade. Susret je 6. septembra u 18.00 u knjižari Lav i Žabac, učešće je besplatno uz prijavu.","Первая встреча с **Екатериной Сорочан** собрала полный зал, поэтому книжный «Лав и Жабац» проводит её ещё раз для тех, кто не попал.
+
+На встрече разбирают, чем сербская и российская программы по математике отличаются друг от друга и какие подходы к преподаванию за ними стоят; где после переезда у ребёнка появляются пробелы и трудности; как язык влияет на понимание математики; как устроены олимпиады и какие математические траектории есть у детей в Сербии; как сохранить понимание предмета, самостоятельность и умение рассуждать. В конце остаётся время на вопросы.
+
+Екатерина Сорочан окончила мехмат МГУ, преподаёт математику пятнадцать лет, четыре года работает в Немецкой школе в Белграде, состоит в Обществе математиков Сербии и растит троих детей, которые учатся в сербской системе.
+
+Цена: участие бесплатное.
+
+Язык: русский.
+
+Запись: по форме заранее, количество мест ограничено.","The first meeting with **Ekaterina Sorochan** filled the room, so the Lav i Žabac bookshop is running it again for those who missed it.
+
+The talk covers how the Serbian and Russian maths curricula differ and what teaching approaches sit behind them; where gaps and difficulties appear for a child after a move; how language affects the understanding of mathematics; how olympiads work and what mathematical paths are open to children in Serbia; and how to preserve comprehension, independence and the habit of reasoning. Time is set aside for questions at the end.
+
+Ekaterina Sorochan graduated from the mechanics and mathematics faculty of Moscow State University, has taught maths for fifteen years, has spent four years at the German School in Belgrade, belongs to the Society of Mathematicians of Serbia and is raising three children who study in the Serbian system.
+
+Price: free.
+
+Language: Russian.
+
+Registration: through the form in advance, places are limited.","Prvi susret sa **Jekaterinom Soročan** napunio je salu, pa knjižara Lav i Žabac organizuje još jedan za one koji nisu stigli.
+
+Na susretu se govori o tome po čemu se srpski i ruski program matematike razlikuju i kakvi pristupi nastavi stoje iza njih; gde posle preseljenja kod deteta nastaju rupe i teškoće; kako jezik utiče na razumevanje matematike; kako su uređene olimpijade i koje matematičke putanje deca imaju u Srbiji; kako sačuvati razumevanje predmeta, samostalnost i sposobnost rasuđivanja. Na kraju ostaje vreme za pitanja.
+
+Jekaterina Soročan završila je Mehaničko-matematički fakultet Moskovskog državnog univerziteta, predaje matematiku petnaest godina, četiri godine radi u Nemačkoj školi u Beogradu, član je Društva matematičara Srbije i majka je troje dece koja se školuju u srpskom sistemu.
+
+Cena: učešće je besplatno.
+
+Jezik: ruski.
+
+Prijava: preko formulara unapred, broj mesta je ograničen.",18:00,0,Лав и Жабац,"Cara Uroša 12, 11000 Beograd","44.821198,20.455741",https://t.me/lav_i_zabac/983,Лав и Жабац,https://forms.gle/z3marvVQjGSk6ByS9,Лав и Жабац,https://t.me/lav_i_zabac,,,,,,"лекция, математика, школа в Сербии, родителям, русский язык","talk, mathematics, school in Serbia, for parents, Russian language","predavanje, matematika, škola u Srbiji, za roditelje, ruski jezik"
+9/3/2026,9/3/2026,8/28/2026,833,Person,Егор Сенников,https://t.me/auditoria_belgrade,ru,EducationEvent,Киноклуб с Егором Сенниковым в «Аудитории»: «WR: Мистерии организма»,"Film club with Egor Sennikov at Auditoria: ""WR: Mysteries of the Organism""","Filmski klub sa Jegorom Senikovim u Auditoriji: ""WR: Misterije organizma""",https://raw.githubusercontent.com/newsgl/arsposters/main/833-KinoklubWR.webp,,Lectures,"Показ фильма Душана Макавеева 1971 года и разговор о югославской «чёрной волне», Вильгельме Райхе и кино конца шестидесятых. 3 сентября в 19:00 в «Аудитории», 1000 динаров по регистрации и 1500 без неё.","A screening of Dušan Makavejev's 1971 film followed by a conversation about the Yugoslav Black Wave, Wilhelm Reich and late-sixties cinema. 3 September at 19:00 at Auditoria, 1000 dinars with registration and 1500 without.","Projekcija filma Dušana Makavejeva iz 1971. i razgovor o jugoslovenskom crnom talasu, Vilhelmu Rajhu i filmu s kraja šezdesetih. Termin je 3. septembra u 19.00 u Auditoriji, 1000 dinara uz prijavu i 1500 bez nje.","Фильм **«WR: Мистерии организма»** начинается как документальное исследование идей психоаналитика Вильгельма Райха о сексуальной энергии, а затем расходится в стороны: нью-йоркская контркультура, коммунизм, Сталин, психотерапия, уличный театр, революция, транс-сцена, песни и архивные кадры. Где-то посреди этого югославская девушка Милена пытается соблазнить советского фигуриста Владимира Ильича.
+
+**Душан Макавеев** был одним из самых радикальных режиссёров югославского кино и мастером того, что сам называл политическим цирком: документальное у него сталкивается с вымыслом, Маркс с Фрейдом, а серьёзная политическая теория в любой момент может закончиться непристойной шуткой.
+
+После выхода картину запретили в Югославии, а за её пределами она быстро стала международным артхаусным хитом и до сих пор смотрится живой и дерзкой.
+
+После показа ведущий **Егор Сенников** разбирает Макавеева, югославскую «чёрную волну» и Райха, и заодно то, почему режиссёрам конца шестидесятых освобождение тела казалось неотделимым от освобождения общества.
+
+Цена: 1000 динаров по предварительной регистрации, без регистрации 1500 динаров.
+
+Язык: русский.","The film **""WR: Mysteries of the Organism""** opens as a documentary study of psychoanalyst Wilhelm Reich's ideas about sexual energy, then spreads outwards: New York counterculture, communism, Stalin, psychotherapy, street theatre, revolution, the trance scene, songs and archive footage. Somewhere in the middle of all this a Yugoslav girl named Milena tries to seduce a Soviet figure skater called Vladimir Ilyich.
+
+**Dušan Makavejev** was one of the most radical directors in Yugoslav cinema and a master of what he called political circus: documentary collides with fiction, Marx with Freud, and any piece of serious political theory can end in an indecent joke.
+
+The film was banned in Yugoslavia after its release, while abroad it quickly became an international arthouse hit and still looks alive and impudent.
+
+After the screening host **Egor Sennikov** discusses Makavejev, the Yugoslav Black Wave and Reich, along with the question of why directors at the end of the 1960s saw the liberation of the body as inseparable from the liberation of society.
+
+Price: 1000 dinars with advance registration, 1500 dinars without.
+
+Language: Russian.","Film **""WR: Misterije organizma""** počinje kao dokumentarno istraživanje ideja psihoanalitičara Vilhelma Rajha o seksualnoj energiji, a zatim se širi na sve strane: njujorška kontrakultura, komunizam, Staljin, psihoterapija, ulično pozorište, revolucija, trans scena, pesme i arhivski snimci. Negde usred svega toga Jugoslovenka Milena pokušava da zavede sovjetskog klizača Vladimira Iljiča.
+
+**Dušan Makavejev** bio je jedan od najradikalnijih reditelja jugoslovenskog filma i majstor onoga što je sam zvao političkim cirkusom: dokumentarno se kod njega sudara sa fikcijom, Marks sa Frojdom, a ozbiljna politička teorija svakog trenutka može da se završi nepristojnom šalom.
+
+Posle premijere film je zabranjen u Jugoslaviji, a van njenih granica brzo je postao međunarodni arthaus hit i i danas deluje živo i drsko.
+
+Posle projekcije voditelj **Jegor Senikov** govori o Makavejevu, jugoslovenskom crnom talasu i Rajhu, kao i o tome zašto je rediteljima s kraja šezdesetih oslobođenje tela izgledalo neodvojivo od oslobođenja društva.
+
+Cena: 1000 dinara uz prethodnu prijavu, bez prijave 1500 dinara.
+
+Jezik: ruski.",19:00,1000,Auditoria,"Vojvode Dobrnjca 48, 11000 Beograd","44.818886,20.474869",https://t.me/auditoria_belgrade/1633,Auditoria,https://luma.com/ozkz0o8z,Auditoria,https://t.me/auditoria_belgrade,,,,,,"киноклуб, кинопоказ, югославское кино, чёрная волна, Аудитория","film club, screening, Yugoslav cinema, Black Wave, Auditoria","filmski klub, projekcija, jugoslovenski film, crni talas, Auditoria"
