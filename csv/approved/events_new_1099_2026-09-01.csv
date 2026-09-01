@@ -1,0 +1,652 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+9/4/2026,9/4/2026,9/1/2026,1099,Organization,Squiz Beograd,https://belgrade.squiz.ru/,ru,SocialEvent,Squiz «90-е и 2000-е» в Santo Domingo,"Squiz ""The 90s and 2000s"" at Santo Domingo","Squiz ""Devedesete i dvehiljadite"" u Santo Domingu",https://raw.githubusercontent.com/newsgl/arsposters/main/1099-SquizDevyanostye.webp,,Games,"Командный квиз по музыке, кино и быту девяностых и нулевых. 4 сентября в 19:00 в баре Santo Domingo, от 1000 RSD с игрока, команда от 2 до 8 человек.","A team quiz on the music, films and everyday life of the 1990s and 2000s. 4 September at 19:00 at Santo Domingo, from 1,000 RSD per player, teams of 2 to 8.","Timski kviz o muzici, filmovima i svakodnevici devedesetih i dvehiljaditih. 4. septembra u 19.00 u baru Santo Domingo, od 1.000 RSD po igraču, timovi od 2 do 8 ljudi.","**Squiz** проводит в Белграде командные интеллектуальные игры в барах, и 4 сентября очередь тематической: вопросы только про девяностые и нулевые.
+
+Игра идёт 51 вопрос в семи раундах, около двух часов. Ведущий читает вопрос, команды пишут ответ на бланке и сдают его в конце раунда. Собираться командой необязательно: одиночек рассаживают по столам на месте.
+
+Время: 19:00.
+
+Цена: от 1000 RSD с человека.
+
+Язык: русский.
+
+Запись через сайт belgrade.squiz.ru.","**Squiz** runs team quiz nights in Belgrade bars, and on 4 September the theme is fixed: every question comes from the 1990s and 2000s.
+
+The game runs 51 questions across seven rounds, about two hours in total. The host reads a question, teams write the answer on a form and hand it in at the end of the round. Coming with a team is optional: single players are seated at shared tables.
+
+Time: 19:00.
+
+Price: from 1,000 RSD per person.
+
+Language: Russian.
+
+Sign-up through belgrade.squiz.ru.","**Squiz** organizuje timske kvizove po beogradskim barovima, a 4. septembra tema je fiksna: sva pitanja dolaze iz devedesetih i dvehiljaditih.
+
+Igra ima 51 pitanje u sedam rundi i traje oko dva sata. Voditelj čita pitanje, timovi upisuju odgovor na formular i predaju ga na kraju runde. Dolazak sa timom nije obavezan: pojedinci se raspoređuju za zajedničke stolove na licu mesta.
+
+Vreme: 19.00.
+
+Cena: od 1.000 RSD po osobi.
+
+Jezik: ruski.
+
+Prijava preko belgrade.squiz.ru.",19:00,1000,Santo Domingo,"Studentski trg 15, Beograd","44.820075,20.456560",https://belgrade.squiz.ru/,@arsraws,https://belgrade.squiz.ru/,Squiz Beograd,https://belgrade.squiz.ru/,,,,,,"квиз, интеллектуальные игры, девяностые, Santo Domingo, Squiz","quiz, trivia, 1990s, Santo Domingo, Squiz","kviz, timska igra, devedesete, Santo Domingo, Squiz"
+9/4/2026,9/4/2026,9/1/2026,1100,Organization,New Money Bar,https://www.instagram.com/newmoney.bar,,MusicEvent,Hawaiian Party в New Money Bar,Hawaiian Party at New Money Bar,Hawaiian Party u New Money Baru,https://raw.githubusercontent.com/newsgl/arsposters/main/1100-HawaiianPartyNewMoney.webp,,Concerts,"Гавайская вечеринка с диджеем и тематическими коктейлями в баре на Добрачиной. 4 сентября с 20:00, вход свободный, гавайские рубашки приветствуются.","A Hawaiian-themed party with a DJ and themed cocktails at the bar on Dobračina. 4 September from 20:00, free entry, Hawaiian shirts welcome.","Havajska žurka sa DJ-em i tematskim koktelima u baru u Dobračinoj. 4. septembra od 20.00, ulaz slobodan, havajske košulje su dobrodošle.","Бар **New Money** закрывает лето гавайской вечеринкой: диджей, тематические коктейли и украшенный зал.
+
+Дресс-код необязательный, но заявленный: гавайские рубашки и цветы. Организаторы зовут вечер продолжением лета.
+
+Время: с 20:00.
+
+Цена: вход свободный, напитки по меню бара.
+
+Место: Добрачина 43.","**New Money** bar closes the summer with a Hawaiian party: a DJ, themed cocktails and a decorated room.
+
+The dress code is optional but stated: Hawaiian shirts and flowers. The organisers call the night a way to keep the summer going.
+
+Time: from 20:00.
+
+Price: free entry, drinks from the bar menu.
+
+Address: Dobračina 43.","Bar **New Money** zatvara leto havajskom žurkom: DJ, tematski kokteli i ukrašen prostor.
+
+Dres kod nije obavezan, ali je najavljen: havajske košulje i cveće. Organizatori večer opisuju kao nastavak leta.
+
+Vreme: od 20.00.
+
+Cena: ulaz slobodan, pića po ceni bara.
+
+Adresa: Dobračina 43.",20:00,0,New Money Bar,"Dobračina 43, 11000 Beograd","44.820795,20.464160",https://www.instagram.com/newmoney.bar,@arsraws,,New Money Bar,https://www.instagram.com/newmoney.bar,,,,,,"вечеринка, диджей, бар, Скадарлия, New Money","party, DJ set, bar, Skadarlija, New Money","žurka, DJ, bar, Skadarlija, New Money"
+9/4/2026,9/6/2026,9/1/2026,1101,Organization,Beli orlovi,,,Festival,«Белые орлы»: средневековый фестиваль на Калемегдане,White Eagles: a medieval festival at Kalemegdan,Beli orlovi: srednjovekovni festival na Kalemegdanu,https://raw.githubusercontent.com/newsgl/arsposters/main/1101-BeliOrloviKalemegdan.webp,,Festivals,"Три дня рыцарских турниров, ремесленных мастерских и живой музыки в Белградской крепости. С 4 по 6 сентября, вход свободный.","Three days of knightly tournaments, craft workshops and live music at the Belgrade Fortress. 4 to 6 September, free entry.","Tri dana viteških turnira, zanatskih radionica i žive muzike na Beogradskoj tvrđavi. Od 4. do 6. septembra, ulaz slobodan.","Международный средневековый фестиваль **«Бели орлови»** на три дня превращает Калемегдан в средневековый город.
+
+В программе рыцарские турниры в полном обмундировании, показательные поединки, ремесленные мастерские с интерактивными занятиями, прилавки с сувенирами и угощениями, живая музыка, танцы и театрализованные представления.
+
+В доспехах можно сфотографироваться, к ремёслам можно приложить руки: часть мастерских открыта для зрителей.
+
+Время: 4 сентября с 17:00, 5 и 6 сентября с 11:00.
+
+Цена: вход свободный.
+
+Место: Белградская крепость, Калемегдан.","The international medieval festival **White Eagles** turns Kalemegdan into a medieval town for three days.
+
+The programme includes knightly tournaments in full armour, staged duels, craft workshops with hands-on sessions, stalls with souvenirs and food, live music, dancing and theatrical shows.
+
+Visitors can be photographed in armour and try the crafts themselves: several workshops are open to the audience.
+
+Time: 4 September from 17:00, 5 and 6 September from 11:00.
+
+Price: free entry.
+
+Venue: Belgrade Fortress, Kalemegdan.","Međunarodni srednjovekovni festival **Beli orlovi** na tri dana pretvara Kalemegdan u srednjovekovni grad.
+
+U programu su viteški turniri u punoj opremi, scenski dvoboji, zanatske radionice sa interaktivnim delom, tezge sa suvenirima i hranom, živa muzika, igra i pozorišne predstave.
+
+Posetioci mogu da se fotografišu u oklopu i sami probaju zanate: deo radionica je otvoren za publiku.
+
+Vreme: 4. septembra od 17.00, 5. i 6. septembra od 11.00.
+
+Cena: ulaz slobodan.
+
+Mesto: Beogradska tvrđava, Kalemegdan.",17:00,0,Kalemegdan (park),"Kalemegdan, 11000 Beograd","44.823391,20.450875",,@arsraws,,Beli orlovi,,,,,,,"фестиваль, средневековье, рыцари, Калемегдан, бесплатно","festival, middle ages, knights, Kalemegdan, free entry","festival, srednji vek, vitezovi, Kalemegdan, besplatno"
+9/6/2026,9/6/2026,9/1/2026,1102,Organization,TIGHT FIVE COMEDY,https://polakohedonist.club/ru/events/ba6b0167-c5b8-4eb7-a83c-b42ac6014bbf,ru,ComedyEvent,«Стендап с комментариями» от TIGHT FIVE COMEDY в Avangarda bar,Stand-Up with Commentary by TIGHT FIVE COMEDY at Avangarda bar,Stend-ap sa komentarima: TIGHT FIVE COMEDY u Avangarda baru,https://raw.githubusercontent.com/newsgl/arsposters/main/1102-StandUpSKommentariyami.webp,,Stand Up,"Комики разбирают чужие выступления прямо со сцены: смешное вы слушаете, несмешное прожаривают. 6 сентября в 20:00 в Avangarda bar, 500 RSD.","Comedians break down other comics' sets live from the stage: the funny bits you enjoy, the bad ones get roasted. 6 September at 20:00 at Avangarda bar, 500 RSD.","Komičari uživo sa bine komentarišu tuđe nastupe: smešno slušate, loše se peče. 6. septembra u 20.00 u Avangarda baru, 500 RSD.","Формат **TIGHT FIVE COMEDY**: пока один комик выступает, трое других комментируют его прямо со сцены.
+
+Ведут Дима Колыбелкин, Артём Андреев и Егор Александров. Удачные находки они додумывают вслух, неудачные шутки разбирают и осуждают. Смешное выступление зритель слушает как обычно, несмешное превращается в прожарку.
+
+Время: с 20:00 до 22:00.
+
+Цена: 500 RSD.
+
+Язык: русский.
+
+Билеты на polakohedonist.club.","The **TIGHT FIVE COMEDY** format: while one comic performs, three others comment on the set live from the stage.
+
+The hosts are Dima Kolybelkin, Artyom Andreev and Egor Aleksandrov. Good ideas get developed out loud, weak jokes get taken apart. A funny set plays as usual, a flat one turns into a roast.
+
+Time: 20:00 to 22:00.
+
+Price: 500 RSD.
+
+Language: Russian.
+
+Tickets at polakohedonist.club.","Format **TIGHT FIVE COMEDY**: dok jedan komičar nastupa, trojica drugih ga komentarišu uživo sa bine.
+
+Vode Dima Kolibelkin, Artjom Andrejev i Jegor Aleksandrov. Dobre ideje razrađuju naglas, slabe šale rasklapaju. Smešan nastup se sluša kao i obično, loš se pretvara u pečenje.
+
+Vreme: od 20.00 do 22.00.
+
+Cena: 500 RSD.
+
+Jezik: ruski.
+
+Karte na polakohedonist.club.",20:00,500,Avangarda Bar,"Vojvode Dobrnjca 34, Beograd","44.817859,20.474742",https://polakohedonist.club/ru/events/ba6b0167-c5b8-4eb7-a83c-b42ac6014bbf,@arsraws,https://polakohedonist.club/ru/events/ba6b0167-c5b8-4eb7-a83c-b42ac6014bbf,TIGHT FIVE COMEDY,https://t.me/TIGHT_FIVE_COMEDY,,+381613119886,,,,"стендап, открытый микрофон, комедия, Avangarda bar, TIGHT FIVE","stand-up, comedy, open mic, Avangarda bar, TIGHT FIVE","stend-ap, komedija, otvoreni mikrofon, Avangarda bar, TIGHT FIVE"
+9/6/2026,9/6/2026,9/1/2026,1103,Organization,Muzej Jugoslavije,https://www.muzej-jugoslavije.org/,,ChildrensEvent,Семейное утро в Музее Югославии: «Когда скульптуры оживают»,Family Morning at the Museum of Yugoslavia: When Sculptures Come Alive,Porodično jutro u Muzeju Jugoslavije: Kad skulpture ožive,https://raw.githubusercontent.com/newsgl/arsposters/main/1103-SemeynoeUtroMuzejJugoslavije.webp,,Kids,"Мастерская для детей от 5 до 10 лет в парке скульптур Музея Югославии: два десятка работ югославских скульпторов и разговор об искусстве. 6 сентября с 10:00, бесплатно.","A workshop for children aged 5 to 10 in the sculpture park of the Museum of Yugoslavia: twenty works by Yugoslav sculptors and a conversation about art. 6 September from 10:00, free.","Radionica za decu od 5 do 10 godina u parku skulptura Muzeja Jugoslavije: dvadeset radova jugoslovenskih vajara i razgovor o umetnosti. 6. septembra od 10.00, besplatno.","Ежемесячное **семейное утро** в Музее Югославии в сентябре отдано парку скульптур.
+
+На мастерской «Когда скульптуры оживают» дети знакомятся с работами из музейного парка в игровой форме: разговор идёт об искусстве, истории и о том, что вокруг скульптуры.
+
+В парке двадцать работ югославских скульпторов, от лирических форм до монументальных образцов социалистического реализма.
+
+Возраст: от 5 до 10 лет.
+
+Время: с 10:00 до 11:30.
+
+Цена: вход и участие бесплатны для детей и сопровождающих.","The monthly **family morning** at the Museum of Yugoslavia turns to the sculpture park in September.
+
+At the workshop When Sculptures Come Alive children get to know the works in the museum park through play, with a conversation about art, history and the setting around each piece.
+
+The park holds twenty works by Yugoslav sculptors, from lyrical forms to monumental examples of socialist realism.
+
+Age: 5 to 10 years.
+
+Time: 10:00 to 11:30.
+
+Price: entry and participation are free for children and the adults with them.","Mesečno **porodično jutro** u Muzeju Jugoslavije u septembru je posvećeno parku skulptura.
+
+Na radionici Kad skulpture ožive deca se kroz igru upoznaju sa radovima u muzejskom parku, uz razgovor o umetnosti, istoriji i prostoru oko svakog dela.
+
+U parku se nalazi dvadeset radova jugoslovenskih vajara, od lirskih formi do monumentalnih primera socijalističkog realizma.
+
+Uzrast: od 5 do 10 godina.
+
+Vreme: od 10.00 do 11.30.
+
+Cena: ulaz i učešće su besplatni za decu i pratioce.",10:00,0,Muzej Jugoslavije,"Mihaila Mike Jankovića 6, 11000 Beograd","44.788020,20.452314",https://www.muzej-jugoslavije.org/,@arsraws,,Muzej Jugoslavije,https://www.muzej-jugoslavije.org/,,+381 11 3671 485,5+,,,"дети, мастер-класс, скульптура, Музей Югославии, бесплатно","kids, workshop, sculpture, Museum of Yugoslavia, free","deca, radionica, skulptura, Muzej Jugoslavije, besplatno"
+9/6/2026,9/6/2026,9/1/2026,1104,Organization,Soroka Beloboka,https://www.instagram.com/soroka.beloboka.rs,ru,ChildrensEvent,Кулинарный мастер-класс «Марио и Макаронный монстр» в студии Kompot,Mario and the Pasta Monster: a cooking workshop for kids at Kompot,"Kulinarska radionica ""Mario i čudovište od testenine"" u studiju Kompot",https://raw.githubusercontent.com/newsgl/arsposters/main/1104-MarioIMakaronnyMonstr.webp,,Kids,"Дети готовят пасту с томатным соусом, митболы и сырные чипсы, а между делом играют с аниматором. 6 сентября с 12:00, 3800 RSD, для детей от 5 до 12 лет, по записи.","Children cook pasta with tomato sauce, meatballs and cheese crisps, with games between courses. 6 September from 12:00, 3,800 RSD, ages 5 to 12, booking required.","Deca spremaju pastu sa sosom od paradajza, ćufte i čips od sira, uz igre između kurseva. 6. septembra od 12.00, 3.800 RSD, uzrast 5 do 12 godina, uz prijavu.","Кулинарная студия **Kompot** в Савамале собирает юных поваров на мастер-класс с анимационной программой.
+
+Под руководством шеф-повара Владислава дети готовят пасту с томатным соусом, митболы, сырные чипсы и домашний лимонад, а потом съедают собственный обед. Между этапами Марио в исполнении Сергея Власова ведёт игры.
+
+В стоимость входят напитки: вода, соки, чай. Фотографии с занятия участники получают на память.
+
+Возраст: от 5 до 12 лет.
+
+Время: с 12:00 до 14:30.
+
+Цена: 3800 RSD.
+
+Мест немного, запись обязательна: WhatsApp, Telegram или Viber, +381616326954, Ирина.","The **Kompot** cooking studio in Savamala gathers young cooks for a workshop with an entertainment programme.
+
+Guided by chef Vladislav, the children make pasta with tomato sauce, meatballs, cheese crisps and homemade lemonade, then eat the lunch they cooked. Between the stages Mario, played by Sergey Vlasov, runs games.
+
+Drinks are included: water, juice and tea. Participants get photographs from the session afterwards.
+
+Age: 5 to 12 years.
+
+Time: 12:00 to 14:30.
+
+Price: 3,800 RSD.
+
+Places are limited and booking is required: WhatsApp, Telegram or Viber, +381616326954, Irina.","Kulinarski studio **Kompot** u Savamali okuplja male kuvare na radionici sa animacijskim programom.
+
+Uz šefa Vladislava deca prave pastu sa sosom od paradajza, ćufte, čips od sira i domaću limunadu, a zatim pojedu ručak koji su sami skuvali. Između faza Mario u izvedbi Sergeja Vlasova vodi igre.
+
+Pića su uračunata: voda, sokovi i čaj. Učesnici kasnije dobijaju fotografije sa radionice.
+
+Uzrast: od 5 do 12 godina.
+
+Vreme: od 12.00 do 14.30.
+
+Cena: 3.800 RSD.
+
+Broj mesta je ograničen, prijava je obavezna: WhatsApp, Telegram ili Viber, +381616326954, Irina.",12:00,3800,Kompot,"Braće Krsmanovića 5, Beograd","44.814233,20.450678",https://www.instagram.com/soroka.beloboka.rs,@arsraws,,Soroka Beloboka,https://www.instagram.com/soroka.beloboka.rs,,+381616326954,5+,,,"дети, кулинарный мастер-класс, паста, Савамала, Kompot","kids, cooking workshop, pasta, Savamala, Kompot","deca, kulinarska radionica, pasta, Savamala, Kompot"
+9/6/2026,9/6/2026,9/1/2026,1105,Organization,Soroka Beloboka,https://www.instagram.com/soroka.beloboka.rs,ru,EducationEvent,Кулинарный мастер-класс «Сентябрьский ужин» в студии Kompot,September Dinner: a cooking workshop at Kompot,"Kulinarska radionica ""Septembarska večera"" u studiju Kompot",https://raw.githubusercontent.com/newsgl/arsposters/main/1105-SentyabrskiyUzhin.webp,,Master classes,"Салат с персиками, свиная грудинка в пиве и пирог с инжиром: три блюда под руководством шефа, а потом общий ужин. 6 сентября с 18:00, 5000 RSD, по записи.","Peach salad, pork belly braised in beer and a fig tart: three dishes cooked with a chef, then dinner together. 6 September from 18:00, 5,000 RSD, booking required.","Salata sa breskvama, svinjska potrbušina u pivu i pita sa smokvama: tri jela uz šefa kuhinje, pa zajednička večera. 6. septembra od 18.00, 5.000 RSD, uz prijavu.","Вечерний мастер-класс в кулинарной студии **Kompot**: участники готовят три блюда, а потом садятся за общий стол.
+
+В меню салат с персиками и печёными овощами, свиная грудинка в пиве с пюре из зелёного горошка и пирог с инжиром на десерт. Ведёт шеф-повар Владислав.
+
+Безалкогольные напитки входят в стоимость: вода, соки, чай, кофе. Напитки из мини-бара оплачиваются отдельно. Фотографии процесса и рецепты приготовленных блюд участники получают в течение двух недель после занятия.
+
+Время: с 18:00 до 21:00.
+
+Цена: 5000 RSD.
+
+Мест немного, запись обязательна: WhatsApp, Telegram или Viber, +381616326954, Ирина.","An evening workshop at the **Kompot** cooking studio: participants cook three dishes and then sit down to eat together.
+
+The menu is a salad with peaches and roasted vegetables, pork belly braised in beer with green pea puree, and a fig tart for dessert. Chef Vladislav leads the session.
+
+Soft drinks are included: water, juice, tea and coffee. Drinks from the mini bar are paid separately. Photographs from the session and the recipes arrive within two weeks afterwards.
+
+Time: 18:00 to 21:00.
+
+Price: 5,000 RSD.
+
+Places are limited and booking is required: WhatsApp, Telegram or Viber, +381616326954, Irina.","Večernja radionica u kulinarskom studiju **Kompot**: učesnici spremaju tri jela, a zatim sedaju za zajednički sto.
+
+Na meniju su salata sa breskvama i pečenim povrćem, svinjska potrbušina u pivu sa pireom od zelenog graška i pita sa smokvama za desert. Radionicu vodi šef kuhinje Vladislav.
+
+Bezalkoholna pića su uračunata: voda, sokovi, čaj i kafa. Pića iz mini bara se plaćaju posebno. Fotografije sa radionice i recepti stižu u roku od dve nedelje.
+
+Vreme: od 18.00 do 21.00.
+
+Cena: 5.000 RSD.
+
+Broj mesta je ograničen, prijava je obavezna: WhatsApp, Telegram ili Viber, +381616326954, Irina.",18:00,5000,Kompot,"Braće Krsmanovića 5, Beograd","44.814233,20.450678",https://www.instagram.com/soroka.beloboka.rs,@arsraws,,Soroka Beloboka,https://www.instagram.com/soroka.beloboka.rs,,+381616326954,,,,"мастер-класс, кулинария, ужин, Савамала, Kompot","workshop, cooking, dinner, Savamala, Kompot","radionica, kuvanje, večera, Savamala, Kompot"
+9/9/2026,9/9/2026,9/1/2026,1106,Person,Jana Marinković,https://belef.rs/sr/program-sr/jana-marinkovic-2026,,MusicEvent,БЕЛЕФ: фортепианный концерт Яны Маринкович в Конаке княгини Любицы,BELEF: piano recital by Jana Marinković at Princess Ljubica's Residence,BELEF: klavirski koncert Jane Marinković u Konaku kneginje Ljubice,https://raw.githubusercontent.com/newsgl/arsposters/main/1106-BelefJanaMarinkovic.webp,,Concerts,"Скарлатти, Бетховен и Скрябин в программе пианистки Яны Маринкович. 9 сентября в 18:00 в Конаке княгини Любицы, серия «ФМУ на БЕЛЕФе».","Scarlatti, Beethoven and Scriabin in a recital by pianist Jana Marinković. 9 September at 18:00 at Princess Ljubica's Residence, part of the FMU at BELEF series.","Skarlati, Betoven i Skrjabin u programu pijanistkinje Jane Marinković. 9. septembra u 18.00 u Konaku kneginje Ljubice, iz ciklusa FMU na BELEF-u.","Концерт из цикла **«ФМУ на БЕЛЕФе»**, в котором 33-й Белградский летний фестиваль отдаёт вечера студентам и выпускникам Факультета музыкального искусства.
+
+В программе соната Доменико Скарлатти K. 466, соната Бетховена ор. 57 и соната Скрябина ор. 6.
+
+Яна Маринкович родилась в 2001 году, окончила белградскую школу «Станкович» как ученица поколения, затем основные и мастерские студии на Факультете музыкального искусства в классе профессора Марии Джукич, где сейчас учится в докторантуре. Выступала в Галерее САНУ, Атриуме Народного музея, Итальянском институте культуры и Студенческом культурном центре.
+
+Время: 18:00.
+
+Цена: организатор её не объявил, программа фестиваля цену этого вечера не указывает.
+
+Место: Конак княгини Любицы.","A concert from the **FMU at BELEF** series, in which the 33rd Belgrade Summer Festival gives its evenings to students and graduates of the Faculty of Music.
+
+The programme holds Domenico Scarlatti's Sonata K. 466, Beethoven's Sonata Op. 57 and Scriabin's Sonata Op. 6.
+
+Jana Marinković was born in 2001 and finished the Stanković school in Belgrade as the top student of her year, then completed undergraduate and master studies at the Faculty of Music in the class of Professor Marija Đukić, where she is now a doctoral student. She has played at the SANU Gallery, the Atrium of the National Museum, the Italian Cultural Institute and the Student Cultural Centre.
+
+Time: 18:00.
+
+Price: the organiser has not announced one, and the festival programme lists no price for this evening.
+
+Venue: Princess Ljubica's Residence.","Koncert iz ciklusa **FMU na BELEF-u**, u kom 33. Beogradski letnji festival večeri prepušta studentima i diplomcima Fakulteta muzičke umetnosti.
+
+Na programu su Sonata K. 466 Domenika Skarlatija, Betovenova Sonata op. 57 i Skrjabinova Sonata op. 6.
+
+Jana Marinković rođena je 2001. godine, srednju muzičku školu ""Stanković"" završila je kao đak generacije, a zatim i osnovne i master studije na Fakultetu muzičke umetnosti u klasi prof. Marije Đukić, gde je sada na doktorskim studijama. Nastupala je u Galeriji SANU, Atrijumu Narodnog muzeja, Italijanskom institutu za kulturu i Studentskom kulturnom centru.
+
+Vreme: 18.00.
+
+Cena: organizator je nije objavio, program festivala za ovo veče ne navodi cenu.
+
+Mesto: Konak kneginje Ljubice.",18:00,,Konak kneginje Ljubice,"Kneza Sime Markovića 8, 11000 Beograd","44.817105,20.452235",https://belef.rs/sr/program-sr/jana-marinkovic-2026,@arsraws,,CEBEF,https://belef.rs/,info@cebef.rs,+381 11 4039182,,,,"БЕЛЕФ, классика, фортепиано, Конак княгини Любицы, ФМУ","BELEF, classical music, piano, Princess Ljubica Residence, FMU","BELEF, klasična muzika, klavir, Konak kneginje Ljubice, FMU"
+9/9/2026,9/9/2026,9/1/2026,1107,Person,Saša Krga,https://belef.rs/sr/program-sr/san-o-devet-golubova,,TheaterEvent,"БЕЛЕФ: «Сон о девяти голубях», современный танец в Театре «Вук»","BELEF: A Dream of Nine Doves, contemporary dance at Teatar Vuk","BELEF: ""San o devet golubova"", savremeni ples u Teatru Vuk",https://raw.githubusercontent.com/newsgl/arsposters/main/1107-BelefSanODevetGolubova.webp,,Theatre,"Танцевальный спектакль Саши Крги об архетипе Женщины: обрядовые песни, ритуалы и мифологии в одной хореографической истории. 9 сентября в 20:00 в Театре «Вук».","A dance piece by Saša Krga about the archetype of the Woman: ritual songs, ceremonies and mythologies in one choreographic story. 9 September at 20:00 at Teatar Vuk.","Plesna predstava Saše Krge o arhetipu Žene: obredne pesme, rituali i mitologije u jednoj koreografskoj priči. 9. septembra u 20.00 u Teatru Vuk.","Спектакль современного танца **«Сан о девет голубова»** идёт на БЕЛЕФе как танцевальная сказка, одновременно древняя и сегодняшняя.
+
+Обрядовые песни и танцы, ритуалы, мифологии и технологии сплетаются в хореографическую историю о вневременной Женщине. Морана из славянской мифологии, вила, ведьма, работница фабрики, танцовщица в обряде или на рейве: архетипы говорят через её тело.
+
+Хореограф Саша Крга, драматург Иван Правдич, музыка Димитрия Бельянского. Танцуют Ива Илиевски, Аня Стоянкич, Андрей Дамьянович и Саша Крга.
+
+Время: 20:00.
+
+Цена: организатор её не объявил, программа фестиваля цену этого вечера не указывает.
+
+Место: УК «Вук», Булевар краля Александра 77а.","The contemporary dance piece **San o devet golubova** comes to BELEF as a dance fairy tale that is ancient and present at once.
+
+Ritual songs and dances, ceremonies, mythologies and technologies weave into a choreographic story about a timeless Woman. Morana from Slavic mythology, a fairy, a witch, a factory worker, a dancer in a rite or at a rave: the archetypes speak through her body.
+
+Choreography by Saša Krga, dramaturgy by Ivan Pravdić, music by Dimitrije Beljanski. The dancers are Iva Ilijevski, Anja Stojankić, Andrej Damjanović and Saša Krga.
+
+Time: 20:00.
+
+Price: the organiser has not announced one, and the festival programme lists no price for this evening.
+
+Venue: UK Vuk, Bulevar kralja Aleksandra 77a.","Predstava savremenog plesa **San o devet golubova** na BELEF-u je plesna bajka, istovremeno drevna i savremena.
+
+Obredne pesme i plesovi, rituali, mitologije i tehnologije prepliću se u koreografskoj priči o svevremenoj Ženi. Morana iz slovenske mitologije, vila, veštica, radnica u fabrici, plesačica u obredu ili na rejvu: arhetipovi govore kroz njeno telo.
+
+Koreograf je Saša Krga, dramaturg Ivan Pravdić, muzika Dimitrije Beljanski. Igraju Iva Ilijevski, Anja Stojankić, Andrej Damjanović i Saša Krga.
+
+Vreme: 20.00.
+
+Cena: organizator je nije objavio, program festivala za ovo veče ne navodi cenu.
+
+Mesto: UK Vuk, Bulevar kralja Aleksandra 77a.",20:00,,Teatar Vuk,"Bulevar kralja Aleksandra 77a, Beograd","44.803743,20.481278",https://belef.rs/sr/program-sr/san-o-devet-golubova,@arsraws,,CEBEF,https://belef.rs/,info@cebef.rs,+381 11 4039182,,,,"БЕЛЕФ, современный танец, спектакль, Театр Вук, Саша Крга","BELEF, contemporary dance, performance, Teatar Vuk, Sasa Krga","BELEF, savremeni ples, predstava, Teatar Vuk, Saša Krga"
+9/10/2026,9/10/2026,9/1/2026,1108,Person,Ana Bosert,https://belef.rs/sr/program-sr/ana-boset-2026,,MusicEvent,БЕЛЕФ: сопрано Ана Босерт в Конаке княгини Любицы,BELEF: soprano Ana Bosert at Princess Ljubica's Residence,BELEF: sopran Ana Bosert u Konaku kneginje Ljubice,https://raw.githubusercontent.com/newsgl/arsposters/main/1108-BelefAnaBosert.webp,,Concerts,"Гендель, Тома, Глиер, Штраус и Бернстайн в программе сопрано Аны Босерт. 10 сентября в 18:00 в Конаке княгини Любицы, серия «ФМУ на БЕЛЕФе».","Handel, Thomas, Glière, Strauss and Bernstein in a recital by soprano Ana Bosert. 10 September at 18:00 at Princess Ljubica's Residence, part of the FMU at BELEF series.","Hendl, Toma, Glijer, Štraus i Bernstajn u programu soprana Ane Bosert. 10. septembra u 18.00 u Konaku kneginje Ljubice, iz ciklusa FMU na BELEF-u.","Ещё один вечер цикла **«ФМУ на БЕЛЕФе»**: сольный концерт сопрано.
+
+В программе арии Армиды и Клеопатры из опер Генделя «Ринальдо» и «Юлий Цезарь», ария Филины из «Миньон» Амбруаза Тома, концерт для колоратурного сопрано Рейнгольда Глиера ор. 82, ария Адели из «Летучей мыши» Иоганна Штрауса, «Три песни Офелии» Рихарда Штрауса ор. 67 и цикл Леонарда Бернстайна La Bonne Cuisine.
+
+Ана Босерт родилась в 1998 году в Москве, училась сольному пению в белградской школе «Мокраньац», в 2025 году окончила Факультет музыкального искусства в классе профессора Катарины Йованович и продолжает мастерские студии. Дебютировала как Каролина в «Тайном браке» Чимарозы в оперной студии театра «Мадлen ианум».
+
+Время: 18:00.
+
+Цена: организатор её не объявил, программа фестиваля цену этого вечера не указывает.","Another evening in the **FMU at BELEF** series: a solo recital for soprano.
+
+The programme holds arias of Armida and Cleopatra from Handel's Rinaldo and Giulio Cesare, Philine's aria from Ambroise Thomas's Mignon, Reinhold Glière's Concerto for Coloratura Soprano Op. 82, Adele's aria from Johann Strauss's Die Fledermaus, Richard Strauss's Drei Lieder der Ophelia Op. 67 and Leonard Bernstein's cycle La Bonne Cuisine.
+
+Ana Bosert was born in Moscow in 1998, studied solo singing at the Mokranjac school in Belgrade, graduated from the Faculty of Music in 2025 in the class of Professor Katarina Jovanović and is now on master studies. She made her debut as Carolina in Cimarosa's Il matrimonio segreto at the opera studio of the Madlenianum theatre.
+
+Time: 18:00.
+
+Price: the organiser has not announced one, and the festival programme lists no price for this evening.","Još jedno veče iz ciklusa **FMU na BELEF-u**: solistički koncert za sopran.
+
+Na programu su arije Armide i Kleopatre iz Hendlovih opera ""Rinaldo"" i ""Đulio Čezare"", Filinina arija iz ""Minjon"" Ambroaza Toma, Koncert za koloraturni sopran op. 82 Rajnholda Glijera, Adelina arija iz ""Slepog miša"" Johana Štrausa, ""Tri pesme Ofelije"" op. 67 Riharda Štrausa i ciklus ""La Bonne Cuisine"" Leonarda Bernstajna.
+
+Ana Bosert rođena je 1998. u Moskvi, solo pevanje je učila u beogradskoj školi ""Mokranjac"", 2025. je diplomirala na Fakultetu muzičke umetnosti u klasi prof. Katarine Jovanović i sada je na master studijama. Debitovala je kao Karolina u Čimarozinom ""Tajnom braku"" u opernom studiju teatra ""Madlenianum"".
+
+Vreme: 18.00.
+
+Cena: organizator je nije objavio, program festivala za ovo veče ne navodi cenu.",18:00,,Konak kneginje Ljubice,"Kneza Sime Markovića 8, 11000 Beograd","44.817105,20.452235",https://belef.rs/sr/program-sr/ana-boset-2026,@arsraws,,CEBEF,https://belef.rs/,info@cebef.rs,+381 11 4039182,,,,"БЕЛЕФ, классика, сопрано, опера, Конак княгини Любицы","BELEF, classical music, soprano, opera, Princess Ljubica Residence","BELEF, klasična muzika, sopran, opera, Konak kneginje Ljubice"
+9/11/2026,9/11/2026,9/1/2026,1109,Organization,Squiz Beograd,https://belgrade.squiz.ru/,ru,SocialEvent,«Классический Сквиз» в Santo Domingo,Classic Squiz at Santo Domingo,Klasični Squiz u Santo Domingu,https://raw.githubusercontent.com/newsgl/arsposters/main/1109-SquizKlassicheskiy.webp,,Games,"Классический командный квиз без темы: вопросы на логику и эрудицию обо всём подряд. 11 сентября в 19:00 в Santo Domingo, от 1000 RSD с игрока.","A classic team quiz with no theme: questions on logic and general knowledge about everything at once. 11 September at 19:00 at Santo Domingo, from 1,000 RSD per player.","Klasičan timski kviz bez teme: pitanja iz logike i opšte kulture o svemu i svačemu. 11. septembra u 19.00 u Santo Domingu, od 1.000 RSD po igraču.","Основная игра **Squiz** в Белграде: без темы, вопросы про всё сразу.
+
+В игре 51 вопрос в семи раундах, около двух часов. За столом соревнуются от 20 до 40 команд по 2 до 8 человек, ответы пишут на бланках. Формат считается удобным и для новичков, и для опытных игроков.
+
+Записываться можно командой или в одиночку: одиночек рассаживают по столам на месте.
+
+Время: 19:00.
+
+Цена: от 1000 RSD с человека.
+
+Язык: русский.
+
+Запись через сайт belgrade.squiz.ru.","The main **Squiz** game in Belgrade: no theme, questions on everything at once.
+
+The game runs 51 questions across seven rounds, about two hours. Between 20 and 40 teams of 2 to 8 people compete, writing answers on forms. The format works for newcomers and regulars alike.
+
+You can sign up as a team or alone: single players are seated at shared tables.
+
+Time: 19:00.
+
+Price: from 1,000 RSD per person.
+
+Language: Russian.
+
+Sign-up through belgrade.squiz.ru.","Glavna **Squiz** igra u Beogradu: bez teme, pitanja o svemu odjednom.
+
+Igra ima 51 pitanje u sedam rundi i traje oko dva sata. Takmiči se između 20 i 40 timova od 2 do 8 ljudi, odgovori se pišu na formularima. Format odgovara i početnicima i iskusnim igračima.
+
+Prijaviti se možete sa timom ili sami: pojedinci se raspoređuju za zajedničke stolove.
+
+Vreme: 19.00.
+
+Cena: od 1.000 RSD po osobi.
+
+Jezik: ruski.
+
+Prijava preko belgrade.squiz.ru.",19:00,1000,Santo Domingo,"Studentski trg 15, Beograd","44.820075,20.456560",https://belgrade.squiz.ru/,@arsraws,https://belgrade.squiz.ru/,Squiz Beograd,https://belgrade.squiz.ru/,,,,,,"квиз, интеллектуальные игры, эрудиция, Santo Domingo, Squiz","quiz, trivia, general knowledge, Santo Domingo, Squiz","kviz, timska igra, opšta kultura, Santo Domingo, Squiz"
+9/13/2026,9/13/2026,9/1/2026,1110,Person,Marko Luis,https://shop.beecenter.rs/,,ChildrensEvent,Марко Луис и Крокову в «Медоносном саду» в Силосах,Marko Luis and Krokovu at the Honey Garden in Silosi,Marko Luis i Krokovu u Medonosnom vrtu u Silosima,https://raw.githubusercontent.com/newsgl/arsposters/main/1110-MarkoLuisKrokovu.webp,,Kids,"Мастер-класс про пчёл в 10:30 и детский концерт Марко Луиса в 12:00 в «Медоносном саду». 13 сентября, 1500 RSD с человека, на мастер-класс нужна отдельная регистрация.","A workshop about bees at 10:30 and a children's concert by Marko Luis at 12:00 at the Honey Garden. 13 September, 1,500 RSD per person, the workshop needs a separate registration.","Radionica o pčelama u 10.30 i dečji koncert Marka Luisa u 12.00 u Medonosnom vrtu. 13. septembra, 1.500 RSD po osobi, za radionicu je potrebna posebna prijava.","Воскресное утро в **«Медоносном саду»** в Силосах делится надвое.
+
+В 10:30 идёт мастер-класс «Крокову любит пчёл»: через историю Крокову, игры и творческие задания дети разбираются, как устроен мир пчёл и почему они важны. В 12:00 начинается концерт Марко Луиса, где поют песни из детского альбома ""Ja se zovem slon"" и спектакля ""Krokovu, pola krokodil, pola vuk"".
+
+Цена: 1500 динаров с человека, дети до года бесплатно.
+
+Билеты продаются на shop.beecenter.rs. Мест на мастер-классе немного, и одного билета мало: после покупки нужно отдельно зарегистрироваться по ссылке, которая приходит вместе с билетом.
+
+Место: Медоносни врт, Силоси.","A Sunday morning at the **Honey Garden** in Silosi splits in two.
+
+At 10:30 the workshop Krokovu Loves Bees uses the story of Krokovu, games and craft tasks to show children how the world of bees works and why bees matter. At 12:00 Marko Luis performs songs from the children's album Ja se zovem slon and from the play Krokovu, pola krokodil, pola vuk.
+
+Price: 1,500 dinars per person, children under one year free.
+
+Tickets are sold at shop.beecenter.rs. Workshop places are limited and a ticket alone is not enough: after buying it you have to register separately through the link that comes with the ticket.
+
+Venue: Medonosni vrt, Silosi.","Nedeljno prepodne u **Medonosnom vrtu** u Silosima deli se na dva dela.
+
+U 10.30 je radionica ""Krokovu voli pčele"": kroz priču o Krokovu, igre i kreativne zadatke deca upoznaju svet pčela i saznaju zašto su pčele važne. U 12.00 počinje koncert Marka Luisa sa pesmama sa dečjeg albuma ""Ja se zovem slon"" i iz predstave ""Krokovu, pola krokodil, pola vuk"".
+
+Cena: 1.500 dinara po osobi, deca do godinu dana besplatno.
+
+Karte se prodaju na shop.beecenter.rs. Broj mesta na radionici je ograničen i karta nije dovoljna: posle kupovine treba se posebno prijaviti preko linka koji stiže uz kartu.
+
+Mesto: Medonosni vrt, Silosi.",10:30,1500,Silosi,"Dunavski kej, Luka Beograd, 11000 Beograd","44.828501,20.471762",https://shop.beecenter.rs/,@arsraws,https://shop.beecenter.rs/,Bee Center,https://shop.beecenter.rs/,,,,,,"дети, концерт, мастер-класс, пчёлы, Силоси","kids, concert, workshop, bees, Silosi","deca, koncert, radionica, pčele, Silosi"
+9/13/2026,9/13/2026,9/1/2026,1111,Organization,Hor srpske saborne crkve u Temišvaru,https://belef.rs/sr/program-sr/hor-temisvar-2026,,MusicEvent,БЕЛЕФ: хор сербской соборной церкви из Тимишоары в крипте храма Святого Саввы,BELEF: the Serbian cathedral choir from Timișoara in the crypt of Saint Sava,BELEF: Hor srpske saborne crkve iz Temišvara u Kripti Hrama Svetog Save,https://raw.githubusercontent.com/newsgl/arsposters/main/1111-BelefHorTemisvar.webp,,Concerts,"Концерт к 190-летию хора сербской соборной церкви в румынской Тимишоаре. 13 сентября в 19:00 в крипте храма Святого Саввы, дирижёр Й. Бугарски.","A concert marking 190 years of the Serbian cathedral choir in Timișoara, Romania. 13 September at 19:00 in the crypt of the Saint Sava temple, conducted by J. Bugarski.","Koncert povodom 190 godina Hora srpske saborne crkve u Temišvaru, Rumunija. 13. septembra u 19.00 u Kripti Hrama Svetog Save, dirigent J. Bugarski.","Хор из Тимишоары приезжает на **БЕЛЕФ** с юбилейной программой.
+
+Первые сведения о церковном хоровом пении сербов в Тимишоаре относятся к 1836 году, когда при тамошней соборной церкви основали мужской хор, один из первых сербских церковных хоров вообще. С небольшими перерывами традиция держится 190 лет.
+
+Нынешний смешанный состав работает с января 1997 года. Кроме богослужений в тимишоарском соборном храме и храмах Тимишоарской епархии, хор выступает на духовных и светских смотрах в Румынии, Сербии, Республике Сербской и Венгрии.
+
+Дирижёр: Й. Бугарски.
+
+Время: 19:00.
+
+Цена: организатор её не объявил, программа фестиваля цену этого вечера не указывает.
+
+Место: крипта храма Святого Саввы.","The choir from Timișoara comes to **BELEF** with an anniversary programme.
+
+The first records of Serbian church choral singing in Timișoara date to 1836, when a male choir was founded at the cathedral there, one of the earliest Serbian church choirs anywhere. With short breaks the tradition has held for 190 years.
+
+The present mixed ensemble has worked since January 1997. Beyond services in the Timișoara cathedral and the churches of its eparchy, the choir performs at sacred and secular events in Romania, Serbia, Republika Srpska and Hungary.
+
+Conductor: J. Bugarski.
+
+Time: 19:00.
+
+Price: the organiser has not announced one, and the festival programme lists no price for this evening.
+
+Venue: the crypt of the Saint Sava temple.","Hor iz Temišvara dolazi na **BELEF** sa jubilarnim programom.
+
+Prvi podaci o crkvenom horskom pojanju Srba u Temišvaru potiču iz 1836. godine, kada je pri tamošnjoj Sabornoj crkvi osnovan muški hor, jedan od prvih srpskih crkvenih horova uopšte. Sa manjim prekidima tradicija traje 190 godina.
+
+Sadašnji mešoviti sastav radi od januara 1997. Pored pojanja na bogosluženjima u temišvarskom Sabornom hramu i hramovima Eparhije temišvarske, hor nastupa na duhovnim i svetovnim manifestacijama u Rumuniji, Srbiji, Republici Srpskoj i Mađarskoj.
+
+Dirigent: J. Bugarski.
+
+Vreme: 19.00.
+
+Cena: organizator je nije objavio, program festivala za ovo veče ne navodi cenu.
+
+Mesto: Kripta Hrama Svetog Save.",19:00,,Kripta Hrama Svetog Save,"Krušedolska 2a, 11000 Beograd","44.798045,20.469188",https://belef.rs/sr/program-sr/hor-temisvar-2026,@arsraws,,CEBEF,https://belef.rs/,info@cebef.rs,+381 11 4039182,,,,"БЕЛЕФ, хор, духовная музыка, храм Святого Саввы, Тимишоара","BELEF, choir, sacred music, Saint Sava temple, Timisoara","BELEF, hor, duhovna muzika, Hram Svetog Save, Temišvar"
+9/14/2026,9/14/2026,9/1/2026,1112,Organization,Dečije pozorište Veliki Mali,https://belef.rs/sr/program-sr/jezeva-kucica-2026,,ChildrensEvent,"БЕЛЕФ: «Ежкин домик», кукольный спектакль в Конаке княгини Любицы","BELEF: The Hedgehog's Home, a puppet show at Princess Ljubica's Residence","BELEF: ""Ježeva kućica"", lutkarska predstava u Konaku kneginje Ljubice",https://raw.githubusercontent.com/newsgl/arsposters/main/1112-BelefJezevaKucica.webp,,Kids,Детский понедельник на БЕЛЕФе: игровая и кукольная части по поэме Бранко Чопича. 14 сентября в 19:00 в Конаке княгини Любицы.,Children's Monday at BELEF: a live-acted opening and a puppet play after Branko Ćopić's poem. 14 September at 19:00 at Princess Ljubica's Residence.,Dečji ponedeljak na BELEF-u: igrani i lutkarski deo po poemi Branka Ćopića. 14. septembra u 19.00 u Konaku kneginje Ljubice.,"Спектакль **«Јежева кућица»** идёт на БЕЛЕФе в рубрике «Дечији понедељак» и состоит из двух частей.
+
+Первая, игровая, рассказывает про девочку Аню и её деда, который знает самые красивые истории на свете. Проблема в том, что все свои истории он уже рассказал. Дед всё же вспоминает одну и решает рассказать её вместе с Аней её друзьям. Тут на сцену выходят куклы и начинается известная история Бранко Чопича.
+
+Играют Анастасия Тошич и Александр Цветкович, режиссёр Мая Колунджия Зорое.
+
+Время: 19:00.
+
+Цена: организатор её не объявил, программа фестиваля цену этого вечера не указывает.
+
+Место: Конак княгини Любицы.","The show **Ježeva kućica** runs at BELEF in the Children's Monday strand and comes in two parts.
+
+The first part is acted live and follows a girl named Anja and her grandfather, who knows the finest stories in the world. The trouble is that he has told her all of them already. He remembers one more and decides to tell it to Anja's friends together with her. That is when the puppets come on and Branko Ćopić's well known story begins.
+
+Performed by Anastasija Tošić and Aleksandar Cvetković, directed by Maja Kolundžija Zoroe.
+
+Time: 19:00.
+
+Price: the organiser has not announced one, and the festival programme lists no price for this evening.
+
+Venue: Princess Ljubica's Residence.","Predstava **Ježeva kućica** na BELEF-u je deo ciklusa ""Dečji ponedeljak"" i ima dva dela.
+
+Prvi, igrani deo, prati devojčicu Anju i njenog dedu koji priča najlepše priče na svetu. Problem je što joj je sve svoje priče već ispričao. Deda se ipak seti jedne i odluče da je zajedno ispričaju Anjinim drugarima. Tada na scenu stupaju lutke i počinje poznata priča Branka Ćopića.
+
+Igraju Anastasija Tošić i Aleksandar Cvetković, režija Maja Kolundžija Zoroe.
+
+Vreme: 19.00.
+
+Cena: organizator je nije objavio, program festivala za ovo veče ne navodi cenu.
+
+Mesto: Konak kneginje Ljubice.",19:00,,Konak kneginje Ljubice,"Kneza Sime Markovića 8, 11000 Beograd","44.817105,20.452235",https://belef.rs/sr/program-sr/jezeva-kucica-2026,@arsraws,,CEBEF,https://belef.rs/,info@cebef.rs,+381 11 4039182,,,,"БЕЛЕФ, дети, кукольный спектакль, Бранко Чопич, Конак княгини Любицы","BELEF, kids, puppet show, Branko Copic, Princess Ljubica Residence","BELEF, deca, lutkarska predstava, Branko Ćopić, Konak kneginje Ljubice"
+9/15/2026,9/15/2026,9/1/2026,1113,Person,Marina Bukvički,https://belef.rs/sr/program-sr/ja-lutka-2026,,TheaterEvent,"БЕЛЕФ: «Я, кукла», перформанс Марины Буквички о Милеве Марич Эйнштейн","BELEF: I, a Doll, a performance by Marina Bukvički about Mileva Marić Einstein","BELEF: ""Ja, lutka"", performans Marine Bukvički o Milevi Marić Ajnštajn",https://raw.githubusercontent.com/newsgl/arsposters/main/1113-BelefJaLutka.webp,,Theatre,"Театральный перформанс с фильмом, идущим одновременно со сценическим действием: история Милевы Марич Эйнштейн под другим углом. 15 сентября в 20:30 в Конаке княгини Любицы.",A theatre performance with a film running alongside the stage action: the story of Mileva Marić Einstein from another angle. 15 September at 20:30 at Princess Ljubica's Residence.,Pozorišni performans sa filmom koji teče uporedo sa scenskom radnjom: priča o Milevi Marić Ajnštajn iz drugog ugla. 15. septembra u 20.30 u Konaku kneginje Ljubice.,"Проект **«Ја, лутка»** вырос из докторской художественной работы Марины Буквички на Институте художественного танца.
+
+Это дань сербской учёной Милеве Марич Эйнштейн, чью жизнь автор рассматривает с непривычной стороны. Работа собрана из нескольких сред: аудио, видео, фильма и перформанса, причём фильм на 90 минут и сценическое действие идут одновременно.
+
+В фильме Милеву Марич Эйнштейн играет Марина Буквички, Альберта Эйнштейна Иван Николич. Аудио: Эйнштейн по-сербски Иван Николич, Эйнштейн по-немецки Станое Матич. Композитор Ивица Стьепанович, костюмы Марина Буквички и Снежана Пешич Раич.
+
+Время: 20:30.
+
+Цена: организатор её не объявил, программа фестиваля цену этого вечера не указывает.","The project **Ja, lutka** grew out of Marina Bukvički's doctoral artistic work at the Institute for Artistic Dance.
+
+It is a tribute to the Serbian scientist Mileva Marić Einstein, whose life the author examines from an unusual angle. The work is built from several media: audio, video, film and performance, with a 90 minute film and the stage action running at the same time.
+
+In the film Mileva Marić Einstein is played by Marina Bukvički and Albert Einstein by Ivan Nikolić. Audio: Einstein in Serbian by Ivan Nikolić, Einstein in German by Stanoje Matić. Music by Ivica Stjepanović, costumes by Marina Bukvički and Snežana Pešić Rajić.
+
+Time: 20:30.
+
+Price: the organiser has not announced one, and the festival programme lists no price for this evening.","Projekat **Ja, lutka** nastao je kao doktorski umetnički rad Marine Bukvički na Institutu za umetničku igru.
+
+To je omaž srpskoj naučnici Milevi Marić Ajnštajn, čiji život autorka posmatra iz sasvim drugačijeg ugla. Rad je sastavljen iz više medija: audija, videa, filma i performansa, pri čemu film od 90 minuta i scenska radnja teku istovremeno.
+
+U filmu Milevu Marić Ajnštajn igra Marina Bukvički, a Alberta Ajnštajna Ivan Nikolić. Audio: Ajnštajn na srpskom Ivan Nikolić, Ajnštajn na nemačkom Stanoje Matić. Kompozitor je Ivica Stjepanović, kostim Marina Bukvički i Snežana Pešić Rajić.
+
+Vreme: 20.30.
+
+Cena: organizator je nije objavio, program festivala za ovo veče ne navodi cenu.",20:30,,Konak kneginje Ljubice,"Kneza Sime Markovića 8, 11000 Beograd","44.817105,20.452235",https://belef.rs/sr/program-sr/ja-lutka-2026,@arsraws,,CEBEF,https://belef.rs/,info@cebef.rs,+381 11 4039182,,,,"БЕЛЕФ, перформанс, театр, Милева Марич, Конак княгини Любицы","BELEF, performance, theatre, Mileva Maric, Princess Ljubica Residence","BELEF, performans, pozorište, Mileva Marić, Konak kneginje Ljubice"
+9/16/2026,9/16/2026,9/1/2026,1114,Person,Đurđica Aleksić,https://belef.rs/sr/program-sr/djurdjica-aleksic-2026,,MusicEvent,БЕЛЕФ: скрипка Джурджицы Алексич в Конаке княгини Любицы,BELEF: violinist Đurđica Aleksić at Princess Ljubica's Residence,BELEF: violina Đurđice Aleksić u Konaku kneginje Ljubice,https://raw.githubusercontent.com/newsgl/arsposters/main/1114-BelefDjurdjicaAleksic.webp,,Concerts,"Моцарт, Паганини и Чайковский в исполнении скрипачки Джурджицы Алексич и пианистки Катарины Хаджи Антич Татич. 16 сентября в 18:00 в Конаке княгини Любицы.","Mozart, Paganini and Tchaikovsky played by violinist Đurđica Aleksić and pianist Katarina Hadži Antić Tatić. 16 September at 18:00 at Princess Ljubica's Residence.","Mocart, Paganini i Čajkovski u izvedbi violinistkinje Đurđice Aleksić i pijanistkinje Katarine Hadži Antić Tatić. 16. septembra u 18.00 u Konaku kneginje Ljubice.","Ещё один вечер цикла **«ФМУ на БЕЛЕФе»**, на этот раз скрипичный.
+
+В программе первая часть Концерта для скрипки № 5 ля мажор Моцарта K. 219, каприс № 20 Паганини и Концерт для скрипки ре мажор Чайковского ор. 35 целиком. За роялем Катарина Хаджи Антич Татич.
+
+Джурджица Алексич родилась в 2004 году в Ужице, начала играть на скрипке в шесть лет. Восьмой класс окончила по ускоренной программе, основную и среднюю музыкальную школу закончила как ученица поколения. Взяла награды более чем на сорока конкурсах в Сербии и за рубежом, среди них Республиканский конкурс, Stringfest, международный конкурс струнников в Нише и конкурсы в Италии, Австрии, Словакии и на Кипре.
+
+Время: 18:00.
+
+Цена: организатор её не объявил, программа фестиваля цену этого вечера не указывает.","Another evening in the **FMU at BELEF** series, this time for violin.
+
+The programme holds the first movement of Mozart's Violin Concerto No. 5 in A major K. 219, Paganini's Caprice No. 20 and the whole of Tchaikovsky's Violin Concerto in D major Op. 35. Katarina Hadži Antić Tatić is at the piano.
+
+Đurđica Aleksić was born in Užice in 2004 and started the violin at six. She finished the eighth grade on an accelerated track and completed both primary and secondary music school as the top student of her year. She has won prizes at more than forty competitions in Serbia and abroad, among them the Republic competition, Stringfest, the international strings competition in Niš and competitions in Italy, Austria, Slovakia and Cyprus.
+
+Time: 18:00.
+
+Price: the organiser has not announced one, and the festival programme lists no price for this evening.","Još jedno veče iz ciklusa **FMU na BELEF-u**, ovog puta violinsko.
+
+Na programu su prvi stav Mocartovog Koncerta za violinu br. 5 u A-duru K. 219, Paganinijev Kapris br. 20 i ceo Čajkovskijev Koncert za violinu u D-duru op. 35. Za klavirom je Katarina Hadži Antić Tatić.
+
+Đurđica Aleksić rođena je 2004. u Užicu, violinu svira od šeste godine. Osmi razred je završila po ubrzanom programu, a osnovnu i srednju muzičku školu kao đak generacije. Osvojila je nagrade na više od četrdeset takmičenja u zemlji i inostranstvu, među njima Republičko takmičenje, Stringfest, Međunarodno takmičenje gudača u Nišu i takmičenja u Italiji, Austriji, Slovačkoj i na Kipru.
+
+Vreme: 18.00.
+
+Cena: organizator je nije objavio, program festivala za ovo veče ne navodi cenu.",18:00,,Konak kneginje Ljubice,"Kneza Sime Markovića 8, 11000 Beograd","44.817105,20.452235",https://belef.rs/sr/program-sr/djurdjica-aleksic-2026,@arsraws,,CEBEF,https://belef.rs/,info@cebef.rs,+381 11 4039182,,,,"БЕЛЕФ, классика, скрипка, Чайковский, Конак княгини Любицы","BELEF, classical music, violin, Tchaikovsky, Princess Ljubica Residence","BELEF, klasična muzika, violina, Čajkovski, Konak kneginje Ljubice"
+9/17/2026,9/17/2026,9/1/2026,1115,MusicGroup,Элизиум,https://polakohedonist.club/ru/events/dfa43258-8480-46ec-a7af-7c30217669ab,ru,MusicEvent,«Элизиум» в Zappa Baza: Greatest Hits Tour к тридцатилетию,Elysium at Zappa Baza: the Greatest Hits Tour for their thirtieth anniversary,Elizium u Zappa Bazi: Greatest Hits Tour povodom tridesetogodišnjice,https://raw.githubusercontent.com/newsgl/arsposters/main/1115-ElizyumZappaBaza.webp,,Concerts,"Нижегородская панк-рок группа привозит в Белград программу из главных песен за тридцать лет. 17 сентября в 19:00 в Zappa Baza, 4000 RSD.","The punk rock band from Nizhny Novgorod brings a set of their biggest songs from thirty years to Belgrade. 17 September at 19:00 at Zappa Baza, 4,000 RSD.","Pank rok bend iz Nižnjeg Novgoroda dolazi u Beograd sa programom najvećih pesama iz trideset godina. 17. septembra u 19.00 u Zappa Bazi, 4.000 RSD.","Группа **«Элизиум»** возвращается в Сербию с туром Greatest Hits: тридцать лет песен о любви, свободе и надежде, собранных в один вечер.
+
+Организаторы обещают программу целиком из главных хитов группы.
+
+Время: с 19:00 до полуночи.
+
+Цена: 4000 RSD.
+
+Язык: русский.
+
+Билеты на polakohedonist.club. У группы есть телеграм-бот со скидками и новостями тура.","The band **Elysium** returns to Serbia with a Greatest Hits tour: thirty years of songs about love, freedom and hope gathered into one night.
+
+The organisers promise a set made entirely of the band's best known songs.
+
+Time: 19:00 to midnight.
+
+Price: 4,000 RSD.
+
+Language: Russian.
+
+Tickets at polakohedonist.club. The band runs a Telegram bot with tour news and discounts.","Bend **Elizium** vraća se u Srbiju sa Greatest Hits turnejom: trideset godina pesama o ljubavi, slobodi i nadi sabrano u jedno veče.
+
+Organizatori najavljuju program sastavljen isključivo od najpoznatijih pesama benda.
+
+Vreme: od 19.00 do ponoći.
+
+Cena: 4.000 RSD.
+
+Jezik: ruski.
+
+Karte na polakohedonist.club. Bend ima i Telegram bota sa vestima o turneji i popustima.",19:00,4000,Zappa Baza,"Bulevar Vojvode Bojovića 30a, 11000 Beograd","44.820671,20.448039",https://polakohedonist.club/ru/events/dfa43258-8480-46ec-a7af-7c30217669ab,@arsraws,https://polakohedonist.club/ru/events/dfa43258-8480-46ec-a7af-7c30217669ab,Hitrows Production,https://polakohedonist.club/,,,,,,"концерт, панк-рок, Элизиум, Zappa Baza, русский рок","concert, punk rock, Elysium, Zappa Baza, Russian rock","koncert, pank rok, Elizium, Zappa Baza, ruski rok"
+9/17/2026,9/17/2026,9/1/2026,1116,MusicGroup,Gudački kvartet Kameleon,https://belef.rs/sr/program-sr/slusajmo-filmove,,MusicEvent,"БЕЛЕФ: «Слушаем фильмы», квартет «Камелеон» в Конаке княгини Любицы","BELEF: Let's Listen to Films, the Kameleon quartet at Princess Ljubica's Residence","BELEF: ""Slušajmo filmove"", Gudački kvartet Kameleon u Konaku kneginje Ljubice",https://raw.githubusercontent.com/newsgl/arsposters/main/1116-BelefSlusajmoFilmove.webp,,Concerts,"Струнный квартет играет киномузыку и эвергрины: от Пахельбеля и Моцарта до Skyfall и Mamma Mia. 17 сентября в 20:30 в Конаке княгини Любицы, 500 динаров.","A string quartet plays film music and evergreens, from Pachelbel and Mozart to Skyfall and Mamma Mia. 17 September at 20:30 at Princess Ljubica's Residence, 500 dinars.","Gudački kvartet svira filmsku muziku i evergrine, od Pahelbela i Mocarta do Skyfall i Mamma Mia. 17. septembra u 20.30 u Konaku kneginje Ljubice, 500 dinara.","Программа **«Слушајмо филмове»** собрана из классических пьес, эвергринов и киномузыки.
+
+В списке Канон Пахельбеля, первая часть «Маленькой ночной серенады» Моцарта, Дуэт цветов Делиба, Трепак Чайковского, «Палладио» Дженкинса, «Дунайские волны» Ивановича, «Развлекатель» Джоплина, Sway, New York, New York, What a Wonderful World, Por una cabeza, Mamma Mia, Can't Take My Eyes Off You, Skyfall и Don't Stop Me Now.
+
+Струнный квартет «Камелеон» существует с 2001 года и играет и классику, и эвергрины, рок и киномелодии. Выступал на Нушичияде в Иванице, Нушичевых днях в Смедерево, Музыкальном лете в Алексинце и на смотре «Мермер и звуци» в Аранджеловце.
+
+Время: 20:30.
+
+Цена: 500 динаров.
+
+Место: Конак княгини Любицы.","The programme **Slušajmo filmove** mixes classical pieces, evergreens and film themes.
+
+The list runs from Pachelbel's Canon, the first movement of Mozart's Eine kleine Nachtmusik, Delibes's Flower Duet, Tchaikovsky's Trepak, Jenkins's Palladio and Ivanovici's Danube Waves to Joplin's The Entertainer, Sway, New York New York, What a Wonderful World, Por una cabeza, Mamma Mia, Can't Take My Eyes Off You, Skyfall and Don't Stop Me Now.
+
+The Kameleon string quartet has played since 2001, mixing classical repertoire with evergreens, rock and film themes. It has appeared at Nušićijada in Ivanjica, Nušić Days in Smederevo, Musical Summer in Aleksinac and Marble and Sounds in Aranđelovac.
+
+Time: 20:30.
+
+Price: 500 dinars.
+
+Venue: Princess Ljubica's Residence.","Program **Slušajmo filmove** spaja klasična dela, evergrine i filmsku muziku.
+
+Na spisku su Pahelbelov Kanon, prvi stav Mocartove ""Male noćne muzike"", Delibov Duet cveća, Čajkovskijev Trepak, Dženkinsov ""Paladio"", ""Dunavski valovi"" Ivanovića, Džoplinov ""Zabavljač"", Sway, New York New York, What a Wonderful World, Por una cabeza, Mamma Mia, Can't Take My Eyes Off You, Skyfall i Don't Stop Me Now.
+
+Gudački kvartet Kameleon postoji od 2001. godine i svira i klasiku i evergrine, rok i filmske melodije. Nastupao je na Nušićijadi u Ivanjici, Nušićevim danima u Smederevu, Muzičkom letu u Aleksincu i na manifestaciji ""Mermer i zvuci"" u Aranđelovcu.
+
+Vreme: 20.30.
+
+Cena: 500 dinara.
+
+Mesto: Konak kneginje Ljubice.",20:30,500,Konak kneginje Ljubice,"Kneza Sime Markovića 8, 11000 Beograd","44.817105,20.452235",https://belef.rs/sr/program-sr/slusajmo-filmove,@arsraws,,CEBEF,https://belef.rs/,info@cebef.rs,+381 11 4039182,,,,"БЕЛЕФ, струнный квартет, киномузыка, эвергрины, Конак княгини Любицы","BELEF, string quartet, film music, evergreens, Princess Ljubica Residence","BELEF, gudački kvartet, filmska muzika, evergrini, Konak kneginje Ljubice"
+9/22/2026,9/22/2026,9/1/2026,1117,Person,Dominic Miller,https://belef.rs/sr/program-sr/dominik-miler-2026,,MusicEvent,БЕЛЕФ: Доминик Миллер в Театре на Теразиях,BELEF: Dominic Miller at the Terazije Theatre,BELEF: Dominik Miler u Pozorištu na Terazijama,https://raw.githubusercontent.com/newsgl/arsposters/main/1117-BelefDominicMiller.webp,,Concerts,Многолетний гитарист Стинга и соавтор «Shape of My Heart» закрывает 33-й БЕЛЕФ сольным концертом. 22 сентября в 20:00 в Театре на Теразиях.,Sting's longtime guitarist and co-author of Shape of My Heart closes the 33rd BELEF with a solo concert. 22 September at 20:00 at the Terazije Theatre.,"Dugogodišnji Stingov gitarista i koautor ""Shape of My Heart"" zatvara 33. BELEF samostalnim koncertom. 22. septembra u 20.00 u Pozorištu na Terazijama.","Гитарист **Доминик Миллер** даёт в Белграде долгожданный сольный концерт, которым закрывается 33-й Белградский летний фестиваль.
+
+На сцене к нему присоединяется международный состав: Nicolas Fiszman на бас-гитаре, Mike Lindup на клавишных и Ziv Ravitz на барабанах.
+
+Миллер известен многолетней работой со Стингом, но он же и соавтор нескольких его самых известных песен, среди них «Shape of My Heart», «La Belle Dame Sans Regrets» и «Saint Agnes and the Burning Train». Параллельно он ведёт сольную карьеру и записывается для лейбла ECM. Белградская программа построена на материале, который он играл в прошлом сезоне.
+
+Время: 20:00.
+
+Цена: организатор её не объявил, программа фестиваля цену этого вечера не указывает.
+
+Место: Позориште на Теразијама.","Guitarist **Dominic Miller** gives a long awaited solo concert in Belgrade that closes the 33rd Belgrade Summer Festival.
+
+He is joined on stage by an international band: Nicolas Fiszman on bass, Mike Lindup on keyboards and Ziv Ravitz on drums.
+
+Miller is known for his long collaboration with Sting, and he co-wrote several of Sting's best known songs, among them Shape of My Heart, La Belle Dame Sans Regrets and Saint Agnes and the Burning Train. Alongside that he has built a solo career with albums on the ECM label. The Belgrade programme draws on the set he played last season.
+
+Time: 20:00.
+
+Price: the organiser has not announced one, and the festival programme lists no price for this evening.
+
+Venue: Pozorište na Terazijama.","Gitarista **Dominik Miler** održaće u Beogradu dugo očekivani samostalni koncert kojim se zatvara 33. Beogradski letnji festival.
+
+Na sceni mu se pridružuje vrhunski međunarodni sastav: Nicolas Fiszman na bas gitari, Mike Lindup na klaviru i klavijaturama i Ziv Ravitz na bubnjevima.
+
+Miler je poznat po višedecenijskoj saradnji sa Stingom, a koautor je i nekih od njegovih najpoznatijih pesama, među kojima su ""Shape of My Heart"", ""La Belle Dame Sans Regrets"" i ""Saint Agnes and the Burning Train"". Uporedo gradi samostalnu karijeru sa albumima za izdavačku kuću ECM. Beogradski program zasnovan je na setu koji je izvodio prošle sezone.
+
+Vreme: 20.00.
+
+Cena: organizator je nije objavio, program festivala za ovo veče ne navodi cenu.
+
+Mesto: Pozorište na Terazijama.",20:00,,Pozorište na Terazijama,"Trg Nikole Pašića 3, Beograd","44.812818,20.461566",https://belef.rs/sr/program-sr/dominik-miler-2026,@arsraws,,CEBEF,https://belef.rs/,info@cebef.rs,+381 11 4039182,,,,"БЕЛЕФ, гитара, Доминик Миллер, Стинг, Театр на Теразиях","BELEF, guitar, Dominic Miller, Sting, Terazije Theatre","BELEF, gitara, Dominik Miler, Sting, Pozorište na Terazijama"
+9/27/2026,9/27/2026,9/1/2026,1118,Person,Charlotte de Witte,https://app.sixtix.com/events/adabridgecharlotte,,MusicEvent,Lovefest: Charlotte de Witte под Мостом на Аде,Lovefest: Charlotte de Witte beneath the Ada Bridge,Lovefest: Charlotte de Witte ispod Mosta na Adi,https://raw.githubusercontent.com/newsgl/arsposters/main/1118-CharlotteDeWitteAdaBridge.webp,,Concerts,"Опен-эйр Lovefest под пилоном Моста на Аде с бельгийской техно-диджейкой Charlotte de Witte. 27 сентября с 14:00, от 3300 RSD.","A Lovefest open air under the pylon of the Ada Bridge with Belgian techno DJ Charlotte de Witte. 27 September from 14:00, from 3,300 RSD.","Lovefest open air ispod pilona Mosta na Adi sa belgijskom tehno DJ-kom Charlotte de Witte. 27. septembra od 14.00, od 3.300 RSD.","Lovefest вместе с BSH Events и Parallel Global выводит **Charlotte de Witte** из клуба под открытое небо, к пилону Моста на Аде.
+
+Бельгийская диджейка получила титул Best Techno DJ 2019 на DJ Awards. Сет начинается днём и идёт к закату, когда мост становится частью декорации.
+
+Билеты четырёх категорий: REGULAR 3300 RSD, VIP 9000 RSD с отдельным входом и видом напротив сцены, STAGE 13000 RSD прямо на сцене и STAGE EXCLUSIVE 21000 RSD рядом с артисткой.
+
+Время: с 14:00.
+
+Цена: от 3300 RSD.
+
+При плохой погоде событие переносят в закрытое помещение.
+
+Билеты на app.sixtix.com.","Lovefest, together with BSH Events and Parallel Global, brings **Charlotte de Witte** out of the club and into the open air by the pylon of the Ada Bridge.
+
+The Belgian DJ took the Best Techno DJ 2019 title at the DJ Awards. The set starts in the afternoon and runs towards sunset, when the bridge becomes part of the staging.
+
+Tickets come in four categories: REGULAR 3,300 RSD, VIP 9,000 RSD with a separate entrance and a view opposite the stage, STAGE 13,000 RSD on the stage itself and STAGE EXCLUSIVE 21,000 RSD next to the artist.
+
+Time: from 14:00.
+
+Price: from 3,300 RSD.
+
+In bad weather the event moves indoors.
+
+Tickets at app.sixtix.com.","Lovefest, zajedno sa BSH Events i Parallel Global, izvodi **Charlotte de Witte** iz kluba na otvoreno, pored pilona Mosta na Adi.
+
+Belgijska DJ-ka ponela je titulu Best Techno DJ 2019 na DJ Awards. Set počinje popodne i traje ka zalasku sunca, kada most postaje deo scenografije.
+
+Karte su u četiri kategorije: REGULAR 3.300 RSD, VIP 9.000 RSD sa posebnim ulazom i pogledom naspram bine, STAGE 13.000 RSD na samoj bini i STAGE EXCLUSIVE 21.000 RSD u neposrednoj blizini izvođačice.
+
+Vreme: od 14.00.
+
+Cena: od 3.300 RSD.
+
+U slučaju lošeg vremena događaj se seli u zatvoreni prostor.
+
+Karte na app.sixtix.com.",14:00,3300,Most na Adi,"Savski nasip, 11000 Beograd","44.796995,20.425887",https://app.sixtix.com/events/adabridgecharlotte,@arsraws,https://app.sixtix.com/events/adabridgecharlotte,Lovefest,https://app.sixtix.com/events/adabridgecharlotte,,,,,,"техно, опен-эйр, Lovefest, Мост на Аде, Charlotte de Witte","techno, open air, Lovefest, Ada Bridge, Charlotte de Witte","tehno, open air, Lovefest, Most na Adi, Charlotte de Witte"
+10/9/2026,10/9/2026,9/1/2026,1119,Person,Кирилл Селегей,https://polakohedonist.club/ru/events/bolshoj-stendap-koncert-kirilla-selegeya-theatre-78-2026-10-09-19-00-1,ru,ComedyEvent,Кирилл Селегей «В мире кавардак» в Teatar 78,Kirill Selegey brings his stand-up show to Teatar 78,Kiril Selegej: stend-ap koncert u Teatru 78,https://raw.githubusercontent.com/newsgl/arsposters/main/1119-KirillSelegeyTeatar78.webp,,Stand Up,"Повтор программы «В мире кавардак»: культ потребления, диктатуры, экология и немного туалетного юмора. 9 октября в 19:00 в Teatar 78, от 2300 RSD.","A rerun of the show V mire kavardak: consumerism, dictatorships, ecology and a little toilet humour. 9 October at 19:00 at Teatar 78, from 2,300 RSD.","Repriza programa ""V mire kavardak"": kult potrošnje, diktature, ekologija i malo toaletnog humora. 9. oktobra u 19.00 u Teatru 78, od 2.300 RSD.","**Кирилл Селегей** привозит в Белград повтор программы, впервые показанной 20 декабря 2025 года.
+
+Четыре года назад комик уехал из России и с тех пор ведёт хронику абсурда мировой жизни. В концерте сталкиваются культ потребления, ядерное оружие, меняющиеся гендерные роли, диктатуры, войны, права человека и экология, а между ними немного туалетного юмора.
+
+В России Селегея можно было увидеть в StandUp на ТНТ и «Вечернем Урганте», сейчас он играет в шоу «Добей» от Ari Standup Club и Stand Up Local Live в Варшаве.
+
+Время: двери в 18:30, начало в 19:00, до 20:30.
+
+Цена: от 2300 RSD.
+
+Язык: русский.
+
+Билеты на polakohedonist.club.","**Kirill Selegey** brings to Belgrade a rerun of the show he first played on 20 December 2025.
+
+The comic left Russia four years ago and has been keeping a running record of absurdity around the world since. The set puts consumerism, nuclear weapons, shifting gender roles, dictatorships, wars, human rights and ecology against one another, with a little toilet humour in between.
+
+In Russia Selegey appeared on StandUp on TNT and Evening Urgant, and he now plays in the Dobey show by Ari Standup Club and Stand Up Local Live in Warsaw.
+
+Time: doors 18:30, start 19:00, until 20:30.
+
+Price: from 2,300 RSD.
+
+Language: Russian.
+
+Tickets at polakohedonist.club.","**Kiril Selegej** dolazi u Beograd sa reprizom programa koji je prvi put izveo 20. decembra 2025.
+
+Komičar je pre četiri godine otišao iz Rusije i od tada beleži apsurde života širom sveta. U koncertu se sudaraju kult potrošnje, nuklearno oružje, promenljive rodne uloge, diktature, ratovi, ljudska prava i ekologija, uz malo toaletnog humora između.
+
+U Rusiji se Selegej pojavljivao u emisijama StandUp na TNT-u i ""Večernji Urgant"", a sada igra u šou programu ""Dobej"" Ari Standup Cluba i u Stand Up Local Live u Varšavi.
+
+Vreme: vrata u 18.30, početak u 19.00, do 20.30.
+
+Cena: od 2.300 RSD.
+
+Jezik: ruski.
+
+Karte na polakohedonist.club.",19:00,2300,Teatar 78,"Resavska 78, Beograd","44.801504,20.457327",https://polakohedonist.club/ru/events/bolshoj-stendap-koncert-kirilla-selegeya-theatre-78-2026-10-09-19-00-1,@arsraws,https://polakohedonist.club/ru/events/bolshoj-stendap-koncert-kirilla-selegeya-theatre-78-2026-10-09-19-00-1,StandUp_Beo,https://t.me/standup_beo,,,,,,"стендап, комедия, Кирилл Селегей, Teatar 78, русский язык","stand-up, comedy, Kirill Selegey, Teatar 78, Russian language","stend-ap, komedija, Kiril Selegej, Teatar 78, ruski jezik"
