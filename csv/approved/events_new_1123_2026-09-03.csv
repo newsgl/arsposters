@@ -1,0 +1,318 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+9/6/2026,9/6/2026,9/3/2026,1123,Organization,Voždovački centar Šumice,https://uvcsumice.rs/,,ScreeningEvent,«Тайный агент Мяу»: бесплатный показ мультфильма на летней сцене «Шумице»,"""Agent Meow"": a free family cartoon screening at the Sumice summer stage","""Tajni agent Mjau"": besplatna projekcija crtanog filma na letnjoj sceni ""Šumice""",https://raw.githubusercontent.com/newsgl/arsposters/main/1123-TajniAgentMjauSumice.webp,,Movies,"Вождовацкий центр «Шумице» показывает под открытым небом мультфильм «Тайный агент Мяу». 6 сентября в 20:00, вход свободный.","The Vozdovacki centar Sumice screens the animated film ""Agent Meow"" outdoors. 6 September at 20:00, free entry.","Voždovački centar ""Šumice"" prikazuje crtani film ""Tajni agent Mjau"" na otvorenom. 6. septembra u 20.00, ulaz slobodan.","Вечер анимационного кино для детей на летней сцене Вождовацкого центра **«Шумице»**. Показывают «Тайного агента Мяу», полнометражный мультфильм про кота, который берётся за шпионское задание.
+
+Показ идёт с синхронным дубляжом на сербский, титров нет. Сцена под открытым небом, места на скамейках.
+
+Время: начало в 20:00.
+
+Цена: вход свободный, без билетов и регистрации.
+
+Язык: сербский дубляж.","An open-air animation night for children at the summer stage of the **Vozdovacki centar Sumice**. The programme is ""Agent Meow"", a feature cartoon about a cat who takes on a spy assignment.
+
+The film is shown dubbed into Serbian, without subtitles. The stage is outdoors, with bench seating.
+
+Time: starts at 20:00.
+
+Price: free, no tickets and no registration.
+
+Language: Serbian dub.","Veče animiranog filma za decu na letnjoj sceni Voždovačkog centra **""Šumice""**. Na programu je ""Tajni agent Mjau"", dugometražni crtani film o mačku koji prihvata špijunski zadatak.
+
+Projekcija je sinhronizovana na srpski, bez titlova. Scena je na otvorenom, sedenje na klupama.
+
+Vreme: početak u 20.00.
+
+Cena: ulaz je slobodan, bez ulaznica i prijave.
+
+Jezik: srpska sinhronizacija.",20:00,0,Voždovački centar Šumice,"Ustanička 125/1, 11050 Beograd","44.784673,20.490330",https://uvcsumice.rs/,@arsraws,,Voždovački centar Šumice,https://uvcsumice.rs/,office@uvcsumice.rs,+381 11 2894533,,,,"кино, мультфильм, детям, бесплатно, Шумице, Вождовац","cinema, animation, for kids, free, Sumice, Vozdovac","film, crtani film, za decu, besplatno, Šumice, Voždovac"
+9/4/2026,9/4/2026,9/3/2026,1124,Organization,KidsClub Beograd na vodi,https://www.instagram.com/kidsclub.rs/,ru,ChildrensEvent,Творческое занятие «Ящерицы» в KidsClub на Белградской набережной,Lizards: a drawing and modelling session for children at KidsClub,Gušteri: kreativna radionica za decu u KidsClubu,https://raw.githubusercontent.com/newsgl/arsposters/main/1124-YasheritsyKidsClub.webp,,Kids,"Разновозрастная группа рисует и лепит ящериц и разбирается, как те устроены. 4 сентября с 17:00 до 18:30 в KidsClub на Херцеговачкой 23.","A mixed-age group draws and sculpts lizards and learns how the animals live. 4 September, 17:00 to 18:30, at KidsClub on Hercegovacka 23.",Grupa različitog uzrasta crta i vaja guštere i uči kako oni žive. 4. septembra od 17.00 do 18.30 u KidsClubu u Hercegovačkoj 23.,"Первое занятие осеннего сезона в детском клубе **KidsClub** на Белградской набережной. Тема дня: ящерицы. Дети рисуют их, лепят и попутно узнают, чем эти животные заняты в природе.
+
+Группа разновозрастная, отдельного деления по годам нет.
+
+Время: с 17:00 до 18:30.
+
+Цена: в анонсе не указана, спрашивать у клуба.
+
+Язык: русский.","The first session of the autumn season at the **KidsClub** children's club on the Belgrade waterfront. The subject of the day is lizards: children draw them, model them in clay and find out how the animals live in the wild.
+
+The group takes mixed ages, with no split by year.
+
+Time: 17:00 to 18:30.
+
+Price: not stated in the announcement, ask the club.
+
+Language: Russian.","Prvi čas jesenje sezone u dečjem klubu **KidsClub** na beogradskom keju. Tema dana su gušteri: deca ih crtaju, vajaju i usput saznaju kako te životinje žive u prirodi.
+
+Grupa je različitog uzrasta, bez podele po godinama.
+
+Vreme: od 17.00 do 18.30.
+
+Cena: nije navedena u najavi, raspitati se kod kluba.
+
+Jezik: ruski.",17:00,,KidsClub,"Hercegovačka 23, 11000 Beograd","44.804893,20.449343",https://www.instagram.com/kidsclub.rs/,@arsraws,,KidsClub,https://www.instagram.com/kidsclub.rs/,,,,,,"детям, мастер-класс, рисование, лепка, Белградская набережная","for kids, workshop, drawing, modelling, Belgrade Waterfront","za decu, radionica, crtanje, vajanje, Beograd na vodi"
+9/6/2026,9/6/2026,9/3/2026,1125,Organization,The Circle,https://t.me/vstrechi_v_belgrade,ru,SocialEvent,Караоке-квиз Mix Edition в Vibe House,Karaoke quiz: Mix Edition at Vibe House,Karaoke kviz: Mix Edition u Vibe Houseu,https://raw.githubusercontent.com/newsgl/arsposters/main/1125-KaraokeKvizMixVibeHouse.webp,,Games,"Семь раундов, в которых песню нужно угадать с нескольких нот, а потом спеть. 6 сентября в 19:00 в Vibe House, 1000 динаров с человека.","Seven rounds where you name the song from a few notes and then sing it. 6 September at 19:00 at Vibe House, 1000 dinars per person.","Sedam rundi u kojima pesmu treba pogoditi iz nekoliko nota, a zatim je otpevati. 6. septembra u 19.00 u Vibe Houseu, 1000 dinara po osobi.","Командная игра **The Circle** на стыке квиза и караоке: ведущий даёт несколько нот, команда называет песню, а дальше её поют.
+
+В программе семь раундов, русские и зарубежные хиты разных лет. Организаторы обещают вещи, которых участники не слышали лет десять.
+
+Приходить можно и без команды: на месте распределяют по столам.
+
+Время: сбор гостей в 19:00, старт программы в 19:30.
+
+Цена: 1000 динаров с человека.
+
+Язык: русский.
+
+Регистрация обязательна, пишите организаторам в телеграме.","A team game by **The Circle** that sits between a pub quiz and karaoke: the host plays a few notes, the team names the track, and then everyone sings it.
+
+There are seven rounds covering Russian and international hits from several decades, including songs the players have not heard in about ten years.
+
+You can come without a team. Solo players are put together into teams on the spot.
+
+Time: doors at 19:00, the game starts at 19:30.
+
+Price: 1000 dinars per person.
+
+Language: Russian.
+
+Registration is required, write to the organisers on Telegram.","Timska igra **The Circle** između kviza i karaoka: voditelj pusti nekoliko nota, tim pogađa pesmu, a onda je svi pevaju.
+
+Na programu je sedam rundi sa ruskim i stranim hitovima iz raznih decenija, uključujući pesme koje igrači nisu čuli desetak godina.
+
+Možete doći i bez tima. Pojedince na licu mesta raspoređuju po stolovima.
+
+Vreme: okupljanje u 19.00, početak programa u 19.30.
+
+Cena: 1000 dinara po osobi.
+
+Jezik: ruski.
+
+Prijava je obavezna, pišite organizatorima na Telegramu.",19:00,1000,Vibe House,"Karađorđeva 13, 11000 Beograd","44.818137,20.449968",https://t.me/vstrechi_v_belgrade/12846,@arsraws,,The Circle,https://t.me/vstrechi_v_belgrade,,,,,,"квиз, караоке, игры, Vibe House, Савамала","quiz, karaoke, games, Vibe House, Savamala","kviz, karaoke, igre, Vibe House, Savamala"
+9/4/2026,9/6/2026,9/3/2026,1126,Organization,Bam Bam Kolektiv,https://bambamkolektiv.org/faks/,,Festival,"Открытие FAKS: три дня выставок, концертов и мастерских на Радничкой","FAKS opening: three days of exhibitions, concerts and workshops on Radnicka","Otvaranje FAKS-a: tri dana izložbi, koncerata i radionica u Radničkoj",https://raw.githubusercontent.com/newsgl/arsposters/main/1126-OtvaranjeFAKS.webp,,Festivals,"Новое независимое арт-пространство Fabrika Alternativne Kulturne Scene открывается программой из выставки, спектакля, концертов и воркшопов. 4–6 сентября, вход свободный.","Fabrika Alternativne Kulturne Scene, a new independent art space, opens with exhibitions, a play, concerts and workshops. 4 to 6 September, free entry.","Novi nezavisni umetnički prostor Fabrika Alternativne Kulturne Scene otvara se izložbom, predstavom, koncertima i radionicama. Od 4. do 6. septembra, ulaz slobodan.","В Чукарице открывается **FAKS**, Fabrika Alternativne Kulturne Scene: бывший заводской корпус, переделанный под мастерские, студии и сцену. Внутри семь музыкальных студий, живописные и скульптурные мастерские, графическая и швейная, фото- и видеостудия с комнатой под радио и подкасты.
+
+Открытие растянуто на три дня.
+
+4 сентября двери открываются в 17:00. В программе выставка, спектакль Mrzim Pozorište, концерт группы Ab Re и диджей-сет. Организаторы обещают ещё и секретный концерт.
+
+5 сентября проходят мастерские по графике и керамике, занятия для детей, тату-зона с музыкой от DJ Pedja Skakavac и живые концерты. После часа ночи вечер переходит в клубный формат: за пультом Rahmanee, Proka и Drumsta.
+
+6 сентября работают воркшопы по ручному изготовлению бумаги, цианотипии и печати на тканях плюс мастер-класс «Лицо через дорогу» под сет DJ Munja. Вечером играет рок-группа Lisilo, за ней Deliblat, а закрывает всё джем Bam Bam Healing Jam Session в 23:00.
+
+Время: с 17:00 до 04:00 каждый день.
+
+Цена: вход свободный.","**FAKS**, short for Fabrika Alternativne Kulturne Scene, opens in Cukarica: a former factory building converted into studios, workshops and a stage. It holds seven music studios, painting and sculpture workshops, a print studio, a sewing studio and a photo and video studio with a room for radio and podcasts.
+
+The opening runs over three days.
+
+On 4 September the doors open at 17:00 with an exhibition, the play Mrzim Pozoriste, a concert by the band Ab Re and a DJ set. The organisers also promise a surprise gig.
+
+On 5 September there are printmaking and ceramics workshops, activities for children, a tattoo area with music by DJ Pedja Skakavac, and live concerts. After 01:00 the night turns into a club programme with Rahmanee, Proka and Drumsta.
+
+On 6 September the workshops cover handmade paper, cyanotype and textile printing, alongside a class called ""The face across the street"" with a set by DJ Munja. The evening starts at 21:00 with the rock band Lisilo, followed by Deliblat, and closes at 23:00 with the Bam Bam Healing Jam Session.
+
+Time: 17:00 to 04:00 on each day.
+
+Price: free entry.","Na Čukarici se otvara **FAKS**, Fabrika Alternativne Kulturne Scene: nekadašnja fabrička zgrada pretvorena u ateljee, studije i scenu. Unutra su sedam muzičkih studija, slikarski i vajarski ateljei, grafička i krojačka radionica i foto i video studio sa prostorijom za radio i podkaste.
+
+Otvaranje traje tri dana.
+
+Četvrtog septembra vrata se otvaraju u 17.00. Na programu su izložba, predstava Mrzim Pozorište, koncert grupe Ab Re i di-džej set. Organizatori najavljuju i tajni koncert.
+
+Petog septembra su radionice grafike i keramike, aktivnosti za decu, tatu zona uz muziku DJ Pedje Skakavca i koncerti uživo. Posle jedan ujutru veče prelazi u klupski format: za pultom su Rahmanee, Proka i Drumsta.
+
+Šestog septembra rade radionice ručne izrade papira, cijanotipije i štampe na tekstilu, uz čas ""Lice preko puta"" i set DJ Munje. Uveče u 21.00 svira rok grupa Lisilo, zatim Deliblat, a sve zatvara Bam Bam Healing Jam Session u 23.00.
+
+Vreme: od 17.00 do 04.00 svakog dana.
+
+Cena: ulaz je slobodan.",17:00,0,FAKS (Fabrika Alternativne Kulturne Scene),"Radnička 5n, 11000 Beograd","44.788219,20.420949",https://bambamkolektiv.org/faks/,@arsraws,,Bam Bam Kolektiv,https://bambamkolektiv.org/faks/,office@bambamkolektiv.org,+381 60 19119191,,,,"фестиваль, открытие, современное искусство, воркшопы, Чукарица","festival, opening, contemporary art, workshops, Cukarica","festival, otvaranje, savremena umetnost, radionice, Čukarica"
+9/7/2026,9/11/2026,9/3/2026,1127,Organization,Gradska opština Čukarica,https://www.cukarica.rs/,,Festival,Осенний фестиваль цветов и мёда в Пожешкой,Autumn flower and honey festival on Pozeska street,Jesenji festival cveća i meda u Požeškoj,https://raw.githubusercontent.com/newsgl/arsposters/main/1127-FestivalCvecaIMeda.webp,,Festivals,"Пять дней ярмарки пчеловодов, садоводов и ремесленников на плато перед школой «Йосиф Панчич». 7–11 сентября с 09:00 до 19:00, вход свободный.","Five days of a beekeepers, growers and craftspeople market on the plaza by the ""Josif Pancic"" school. 7 to 11 September, 09:00 to 19:00, free entry.","Pet dana pijace pčelara, baštovana i zanatlija na platou ispred škole ""Josif Pančić"". Od 7. do 11. septembra, od 09.00 do 19.00, ulaz slobodan.","Традиционный фестиваль общины **Чукарица** возвращается на плато в Пожешкой улице, перед школой «Йосиф Панчич». Осенний выпуск идёт пять дней.
+
+Свой товар привозят пчеловоды, садоводы и ремесленники со всего региона. В продаже сезонные растения для дома и сада, пряные травы, изделия ручной работы и продукты пчеловодства.
+
+Мёда на прилавках много и разного, причём напрямую от производителей: у них же можно расспросить, откуда он и чем один сорт отличается от другого.
+
+Время: ежедневно с 09:00 до 19:00.
+
+Цена: вход свободный.","The traditional festival of the **Cukarica** municipality returns to the plaza on Pozeska street, in front of the ""Josif Pancic"" school. The autumn edition runs for five days.
+
+Beekeepers, growers and craftspeople from across the region bring their goods. The stalls sell seasonal plants for the home and garden, herbs, handmade items and bee products.
+
+There is a wide range of honey, sold directly by the producers, who will explain where each variety comes from and how it differs from the rest.
+
+Time: daily from 09:00 to 19:00.
+
+Price: free entry.","Tradicionalni festival opštine **Čukarica** vraća se na plato u Požeškoj ulici, ispred škole ""Josif Pančić"". Jesenje izdanje traje pet dana.
+
+Robu donose pčelari, baštovani i zanatlije iz celog regiona. Na tezgama su sezonske biljke za kuću i baštu, začinsko bilje, rukotvorine i pčelinji proizvodi.
+
+Meda ima mnogo i raznog, i to direktno od proizvođača, koji objašnjavaju odakle je i po čemu se jedna vrsta razlikuje od druge.
+
+Vreme: svakog dana od 09.00 do 19.00.
+
+Cena: ulaz je slobodan.",09:00,0,Plato ispred OŠ Josif Pančić,"Požeška, Banovo brdo, 11030 Beograd","44.781072,20.417217",https://www.cukarica.rs/,@arsraws,,Gradska opština Čukarica,https://www.cukarica.rs/,,,,,,"фестиваль, ярмарка, мёд, цветы, Чукарица, Баново брдо","festival, market, honey, flowers, Cukarica, Banovo brdo","festival, pijaca, med, cveće, Čukarica, Banovo brdo"
+9/20/2026,9/20/2026,9/3/2026,1128,TheaterGroup,Pozorište na Terazijama,https://pozoristeterazije.com/,,TheaterEvent,Мюзикл Flashdance в Театре на Теразиях,"Flashdance, the musical, at Terazije Theatre",Mjuzikl Flashdance u Pozorištu na Terazijama,https://raw.githubusercontent.com/newsgl/arsposters/main/1128-FlashdanceTerazije.webp,,Theatre,"Сценическая версия фильма 1983 года с хитами Maniac и What a Feeling. 20 сентября в 19:30 на большой сцене, билеты от 1500 динаров.","The stage version of the 1983 film, with the hits Maniac and What a Feeling. 20 September at 19:30 on the main stage, tickets from 1500 dinars.","Scenska verzija filma iz 1983. sa hitovima Maniac i What a Feeling. 20. septembra u 19.30 na velikoj sceni, ulaznice od 1500 dinara.","Мюзикл по мотивам фильма 1983 года с Дженнифер Билз. Алекс Оуэнс днём работает на сталелитейном заводе, вечером танцует в баре и хочет попасть на прослушивание в академию Шипли.
+
+Музыку написал Робби Рот, режиссёр постановки Владан Джуркович, хореограф Милица Церович. В спектакле звучат I Love Rock 'n' Roll, Gloria, Maniac и What a Feeling.
+
+Премьера в **Театре на Теразиях** прошла в ноябре 2021 года. Часть исполнителей пришла в труппу через открытый кастинг.
+
+Время: начало в 19:30.
+
+Цена: партер 2000 динаров, центральные ложи 2100, боковые ложи и балкон 1500. Студентам и пенсионерам скидка 50 процентов на две билета в кассе.
+
+Язык: сербский.","A musical based on the 1983 film with Jennifer Beals. Alex Owens works at a steel mill by day, dances at a bar by night and wants an audition at the Shipley academy.
+
+The music is by Robbie Roth, the production is directed by Vladan Djurkovic with choreography by Milica Cerovic. The score includes I Love Rock 'n' Roll, Gloria, Maniac and What a Feeling.
+
+**Terazije Theatre** premiered the show in November 2021. Several performers joined the cast through an open audition.
+
+Time: starts at 19:30.
+
+Price: stalls 2000 dinars, central boxes 2100, side boxes and balcony 1500. Students and pensioners get 50 percent off two tickets at the box office.
+
+Language: Serbian.","Mjuzikl po filmu iz 1983. sa Dženifer Bils. Aleks Ovens danju radi u čeličani, noću igra u lokalnom baru i želi da se prijavi na audiciju za akademiju Šipli.
+
+Muziku je napisao Robi Rot, predstavu režira Vladan Đurković, koreograf je Milica Cerović. U predstavi se čuju I Love Rock 'n' Roll, Gloria, Maniac i What a Feeling.
+
+**Pozorište na Terazijama** premijerno je izvelo mjuzikl u novembru 2021. Deo izvođača došao je u podelu preko otvorene audicije.
+
+Vreme: početak u 19.30.
+
+Cena: parter 2000 dinara, centralne lože 2100, bočne lože i balkon 1500. Studenti i penzioneri imaju 50 odsto popusta na dve ulaznice na blagajni.
+
+Jezik: srpski.",19:30,1500,Pozorište na Terazijama,"Trg Nikole Pašića 3, Beograd","44.812818,20.461566",https://pozoristeterazije.com/predstave/fles-dens/,@arsraws,https://bilet.pozoristeterazije.com/scena.php?prostorterminid=1245,Pozorište na Terazijama,https://pozoristeterazije.com/,blagajna@pozoristeterazije.com,+381 11 3229943,,,,"театр, мюзикл, Театр на Теразиях, танцы","theatre, musical, Terazije Theatre, dance","pozorište, mjuzikl, Pozorište na Terazijama, ples"
+9/25/2026,9/25/2026,9/3/2026,1129,TheaterGroup,Pozorište na Terazijama,https://pozoristeterazije.com/,,TheaterEvent,Мюзикл Mamma Mia! в Театре на Теразиях,"Mamma Mia!, the musical, at Terazije Theatre",Mjuzikl Mamma Mia! u Pozorištu na Terazijama,https://raw.githubusercontent.com/newsgl/arsposters/main/1129-MammaMiaTerazije.webp,,Theatre,"Хиты ABBA в истории о невесте, которая ищет отца накануне свадьбы. 25 сентября в 19:30 на большой сцене, билеты от 1600 динаров.","ABBA hits in the story of a bride looking for her father on the eve of the wedding. 25 September at 19:30 on the main stage, tickets from 1600 dinars.","Hitovi grupe ABBA u priči o mladi koja uoči venčanja traži oca. 25. septembra u 19.30 na velikoj sceni, ulaznice od 1600 dinara.","Один из самых успешных мюзиклов в мире, прошедший Бродвей и десятки сцен по всему свету. Софи готовится к свадьбе на греческом острове и зовёт на неё троих мужчин, один из которых может оказаться её отцом.
+
+Вся музыка написана из песен ABBA. Режиссёр постановки **Театра на Теразиях** Юг Радивоевич, в главных ролях Милена Васич, Милена Живанович, Мина Лазаревич и Петар Джурджевич.
+
+Время: начало в 19:30.
+
+Цена: партер 2100 динаров, центральные ложи 2200, боковые ложи и балкон 1600. Студентам и пенсионерам скидка 30 процентов на два билета в кассе.
+
+Язык: сербский.","One of the most successful musicals in the world, played on Broadway and on dozens of stages elsewhere. Sophie is getting married on a Greek island and invites three men, one of whom may be her father.
+
+The score is built entirely from ABBA songs. The **Terazije Theatre** production is directed by Jug Radivojevic, with Milena Vasic, Milena Zivanovic, Mina Lazarevic and Petar Djurdjevic in the leading roles.
+
+Time: starts at 19:30.
+
+Price: stalls 2100 dinars, central boxes 2200, side boxes and balcony 1600. Students and pensioners get 30 percent off two tickets at the box office.
+
+Language: Serbian.","Jedan od najuspešnijih mjuzikala na svetu, koji je osvojio Brodvej i desetine pozornica širom sveta. Sofi se sprema za venčanje na grčkom ostrvu i poziva trojicu muškaraca, od kojih jedan može biti njen otac.
+
+Cela muzika sastavljena je od pesama grupe ABBA. Predstavu **Pozorišta na Terazijama** režira Jug Radivojević, a igraju Milena Vasić, Milena Živanović, Mina Lazarević i Petar Đurđević.
+
+Vreme: početak u 19.30.
+
+Cena: parter 2100 dinara, centralne lože 2200, bočne lože i balkon 1600. Studenti i penzioneri imaju 30 odsto popusta na dve ulaznice na blagajni.
+
+Jezik: srpski.",19:30,1600,Pozorište na Terazijama,"Trg Nikole Pašića 3, Beograd","44.812818,20.461566",https://pozoristeterazije.com/predstave/mamma-mia/,@arsraws,https://bilet.pozoristeterazije.com/scena.php?prostorterminid=1246,Pozorište na Terazijama,https://pozoristeterazije.com/,blagajna@pozoristeterazije.com,+381 11 3229943,,,,"театр, мюзикл, ABBA, Театр на Теразиях","theatre, musical, ABBA, Terazije Theatre","pozorište, mjuzikl, ABBA, Pozorište na Terazijama"
+9/26/2026,9/26/2026,9/3/2026,1130,TheaterGroup,Pozorište na Terazijama,https://pozoristeterazije.com/,,TheaterEvent,Спектакль «Балканский экспресс» в Театре на Теразиях,"""Balkan Ekspres"" at Terazije Theatre","Predstava ""Balkan ekspres"" u Pozorištu na Terazijama",https://raw.githubusercontent.com/newsgl/arsposters/main/1130-BalkanEkspresTerazije.webp,,Theatre,"Сценическая версия культового югославского фильма о шайке музыкантов и мошенников времён войны. 26 сентября в 19:30, билеты от 2000 динаров.","The stage version of the cult Yugoslav film about a wartime band of musicians and con men. 26 September at 19:30, tickets from 2000 dinars.","Scenska verzija kultnog jugoslovenskog filma o ratnoj družini muzičara i prevaranata. 26. septembra u 19.30, ulaznice od 2000 dinara.","Редкий случай, когда драматический текст вырос из киносценария: «Балканский экспресс» пришёл на сцену из одноимённого фильма и остался одним из самых узнаваемых названий югославского кино.
+
+Это самая новая большая постановка **Театра на Теразиях**. В ролях Душко Радович (Стойко), Елена Йовичич (Лили), Жарко Степанов (Попай), Мирољуб Турайлия (Пик), Оливера Бацич (Леа) и Душан Свилар (Славуй).
+
+Время: начало в 19:30.
+
+Цена: партер 2500 динаров, центральные ложи 2600, боковые ложи и балкон 2000. На этот спектакль скидки студентам и пенсионерам не 50, а 30 процентов.
+
+Язык: сербский.","A rare case of a play growing out of a film script: ""Balkan Ekspres"" reached the stage from the film of the same name and remains one of the best known titles in Yugoslav cinema.
+
+This is the newest large production at **Terazije Theatre**. The cast includes Dusko Radovic as Stojko, Jelena Jovicic as Lili, Zarko Stepanov as Popaj, Miroljub Turajlija as Pik, Olivera Bacic as Lea and Dusan Svilar as Slavuj.
+
+Time: starts at 19:30.
+
+Price: stalls 2500 dinars, central boxes 2600, side boxes and balcony 2000. For this show the discount for students and pensioners is 30 percent rather than 50.
+
+Language: Serbian.","Redak slučaj da dramski tekst nastane iz filmskog scenarija: ""Balkan ekspres"" je na scenu stigao iz istoimenog filma i ostao jedan od najprepoznatljivijih naslova jugoslovenskog filma.
+
+Ovo je najnovija velika produkcija **Pozorišta na Terazijama**. Igraju Duško Radović (Stojko), Jelena Jovičić (Lili), Žarko Stepanov (Popaj), Miroljub Turajlija (Pik), Olivera Bacić (Lea) i Dušan Svilar (Slavuj).
+
+Vreme: početak u 19.30.
+
+Cena: parter 2500 dinara, centralne lože 2600, bočne lože i balkon 2000. Za ovu predstavu popust za studente i penzionere iznosi 30 odsto umesto 50.
+
+Jezik: srpski.",19:30,2000,Pozorište na Terazijama,"Trg Nikole Pašića 3, Beograd","44.812818,20.461566",https://pozoristeterazije.com/predstave/balkan-ekspres/,@arsraws,https://bilet.pozoristeterazije.com/scena.php?prostorterminid=1247,Pozorište na Terazijama,https://pozoristeterazije.com/,blagajna@pozoristeterazije.com,+381 11 3229943,,,,"театр, мюзикл, югославское кино, Театр на Теразиях","theatre, musical, Yugoslav cinema, Terazije Theatre","pozorište, mjuzikl, jugoslovenski film, Pozorište na Terazijama"
+9/27/2026,9/27/2026,9/3/2026,1131,TheaterGroup,Pozorište na Terazijama,https://pozoristeterazije.com/,,TheaterEvent,Мюзикл «Женщины на грани нервного срыва» в Театре на Теразиях,"""Women on the Verge of a Nervous Breakdown"" at Terazije Theatre","Mjuzikl ""Žene na ivici nervnog sloma"" u Pozorištu na Terazijama",https://raw.githubusercontent.com/newsgl/arsposters/main/1131-ZeneNaIviciTerazije.webp,,Theatre,"Мюзикл по чёрной комедии Педро Альмодовара 1988 года. 27 сентября в 19:30 на большой сцене, билеты от 1500 динаров.","A musical based on Pedro Almodovar's 1988 black comedy. 27 September at 19:30 on the main stage, tickets from 1500 dinars.","Mjuzikl po crnoj komediji Pedra Almodovara iz 1988. 27. septembra u 19.30 na velikoj sceni, ulaznice od 1500 dinara.","Мюзикл поставлен по испанской чёрной комедии Педро Альмодовара 1988 года, той самой, что играли Кармен Маура и Антонио Бандерас. Фильм тогда номинировали на «Оскар» за лучшую иностранную картину.
+
+В постановке **Театра на Теразиях** играют Ивана Попович (Пепа), Наташа Маркович (Лусия), Славен Дошло (Карлос), Татьяна Димитриевич (Мариса), Оливера Бацич (Кандела), Таня Живкович (Паулина) и Жарко Степанов (таксист).
+
+Время: начало в 19:30.
+
+Цена: партер 2000 динаров, центральные ложи 2100, боковые ложи и балкон 1500. Скидка студентам и пенсионерам на этот спектакль 30 процентов.
+
+Язык: сербский.","The musical follows Pedro Almodovar's 1988 Spanish black comedy, the one with Carmen Maura and Antonio Banderas. The film was nominated for the Academy Award for best foreign language film that year.
+
+In the **Terazije Theatre** production the cast is Ivana Popovic as Pepa, Natasa Markovic as Lucia, Slaven Doslo as Carlos, Tatjana Dimitrijevic as Marisa, Olivera Bacic as Candela, Tanja Zivkovic as Paulina and Zarko Stepanov as the taxi driver.
+
+Time: starts at 19:30.
+
+Price: stalls 2000 dinars, central boxes 2100, side boxes and balcony 1500. Students and pensioners get 30 percent off for this show.
+
+Language: Serbian.","Mjuzikl je rađen po španskoj crnoj komediji Pedra Almodovara iz 1988, onoj sa Karmen Maurom i Antoniom Banderasom. Film je te godine bio nominovan za Oskara za najbolji strani film.
+
+U postavci **Pozorišta na Terazijama** igraju Ivana Popović (Pepa), Nataša Marković (Lusija), Slaven Došlo (Karlos), Tatjana Dimitrijević (Marisa), Olivera Bacić (Kandela), Tanja Živković (Paulina) i Žarko Stepanov (taksista).
+
+Vreme: početak u 19.30.
+
+Cena: parter 2000 dinara, centralne lože 2100, bočne lože i balkon 1500. Popust za studente i penzionere za ovu predstavu iznosi 30 odsto.
+
+Jezik: srpski.",19:30,1500,Pozorište na Terazijama,"Trg Nikole Pašića 3, Beograd","44.812818,20.461566",https://pozoristeterazije.com/predstave/zene-na-ivici-nervnog-sloma/,@arsraws,https://bilet.pozoristeterazije.com/scena.php?prostorterminid=1248,Pozorište na Terazijama,https://pozoristeterazije.com/,blagajna@pozoristeterazije.com,+381 11 3229943,,,,"театр, мюзикл, Альмодовар, Театр на Теразиях","theatre, musical, Almodovar, Terazije Theatre","pozorište, mjuzikl, Almodovar, Pozorište na Terazijama"
+10/2/2026,10/3/2026,9/3/2026,1132,Organization,Music Reactions,https://musicreactions.com/,,Festival,REACT Festival 2026: две ночи техно в порту Белграда,REACT Festival 2026: two nights of techno at the Port of Belgrade,REACT Festival 2026: dve noći techna u Luci Beograd,https://raw.githubusercontent.com/newsgl/arsposters/main/1132-ReactFestival2026.webp,,Festivals,"Юбилейный фестиваль Music Reactions: 26 артистов, две сцены, хедлайнеры I Hate Models и Kobosil. 2 и 3 октября в Луке Београд, билет на оба дня от 53 евро.","The anniversary Music Reactions festival: 26 artists, two stages, headlined by I Hate Models and Kobosil. 2 and 3 October at Luka Beograd, a two-day ticket from 53 euros.","Jubilarni festival Music Reactions: 26 izvođača, dve bine, na čelu I Hate Models i Kobosil. 2. i 3. oktobra u Luci Beograd, ulaznica za oba dana od 53 evra.","Сообщество **Music Reactions** отмечает десять лет двухдневным фестивалем в белградском порту. Две сцены, 26 артистов, программа собрана из разных ветвей современной электроники.
+
+В первый день на главной сцене региональная премьера концепта Disco Inferno от I Hate Models. К нему добавлены два takeover: французский коллектив RAW и немецкий BCCO разбирают сцены под свои программы и растягивают их на оба дня.
+
+В лайнапе Kobosil, AEREA, Clara Cuvé, KLOUD, ØTTA, TRIPTYKH, Ueberrest, Yanamaste, Alycia Bezgo, Boston 168, LAMMER, ROÜGE, ÜBERKIKZ, Yasmin Gardezi, а также сербские ACOR, Asarri, Karina Oksa, Moraitov, nobena, RAR, Stameni, Suzana, laccotti и VRAG. Сценическую графику делает FEMUR.
+
+Время: обе ночи с 22:00 до 06:00.
+
+Цена: билет на оба дня от 53 евро (около 6200 динаров), ONSTAGE с доступом на сцену 94 евро, VIP 114 евро. Ранние фазы распроданы.
+
+Возраст: строго 18+.","The **Music Reactions** community marks ten years with a two-day festival at the port of Belgrade. Two stages, 26 artists, a programme drawn from several branches of contemporary electronic music.
+
+On the first day the main stage hosts the regional premiere of the Disco Inferno concept by I Hate Models. Two takeovers run alongside it: the French collective RAW and the German BCCO each take over a stage and spread their programmes across both days.
+
+The line-up includes Kobosil, AEREA, Clara Cuvé, KLOUD, ØTTA, TRIPTYKH, Ueberrest, Yanamaste, Alycia Bezgo, Boston 168, LAMMER, ROÜGE, ÜBERKIKZ and Yasmin Gardezi, plus the Serbian acts ACOR, Asarri, Karina Oksa, Moraitov, nobena, RAR, Stameni, Suzana, laccotti and VRAG. Stage visuals are by FEMUR.
+
+Time: both nights from 22:00 to 06:00.
+
+Price: a two-day ticket from 53 euros (about 6200 dinars), ONSTAGE with access to the stage 94 euros, VIP 114 euros. The early phases are sold out.
+
+Age: 18+ only.","Zajednica **Music Reactions** obeležava deset godina dvodnevnim festivalom u beogradskoj luci. Dve bine, 26 izvođača, program sastavljen od različitih pravaca savremene elektronske muzike.
+
+Prvog dana na glavnoj bini je regionalna premijera koncepta Disco Inferno grupe I Hate Models. Uz nju idu i dva takeovera: francuski kolektiv RAW i nemački BCCO preuzimaju bine i svoje programe razvlače kroz oba dana.
+
+U postavci su Kobosil, AEREA, Clara Cuvé, KLOUD, ØTTA, TRIPTYKH, Ueberrest, Yanamaste, Alycia Bezgo, Boston 168, LAMMER, ROÜGE, ÜBERKIKZ i Yasmin Gardezi, kao i domaći ACOR, Asarri, Karina Oksa, Moraitov, nobena, RAR, Stameni, Suzana, laccotti i VRAG. Vizuale radi FEMUR.
+
+Vreme: obe noći od 22.00 do 06.00.
+
+Cena: ulaznica za oba dana od 53 evra (oko 6200 dinara), ONSTAGE sa pristupom bini 94 evra, VIP 114 evra. Rane faze su rasprodate.
+
+Uzrast: samo 18+.",22:00,6201,Luka Beograd,"Žorža Klemansoa 37, 11158 Beograd","44.827063,20.473027",https://ra.co/events/2465112,@arsraws,https://musicreactions.com/events/react-festival-2026/tickets,Music Reactions,https://musicreactions.com/,,,18+,,,"фестиваль, техно, электронная музыка, Лука Београд, 18+","festival, techno, electronic music, Luka Beograd, 18+","festival, techno, elektronska muzika, Luka Beograd, 18+"
+11/7/2026,11/7/2026,9/3/2026,1133,Person,KUKO,https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU,,MusicEvent,KUKO All Night Long: восемь часов сета на складе Matrez,KUKO All Night Long: an eight-hour set at the Matrez warehouse,KUKO All Night Long: osmočasovni set u hali Matrez,https://raw.githubusercontent.com/newsgl/arsposters/main/1133-KukoAllNightLongMatrez.webp,https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU,Concerts,"Кёльнский хардтехно-диджей KUKO играет всю ночь один, без разогрева и смен за пультом. 7 ноября с 22:00 в Matrez, билеты от 30 евро.","Cologne hard techno DJ KUKO plays the whole night alone, with no support and no changeovers. 7 November from 22:00 at Matrez, tickets from 30 euros.","Kelnski hard techno di-džej KUKO svira celu noć sam, bez predgrupa i smena za pultom. 7. novembra od 22.00 u Matrezu, ulaznice od 30 evra.","Мировой тур UNREAL и **KUKO** заезжает в Белград в формате All Night Long: один диджей, одна площадка, восемь часов без смены за пультом.
+
+KUKO вырос из кёльнского андеграунда и стал резидентом немецкой платформы UNREAL и клубной серии Adrenaline Cologne. Его звук собран из индустриального давления, шранца и меланхоличных мелодических линий, это слышно на релизах Voicemail и на EP Die Tonight. Дебютную виниловую пластинку он выпустил на 44 Label Group.
+
+Площадка та же, что у сентябрьской вечеринки Unreal x Music Reactions: складская хала Matrez в белградском порту.
+
+Время: с 22:00 до 06:00.
+
+Цена: 30 евро (около 3500 динаров). Три ранние фазы по 23, 25 и 27 евро распроданы.
+
+Возраст: строго 18+.","The UNREAL and **KUKO** world tour stops in Belgrade in an All Night Long format: one DJ, one room, eight hours without a changeover.
+
+KUKO came out of the Cologne underground and became a resident of the German UNREAL platform and of the Adrenaline Cologne club series. His sound mixes industrial pressure, schranz and melancholic melodic lines, audible on the release Voicemail and on the Die Tonight EP. His debut vinyl came out on 44 Label Group.
+
+The venue is the same one used for the Unreal x Music Reactions party in September: the Matrez warehouse hall in the port of Belgrade.
+
+Time: 22:00 to 06:00.
+
+Price: 30 euros (about 3500 dinars). The three earlier phases at 23, 25 and 27 euros are sold out.
+
+Age: 18+ only.","Svetska turneja UNREAL i **KUKO** staje u Beogradu u All Night Long formatu: jedan di-džej, jedan prostor, osam sati bez smene za pultom.
+
+KUKO je izrastao iz kelnskog andergraunda i postao rezident nemačke platforme UNREAL i klupske serije Adrenaline Cologne. Njegov zvuk spaja industrijski pritisak, šranc i melanholične melodijske linije, što se čuje na izdanju Voicemail i na EP-u Die Tonight. Debitantsku vinilnu ploču objavio je za 44 Label Group.
+
+Prostor je isti kao za septembarsku žurku Unreal x Music Reactions: skladišna hala Matrez u beogradskoj luci.
+
+Vreme: od 22.00 do 06.00.
+
+Cena: 30 evra (oko 3500 dinara). Tri ranije faze po 23, 25 i 27 evra su rasprodate.
+
+Uzrast: samo 18+.",22:00,3510,Matrez,"Žorža Klemansoa 37 (Luka Beograd), Beograd","44.827063,20.473027",https://ra.co/events/2319033,@arsraws,https://musicreactions.com/events/unreal-music-reactions-kuko-anl/tickets,Music Reactions,https://musicreactions.com/,,,18+,,,"техно, вечеринка, KUKO, Matrez, Лука Београд, 18+","techno, party, KUKO, Matrez, Luka Beograd, 18+","techno, žurka, KUKO, Matrez, Luka Beograd, 18+"
