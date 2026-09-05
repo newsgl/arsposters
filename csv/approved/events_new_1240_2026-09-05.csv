@@ -1,0 +1,854 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+9/9/2026,9/9/2026,9/5/2026,1240,Organization,DC Loža,https://t.me/dcloza,,SocialEvent,Вечер настольных игр в DC Loža,Board game night at DC Loža,Veče društvenih igara u DC Loži,https://raw.githubusercontent.com/newsgl/arsposters/main/1240-NastolkiDCLoza.webp,,Games,"Еженедельный вечер настолок: игру подберут, правила объяснят, компанию найдут. 9 сентября с 19:00 в DC Loža, вход по донату.","A weekly board game night: they pick the game, explain the rules and find you a table. 9 September from 19:00 at DC Loža, entry by donation.","Nedeljno veče društvenih igara: predložiće igru, objasniti pravila i naći vam društvo. 9. septembra od 19.00 u DC Loži, ulaz po donaciji.","Культурный центр **DC Loža** собирает вечер настольных игр каждую среду. Опыт не нужен: игру подберут под компанию, правила объяснят на месте.
+
+На вечере есть бар с чаем и напитками, играют за столами в общем зале. Новичкам рады отдельно: за незнание правил никто не в претензии, а компанию под вашу скорость подберут сами хозяева.
+
+Свою настолку можно принести, друзей тоже: чем больше народу, тем больше вариантов, во что сесть играть.
+
+Место: Dalmatinska 84L, вход со стороны Ivankovačka.
+
+Время: начало в 19:00.
+
+Цена: любой донат на развитие «Ложи».
+
+Язык: русский и английский.
+
+Курение только снаружи.","The cultural centre **DC Loža** runs a board game night every Wednesday. No experience needed: they will suggest a game for your group and explain the rules on the spot.
+
+There is a bar with tea and other drinks, and play happens at tables in the main hall. Newcomers are welcome: nobody minds that you do not know the rules, and the hosts will find you a group that plays at your pace.
+
+You are welcome to bring your own game and your own friends.
+
+Venue: Dalmatinska 84L, entrance from Ivankovačka.
+
+Time: starts at 19:00.
+
+Price: any donation towards the Loža.
+
+Language: Russian and English.
+
+Smoking outside only.","Kulturni centar **DC Loža** organizuje veče društvenih igara svake srede. Iskustvo nije potrebno: predložiće igru za vaše društvo i objasniti pravila na licu mesta.
+
+Tu je i bar sa čajem i drugim pićima, a igra se za stolovima u glavnoj sali. Novajlije su posebno dobrodošle: niko vam neće zameriti što ne znate pravila, a domaćini će vam naći društvo koje igra vašim tempom.
+
+Možete doneti svoju igru i dovesti prijatelje.
+
+Mesto: Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Vreme: početak u 19.00.
+
+Cena: donacija po želji za rad Lože.
+
+Jezik: ruski i engleski.
+
+Puši se samo napolju.",19:00,0,DC Loža,"Dalmatinska 84L, 11000 Beograd","44.808482,20.480228",https://t.me/dcloza/1122,@dcloza,,DC Loža,https://t.me/dcloza,,,,,,"настольные игры, донат, Дальматинская, сообщество, бесплатно","board games, donation, Dalmatinska, community, free","društvene igre, donacija, Dalmatinska, zajednica, besplatno"
+9/9/2026,9/9/2026,9/5/2026,1241,Person,Jana Zdravković,https://www.bozidarac.rs/,,MusicEvent,Джаз под открытым небом в UK Božidarac,Open-air jazz at UK Božidarac,Džez na otvorenom u UK Božidarac,https://raw.githubusercontent.com/newsgl/arsposters/main/1241-DzazBozidarac.webp,,Concerts,"Вокалистка Яна Здравкович и Белградский джазовый квартет играют во дворе «Божидараца». 9 сентября в 20:00, вход свободный.","Singer Jana Zdravković and the Belgrade Jazz Quartet play in the Božidarac courtyard. 9 September at 20:00, free entry.","Pevačica Jana Zdravković i Beogradski džez kvartet sviraju u dvorištu Božidarca. 9. septembra u 20.00, ulaz slobodan.","Вечер джаза на открытой сцене учреждения культуры **«Божидарац»** на Чубуре.
+
+Выступают вокалистка Яна Здравкович и Белградский джазовый квартет. В программе всемирно известные джазовые стандарты и собственные сочинения музыкантов.
+
+Играют во дворе «Божидараца», то есть Центра образования и культуры «Божидарац 1947» на Радослава Груйича 3. Это одна из старейших культурных площадок Врачара: свои курсы, залы и летний двор, где летом идут концерты под открытым небом.
+
+Вечер проходит при поддержке общины Врачар и города Белграда.
+
+Время: начало в 20:00.
+
+Цена: вход свободный.","A jazz evening on the open-air stage of the **Božidarac** cultural centre in Čubura.
+
+Singer Jana Zdravković performs with the Belgrade Jazz Quartet. The programme mixes jazz standards with the musicians own compositions.
+
+The concert takes place in the courtyard of Božidarac, the Božidarac 1947 centre for education and culture at Radoslava Grujića 3. It is one of the older cultural venues in Vračar, with its own courses, halls and a summer courtyard used for open-air concerts.
+
+The evening is supported by the Vračar municipality and the City of Belgrade.
+
+Time: starts at 20:00.
+
+Price: free entry.","Džez veče na otvorenoj sceni ustanove kulture **Božidarac** na Čuburi.
+
+Nastupaju pevačica Jana Zdravković i Beogradski džez kvartet. Na programu su svetski poznati džez standardi i autorske kompozicije muzičara.
+
+Svira se u dvorištu Božidarca, Centra za obrazovanje i kulturu ""Božidarac 1947"" u Radoslava Grujića 3. To je jedna od starijih kulturnih ustanova na Vračaru, sa svojim kursevima, salama i letnjim dvorištem u kojem se održavaju koncerti na otvorenom.
+
+Veče se održava uz podršku opštine Vračar i grada Beograda.
+
+Vreme: početak u 20.00.
+
+Cena: ulaz slobodan.",20:00,0,UK Božidarac,"Radoslava Grujića 3, Beograd","44.798427,20.479286",https://t.me/sta_imas_beograd/4747,@arsraws,,UK Božidarac,,,,,,,"джаз, концерт, бесплатно, Чубура, открытый воздух","jazz, concert, free, Čubura, open air","džez, koncert, besplatno, Čubura, na otvorenom"
+9/10/2026,9/10/2026,9/5/2026,1242,Organization,DC Loža,https://t.me/dcloza,,EducationEvent,Wicked Little Room: мастер-класс по комнатам-миниатюрам в DC Loža,Wicked Little Room: a miniature room workshop at DC Loža,Wicked Little Room: radionica soba minijatura u DC Loži,https://raw.githubusercontent.com/newsgl/arsposters/main/1242-WickedLittleRoom10.webp,,Master classes,"Первое из двух занятий: эскизы, выбор материалов и лепка персонажей из холодного фарфора. 10 сентября с 19:00 в DC Loža, донат 1700 динаров.","The first of two sessions: sketches, choosing materials and modelling characters from cold porcelain. 10 September from 19:00 at DC Loža, 1700 dinar donation.","Prva od dve radionice: skice, izbor materijala i izrada figurica od hladnog porcelana. 10. septembra od 19.00 u DC Loži, donacija 1700 dinara.","Двухдневный мастер-класс **Wicked Little Room** в DC Loža: участники делают из картона комнату-миниатюру, придумывают ей историю и заселяют персонажами. Это может быть дом с привидениями, ведьмино логово, домик фей или таинственный замок.
+
+На первом занятии 10 сентября придумывают концепцию, делают эскизы, выбирают материалы, лепят персонажей и детали интерьера из холодного фарфора и наносят первый слой краски. Второе занятие проходит 17 сентября отдельной записью.
+
+Материалы дают на месте, своё приносить можно. Готовая идея не обязательна.
+
+Место: Dalmatinska 84L, вход со стороны Ivankovačka.
+
+Время: с 19:00 до 22:00.
+
+Цена: рекомендованный донат 1700 динаров за занятие.
+
+Запись: через @dcloza_bot.
+
+Язык: русский и английский.
+
+Курение только снаружи.","The two-part workshop **Wicked Little Room** at DC Loža: participants build a miniature room out of cardboard, invent a story for it and populate it with characters. It can be a haunted house, a witch lair, a fairy cottage or a mysterious castle.
+
+The first session on 10 September covers the concept, sketches, choice of materials, modelling the characters and interior details from cold porcelain, and the first coat of paint. The second session takes place on 17 September and is booked separately.
+
+Materials are provided, and you can bring your own. Coming without a finished idea is fine.
+
+Venue: Dalmatinska 84L, entrance from Ivankovačka.
+
+Time: 19:00 to 22:00.
+
+Price: suggested donation of 1700 dinars per session.
+
+Booking: through @dcloza_bot.
+
+Language: Russian and English.
+
+Smoking outside only.","Dvodelna radionica **Wicked Little Room** u DC Loži: učesnici od kartona prave sobu minijaturu, smišljaju joj priču i naseljavaju je likovima. Može to biti ukleta kuća, veštičje skrovište, kućica vila ili tajanstveni zamak.
+
+Na prvoj radionici 10. septembra smišlja se koncept, prave skice, biraju materijali, izrađuju figurice i detalji enterijera od hladnog porcelana i nanosi prvi sloj boje. Druga radionica je 17. septembra i prijavljuje se posebno.
+
+Materijal se dobija na licu mesta, možete doneti i svoj. Nije neophodno da dođete sa gotovom idejom.
+
+Mesto: Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Vreme: od 19.00 do 22.00.
+
+Cena: preporučena donacija 1700 dinara po radionici.
+
+Prijava: preko @dcloza_bot.
+
+Jezik: ruski i engleski.
+
+Puši se samo napolju.",19:00,1700,DC Loža,"Dalmatinska 84L, 11000 Beograd","44.808482,20.480228",https://t.me/dcloza/1120,@dcloza,,DC Loža,https://t.me/dcloza,,,,,,"мастер-класс, миниатюры, рукоделие, холодный фарфор, Дальматинская","workshop, miniatures, crafts, cold porcelain, Dalmatinska","radionica, minijature, rukotvorine, hladni porcelan, Dalmatinska"
+9/17/2026,9/17/2026,9/5/2026,1243,Organization,DC Loža,https://t.me/dcloza,,EducationEvent,Wicked Little Room: мастер-класс по комнатам-миниатюрам в DC Loža,Wicked Little Room: a miniature room workshop at DC Loža,Wicked Little Room: radionica soba minijatura u DC Loži,https://raw.githubusercontent.com/newsgl/arsposters/main/1243-WickedLittleRoom17.webp,,Master classes,"Второе из двух занятий: сборка комнаты из картона, окна, текстиль и роспись фигурок. 17 сентября с 19:00 в DC Loža, донат 1700 динаров.","The second of two sessions: assembling the cardboard room, cutting windows, adding textiles and painting the figures. 17 September from 19:00 at DC Loža, 1700 dinar donation.","Druga od dve radionice: sklapanje sobe od kartona, prozori, tekstil i farbanje figurica. 17. septembra od 19.00 u DC Loži, donacija 1700 dinara.","Второе занятие мастер-класса **Wicked Little Room** в DC Loža. Участники собирают комнату из картона, вырезают окна, добавляют текстильные детали (занавески, ковёр) и заканчивают роспись фигурок.
+
+Первое занятие прошло 10 сентября: концепция, эскизы, лепка персонажей из холодного фарфора. К этому дню комната собирается целиком, и её можно забрать домой.
+
+Сюжет каждый выбирает сам: дом с привидениями, ведьмино логово, домик фей, таинственный замок или что-то своё.
+
+Материалы дают на месте, своё приносить можно.
+
+Место: Dalmatinska 84L, вход со стороны Ivankovačka.
+
+Время: с 19:00 до 22:00.
+
+Цена: рекомендованный донат 1700 динаров за занятие.
+
+Запись: через @dcloza_bot.
+
+Язык: русский и английский.
+
+Курение только снаружи.","The second session of the **Wicked Little Room** workshop at DC Loža. Participants assemble the cardboard room, cut out windows, add textile details such as curtains and a rug, and finish painting the figures.
+
+The first session took place on 10 September and covered the concept, sketches and modelling characters from cold porcelain. By the end of this evening the room is finished and goes home with you.
+
+The story is up to you: a haunted house, a witch lair, a fairy cottage, a mysterious castle or something else entirely.
+
+Materials are provided, and you can bring your own.
+
+Venue: Dalmatinska 84L, entrance from Ivankovačka.
+
+Time: 19:00 to 22:00.
+
+Price: suggested donation of 1700 dinars per session.
+
+Booking: through @dcloza_bot.
+
+Language: Russian and English.
+
+Smoking outside only.","Druga radionica ciklusa **Wicked Little Room** u DC Loži. Učesnici sklapaju sobu od kartona, iseca­ju prozore, dodaju tekstilne detalje poput zavesa i tepiha i završavaju farbanje figurica.
+
+Prva radionica održana je 10. septembra: koncept, skice i izrada likova od hladnog porcelana. Do kraja ove večeri soba je gotova i nosite je kući.
+
+Priču bira svako za sebe: ukleta kuća, veštičje skrovište, kućica vila, tajanstveni zamak ili nešto sasvim drugo.
+
+Materijal se dobija na licu mesta, možete doneti i svoj.
+
+Mesto: Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Vreme: od 19.00 do 22.00.
+
+Cena: preporučena donacija 1700 dinara po radionici.
+
+Prijava: preko @dcloza_bot.
+
+Jezik: ruski i engleski.
+
+Puši se samo napolju.",19:00,1700,DC Loža,"Dalmatinska 84L, 11000 Beograd","44.808482,20.480228",https://t.me/dcloza/1120,@dcloza,,DC Loža,https://t.me/dcloza,,,,,,"мастер-класс, миниатюры, рукоделие, холодный фарфор, Дальматинская","workshop, miniatures, crafts, cold porcelain, Dalmatinska","radionica, minijature, rukotvorine, hladni porcelan, Dalmatinska"
+9/10/2026,9/10/2026,9/5/2026,1244,Organization,DC Loža,https://t.me/dcloza,,ScreeningEvent,«Небесные скитальцы» Мамору Осии: показ и обсуждение в DC Loža,The Sky Crawlers by Mamoru Oshii: a screening and discussion at DC Loža,"""The Sky Crawlers"" Mamorua Ošija: projekcija i razgovor u DC Loži",https://raw.githubusercontent.com/newsgl/arsposters/main/1244-SkyCrawlersDCLoza.webp,,Movies,"Аниме Мамору Осии о вечно молодых пилотах и бесконечной войне, после показа обсуждение. 10 сентября в 19:00 в DC Loža, донат 500 динаров.","Mamoru Oshii's anime about eternally young pilots and an endless war, followed by a discussion. 10 September at 19:00 at DC Loža, 500 dinar donation.","Anime Mamorua Ošija o večno mladim pilotima i beskrajnom ratu, posle projekcije sledi razgovor. 10. septembra u 19.00 u DC Loži, donacija 500 dinara.","Киноклуб в DC Loža показывает **«Небесные скитальцы»** (The Sky Crawlers, 2008) Мамору Осии: меланхоличную историю о вечно молодых пилотах и войне, которая не кончается.
+
+Осии снимает войну как киберспорт, где люди работают почти как машины и нужны затем, чтобы война оставалась зрелищем. В «Призраке в доспехах» и «Авалоне» он разбирал виртуальность буквально; здесь она получается из того, что участники войны лишены субъектности, а умирают всерьёз.
+
+Ведёт встречу Вязбук. После обсуждения гости остаются в «Ложе» отдохнуть, уходить сразу после титров не обязательно.
+
+Место: Dalmatinska 84L, вход со стороны Ivankovačka.
+
+Расписание: сбор гостей в 19:00, показ в 19:15, обсуждение в 21:15.
+
+Цена: рекомендованный донат 500 динаров.","The film club at DC Loža screens **The Sky Crawlers** (2008) by Mamoru Oshii, a melancholy story about eternally young pilots and a war that never ends.
+
+Oshii films war as an esport, where people work almost like machines and exist to keep the war watchable. In ""Ghost in the Shell"" and ""Avalon"" he took virtuality literally; here it comes from stripping the participants of agency while their deaths stay real.
+
+The host is Vyazbuk. After the discussion guests are welcome to stay on at the Loža, so there is no need to leave the moment the credits roll.
+
+Venue: Dalmatinska 84L, entrance from Ivankovačka.
+
+Schedule: doors at 19:00, screening at 19:15, discussion at 21:15.
+
+Price: suggested donation of 500 dinars.","Filmski klub u DC Loži prikazuje **""The Sky Crawlers""** (2008) Mamorua Ošija, melanholičnu priču o večno mladim pilotima i ratu koji ne prestaje.
+
+Oši snima rat kao esport, u kojem ljudi rade skoro kao mašine i postoje da bi rat ostao spektakl. U ""Duhu u oklopu"" i ""Avalonu"" bavio se virtuelnošću doslovno; ovde ona nastaje tako što učesnici rata ostaju bez subjektivnosti, a umiru stvarno.
+
+Veče vodi Vjazbuk. Posle razgovora gosti mogu da ostanu u Loži, pa nema potrebe da odlazite čim krenu odjavne špice.
+
+Mesto: Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Raspored: okupljanje u 19.00, projekcija u 19.15, razgovor u 21.15.
+
+Cena: preporučena donacija 500 dinara.",19:00,500,DC Loža,"Dalmatinska 84L, 11000 Beograd","44.808482,20.480228",https://t.me/dcloza/1121,@dcloza,,DC Loža,https://t.me/dcloza,,,,,,"кино, аниме, киноклуб, обсуждение, Мамору Осии, Дальматинская","cinema, anime, film club, discussion, Mamoru Oshii, Dalmatinska","film, anime, filmski klub, razgovor, Mamoru Oši, Dalmatinska"
+9/11/2026,9/11/2026,9/5/2026,1245,Organization,Auditoria,https://t.me/auditoria_belgrade,,SocialEvent,Настольный теннис в «Аудитории»: практика и турнир до одного очка,Table tennis at Auditoria: open practice and a one-point tournament,Stoni tenis u Auditoriji: slobodna praksa i turnir do jednog poena,https://raw.githubusercontent.com/newsgl/arsposters/main/1245-StolnyjTennisAuditoria.webp,,Games,"Свободная практика, турнир, где партия длится один розыгрыш, и челленджи от Белградского клуба настольного тенниса. 11 сентября с 18:00 в «Аудитории», 500 динаров.","Open practice, a tournament where each match lasts a single rally, and challenges run by the Belgrade table tennis club. 11 September from 18:00 at Auditoria, 500 dinars.","Slobodna praksa, turnir u kojem meč traje jedan poen i izazovi Beogradskog kluba stonog tenisa. 11. septembra od 18.00 u Auditoriji, 500 dinara.","**«Аудитория»** и Белградский клуб настольного тенниса проводят открытый вечер за столами. Приходить можно одному: партнёра найдут на месте.
+
+Регулярность игры не важна, ракетку допускается держать впервые в жизни.
+
+Расписание: 18:00 свободная практика, 19:00 турнир 1-point, где каждая игра решается одним розыгрышем, 19:30 практика и игровые челленджи от клуба. Есть розыгрыш призов.
+
+Это первое из двух сентябрьских мероприятий цикла. Второе, турнир 2х2, «Аудитория» проводит 27 сентября: команды по два человека играют друг против друга, а тем, кто пришёл без пары, партнёра подбирают на месте.
+
+Место: Vojvode Dobrnjca 48.
+
+Время: с 18:00 до 20:00.
+
+Цена: 500 динаров по предварительной регистрации, 800 без неё, наличными на входе.","**Auditoria** and the Belgrade table tennis club host an open evening at the tables. You can come alone: a partner will be found on the spot.
+
+How often you play does not matter, and holding a bat for the first time is fine.
+
+Schedule: 18:00 open practice, 19:00 the one-point tournament where every match is decided by a single rally, 19:30 practice and game challenges from the club. There is also a prize draw.
+
+This is the first of two September events in the series. The second, a 2 on 2 tournament, takes place at Auditoria on 27 September: teams of two play against each other, and anyone who comes without a partner is paired up on the spot.
+
+Venue: Vojvode Dobrnjca 48.
+
+Time: 18:00 to 20:00.
+
+Price: 500 dinars with advance registration, 800 without, paid in cash at the door.","**Auditoria** i Beogradski klub stonog tenisa priređuju otvoreno veče za stolovima. Možete doći sami: partnera će vam naći na licu mesta.
+
+Nije važno koliko često igrate, a reket možete uzeti i prvi put u životu.
+
+Raspored: 18.00 slobodna praksa, 19.00 turnir 1-point u kojem se svaki meč rešava jednim poenom, 19.30 praksa i izazovi kluba. Ide i izvlačenje nagrada.
+
+Ovo je prvi od dva septembarska događaja u ciklusu. Drugi, turnir 2 na 2, Auditoria priređuje 27. septembra: ekipe od po dvoje igraju jedna protiv druge, a onima koji dođu bez para partner se nalazi na licu mesta.
+
+Mesto: Vojvode Dobrnjca 48.
+
+Vreme: od 18.00 do 20.00.
+
+Cena: 500 dinara uz prethodnu prijavu, 800 bez prijave, gotovinom na ulazu.",18:00,500,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://luma.com/jlywr19v,@auditoria_belgrade,https://luma.com/jlywr19v,Auditoria,https://t.me/auditoria_belgrade,,,,,,"настольный теннис, турнир, спорт, Аудитория, Дорчол","table tennis, tournament, sport, Auditoria, Dorcol","stoni tenis, turnir, sport, Auditoria, Dorćol"
+9/12/2026,9/12/2026,9/5/2026,1246,Person,Светлана Копытина,https://www.instagram.com/artplace_nowadays,ru,EducationEvent,"Цианотипия: цветы и Белград, мастер-класс в «Аудитории»","Cyanotype: flowers and Belgrade, a workshop at Auditoria","Cijanotipija: cveće i Beograd, radionica u Auditoriji",https://raw.githubusercontent.com/newsgl/arsposters/main/1246-CianotipiaAuditoria.webp,,Master classes,"Печать в синем: каждый участник делает минимум пять открыток из цветов, сухоцветов и снимков города. 12 сентября в 19:00 в «Аудитории», 2500 динаров.","Printing in blue: every participant makes at least five postcards from flowers, dried plants and city photographs. 12 September at 19:00 at Auditoria, 2500 dinars.","Štampa u plavom: svaki učesnik pravi najmanje pet razglednica od cveća, suvog bilja i fotografija grada. 12. septembra u 19.00 u Auditoriji, 2500 dinara.","**Цианотипия** это одна из старейших техник фотопечати, узнаваемая по глубокому синему цвету. Изображение проявляется ультрафиолетом на светочувствительном растворе, и каждый отпечаток выходит с артефактами, которые другими способами печати не повторить.
+
+На мастер-классе печатают цветы, сухоцветы, стеклянные объекты и фотографии Белграда, превращая их в авторские открытки. Каждый участник уносит не меньше пяти.
+
+Ведёт **Светлана Копытина**, художник, педагог и основатель студии Nowadays в Белграде. Опыт не нужен, процесс показывают с нуля.
+
+Время: начало в 19:00.
+
+Цена: 2500 динаров по предварительной регистрации, 3000 без неё, наличными на входе.
+
+Возраст: от 10 лет.","**Cyanotype** is one of the oldest photographic printing techniques, recognisable by its deep blue. The image develops under ultraviolet light on a light-sensitive solution, and every print comes out with artefacts no other printing method reproduces.
+
+The workshop prints flowers, dried plants, glass objects and photographs of Belgrade, turning them into handmade postcards. Each participant leaves with at least five.
+
+The workshop is led by **Svetlana Kopytina**, artist, teacher and founder of the Nowadays studio in Belgrade. No experience is needed and the whole process is shown from scratch.
+
+Time: starts at 19:00.
+
+Price: 2500 dinars with advance registration, 3000 without, paid in cash at the door.
+
+Age: 10 and over.","**Cijanotipija** je jedna od najstarijih tehnika fotografske štampe, prepoznatljiva po dubokoj plavoj boji. Slika se razvija ultraljubičastim svetlom na fotoosetljivom rastvoru, a svaki otisak dobija artefakte koje druge tehnike ne mogu da ponove.
+
+Na radionici se štampaju cveće, suvo bilje, stakleni predmeti i fotografije Beograda, koji postaju autorske razglednice. Svaki učesnik odnosi najmanje pet.
+
+Radionicu vodi **Svetlana Kopitina**, umetnica, pedagoškinja i osnivačica studija Nowadays u Beogradu. Iskustvo nije potrebno, ceo postupak se pokazuje od nule.
+
+Vreme: početak u 19.00.
+
+Cena: 2500 dinara uz prethodnu prijavu, 3000 bez prijave, gotovinom na ulazu.
+
+Uzrast: od 10 godina.",19:00,2500,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://luma.com/zemo2sse,@auditoria_belgrade,https://luma.com/zemo2sse,Auditoria,https://t.me/auditoria_belgrade,,,10+,,,"мастер-класс, цианотипия, фотопечать, Аудитория, Дорчол, на русском","workshop, cyanotype, photo printing, Auditoria, Dorcol, in Russian","radionica, cijanotipija, foto štampa, Auditoria, Dorćol, na ruskom"
+9/13/2026,9/13/2026,9/5/2026,1247,Person,Арсений Гусев,https://t.me/auditoria_belgrade,ru,EducationEvent,Лекция «Биохимия каникул» Арсения Гусева в «Аудитории»,"Lecture ""The biochemistry of a holiday"" by Arseny Gusev at Auditoria","Predavanje ""Biohemija odmora"" Arsenija Guseva u Auditoriji",https://raw.githubusercontent.com/newsgl/arsposters/main/1247-BiohimiaKanikulAuditoria.webp,,Lectures,"Почему после отпуска хочется ещё одного отпуска: джетлаг, эффект первой ночи, leisure sickness. 13 сентября в 18:00 в «Аудитории», 1500 динаров.","Why a holiday leaves you wanting another one: jet lag, the first night effect, leisure sickness. 13 September at 18:00 at Auditoria, 1500 dinars.","Zašto posle odmora poželite još jedan odmor: džetleg, efekat prve noći, leisure sickness. 13. septembra u 18.00 u Auditoriji, 1500 dinara.","Лекция о том, что происходит с мозгом и телом во время отдыха и почему отпуск не всегда означает восстановление. В другой стране жить внезапно легче и интереснее, даже если человек не выспался и много ходил, а после возвращения домой всё снова накрывает.
+
+В разговоре: чем мозг занят во время отдыха, как новизна включает адаптационные резервы, почему истощение запасов можно принять за восстановление и зачем организму бывает нужен отдых после отдыха.
+
+Разбирают джетлаг, First Night Effect, особенности памяти, «розовую ретроспекцию», постотпускной контраст и leisure sickness. Нейробиология без академической скуки.
+
+Читает **Арсений Гусев**, врач-психотерапевт и клинический психолог с тринадцатилетним опытом, работает в интегративном подходе. Автор книги «Так не у всех» и телеграм-канала «Верьте мне, я доктор».
+
+Время: начало в 18:00.
+
+Цена: 1500 динаров по предварительной регистрации, 2000 без неё, наличными на входе.
+
+Язык: русский.","A lecture on what happens to the brain and the body during rest, and why a holiday does not always mean recovery. Life in another country suddenly feels easier and more interesting even when you are short on sleep and walking all day, and then coming home hits hard again.
+
+The talk covers what the brain does while you rest, how novelty switches on the body's adaptive reserves, why depleting your reserves can pass for recovery, and why people sometimes need a rest after their rest.
+
+It goes through jet lag, the First Night Effect, quirks of memory, rosy retrospection, the post-holiday contrast and leisure sickness. Neuroscience without the academic dryness.
+
+The speaker is **Arseny Gusev**, psychotherapist and clinical psychologist with thirteen years of practice, working in an integrative approach. He wrote the book ""Tak ne u vseh"" and runs the Telegram channel ""Veryte mne, ya doktor"".
+
+Time: starts at 18:00.
+
+Price: 1500 dinars with advance registration, 2000 without, paid in cash at the door.
+
+Language: Russian.","Predavanje o tome šta se dešava sa mozgom i telom tokom odmora i zašto odmor ne znači uvek oporavak. U drugoj zemlji odjednom je lakše i zanimljivije živeti čak i kada niste naspavani i mnogo hodate, a po povratku kući sve ponovo pritisne.
+
+U razgovoru: čime se mozak bavi dok se odmarate, kako novina uključuje adaptacione rezerve, zašto trošenje rezervi može da liči na oporavak i zašto je telu ponekad potreban odmor posle odmora.
+
+Obrađuju se džetleg, First Night Effect, osobenosti pamćenja, ""ružičasta retrospekcija"", kontrast posle odmora i leisure sickness. Neurobiologija bez akademske suvoparnosti.
+
+Predavač je **Arsenij Gusev**, lekar psihoterapeut i klinički psiholog sa trinaest godina prakse, radi u integrativnom pristupu. Autor je knjige ""Tako nije kod svih"" i telegram kanala ""Verujte mi, ja sam doktor"".
+
+Vreme: početak u 18.00.
+
+Cena: 1500 dinara uz prethodnu prijavu, 2000 bez prijave, gotovinom na ulazu.
+
+Jezik: ruski.",18:00,1500,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://luma.com/yctx5av0,@auditoria_belgrade,https://luma.com/yctx5av0,Auditoria,https://t.me/auditoria_belgrade,,,,,,"лекция, нейробиология, психология, отдых, Аудитория, на русском","lecture, neuroscience, psychology, rest, Auditoria, in Russian","predavanje, neurobiologija, psihologija, odmor, Auditoria, na ruskom"
+9/18/2026,9/20/2026,9/5/2026,1248,Organization,Publishell,https://t.me/publishellf,ru,Festival,Фестиваль издательства Publishell в «Лав и Жабац»,Publishell publishing house festival at Lav i Žabac,Festival izdavačke kuće Publishell u knjižari Lav i Žabac,https://raw.githubusercontent.com/newsgl/arsposters/main/1248-PublishellFestival.webp,,Festivals,"Три дня паблик-токов с издательницами и писательницами, презентация книги Ани Макеевой и продажа книг. С 18 по 20 сентября в книжном «Лав и Жабац».","Three days of public talks with publishers and writers, a presentation of Anya Makeeva's book and a book sale. 18 to 20 September at the Lav i Žabac bookshop.","Tri dana javnih razgovora sa izdavačicama i spisateljicama, predstavljanje knjige Anje Makejeve i prodaja knjiga. Od 18. do 20. septembra u knjižari Lav i Žabac.","Независимое издательство **Publishell** проводит в Белграде свой фестиваль. В программе паблик-токи с издательницами и писательницами, а также презентация книги Ани Макеевой «Вещички большие и малые».
+
+Расписание с афиши: 18 сентября в 18:00 разговор «2 года издательству: что мы сделали, что делаем, что будем делать дальше» и встреча с Лаймой Андерсон и Ирой Юрьевой; 19 сентября в 16:00 презентация книги Ани Макеевой «Вещички большие и малые»; 20 сентября в 18:00 паблик-ток с писательницами.
+
+Среди участниц фестиваля Лайма Андерсон, Ада Ватамота, Анастасия Комарова, Аня Макеева, Лера Мартьянова, Серафима Орлова, Мария Чавва и Ира Юрьева.
+
+Все дни фестиваля идёт продажа бумажных книг и лимитированного мерча.
+
+Место: книжный магазин «Лав и Жабац» на Цара Уроша 12.
+
+Цену входа издательство не называет.","The independent publisher **Publishell** holds its festival in Belgrade. The programme includes public talks with publishers and writers, plus a presentation of Anya Makeeva's book ""Veshchichki bolshie i malye"".
+
+The schedule from the poster: 18 September at 18:00, a talk called ""Two years of the publishing house: what we have done, what we are doing, what comes next"", with Laima Anderson and Ira Yuryeva; 19 September at 16:00, the presentation of the book by Anya Makeeva; 20 September at 18:00, a public talk with the writers.
+
+The festival participants include Laima Anderson, Ada Vatamota, Anastasia Komarova, Anya Makeeva, Lera Martyanova, Serafima Orlova, Maria Chavva and Ira Yuryeva.
+
+Printed books and limited edition merchandise are on sale throughout the festival.
+
+Venue: the Lav i Žabac bookshop at Cara Uroša 12.
+
+The publisher does not state an entry price.","Nezavisna izdavačka kuća **Publishell** priređuje svoj festival u Beogradu. Na programu su javni razgovori sa izdavačicama i spisateljicama i predstavljanje knjige Anje Makejeve ""Stvarčice velike i male"".
+
+Raspored sa plakata: 18. septembra u 18.00 razgovor ""Dve godine izdavačke kuće: šta smo uradili, šta radimo i šta nas čeka"" i susret sa Lajmom Anderson i Irom Jurjevom; 19. septembra u 16.00 predstavljanje knjige Anje Makejeve; 20. septembra u 18.00 javni razgovor sa spisateljicama.
+
+Među učesnicama festivala su Lajma Anderson, Ada Vatamota, Anastasija Komarova, Anja Makejeva, Lera Martjanova, Serafima Orlova, Marija Čavva i Ira Jurjeva.
+
+Svih dana festivala prodaju se štampane knjige i limitirani merč.
+
+Mesto: knjižara Lav i Žabac u Cara Uroša 12.
+
+Izdavač ne navodi cenu ulaza.",18:00,0,Лав и Жабац,"Cara Uroša 12, Beograd","44.821246,20.455834",https://t.me/publishellf/879,@arsraws,,Publishell,https://t.me/publishellf,,,,,,"фестиваль, книги, издательство, встреча с автором, Дорчол, на русском","festival, books, publishing, author talk, Dorcol, in Russian","festival, knjige, izdavaštvo, susret sa autorom, Dorćol, na ruskom"
+9/26/2026,9/26/2026,9/5/2026,1249,Organization,Squiz,https://belgrade.squiz.ru/,ru,SocialEvent,Squiz «Битва городов» в Santo Domingo,Squiz Battle of the Cities at Santo Domingo,"Squiz ""Bitka gradova"" u Santo Domingu",https://raw.githubusercontent.com/newsgl/arsposters/main/1249-SquizBitvaGorodov.webp,,Games,"Белград, Москва, Петербург и Дубай играют один и тот же пакет вопросов в один вечер. 26 сентября в 16:00 в Santo Domingo, 1000 динаров с человека.","Belgrade, Moscow, Saint Petersburg and Dubai play the same question set on the same evening. 26 September at 16:00 at Santo Domingo, 1000 dinars per player.","Beograd, Moskva, Sankt Peterburg i Dubai igraju isti paket pitanja iste večeri. 26. septembra u 16.00 u Santo Domingu, 1000 dinara po osobi.","Игра **#171** серии Squiz идёт одновременно во всех городах сети: Белград, Москва, Петербург, Дубай и другие получают один и тот же пакет вопросов. Результаты складывают в общий зачёт, победителей награждают кубком, а по сумме определяют город-чемпион.
+
+В остальном это обычная классика: те же раунды и та же компания за столом. Сложность средняя, вопросы обо всём на свете.
+
+В игре 51 вопрос на логику и эрудицию, сложность средняя, готовиться не нужно. Вопросы читает ведущий и дублирует на экранах, ответы команды вписывают в бланки и сдают в конце раундов. За столом можно есть и пить, игра этому не мешает.
+
+Место: бар Santo Domingo на Студентской площади 15.
+
+Команда: от 2 до 8 человек, запись на сайте организатора.
+
+Время: начало в 16:00, игра идёт около двух часов.
+
+Цена: 1000 динаров с участника.
+
+Язык: русский.","Game **#171** of the Squiz series runs at the same time in every city of the network: Belgrade, Moscow, Saint Petersburg, Dubai and others get the same question set. Scores go into a shared table, the winners take a cup, and the totals decide which city comes out on top.
+
+Otherwise it is the usual format: the same rounds and the same table of friends. Medium difficulty, questions about anything.
+
+The game has 51 questions on logic and general knowledge at medium difficulty, and no preparation is needed. The host reads each question and it also appears on the screens; teams write answers on forms and hand them in at the end of every round. Eating and drinking at the table is part of the evening.
+
+Venue: the Santo Domingo bar at Studentski trg 15.
+
+Teams: 2 to 8 players, registration on the organiser website.
+
+Time: starts at 16:00, the game runs about two hours.
+
+Price: 1000 dinars per player.
+
+Language: Russian.","Igra **#171** serijala Squiz odigrava se istovremeno u svim gradovima mreže: Beograd, Moskva, Sankt Peterburg, Dubai i drugi dobijaju isti paket pitanja. Rezultati ulaze u zajednički plasman, pobednici dobijaju pehar, a zbir odlučuje koji je grad najbolji.
+
+Sve ostalo je uobičajena klasika: iste runde i isto društvo za stolom. Težina je srednja, pitanja se tiču svega i svačega.
+
+Igra ima 51 pitanje iz logike i opšte kulture, težina je srednja i priprema nije potrebna. Voditelj čita pitanja koja se istovremeno prikazuju na ekranima, ekipe upisuju odgovore u formulare i predaju ih na kraju svake runde. Za stolom se sme jesti i piti, to je deo večeri.
+
+Mesto: bar Santo Domingo na Studentskom trgu 15.
+
+Ekipa: od 2 do 8 osoba, prijava na sajtu organizatora.
+
+Vreme: početak u 16.00, igra traje oko dva sata.
+
+Cena: 1000 dinara po učesniku.
+
+Jezik: ruski.",16:00,1000,Santo Domingo,"Studentski trg 15, Beograd","44.820075,20.456560",https://belgrade.squiz.ru/,@arsraws,https://belgrade.squiz.ru/,Squiz,https://belgrade.squiz.ru/,,,,,,"квиз, интеллектуальные игры, командная игра, Студенческая площадь, на русском","quiz, trivia, team game, Studentski trg, in Russian","kviz, intelektualne igre, timska igra, Studentski trg, na ruskom"
+11/27/2026,11/27/2026,9/5/2026,1250,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1250-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 27 ноября (пятница) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 27 November (Friday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 27. novembra (petak) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 27 ноября (пятница) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 27 November (Friday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 27. novembra (petak) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+11/28/2026,11/28/2026,9/5/2026,1251,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1251-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 28 ноября (суббота) в 14:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 28 November (Saturday) at 14:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 28. novembra (subota) u 14.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 28 ноября (суббота) в 14:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 28 November (Saturday) at 14:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 28. novembra (subota) u 14.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",14:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/2/2026,12/2/2026,9/5/2026,1252,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1252-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 2 декабря (среда) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 2 December (Wednesday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 2. decembra (sreda) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 2 декабря (среда) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 2 December (Wednesday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 2. decembra (sreda) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/3/2026,12/3/2026,9/5/2026,1253,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1253-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 3 декабря (четверг) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 3 December (Thursday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 3. decembra (četvrtak) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 3 декабря (четверг) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 3 December (Thursday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 3. decembra (četvrtak) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/9/2026,12/9/2026,9/5/2026,1254,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1254-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 9 декабря (среда) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 9 December (Wednesday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 9. decembra (sreda) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 9 декабря (среда) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 9 December (Wednesday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 9. decembra (sreda) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/10/2026,12/10/2026,9/5/2026,1255,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1255-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 10 декабря (четверг) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 10 December (Thursday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 10. decembra (četvrtak) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 10 декабря (четверг) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 10 December (Thursday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 10. decembra (četvrtak) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/18/2026,12/18/2026,9/5/2026,1256,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1256-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 18 декабря (пятница) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 18 December (Friday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 18. decembra (petak) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 18 декабря (пятница) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 18 December (Friday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 18. decembra (petak) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/23/2026,12/23/2026,9/5/2026,1257,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1257-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 23 декабря (среда) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 23 December (Wednesday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 23. decembra (sreda) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 23 декабря (среда) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 23 December (Wednesday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 23. decembra (sreda) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/24/2026,12/24/2026,9/5/2026,1258,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1258-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 24 декабря (четверг) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 24 December (Thursday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 24. decembra (četvrtak) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 24 декабря (четверг) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 24 December (Thursday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 24. decembra (četvrtak) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/25/2026,12/25/2026,9/5/2026,1259,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1259-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 25 декабря (пятница) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 25 December (Friday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 25. decembra (petak) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 25 декабря (пятница) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 25 December (Friday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 25. decembra (petak) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/28/2026,12/28/2026,9/5/2026,1260,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1260-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 28 декабря (понедельник) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 28 December (Monday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 28. decembra (ponedeljak) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 28 декабря (понедельник) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 28 December (Monday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 28. decembra (ponedeljak) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/29/2026,12/29/2026,9/5/2026,1261,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1261-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 29 декабря (вторник) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 29 December (Tuesday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 29. decembra (utorak) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 29 декабря (вторник) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 29 December (Tuesday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 29. decembra (utorak) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+12/30/2026,12/30/2026,9/5/2026,1262,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1262-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 30 декабря (среда) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 30 December (Wednesday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 30. decembra (sreda) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 30 декабря (среда) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 30 December (Wednesday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 30. decembra (sreda) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+1/5/2027,1/5/2027,9/5/2026,1263,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1263-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 5 января 2027 года (вторник) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 5 January 2027 (Tuesday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 5. januara 2027. (utorak) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 5 января 2027 года (вторник) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 5 January 2027 (Tuesday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 5. januara 2027. (utorak) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
+1/14/2027,1/14/2027,9/5/2026,1264,Organization,Балет Народного театра в Белграде,https://www.narodnopozoriste.rs/predstave/krcko-orascic,,TheaterEvent,«Щелкунчик» Чайковского на Большой сцене Народного театра,"Tchaikovsky's ""The Nutcracker"" on the Main Stage of the National Theatre","""Krcko Oraščić"" Čajkovskog na Velikoj sceni Narodnog pozorišta",https://raw.githubusercontent.com/newsgl/arsposters/main/1264-KrckoOrascicNarodno.webp,,Theatre,"Рождественский балет Чайковского с Мари, Щелкунчиком и Мышиным королём на Большой сцене. 14 января 2027 года (четверг) в 19:00, билеты от 2000 динаров.","Tchaikovsky's Christmas ballet with Marie, the Nutcracker and the Mouse King on the Main Stage. 14 January 2027 (Thursday) at 19:00, tickets from 2000 dinars.","Božićni balet Čajkovskog sa Mari, Krckom Oraščićem i Kraljem miševa na Velikoj sceni. 14. januara 2027. (četvrtak) u 19.00, ulaznice od 2000 dinara.","**«Щелкунчик»** Петра Чайковского на Большой сцене Народного театра в Белграде: рождественская сказка про Мари, деревянную куклу-щелкунчика, Мышиного короля и ту самую музыку, которую узнают с первых нот.
+
+Балет заказал директор Императорских театров после успеха «Спящей красавицы»: вечер должны были составить «Щелкунчик» и опера «Иоланта». Сценарий написал хореограф Мариус Петипа, а либретто взяли из повести Александра Дюма, переложившего сказку Гофмана «Щелкунчик и Мышиный король» 1819 года. Летом 1892 года Петипа заболел, и большую часть работы принял на себя его помощник Лев Иванов: он вёл репетиции с труппой и правил хореографию.
+
+В сне девочки обычная комната превращается то в поле боя, то в далёкие экзотические страны.
+
+Дата: 14 января 2027 года (четверг) в 19:00, Велика сцена.
+
+Цена: от 2000 динаров. Пенсионерам, студентам и людям с инвалидностью театр даёт скидку 50 процентов на II и III галерею Большой сцены.
+
+Билеты в декабре разбирают быстро.","**The Nutcracker** by Pyotr Tchaikovsky on the Main Stage of the National Theatre in Belgrade: the Christmas story of Marie, a wooden nutcracker doll, the Mouse King and the score everyone recognises from the first bars.
+
+The ballet was commissioned by the director of the Imperial Theatres after the success of ""The Sleeping Beauty"", as an evening pairing ""The Nutcracker"" with the opera ""Iolanta"". Choreographer Marius Petipa wrote the scenario, and the libretto came from Alexandre Dumas's retelling of Hoffmann's 1819 tale ""The Nutcracker and the Mouse King"". In the summer of 1892 Petipa fell ill and most of the work passed to his assistant Lev Ivanov, who ran the rehearsals and adjusted the choreography.
+
+In the girl's dream an ordinary room turns into a battlefield and then into distant, exotic countries.
+
+Date: 14 January 2027 (Thursday) at 19:00, Main Stage.
+
+Price: from 2000 dinars. The theatre gives pensioners, students and people with disabilities a 50 percent discount on the second and third galleries of the Main Stage.
+
+December performances sell out quickly.","**""Krcko Oraščić""** Petra Iljiča Čajkovskog na Velikoj sceni Narodnog pozorišta u Beogradu: božićna bajka o Mari, drvenoj lutki krcku oraha, Kralju miševa i muzici koja se prepoznaje od prvih taktova.
+
+Balet je naručio direktor Imperatorskih pozorišta posle uspeha ""Uspavane lepotice"", kao celovečernji program od ""Krcka Oraščića"" i opere ""Jolanta"". Scenario je napisao koreograf Marijus Petipa, a libreto je preuzet iz priče Aleksandra Dime, koja je adaptacija Hofmanove bajke ""Krcko Oraščić i Kralj miševa"" iz 1819. godine. U leto 1892. Petipa se razboleo i veći deo posla preuzeo je njegov pomoćnik Lav Ivanov, koji je vodio probe sa ansamblom i prilagođavao koreografiju.
+
+U devojčicinom snu obična soba pretvara se u bojno polje, pa u ambijente dalekih i egzotičnih zemalja.
+
+Datum: 14. januara 2027. (četvrtak) u 19.00, Velika scena.
+
+Cena: od 2000 dinara. Penzioneri, studenti i osobe sa invaliditetom imaju popust od 50 odsto na II i III galeriju Velike scene.
+
+Decembarske predstave brzo se rasprodaju.",19:00,2000,Narodno pozorište u Beogradu,"Francuska 3, 11000 Beograd","44.817006,20.461005",https://www.narodnopozoriste.rs/predstave/krcko-orascic,@arsraws,https://www.narodnopozoriste.rs/predstave/krcko-orascic,Narodno pozorište u Beogradu,https://www.narodnopozoriste.rs/,,,,,,"балет, Чайковский, Народный театр, Щелкунчик, классика, Новый год","ballet, Tchaikovsky, National Theatre, Nutcracker, classical, Christmas","balet, Čajkovski, Narodno pozorište, Krcko Oraščić, klasika, Nova godina"
