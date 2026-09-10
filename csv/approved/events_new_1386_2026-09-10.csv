@@ -1,0 +1,328 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+9/10/2026,9/13/2026,9/10/2026,1386,Organization,Samit Nesvrstanih,https://samitnesvrstanih.com/,,Festival,Samit Nesvrstanih: десятый DIY-фестиваль скейтбординга и искусства,Samit Nesvrstanih: the Tenth DIY Skate and Arts Festival,Samit nesvrstanih: deseti DIY skejt i umetnički festival,https://raw.githubusercontent.com/newsgl/arsposters/main/1386-SamitNesvrstanih2026.webp,,Festivals,"Четыре дня скейт-сессий, живой музыки, выставок и показов скейт-видео на десяти площадках города. С 10 по 13 сентября; организаторы называют программу открытой для всех, но цену входа не указывают.","Four days of skate sessions, live music, exhibitions and skate film screenings across ten venues in the city. From 10 to 13 September; the organisers call the programme open to the public but give no ticket prices.","Četiri dana skejt sesija, žive muzike, izložbi i projekcija skejt filmova na deset lokacija u gradu. Od 10. do 13. septembra; organizatori program nazivaju otvorenim za sve, ali cenu ulaza ne navode.","Десятый выпуск фестиваля Samit Nesvrstanih идёт четыре дня и расходится по городу: Kvaka 22, Савски трг, Cinema Zvezda, Street Gallery в Чавкетовом пассаже, новая DIY-площадка под мостом на Аде, Tonbe Skate Shop, Drugstore, Ада Циганлия и FAKS на Радничкой.
+
+**Четверг, 10 сентября, Kvaka 22.** Открытие с 18:00: тату-сессии TEARZDROP и Mich Ignorant, выставки Ruben Spelta и Federico Casella, перформанс Sergej Vutuc в 19:00, два скейт-фильма, Skate Sumo в 21:00 и ночная сессия в помещении. Живьём играют Xavier Paes и Eigen Risico.
+
+**Пятница, 11 сентября.** Днём мини-рампа с болгарской командой GrindCrusher на Савском тргу. Вечером программа делится надвое: в Cinema Zvezda пять фильмов, среди них Voyager и снятый в Белграде Plastic Jesus, а в Street Gallery выставка Кирилла Коробкова, юбилейный элемент фестиваля и сет Radio Romansa с Jupi Ter.
+
+**Суббота, 12 сентября.** Сбор у Tonbe Skate Shop в 12:30, проход по городу, дальше шесть часов сессии на новой DIY-площадке под мостом на Аде, с живыми выступлениями Kuusoo, Headripp, Batraxomyomaxia, Obluda и Zubi. С 23:00 всё переезжает в Drugstore, где играют три зала до пяти утра.
+
+**Воскресенье, 13 сентября.** Дневная сессия на Аде Циганлии, вечером в FAKS мастерская цианотипии, три фильма и живые сеты Jesss, Korant, Rush to Relax и Ognebesgur.
+
+Организаторы пишут, что программа открыта для всех, но цену входа не называют ни на сайте, ни в анонсе. Клубная ночь в Drugstore вход, скорее всего, продаёт отдельно: уточняйте на месте.
+
+Полное расписание по дням и с картой: samitnesvrstanih.com/program.","The tenth Samit Nesvrstanih runs for four days and spreads across the city: Kvaka 22, Savski trg, Cinema Zvezda, the Street Gallery in Čavketov pasaž, the new DIY spot under the Ada bridge, Tonbe Skate Shop, Drugstore, Ada Ciganlija and FAKS on Radnička.
+
+**Thursday 10 September, Kvaka 22.** The opening starts at 18:00: tattoo sessions with TEARZDROP and Mich Ignorant, exhibitions by Ruben Spelta and Federico Casella, a Sergej Vutuc performance at 19:00, two skate films, Skate Sumo at 21:00 and an indoor session through the night. Xavier Paes and Eigen Risico play live.
+
+**Friday 11 September.** A daytime mini ramp session with the Bulgarian GrindCrusher crew at Savski trg. In the evening the programme splits: five films at Cinema Zvezda, among them Voyager and the Belgrade-shot Plastic Jesus, while the Street Gallery hosts a Kirill Korobkov exhibition, the anniversary element of the festival and a Radio Romansa set with Jupi Ter.
+
+**Saturday 12 September.** Meet at Tonbe Skate Shop at 12:30, then a street takeover and six hours of skating at the new DIY spot under the Ada bridge, with live sets from Kuusoo, Headripp, Batraxomyomaxia, Obluda and Zubi. From 23:00 the night moves to Drugstore, where three rooms run until five in the morning.
+
+**Sunday 13 September.** A daytime session at Ada Ciganlija, then a cyanotype workshop, three films and live sets by Jesss, Korant, Rush to Relax and Ognebesgur at FAKS.
+
+The organisers say the programme is open to the public, but neither the site nor the announcement gives a price. The club night at Drugstore is most likely ticketed separately: check on the door.
+
+The full day-by-day schedule with a map: samitnesvrstanih.com/program.","Deseti Samit nesvrstanih traje četiri dana i širi se po gradu: Kvaka 22, Savski trg, Cinema Zvezda, Street Gallery u Čavketovom pasažu, novi DIY spot ispod mosta na Adi, Tonbe Skate Shop, Drugstore, Ada Ciganlija i FAKS u Radničkoj.
+
+**Četvrtak, 10. septembar, Kvaka 22.** Otvaranje od 18.00: tetovaže sa TEARZDROP i Mich Ignorant, izložbe Rubena Spelte i Federika Kasela, perfomans Sergeja Vutuca u 19.00, dva skejt filma, Skate Sumo u 21.00 i noćna sesija u zatvorenom. Uživo sviraju Xavier Paes i Eigen Risico.
+
+**Petak, 11. septembar.** Popodne mini rampa sa bugarskom ekipom GrindCrusher na Savskom trgu. Uveče se program deli: u Cinema Zvezda pet filmova, među njima Voyager i u Beogradu snimljen Plastic Jesus, a u Street Gallery izložba Kirila Korobkova, jubilarni element festivala i set Radio Romansa sa Jupi Ter.
+
+**Subota, 12. septembar.** Okupljanje kod Tonbe Skate Shopa u 12.30, zatim prolazak kroz grad i šest sati sesije na novom DIY spotu ispod mosta na Adi, uz nastupe Kuusoo, Headripp, Batraxomyomaxia, Obluda i Zubi. Od 23.00 noć se seli u Drugstore, gde tri sale rade do pet ujutru.
+
+**Nedelja, 13. septembar.** Dnevna sesija na Adi Ciganliji, uveče u FAKS radionica cijanotipije, tri filma i nastupi Jesss, Korant, Rush to Relax i Ognebesgur.
+
+Organizatori pišu da je program otvoren za sve, ali cenu ulaza ne navode ni na sajtu ni u najavi. Klupska noć u Drugstoreu se najverovatnije naplaćuje posebno: proverite na licu mesta.
+
+Ceo raspored po danima i sa mapom: samitnesvrstanih.com/program.",18:00,,Kvaka 22,"Ruzveltova 39, Beograd","44.808906,20.483046",https://samitnesvrstanih.com/program,@arsraws,,Samit Nesvrstanih,https://samitnesvrstanih.com/,,,,,,"скейтбординг, фестиваль, DIY, кино, концерты, выставки","skateboarding, festival, DIY, film, concerts, exhibitions","skejtbording, festival, DIY, film, koncerti, izložbe"
+9/12/2026,9/12/2026,9/10/2026,1387,Organization,Voždovački centar Šumice,https://www.vozdovac.rs/,,ChildrensEvent,«Чудесный лес»: бесплатный детский спектакль на летней сцене «Шумице»,The Wondrous Forest: a Free Children’s Play at the Šumice Summer Stage,"„Čudesna šuma"": besplatna predstava za decu na letnjoj sceni „Šumice""",https://raw.githubusercontent.com/newsgl/arsposters/main/1387-CudesnaSumaSumice.webp,,Kids,"Спектакль про мальчика, который уходит в путешествие через волшебный лес. 12 сентября в 18:30 на летней сцене Вождовачкого центра «Шумице», вход свободный.","A play about a boy who sets off on a journey through an enchanted forest. 12 September at 18:30 on the summer stage of the Voždovac centre Šumice, admission free.","Predstava o dečaku koji kreće na putovanje kroz čarobnu šumu. 12. septembra u 18.30 na letnjoj sceni Voždovačkog centra „Šumice"", ulaz slobodan.","Вождовачки центар «Шумице» показывает детский спектакль «Чудесна шума» на своей летней сцене.
+
+История про ребёнка, который отправляется в путешествие и возвращается уже другим. Всё держится на трёх простых для малышей вещах: смелость, дружба и та магия, которая, по словам организаторов, есть в каждом ребёнке.
+
+**12 сентября, суббота, 18:30.**
+
+Место: летняя сцена УВЦ «Шумице», Устаничка 125/1, Вождовац.
+
+Цена: вход свободный.
+
+Анонс и постер организатора на сербском языке.","The Voždovac centre Šumice is showing the children’s play Čudesna šuma on its summer stage.
+
+It follows a child who sets out on a journey and comes back changed. The story rests on three things small children read easily: courage, friendship, and the magic the organisers say every child carries.
+
+**Saturday 12 September, 18:30.**
+
+Venue: the summer stage of Šumice, Ustanička 125/1, Voždovac.
+
+Price: admission free.
+
+The announcement and the poster are in Serbian.","Voždovački centar „Šumice"" prikazuje dečju predstavu „Čudesna šuma"" na svojoj letnjoj sceni.
+
+Priča prati dete koje kreće na putovanje i vraća se promenjeno. Sve se drži na tri stvari koje mališani lako prepoznaju: hrabrost, prijateljstvo i magija koja, kako kažu organizatori, postoji u svakom detetu.
+
+**Subota, 12. septembra, 18.30.**
+
+Mesto: letnja scena UVC „Šumice"", Ustanička 125/1, Voždovac.
+
+Cena: ulaz slobodan.
+
+Najava i plakat organizatora su na srpskom jeziku.",18:30,0,Voždovački centar Šumice,"Ustanička 125/1, 11050 Beograd","44.784673,20.490330",https://t.me/mamakudaidem/2230,@arsraws,,Voždovački centar Šumice,https://www.vozdovac.rs/,,,,,,"дети, спектакль, летняя сцена, Вождовац, вход свободный","kids, play, summer stage, Voždovac, free entry","deca, predstava, letnja scena, Voždovac, slobodan ulaz"
+9/13/2026,9/13/2026,9/10/2026,1388,Organization,Dorćol Platz,https://dorcolplatz.rs/,,Festival,Audio Berza: ярмарка винила и плёнки на Dorćol Platz,Audio Berza: a Vinyl and Tape Fair at Dorćol Platz,Audio berza: sajam vinila i traka na Dorćol Platzu,https://raw.githubusercontent.com/newsgl/arsposters/main/1388-AudioBerzaDorcolPlatz.webp,,Festivals,"Барахолка для тех, кто собирает винил и плёнку: пластинки новые и подержанные, разговоры о звуке. 13 сентября с 10:00 до 16:00 на Dorćol Platz, вход свободный.","A flea market for people who collect vinyl and tape: new and second-hand records, and talk about sound. 13 September from 10:00 to 16:00 at Dorćol Platz, admission free.","Buvljak za one koji skupljaju vinil i trake: nove i polovne ploče i razgovor o zvuku. 13. septembra od 10.00 do 16.00 na Dorćol Platzu, ulaz slobodan.","На Dorćol Platz снова собирается Audio Berza, ярмарка звуковых носителей.
+
+Здесь ищут и продают винил и плёнку, новые и бывшие в употреблении. Приходят коллекционеры, диджеи и те, кому просто интересно порыться в ящиках и поговорить о качественном звуке.
+
+**13 сентября, воскресенье, с 10:00 до 16:00.**
+
+Место: Dorćol Platz, Добрачина 59б.
+
+Цена: вход свободный.","Audio Berza, a fair for sound carriers, returns to Dorćol Platz.
+
+People come to hunt for and sell vinyl and tape, new and second-hand. Collectors, DJs and anyone who enjoys digging through crates and talking about good sound.
+
+**Sunday 13 September, from 10:00 to 16:00.**
+
+Venue: Dorćol Platz, Dobračina 59b.
+
+Price: admission free.","Na Dorćol Platzu se ponovo okuplja Audio berza, sajam nosača zvuka.
+
+Ovde se traži i prodaje vinil i traka, novo i polovno. Dolaze kolekcionari, di-džejevi i svi koji vole da preturaju po gajbama i pričaju o dobrom zvuku.
+
+**Nedelja, 13. septembra, od 10.00 do 16.00.**
+
+Mesto: Dorćol Platz, Dobračina 59b.
+
+Cena: ulaz slobodan.",10:00,0,Dorćol Platz,"Dobračina 59b, 11000 Beograd","44.823336,20.466982",https://t.me/sta_imas_beograd/4766,@arsraws,,Dorćol Platz,https://dorcolplatz.rs/,,,,,,"винил, ярмарка, музыка, Дорчол, вход свободный","vinyl, fair, music, Dorćol, free entry","vinil, sajam, muzika, Dorćol, slobodan ulaz"
+9/17/2026,9/17/2026,9/10/2026,1389,Organization,Auditoria,https://t.me/auditoria_belgrade,ru,EducationEvent,Психологическая самопомощь: встреча про тревогу в «Аудитории»,Psychological Self-Help: a Session on Anxiety at Auditoria,Psihološka samopomoć: susret o anksioznosti u Auditoriji,https://raw.githubusercontent.com/newsgl/arsposters/main/1389-SamopomoshTrevogaAuditoria.webp,,Lectures,"Вторая встреча цикла: тренинг на основе КПТ о том, как понимать тревогу и сокращать избегание. 17 сентября в 17:00 в «Аудитории», 1000 динаров по регистрации.","The second session of the series: a CBT-based workshop on understanding anxiety and cutting back avoidance. 17 September at 17:00 at Auditoria, 1000 dinars with registration.","Drugi susret ciklusa: trening zasnovan na KBT o tome kako razumeti anksioznost i smanjiti izbegavanje. 17. septembra u 17.00 u Auditoriji, 1000 dinara uz prijavu.","Вторая встреча цикла групп самопомощи, который «Аудитория» ведёт вместе с медицинским центром «Альфамедстар».
+
+Тревога умеет забирать всё больше места: человек начинает избегать ситуаций, откладывать важное, сужать круг привычных дел. На встрече разбирают, как этот механизм устроен и что с ним делать. Формат тот же, что у первой встречи: короткий теоретический блок, дальше практика с техниками осознанности и саморегуляции.
+
+Встречи ведут психологи Роман Новиков и Андрей Мартынов, оба работают в подходе КПТ.
+
+**17 сентября, четверг, 17:00.**
+
+Место: «Аудитория», Војводе Добрњца 48.
+
+Цена: 1000 динаров, наличными на входе. Регистрация обязательна.
+
+Встреча идёт на русском языке.","The second session in the self-help series that Auditoria runs together with the AlfaMedStar medical centre.
+
+Anxiety tends to take up more and more room: a person starts avoiding situations, putting off what matters, narrowing the range of ordinary things they do. The session looks at how that works and what can be done about it. The format matches the first one: a short theory block, then practice with mindfulness and self-regulation techniques.
+
+The sessions are led by psychologists Roman Novikov and Andrey Martynov, both working in CBT.
+
+**Thursday 17 September, 17:00.**
+
+Venue: Auditoria, Vojvode Dobrnjca 48.
+
+Price: 1000 dinars, cash at the door. Registration required.
+
+The session is in Russian.","Drugi susret u ciklusu grupa samopomoći koji Auditoria vodi zajedno sa medicinskim centrom AlfaMedStar.
+
+Anksioznost ume da zauzima sve više prostora: čovek počinje da izbegava situacije, odlaže važno i sužava krug uobičajenih poslova. Na susretu se razlaže kako taj mehanizam radi i šta se s njim može. Format je isti kao na prvom susretu: kratak teorijski deo, pa praksa sa tehnikama svesnosti i samoregulacije.
+
+Susrete vode psiholozi Roman Novikov i Andrej Martinov, oba u KBT pristupu.
+
+**Četvrtak, 17. septembra, 17.00.**
+
+Mesto: Auditoria, Vojvode Dobrnjca 48.
+
+Cena: 1000 dinara, gotovinom na ulazu. Prijava je obavezna.
+
+Susret se održava na ruskom jeziku.",17:00,1000,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://luma.com/45wl4855,@auditoria_belgrade,https://luma.com/45wl4855,Auditoria,https://t.me/auditoria_belgrade,,,,,,"психология, группа поддержки, самопомощь, Аудитория, русский язык","psychology, support group, self-help, Auditoria, Russian language","psihologija, grupa podrške, samopomoć, Auditoria, ruski jezik"
+9/21/2026,9/21/2026,9/10/2026,1390,Organization,Auditoria,https://t.me/auditoria_belgrade,ru,EducationEvent,Психологическая самопомощь: встреча про РАС в «Аудитории»,Psychological Self-Help: a Session on Autism at Auditoria,Psihološka samopomoć: susret o autizmu u Auditoriji,https://raw.githubusercontent.com/newsgl/arsposters/main/1390-SamopomoshRASAuditoria.webp,,Lectures,"Третья встреча цикла: тренинг для взрослых с расстройством аутистического спектра о саморегуляции, планировании и границах. 21 сентября в 17:00 в «Аудитории», 1000 динаров по регистрации.","The third session of the series: a workshop for adults on the autism spectrum, covering self-regulation, planning and boundaries. 21 September at 17:00 at Auditoria, 1000 dinars with registration.","Treći susret ciklusa: trening za odrasle sa poremećajem iz spektra autizma o samoregulaciji, planiranju i granicama. 21. septembra u 17.00 u Auditoriji, 1000 dinara uz prijavu.","Третья встреча цикла групп самопомощи «Аудитории» и медицинского центра «Альфамедстар».
+
+Практический тренинг для взрослых с расстройством аутистического спектра: как лучше понимать себя, справляться с тревогой и сенсорной перегрузкой. В программе техники саморегуляции, а также инструменты для планирования, общения, выстраивания границ и поддержания отношений.
+
+Встречи ведут психологи Роман Новиков и Андрей Мартынов.
+
+**21 сентября, понедельник, 17:00.**
+
+Место: «Аудитория», Војводе Добрњца 48.
+
+Цена: 1000 динаров, наличными на входе. Регистрация обязательна.
+
+Встреча идёт на русском языке.","The third session in the self-help series run by Auditoria and the AlfaMedStar medical centre.
+
+A practical workshop for adults on the autism spectrum: understanding yourself better, handling anxiety and sensory overload. It covers self-regulation techniques along with tools for planning, communication, setting boundaries and keeping relationships going.
+
+The sessions are led by psychologists Roman Novikov and Andrey Martynov.
+
+**Monday 21 September, 17:00.**
+
+Venue: Auditoria, Vojvode Dobrnjca 48.
+
+Price: 1000 dinars, cash at the door. Registration required.
+
+The session is in Russian.","Treći susret u ciklusu grupa samopomoći Auditorije i medicinskog centra AlfaMedStar.
+
+Praktičan trening za odrasle sa poremećajem iz spektra autizma: kako bolje razumeti sebe, izaći na kraj sa anksioznošću i senzornim preopterećenjem. Na programu su tehnike samoregulacije, kao i alati za planiranje, komunikaciju, postavljanje granica i održavanje odnosa.
+
+Susrete vode psiholozi Roman Novikov i Andrej Martinov.
+
+**Ponedeljak, 21. septembra, 17.00.**
+
+Mesto: Auditoria, Vojvode Dobrnjca 48.
+
+Cena: 1000 dinara, gotovinom na ulazu. Prijava je obavezna.
+
+Susret se održava na ruskom jeziku.",17:00,1000,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://luma.com/iuxcmds4,@auditoria_belgrade,https://luma.com/iuxcmds4,Auditoria,https://t.me/auditoria_belgrade,,,,,,"психология, группа поддержки, самопомощь, Аудитория, русский язык","psychology, support group, self-help, Auditoria, Russian language","psihologija, grupa podrške, samopomoć, Auditoria, ruski jezik"
+9/27/2026,9/27/2026,9/10/2026,1391,Organization,Enter,https://enterspace.rs/,ru,ChildrensEvent,«Всё Наоборот»: театр теней для малышей в пространстве Enter,Everything Upside Down: Shadow Theatre for Toddlers at Enter,"„Sve naopako"": pozorište senki za najmlađe u prostoru Enter",https://raw.githubusercontent.com/newsgl/arsposters/main/1391-VseNaoborotEnter.webp,,Kids,"Театр теней и игры с феями для детей от полутора до трёх лет. 27 сентября в 10:30 в семейном пространстве Enter на Ресавской, 2500 динаров.","Shadow theatre and games with fairies for children aged one and a half to three. 27 September at 10:30 at the Enter family space on Resavska, 2500 dinars.","Pozorište senki i igre sa vilama za decu od godinu i po do tri godine. 27. septembra u 10.30 u porodičnom prostoru Enter u Resavskoj, 2500 dinara.","Семейное пространство Enter показывает спектакль для самых маленьких.
+
+Фея Как Надо и Фея Наоборот ведут детей по заколдованному лесу: зажигают звёзды на небе и помогают той, что всё делает наоборот, найти свою дорогу.
+
+Представление состоит из двух частей по 25 минут: сначала театр теней, потом игры с феями.
+
+Для детей от полутора до трёх лет вместе с мамами и папами.
+
+**27 сентября, воскресенье, 10:30.**
+
+Место: семейное пространство Enter, Ресавска 34.
+
+Цена: 2500 динаров. Нужна запись.
+
+Спектакль идёт на русском языке.","The Enter family space is putting on a show for the youngest audience.
+
+The Fairy Who Does Things Right and the Fairy Who Does Everything Backwards take children through an enchanted forest, lighting stars in the sky and helping the backwards one find her way.
+
+The show comes in two parts of 25 minutes each: shadow theatre first, then games with the fairies.
+
+For children aged one and a half to three, together with their parents.
+
+**Sunday 27 September, 10:30.**
+
+Venue: the Enter family space, Resavska 34.
+
+Price: 2500 dinars. Booking required.
+
+The show is in Russian.","Porodični prostor Enter priprema predstavu za najmlađe.
+
+Vila Kako Treba i Vila Naopako vode decu kroz začaranu šumu: pale zvezde na nebu i pomažu onoj koja sve radi naopako da nađe svoj put.
+
+Predstava ima dva dela po 25 minuta: prvo pozorište senki, zatim igre sa vilama.
+
+Za decu od godinu i po do tri godine, u pratnji roditelja.
+
+**Nedelja, 27. septembra, 10.30.**
+
+Mesto: porodični prostor Enter, Resavska 34.
+
+Cena: 2500 dinara. Potrebna je prijava.
+
+Predstava se izvodi na ruskom jeziku.",10:30,2500,Enter,"Resavska 34, 11000 Beograd","44.807129,20.464729",https://enterspace.rs/#events,@arsraws,https://enterspace.rs/#events,Enter,https://enterspace.rs/,,,1-3,,,"дети, театр теней, малыши, Врачар, русский язык","kids, shadow theatre, toddlers, Vračar, Russian language","deca, pozorište senki, mališani, Vračar, ruski jezik"
+9/29/2026,9/29/2026,9/10/2026,1392,Organization,Auditoria,https://t.me/auditoria_belgrade,ru,EducationEvent,Психологическая самопомощь: встреча про депрессию в «Аудитории»,Psychological Self-Help: a Session on Depression at Auditoria,Psihološka samopomoć: susret o depresiji u Auditoriji,https://raw.githubusercontent.com/newsgl/arsposters/main/1392-SamopomoshDepressiaAuditoria.webp,,Lectures,"Четвёртая встреча цикла: как действовать без сил и мотивации, работать с тяжёлыми мыслями и замечать признаки ухудшения. 29 сентября в 17:00 в «Аудитории», 1000 динаров по регистрации.","The fourth session of the series: acting without energy or motivation, working with heavy thoughts, and spotting the signs of a downturn. 29 September at 17:00 at Auditoria, 1000 dinars with registration.","Četvrti susret ciklusa: kako delovati bez snage i motivacije, raditi sa teškim mislima i primetiti znake pogoršanja. 29. septembra u 17.00 u Auditoriji, 1000 dinara uz prijavu.","Четвёртая встреча цикла групп самопомощи «Аудитории» и медицинского центра «Альфамедстар».
+
+Встреча для тех, кто живёт с депрессией: как понимать своё состояние и постепенно возвращаться к жизни. Разбирают, как действовать даже без сил и мотивации, что делать с тяжёлыми мыслями, как возвращать маленькие радости и замечать признаки ухудшения состояния.
+
+Встречи ведут психологи Роман Новиков и Андрей Мартынов.
+
+**29 сентября, вторник, 17:00.**
+
+Место: «Аудитория», Војводе Добрњца 48.
+
+Цена: 1000 динаров, наличными на входе. Регистрация обязательна.
+
+Встреча идёт на русском языке.","The fourth session in the self-help series run by Auditoria and the AlfaMedStar medical centre.
+
+A meeting for people living with depression: understanding your own state and finding a way back step by step. It covers how to act without energy or motivation, what to do with heavy thoughts, how to bring back small pleasures and how to notice when things are getting worse.
+
+The sessions are led by psychologists Roman Novikov and Andrey Martynov.
+
+**Tuesday 29 September, 17:00.**
+
+Venue: Auditoria, Vojvode Dobrnjca 48.
+
+Price: 1000 dinars, cash at the door. Registration required.
+
+The session is in Russian.","Četvrti susret u ciklusu grupa samopomoći Auditorije i medicinskog centra AlfaMedStar.
+
+Susret za one koji žive sa depresijom: kako razumeti svoje stanje i postepeno se vraćati u život. Razlaže se kako delovati i bez snage i motivacije, šta raditi sa teškim mislima, kako vratiti male radosti i primetiti znake pogoršanja.
+
+Susrete vode psiholozi Roman Novikov i Andrej Martinov.
+
+**Utorak, 29. septembra, 17.00.**
+
+Mesto: Auditoria, Vojvode Dobrnjca 48.
+
+Cena: 1000 dinara, gotovinom na ulazu. Prijava je obavezna.
+
+Susret se održava na ruskom jeziku.",17:00,1000,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://luma.com/1qmgm5py,@auditoria_belgrade,https://luma.com/1qmgm5py,Auditoria,https://t.me/auditoria_belgrade,,,,,,"психология, группа поддержки, самопомощь, Аудитория, русский язык","psychology, support group, self-help, Auditoria, Russian language","psihologija, grupa podrške, samopomoć, Auditoria, ruski jezik"
+10/1/2026,10/1/2026,9/10/2026,1393,Organization,Auditoria,https://t.me/auditoria_belgrade,ru,EducationEvent,Психологическая самопомощь: встреча про ПРЛ и КПТСР в «Аудитории»,Psychological Self-Help: a Session on BPD and CPTSD at Auditoria,Psihološka samopomoć: susret o graničnom poremećaju i KPTSP u Auditoriji,https://raw.githubusercontent.com/newsgl/arsposters/main/1393-SamopomoshPRLAuditoria.webp,,Lectures,"Пятая встреча цикла: навыки эмоциональной регуляции, разговор о самосострадании, границах и отношениях. 1 октября в 17:00 в «Аудитории», 1000 динаров по регистрации.","The fifth session of the series: emotional regulation skills and a conversation about self-compassion, boundaries and relationships. 1 October at 17:00 at Auditoria, 1000 dinars with registration.","Peti susret ciklusa: veštine emocionalne regulacije i razgovor o samosaosećanju, granicama i odnosima. 1. oktobra u 17.00 u Auditoriji, 1000 dinara uz prijavu.","Пятая, последняя встреча цикла групп самопомощи «Аудитории» и медицинского центра «Альфамедстар».
+
+Практическая встреча о том, как формировать внутреннюю опору и меньше зависеть от кризисов в повседневной жизни. Осваивают навыки эмоциональной регуляции и осознанности, говорят о самосострадании, границах, отношениях и поиске собственных ценностей.
+
+Встречи ведут психологи Роман Новиков и Андрей Мартынов.
+
+**1 октября, четверг, 17:00.**
+
+Место: «Аудитория», Војводе Добрњца 48.
+
+Цена: 1000 динаров, наличными на входе. Регистрация обязательна.
+
+Встреча идёт на русском языке.","The fifth and final session in the self-help series run by Auditoria and the AlfaMedStar medical centre.
+
+A practical meeting about building internal support and depending less on crises in everyday life. Participants pick up emotional regulation and mindfulness skills, and talk about self-compassion, boundaries, relationships and finding their own values.
+
+The sessions are led by psychologists Roman Novikov and Andrey Martynov.
+
+**Thursday 1 October, 17:00.**
+
+Venue: Auditoria, Vojvode Dobrnjca 48.
+
+Price: 1000 dinars, cash at the door. Registration required.
+
+The session is in Russian.","Peti i poslednji susret u ciklusu grupa samopomoći Auditorije i medicinskog centra AlfaMedStar.
+
+Praktičan susret o tome kako graditi unutrašnji oslonac i manje zavisiti od kriza u svakodnevnom životu. Uče se veštine emocionalne regulacije i svesnosti, a razgovara se o samosaosećanju, granicama, odnosima i traženju sopstvenih vrednosti.
+
+Susrete vode psiholozi Roman Novikov i Andrej Martinov.
+
+**Četvrtak, 1. oktobra, 17.00.**
+
+Mesto: Auditoria, Vojvode Dobrnjca 48.
+
+Cena: 1000 dinara, gotovinom na ulazu. Prijava je obavezna.
+
+Susret se održava na ruskom jeziku.",17:00,1000,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://luma.com/stzut4qj,@auditoria_belgrade,https://luma.com/stzut4qj,Auditoria,https://t.me/auditoria_belgrade,,,,,,"психология, группа поддержки, самопомощь, Аудитория, русский язык","psychology, support group, self-help, Auditoria, Russian language","psihologija, grupa podrške, samopomoć, Auditoria, ruski jezik"
+10/8/2026,10/8/2026,9/10/2026,1394,Person,Николай Овчинников,https://t.me/thevoicemag,ru,EducationEvent,«Мы никогда не умрём»: Николай Овчинников об альтернативной музыке нулевых в «Аудитории»,We Will Never Die: Nikolay Ovchinnikov on the Alternative Music of the 2000s at Auditoria,"„Nikada nećemo umreti"": Nikolaj Ovčinjikov o alternativnoj muzici dvehiljaditih u Auditoriji",https://raw.githubusercontent.com/newsgl/arsposters/main/1394-MyNikogdaNeUmremAuditoria.webp,,Lectures,"Презентация книги о ню-метале и альтернативе нулевых и разговор о том, почему эту музыку снова слушают. 8 октября в 19:00 в «Аудитории», вход по донату, регистрация обязательна.","A book presentation about nu metal and the alternative scene of the 2000s, plus a conversation about why that music is being played again. 8 October at 19:00 at Auditoria, entry by donation, registration required.","Predstavljanje knjige o nu metalu i alternativi dvehiljaditih i razgovor o tome zašto se ta muzika ponovo sluša. 8. oktobra u 19.00 u Auditoriji, ulaz na donaciju, prijava obavezna.","Музыкальные журналисты Николай Овчинников и Владимир Завьялов написали книгу «Мы никогда не умрём» об альтернативной музыке нулевых. Овчинников приезжает в «Аудиторию» поговорить о ней.
+
+Книга разбирает, как появился, разросся и закончился ню-метал, за что вспоминают Честера Беннингтона и почему Deftones считают отцами современного рока. Отдельная линия про то, как альтернатива дошла до русскоязычной постсоветской сцены: Tequilajazzz, Jane Air, Amatory, «Океан Моей Надежды», канал A-One, лейбл «Капкан», и что от неё осталось в музыке нынешней.
+
+Заодно Овчинников объясняет, почему мем «вернуть 2007-й» держится так долго и какой именно 2007-й людям хочется обратно.
+
+Николай Овчинников: журналист и музыкальный обозреватель, основатель медиа «Волна Латвия», пишет для Delfi, «Новой газеты Европа» и Republic, живёт в Риге. До 2022 года был шеф-редактором и музыкальным обозревателем «Афиши Daily». Вместе с Завьяловым ведёт телеграм-канал «Войс» и участвовал в написании книги «Не надо стесняться».
+
+**8 октября, четверг, 19:00.**
+
+Место: «Аудитория», Војводе Добрњца 48.
+
+Цена: free donation, наличными на входе. Мест немного, регистрация обязательна.
+
+Встреча идёт на русском языке.","Music journalists Nikolay Ovchinnikov and Vladimir Zavyalov wrote a book called We Will Never Die about the alternative music of the 2000s. Ovchinnikov is coming to Auditoria to talk about it.
+
+The book traces how nu metal appeared, grew and ended, why Chester Bennington keeps coming up, and why Deftones are treated as the fathers of modern rock. A separate thread follows how the alternative scene reached the Russian-language post-Soviet stage: Tequilajazzz, Jane Air, Amatory, Okean Moey Nadezhdy, the A-One channel, the Kapkan label, and what is left of all that in the music being made now.
+
+Along the way Ovchinnikov explains why the meme about bringing back 2007 has lasted so long, and which 2007 people actually want back.
+
+Nikolay Ovchinnikov is a journalist and music critic, founder of the Volna Latvia outlet, and writes for Delfi, Novaya Gazeta Europe and Republic. He lives in Riga. Until 2022 he was editor-in-chief and music critic at Afisha Daily. With Zavyalov he runs the Telegram channel Voice and co-wrote the book Ne Nado Stesnyatsya.
+
+**Thursday 8 October, 19:00.**
+
+Venue: Auditoria, Vojvode Dobrnjca 48.
+
+Price: free donation, cash at the door. Places are limited and registration is required.
+
+The event is in Russian.","Muzički novinari Nikolaj Ovčinjikov i Vladimir Zavjalov napisali su knjigu „Nikada nećemo umreti"" o alternativnoj muzici dvehiljaditih. Ovčinjikov dolazi u Auditoriju da priča o njoj.
+
+Knjiga prati kako je nu metal nastao, narastao i završio se, zašto se Čester Benington i dalje pominje i zašto se Deftones smatraju očevima savremenog roka. Posebna linija govori o tome kako je alternativa stigla na rusku postsovjetsku scenu: Tequilajazzz, Jane Air, Amatory, „Okean moje nade"", kanal A-One, izdavačka kuća „Kapkan"", i šta je od svega toga ostalo u današnjoj muzici.
+
+Usput Ovčinjikov objašnjava zašto mem o povratku u 2007. traje ovoliko dugo i koju to 2007. ljudi zapravo žele nazad.
+
+Nikolaj Ovčinjikov je novinar i muzički kritičar, osnivač medija „Volna Latvija"", piše za Delfi, „Novaju gazetu Evropa"" i Republic, živi u Rigi. Do 2022. bio je glavni urednik i muzički kritičar „Afiše Daily"". Sa Zavjalovom vodi telegram kanal „Vojs"" i učestvovao je u pisanju knjige „Ne nado stesnjatsja"".
+
+**Četvrtak, 8. oktobra, 19.00.**
+
+Mesto: Auditoria, Vojvode Dobrnjca 48.
+
+Cena: free donation, gotovinom na ulazu. Mesta je malo, prijava je obavezna.
+
+Susret se održava na ruskom jeziku.",19:00,0,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://luma.com/z8td21ah,@auditoria_belgrade,https://luma.com/z8td21ah,Auditoria,https://t.me/auditoria_belgrade,,,,,,"презентация книги, музыка, нулевые, ню-метал, Аудитория, русский язык","book presentation, music, 2000s, nu metal, Auditoria, Russian language","predstavljanje knjige, muzika, dvehiljadite, nu metal, Auditoria, ruski jezik"

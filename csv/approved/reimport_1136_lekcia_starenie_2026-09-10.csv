@@ -1,0 +1,44 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+9/15/2026,9/15/2026,9/10/2026,1136,Person,Лец Борман,https://luma.com/5011a7ki,ru,EducationEvent,Биологические механизмы старения: лекция Леца Бормана в «Аудитории»,The biology of ageing: a lecture by Lets Borman at Auditoria,Biološki mehanizmi starenja: predavanje Leca Bormana u Auditoriji,https://raw.githubusercontent.com/newsgl/arsposters/main/1136-MehanizmyStareniaAuditoria.webp,,Lectures,"Что происходит с клеткой, когда организм стареет, и что из способов это замедлить работает. 15 сентября в 19:30, 1000 RSD по регистрации.","What happens inside a cell as the body ages, and which ways of slowing that down actually work. 15 September at 19:30, 1000 RSD with registration.","Šta se dešava u ćeliji dok organizam stari i koji načini usporavanja zaista deluju. 15. septembra u 19.30, 1000 RSD uz prijavu.","Лекция о том, как старение выглядит на молекулярном уровне: теломеры и клеточное старение, накопление мутаций и повреждений, момент, когда клетка перестаёт делиться.
+
+Вторая часть про то, что человеческий сценарий не единственный. Разбирают, как стареют другие животные, от «бессмертных» медуз до голых землекопов, и почему у них это устроено иначе.
+
+В финале речь о границе между научной фантастикой и лабораторной практикой: какие способы замедлить или продлить жизнь сейчас исследуются и что из этого подтверждено.
+
+Лектор: **Лец Борман**, преподаватель биологии и биоинформатик, работал в НИИ молекулярной биологии Армении и в лаборатории микробиологии и молекулярной биологии «Сколково».
+
+Время: начало в 19:30.
+
+Цена: 1000 RSD наличными на входе по предварительной регистрации, без регистрации 1500 RSD.
+
+Язык: русский.
+
+Лекцию перенесли с 10 на 15 сентября, время осталось прежним.","A lecture on what ageing looks like at the molecular level: telomeres and cellular senescence, the build-up of mutations and damage, and the point at which a cell stops dividing.
+
+The second part shows that the human pattern is not the only one. It covers how other animals age, from ""immortal"" jellyfish to naked mole rats, and why their biology follows a different course.
+
+The closing section draws the line between science fiction and laboratory practice: which ways of slowing or extending life are under study now, and what has actually held up.
+
+Speaker: **Lets Borman**, a biology teacher and bioinformatician who worked at the Institute of Molecular Biology in Armenia and at the microbiology and molecular biology laboratory of Skolkovo.
+
+Time: starts at 19:30.
+
+Price: 1000 RSD in cash at the door with prior registration, 1500 RSD without.
+
+Language: Russian.
+
+The lecture has been moved from 10 to 15 September; the time is unchanged.","Predavanje o tome kako starenje izgleda na molekularnom nivou: telomeri i ćelijsko starenje, gomilanje mutacija i oštećenja i trenutak kada ćelija prestaje da se deli.
+
+Drugi deo pokazuje da ljudski scenario nije jedini. Govori se o tome kako stare druge životinje, od ""besmrtnih"" meduza do golih krtičnjaka, i zašto se njihova biologija ponaša drugačije.
+
+Na kraju se povlači granica između naučne fantastike i laboratorijske prakse: koji se načini usporavanja ili produžavanja života danas istražuju i šta je od toga potvrđeno.
+
+Predavač: **Lec Borman**, profesor biologije i bioinformatičar, radio u Institutu za molekularnu biologiju u Jermeniji i u laboratoriji za mikrobiologiju i molekularnu biologiju ""Skolkovo"".
+
+Vreme: početak u 19.30.
+
+Cena: 1000 RSD gotovinom na ulazu uz prethodnu prijavu, bez prijave 1500 RSD.
+
+Jezik: ruski.
+
+Predavanje je pomereno sa 10. na 15. septembar, vreme ostaje isto.",19:30,1000,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://luma.com/5011a7ki,@auditoria_belgrade,https://luma.com/5011a7ki,Auditoria,https://t.me/auditoria_belgrade,,,,,,"лекция, биология, наука, старение, Аудитория, Врачар","lecture, biology, science, ageing, Auditoria, Vracar","predavanje, biologija, nauka, starenje, Auditoria, Vračar"
