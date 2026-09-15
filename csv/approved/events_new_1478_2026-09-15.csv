@@ -1,0 +1,556 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+9/20/2026,9/20/2026,9/15/2026,1478,Organization,DC Loža,https://t.me/dcloza,,EducationEvent,Фотолаборатория в DC Loža: печать с экрана телефона на фотобумагу,Photolab at DC Loza: printing from a phone screen onto photo paper,Fotolaboratorija u DC Loži: štampa sa ekrana telefona na foto-papir,https://raw.githubusercontent.com/newsgl/arsposters/main/1478-FotolaboratoriaDCLoza.webp,,Master classes,"Снимок с телефона переносят через фотоувеличитель на светочувствительную бумагу и проявляют в тёмной комнате. 20 сентября в 15:00 в DC Loža на Далматинской, донат 1000 динаров.","A phone photo is projected through an enlarger onto light-sensitive paper and developed by hand in the darkroom. 20 September at 15:00 at DC Loza on Dalmatinska, donation 1000 dinars.","Fotografija sa telefona prenosi se kroz foto-uvećivač na svetlosno osetljiv papir i ručno razvija u mračnoj komori. 20. septembra u 15.00 u DC Loži u Dalmatinskoj, donacija 1000 dinara.","Мастер-класс переворачивает привычный порядок: снимаем на телефон, а печатаем как с плёнки. Экран смартфона становится негативом, кадр переносят через фотоувеличитель прямо с экрана на светочувствительную бумагу, потом проявляют, фиксируют и промывают вручную в тёмной комнате.
+
+Программа: короткая съёмка на телефон, печать с экрана через увеличитель, проявка, фиксаж и промывка, разговор о том, что меняется, когда цифровой кадр становится отпечатком.
+
+Опыт не нужен, из оборудования достаточно телефона.
+
+Место: DC Loža, Далматинска 84L, вход со стороны Иванковачкой.
+
+Время: 15:00.
+
+Цена: рекомендованный донат 1000 динаров.
+
+Язык: русский, перевод на английский по запросу.
+
+Курение только на улице.","The workshop reverses the usual order: shoot on a phone, print as if from film. The smartphone screen becomes the negative, the frame is projected through an enlarger straight from the screen onto light-sensitive paper, then developed, fixed and washed by hand in the darkroom.
+
+Programme: a short phone shoot, printing from the screen through the enlarger, developing, fixing and washing, and a talk about what changes when a digital frame becomes a print.
+
+No experience needed, a phone is the only equipment required.
+
+Venue: DC Loza, Dalmatinska 84L, entrance from Ivankovacka.
+
+Time: 15:00.
+
+Price: recommended donation 1000 dinars.
+
+Language: Russian, with English translation on request.
+
+Smoking outside only.","Radionica obrće uobičajeni redosled: snima se telefonom, a štampa kao sa filma. Ekran telefona postaje negativ, kadar se kroz foto-uvećivač prenosi direktno sa ekrana na svetlosno osetljiv papir, a zatim se ručno razvija, fiksira i ispira u mračnoj komori.
+
+Program: kratko snimanje telefonom, štampa sa ekrana kroz uvećivač, razvijanje, fiksiranje i ispiranje, razgovor o tome šta se menja kada digitalni kadar postane otisak.
+
+Iskustvo nije potrebno, od opreme je dovoljan telefon.
+
+Mesto: DC Loža, Dalmatinska 84L, ulaz sa strane Ivankovačke.
+
+Vreme: 15.00.
+
+Cena: preporučena donacija 1000 dinara.
+
+Jezik: ruski, prevod na engleski na zahtev.
+
+Pušenje samo napolju.",15:00,1000,DC Loža,"Dalmatinska 84L, 11000 Beograd","44.808482,20.480228",https://t.me/dcloza/1169,@dcloza,,DC Loža,https://t.me/dcloza,,,,,,"фотография, аналоговая печать, тёмная комната, мастер-класс, DC Loža","photography, analog printing, darkroom, workshop, DC Loza","fotografija, analogna štampa, mračna komora, radionica, DC Loža"
+9/20/2026,9/20/2026,9/15/2026,1479,Organization,DC Loža,https://t.me/dcloza,,EducationEvent,"Bitsy: делаем минималистичные игры в DC Loža, туториал и джем","Bitsy: minimalist game making at DC Loza, tutorial and jam","Bitsy: pravimo minimalističke igre u DC Loži, tutorijal i džem",https://raw.githubusercontent.com/newsgl/arsposters/main/1479-BitsyGameMakingDCLoza.webp,,Master classes,"Вечер разработки игр на движке Bitsy: в 18:00 разбор движка и первая игра вместе, в 20:00 джем со своими проектами. 20 сентября в DC Loža, донат 1000 динаров, нужен ноутбук.","An evening of making games on the Bitsy engine: at 18:00 a walkthrough of the engine and a first game made together, at 20:00 a jam with your own projects. 20 September at DC Loza, donation 1000 dinars, bring a laptop.","Veče pravljenja igara na endžinu Bitsy: u 18.00 upoznavanje sa endžinom i prva igra zajedno, u 20.00 džem sa sopstvenim projektima. 20. septembra u DC Loži, donacija 1000 dinara, potreban je laptop.","Вязбук из сообщества «Заиграние» снова собирает тех, кто хочет сделать игру на Bitsy. Движок простой и минималистичный, опыт разработки не нужен: прийти можно, даже если раньше игры не делал.
+
+В 18:00 туториал: разбор устройства Bitsy и небольшая игра, которую собирают все вместе. Эта часть для тех, кто с движком не знаком или хочет освежить знания.
+
+В 20:00 джем: каждый делает свою игру, пробует идеи, обменивается ими с соседями и помогает другим. Кто уже знает Bitsy, может прийти сразу к началу джема. Готовые игры запускают на проекторе и играют в них вместе.
+
+Регистрация через @dcloza_bot. С собой ноутбук.
+
+Место: DC Loža, Далматинска 84L, вход со стороны Иванковачкой.
+
+Время: 18:00 туториал, 20:00 джем.
+
+Цена: рекомендованный донат 1000 динаров.
+
+Язык: русский и английский.
+
+Курение только на улице.","Vyazbuk from the Zaigranie community once again gathers people who want to make a game on Bitsy. The engine is simple and minimalist and no development experience is needed: you can come even if you have never made a game before.
+
+At 18:00 the tutorial: how Bitsy works and a small game built together. This part is for those new to the engine or wanting a refresher.
+
+At 20:00 the jam: everyone makes their own game, tries out ideas, swaps them with neighbours and helps others. If you already know Bitsy, you can come straight for the jam. Finished games go up on the projector to be played together.
+
+Registration through @dcloza_bot. Bring a laptop.
+
+Venue: DC Loza, Dalmatinska 84L, entrance from Ivankovacka.
+
+Time: 18:00 tutorial, 20:00 jam.
+
+Price: recommended donation 1000 dinars.
+
+Language: Russian and English.
+
+Smoking outside only.","Vjazbuk iz zajednice „Zaigranije“ ponovo okuplja one koji žele da naprave igru na Bitsy endžinu. Endžin je jednostavan i minimalistički, iskustvo u razvoju nije potrebno: može se doći i ako ranije niste pravili igre.
+
+U 18.00 tutorijal: kako Bitsy radi i mala igra koja se pravi zajedno. Ovaj deo je za one koji endžin ne poznaju ili žele da obnove znanje.
+
+U 20.00 džem: svako pravi svoju igru, isprobava ideje, razmenjuje ih sa drugima i pomaže ostalima. Ko već zna Bitsy, može doći direktno na početak džema. Gotove igre se puštaju na projektoru i igraju zajedno.
+
+Prijava preko @dcloza_bot. Poneti laptop.
+
+Mesto: DC Loža, Dalmatinska 84L, ulaz sa strane Ivankovačke.
+
+Vreme: 18.00 tutorijal, 20.00 džem.
+
+Cena: preporučena donacija 1000 dinara.
+
+Jezik: ruski i engleski.
+
+Pušenje samo napolju.",18:00,1000,DC Loža,"Dalmatinska 84L, 11000 Beograd","44.808482,20.480228",https://t.me/dcloza/1168,@dcloza,https://t.me/dcloza_bot,DC Loža,https://t.me/dcloza,,,,,,"геймдев, Bitsy, игры, джем, мастер-класс, DC Loža","game dev, Bitsy, games, jam, workshop, DC Loza","gejmdev, Bitsy, igre, džem, radionica, DC Loža"
+9/19/2026,9/19/2026,9/15/2026,1480,Organization,Bela Vrana,https://www.instagram.com/belavrana.rs,ru,ChildrensEvent,"Книжный субботник в «Белой вороне»: «День, когда я встретил кита» Бенджи Дэвиса",Book Saturday at Bela Vrana: The Storm Whale by Benji Davies,Knjižna subota u Beloj vrani: „Dan kada sam sreo kita“ Bendžija Dejvisa,https://raw.githubusercontent.com/newsgl/arsposters/main/1480-KniznyjSubbotnikBelaVrana.webp,,Kids,"Детям от 4 до 8 лет читают книгу Бенджи Дэвиса о мальчике и выброшенном на берег ките, потом рисуют по её мотивам. 19 сентября в 10:00 в книжном «Белая ворона» на Гаврила Принципа, 1000 динаров.","Children aged 4 to 8 listen to Benji Davies's book about a boy and a whale washed ashore, then draw scenes from it. 19 September at 10:00 at the Bela Vrana bookshop on Gavrila Principa, 1000 dinars.","Deci od 4 do 8 godina čita se knjiga Bendžija Dejvisa o dečaku i kitu kojeg je more izbacilo na obalu, a zatim se crta po njenim motivima. 19. septembra u 10.00 u knjižari Bela Vrana u Gavrila Principa, 1000 dinara.","Книжный субботник в «Белой вороне» устроен как история в форме мини-спектакля с творческим занятием после неё. В этот раз читают «День, когда я встретил кита» Бенджи Дэвиса.
+
+Маленький Ник живёт на берегу моря с отцом и шестью кошками. Отец подолгу рыбачит, и мальчику бывает одиноко. Однажды после шторма он находит на берегу маленького кита и решает о нём позаботиться. Так начинается дружба, которая меняет жизнь Ника. Книга про одиночество, заботу и помощь тем, кто попал в беду.
+
+После чтения дети рисуют по мотивам истории.
+
+Запись через @travelbookillustration.
+
+Место: книжный магазин «Белая ворона», Гаврила Принципа 29.
+
+Время: 10:00.
+
+Цена: 1000 динаров.
+
+Возраст: от 4 до 8 лет.
+
+Язык: русский.","Book Saturday at Bela Vrana is a story told as a small performance, followed by a creative session. This time the book is The Storm Whale by Benji Davies.
+
+Little Noi lives by the sea with his father and six cats. His father is often away fishing and the boy gets lonely. One day after a storm he finds a small whale on the beach and decides to look after it. That is the start of a friendship that changes Noi's life. The book is about loneliness, care and helping those in trouble.
+
+After the reading the children draw scenes from the story.
+
+Booking through @travelbookillustration.
+
+Venue: Bela Vrana bookshop, Gavrila Principa 29.
+
+Time: 10:00.
+
+Price: 1000 dinars.
+
+Age: 4 to 8.
+
+Language: Russian.","Knjižna subota u Beloj vrani zamišljena je kao priča u obliku male predstave, posle koje sledi kreativni deo. Ovog puta čita se „Dan kada sam sreo kita“ Bendžija Dejvisa.
+
+Mali Nik živi na obali mora sa ocem i šest mačaka. Otac dugo lovi ribu na moru i dečaku je ponekad usamljeno. Jednog dana posle oluje pronalazi na obali malog kita i odlučuje da se pobrine za njega. Tako počinje prijateljstvo koje menja Nikov život. Knjiga govori o usamljenosti, brizi i pomoći onima koji su u nevolji.
+
+Posle čitanja deca crtaju po motivima priče.
+
+Prijava preko @travelbookillustration.
+
+Mesto: knjižara Bela Vrana, Gavrila Principa 29.
+
+Vreme: 10.00.
+
+Cena: 1000 dinara.
+
+Uzrast: od 4 do 8 godina.
+
+Jezik: ruski.",10:00,1000,Bela Vrana,"Gavrila Principa 29, 11000 Beograd","44.812466,20.455659",https://t.me/belavrana/1788,@belavrana,https://t.me/travelbookillustration,Bela Vrana,https://t.me/belavrana,,,4-8,,,"дети, чтение, книги, рисование, Белая ворона, русский язык","kids, reading, books, drawing, Bela Vrana, Russian language","deca, čitanje, knjige, crtanje, Bela Vrana, ruski jezik"
+9/19/2026,9/19/2026,9/15/2026,1481,Person,Наталья Патиева,,ru,EducationEvent,О чём молчит сказка: лекция Натальи Патиевой в «Белой вороне»,What the fairy tale keeps quiet about: a lecture by Natalia Patieva at Bela Vrana,O čemu bajka ćuti: predavanje Natalije Patijeve u Beloj vrani,https://raw.githubusercontent.com/newsgl/arsposters/main/1481-OCemMolcitSkazkaBelaVrana.webp,,Lectures,"Юнгианский психолог разбирает, как устроены сказки и что стоит за знакомыми символами: обряды, мифологическое мышление, фольклор. 19 сентября в 19:00 в книжном «Белая ворона», 1300 динаров по записи.","A Jungian psychologist takes apart how fairy tales work and what lies behind familiar symbols: rituals, mythological thinking, folklore. 19 September at 19:00 at the Bela Vrana bookshop, 1300 dinars with booking.","Jungovska psihološkinja razlaže kako su bajke građene i šta stoji iza poznatih simbola: obredi, mitološko mišljenje, folklor. 19. septembra u 19.00 u knjižari Bela Vrana, 1300 dinara uz prijavu.","Почему в сказках происходят странные вещи, что скрывается за знакомыми символами и действиями героев и как мифологическое мышление помогает понять истории, известные с детства. Лекция посвящена традициям, поверьям, ритуалам и устройству сказок: как рождается символ, как он работает и чем логика мифологического мышления отличается от нашей.
+
+Вместе с лектором участники ищут странности в одной хорошо знакомой истории, разбирают символы и восстанавливают скрытую логику сюжета, глядя на него со стороны обрядов, мифологии, фольклора и психологии.
+
+Ведёт **Наталья Патиева**, психотерапевт, психолог юнгианского аналитического направления, кандидат Ассоциации аналитической психологии России, с практикой больше девяти лет. Прошла программу подготовки по аналитической сказкотерапии и ведёт сказочные группы.
+
+Вход по записи через @belavrana_bot.
+
+Место: книжный магазин «Белая ворона», Гаврила Принципа 29.
+
+Время: 19:00.
+
+Цена: 1300 динаров.
+
+Язык: русский.","Why strange things happen in fairy tales, what hides behind the familiar symbols and the heroes' actions, and how mythological thinking helps to understand stories we have known since childhood. The lecture covers traditions, beliefs, rituals and the structure of fairy tales: how a symbol is born, how it works and how the logic of mythological thinking differs from ours.
+
+Together with the lecturer the audience looks for oddities in one well-known story, takes its symbols apart and reconstructs the hidden logic of the plot from the angle of rituals, mythology, folklore and psychology.
+
+The lecturer is **Natalia Patieva**, a psychotherapist and Jungian analytical psychologist, candidate member of the Russian Association for Analytical Psychology, with more than nine years of practice. She has completed a training programme in analytical fairy tale therapy and runs fairy tale groups.
+
+Entry with booking through @belavrana_bot.
+
+Venue: Bela Vrana bookshop, Gavrila Principa 29.
+
+Time: 19:00.
+
+Price: 1300 dinars.
+
+Language: Russian.","Zašto se u bajkama dešavaju čudne stvari, šta se krije iza poznatih simbola i postupaka junaka i kako mitološko mišljenje pomaže da razumemo priče koje znamo od detinjstva. Predavanje je posvećeno tradicijama, verovanjima, ritualima i građi bajki: kako se rađa simbol, kako radi i po čemu se logika mitološkog mišljenja razlikuje od naše.
+
+Zajedno sa predavačicom učesnici traže čudne detalje u jednoj dobro poznatoj priči, razlažu simbole i rekonstruišu skrivenu logiku zapleta, gledajući ga iz ugla obreda, mitologije, folklora i psihologije.
+
+Predaje **Natalija Patijeva**, psihoterapeutkinja i psihološkinja jungovskog analitičkog pravca, kandidatkinja Asocijacije analitičke psihologije Rusije, sa više od devet godina prakse. Završila je program obuke iz analitičke terapije bajkama i vodi grupe za rad sa bajkama.
+
+Ulaz uz prijavu preko @belavrana_bot.
+
+Mesto: knjižara Bela Vrana, Gavrila Principa 29.
+
+Vreme: 19.00.
+
+Cena: 1300 dinara.
+
+Jezik: ruski.",19:00,1300,Bela Vrana,"Gavrila Principa 29, 11000 Beograd","44.812466,20.455659",https://t.me/belavrana/1782,@belavrana,https://t.me/belavrana_bot,Bela Vrana,https://t.me/belavrana,,,,,,"лекция, сказки, мифология, психология, фольклор, Белая ворона, русский язык","lecture, fairy tales, mythology, psychology, folklore, Bela Vrana, Russian language","predavanje, bajke, mitologija, psihologija, folklor, Bela Vrana, ruski jezik"
+10/3/2026,10/3/2026,9/15/2026,1482,Organization,Хоббит Хаус,,ru,Festival,Маркет хендмейда в Хоббит Хаусе на Палилуле,Handmade market at Hobbit House in Palilula,Market ručnih radova u Hobit Hausu na Paliluli,https://raw.githubusercontent.com/newsgl/arsposters/main/1482-MarketHobbitHouse.webp,,Festivals,"Одежда и текстиль ручной работы, иллюстрации, принты, открытки, свечи, керамика и украшения от мастеров русскоязычного Белграда. 3 октября с 11:00 до 18:00 в Хоббит Хаусе на Драже Павловича 21.","Handmade clothes and textiles, illustrations, prints, postcards, candles, ceramics and jewellery from makers of Russian-speaking Belgrade. 3 October from 11:00 to 18:00 at Hobbit House on Draze Pavlovica 21.","Ručno rađena odeća i tekstil, ilustracije, printovi, razglednice, sveće, keramika i nakit majstora ruskog govornog Beograda. 3. oktobra od 11.00 do 18.00 u Hobit Hausu u Draže Pavlovića 21.","Хоббит Хаус собирает мастеров на однодневный маркет. За столами одежда и текстиль ручной работы, иллюстрации, принты, открытки и стикеры, свечи, керамика, украшения и интерьерный декор.
+
+Организаторы ещё набирают участников: стоимость стола зависит от его размера и расположения, подробности у Ксении в Хоббит Хаусе.
+
+Место: Хоббит Хаус, Драже Павловича 21.
+
+Время: с 11:00 до 18:00.
+
+Цена: для посетителей организатор цену не объявлял.
+
+Язык: русский.","Hobbit House brings makers together for a one-day market. On the tables: handmade clothes and textiles, illustrations, prints, postcards and stickers, candles, ceramics, jewellery and home decor.
+
+The organisers are still taking applications from makers: the table fee depends on its size and position, details from Ksenia at Hobbit House.
+
+Venue: Hobbit House, Draze Pavlovica 21.
+
+Time: 11:00 to 18:00.
+
+Price: no entry price for visitors has been announced.
+
+Language: Russian.","Hobit Haus okuplja majstore na jednodnevnom marketu. Na stolovima: ručno rađena odeća i tekstil, ilustracije, printovi, razglednice i nalepnice, sveće, keramika, nakit i dekor za dom.
+
+Organizatori još primaju prijave izlagača: cena stola zavisi od njegove veličine i položaja, detalji kod Ksenije u Hobit Hausu.
+
+Mesto: Hobit Haus, Draže Pavlovića 21.
+
+Vreme: od 11.00 do 18.00.
+
+Cena: za posetioce organizator nije objavio cenu ulaza.
+
+Jezik: ruski.",11:00,,Hobbit House,"Draže Pavlovića 21, 11060 Beograd","44.813827,20.476530",https://t.me/mamakudaidem/2276,@arsraws,,Хоббит Хаус,,,,,,,"маркет, хендмейд, ярмарка, керамика, украшения, Хоббит Хаус, Палилула","market, handmade, fair, ceramics, jewellery, Hobbit House, Palilula","market, ručni rad, sajam, keramika, nakit, Hobit Haus, Palilula"
+9/24/2026,9/24/2026,9/15/2026,1483,Organization,Mount vision,https://t.me/freedoc_rs,,ScreeningEvent,«Предлагаемые обстоятельства»: документальный фильм Никиты Ефимова в KC Radionica,Appointment: a documentary by Nikita Efimov at KC Radionica,Appointment: dokumentarni film Nikite Jefimova u KC Radionici,https://raw.githubusercontent.com/newsgl/arsposters/main/1483-PredlagaemyeObstoatelstvaKCRadionica.webp,,Movies,"Хроника первой постановки Виктора Рыжакова в «Современнике» после смерти Галины Волчек, приз «Кентавр» фестиваля «Послание к человеку». 24 сентября в 19:30 в KC Radionica, 1000 динаров, английские субтитры, Q&A с режиссёром.","A chronicle of Viktor Ryzhakov's first production at the Sovremennik theatre after the death of Galina Volchek, winner of the Centaur prize at the Message to Man festival. 24 September at 19:30 at KC Radionica, 1000 dinars, English subtitles, Q&A with the director.","Hronika prve postavke Viktora Rižakova u pozorištu „Sovremenik“ posle smrti Galine Volček, nagrada „Kentaur“ festivala „Poruka čoveku“. 24. septembra u 19.30 u KC Radionici, 1000 dinara, engleski titlovi, razgovor sa rediteljem.","Клуб независимой документалистики Mount vision открывает сезон фильмом **«Предлагаемые обстоятельства»** Никиты Ефимова. Картина получила приз «Кентавр» за лучший фильм национального конкурса документального кино на фестивале «Послание к человеку» и премию киноведов и кинокритиков «Белый слон» за лучший документальный фильм.
+
+Это фильм-хроника о том, как реальность вторгается в творческий процесс и всегда солирует на сцене, делая любой текст современным. Виктор Рыжаков возглавляет театр «Современник» после смерти Галины Волчек, руководившей труппой без малого полвека. Для первой постановки новый худрук выбирает пьесу о семье, члены которой перестали понимать друг друга, и труппе тоже трудно найти взаимопонимание внутри своей «театральной семьи».
+
+После показа Q&A с режиссёром в Zoom. Фильм идёт на языке оригинала с английскими субтитрами.
+
+Регистрация по ссылке обязательна.
+
+Место: KC Radionica, Адмирала Гепрата 10.
+
+Время: 19:30.
+
+Цена: 1000 динаров.
+
+Язык: русский с английскими субтитрами.","The Mount vision independent documentary club opens its season with **Appointment** by Nikita Efimov. The film won the Centaur prize for best film in the national documentary competition at the Message to Man festival and the White Elephant award of Russian film critics for best documentary.
+
+It is a chronicle of how reality breaks into the creative process and always takes the lead on stage, making any text contemporary. Viktor Ryzhakov takes over the Sovremennik theatre after the death of Galina Volchek, who ran the company for almost half a century. For his first production the new artistic director picks a play about a family whose members have stopped understanding each other, while the company itself struggles to find common ground inside its own ""theatre family"".
+
+After the screening, a Q&A with the director over Zoom. The film is shown in the original language with English subtitles.
+
+Registration through the link is required.
+
+Venue: KC Radionica, Admirala Geprata 10.
+
+Time: 19:30.
+
+Price: 1000 dinars.
+
+Language: Russian with English subtitles.","Klub nezavisnog dokumentarnog filma Mount vision otvara sezonu filmom **Appointment** Nikite Jefimova. Film je dobio nagradu „Kentaur“ za najbolji film nacionalne dokumentarne konkurencije festivala „Poruka čoveku“ i nagradu filmskih kritičara „Beli slon“ za najbolji dokumentarni film.
+
+Ovo je film-hronika o tome kako stvarnost upada u stvaralački proces i uvek solira na sceni, čineći svaki tekst savremenim. Viktor Rižakov preuzima pozorište „Sovremenik“ posle smrti Galine Volček, koja je vodila ansambl gotovo pola veka. Za prvu postavku novi umetnički direktor bira komad o porodici čiji su članovi prestali da se razumeju, a i ansamblu je teško da nađe razumevanje unutar sopstvene „pozorišne porodice“.
+
+Posle projekcije razgovor sa rediteljem preko Zooma. Film se prikazuje na originalnom jeziku sa engleskim titlovima.
+
+Prijava preko linka je obavezna.
+
+Mesto: KC Radionica, Admirala Geprata 10.
+
+Vreme: 19.30.
+
+Cena: 1000 dinara.
+
+Jezik: ruski sa engleskim titlovima.",19:30,1000,KC Radionica,"Admirala Geprata 10, 11000 Beograd","44.807979,20.460047",https://t.me/freedoc_rs/75,@arsraws,https://docs.google.com/forms/d/e/1FAIpQLSfuzHvQ3UsBEEx3i0r9PPzBPWI9XNeo-9UFWLNFyGsLh-i7Vg/viewform,Mount vision,https://t.me/freedoc_rs,,,,,,"кино, документальный фильм, показ, театр, Современник, KC Radionica","cinema, documentary, screening, theatre, Sovremennik, KC Radionica","film, dokumentarac, projekcija, pozorište, Sovremenik, KC Radionica"
+9/19/2026,9/19/2026,9/15/2026,1484,Organization,Gvint,https://gvint.rs/,,Festival,Октоберфест пивоварни Gvint во дворе Dorćol Platz,Gvint brewery Oktoberfest in the Dorcol Platz courtyard,Oktoberfest pivare Gvint u dvorištu Dorćol Platza,https://raw.githubusercontent.com/newsgl/arsposters/main/1484-OktoberfestGvintDorcolPlatz.webp,,Festivals,"Белградская пивоварня Gvint варит к празднику несколько сортов лагера, на открытом огне готовят рульки и леберкезе, музыканты весь день играют баварские мотивы. 19 сентября с 12:00 до полуночи во дворе Dorćol Platz, вход свободный.","The Belgrade brewery Gvint brews several lagers for the day, pork knuckles and Leberkäse are cooked outdoors and musicians play Bavarian tunes all day. 19 September from 12:00 to midnight in the Dorcol Platz courtyard, free entry.","Beogradska pivara Gvint za praznik vari nekoliko vrsta lagera, na otvorenom se spremaju kolenice i leberkez, a muzičari ceo dan sviraju bavarske melodije. 19. septembra od 12.00 do ponoći u dvorištu Dorćol Platza, ulaz slobodan.","Пивоварня **Gvint** устраивает Октоберфест во дворе Dorćol Platz. Праздник начинается в полдень и идёт до полуночи.
+
+Специально к этому дню пивовары варят несколько сортов лагера. На открытом воздухе готовят традиционную немецкую еду: копчёные свиные рульки и мясной хлебец леберкезе. Весь день музыканты играют традиционные баварские мотивы.
+
+Место: Dorćol Platz, Добрачина 59б.
+
+Время: с 12:00 до 00:00.
+
+Цена: вход свободный.","The **Gvint** brewery holds an Oktoberfest in the courtyard of Dorcol Platz. The party starts at noon and runs until midnight.
+
+The brewers make several lagers specially for the day. Traditional German food is cooked outdoors: smoked pork knuckles and Leberkäse meatloaf. Musicians play traditional Bavarian tunes all day long.
+
+Venue: Dorcol Platz, Dobracina 59b.
+
+Time: 12:00 to 00:00.
+
+Price: free entry.","Pivara **Gvint** priređuje Oktoberfest u dvorištu Dorćol Platza. Slavlje počinje u podne i traje do ponoći.
+
+Pivari za ovaj dan vare nekoliko vrsta lagera. Na otvorenom se sprema tradicionalna nemačka hrana: dimljene svinjske kolenice i mesna štruca leberkez. Muzičari ceo dan sviraju tradicionalne bavarske melodije.
+
+Mesto: Dorćol Platz, Dobračina 59b.
+
+Vreme: od 12.00 do 00.00.
+
+Cena: ulaz slobodan.",12:00,0,Dorćol Platz,"Dobračina 59b, 11000 Beograd","44.823336,20.466982",https://t.me/sta_imas_beograd/4782,@arsraws,,Gvint,https://gvint.rs/,,,,,,"Октоберфест, пиво, крафт, стрит-фуд, живая музыка, Dorćol Platz","Oktoberfest, beer, craft, street food, live music, Dorcol Platz","Oktoberfest, pivo, kraft, ulična hrana, živa muzika, Dorćol Platz"
+9/18/2026,9/18/2026,9/15/2026,1485,Organization,Master Land,https://t.me/vstrechi_v_belgrade,ru,EducationEvent,Мастер-класс по керамике в студии Master Land,Ceramics workshop at the Master Land studio,Radionica keramike u studiju Master Land,https://raw.githubusercontent.com/newsgl/arsposters/main/1485-KeramikaMasterLand.webp,,Master classes,"Кружка, тарелка или фильтр для кофе своими руками, с росписью ангобами и обжигом. 18 сентября в 17:30 на Балканской 40б, 3600 динаров, два часа.","A mug, a plate or a coffee filter made by hand, painted with engobes and fired afterwards. 18 September at 17:30 at Balkanska 40b, 3600 dinars, two hours.","Šolja, tanjir ili filter za kafu svojim rukama, sa oslikavanjem engobama i pečenjem. 18. septembra u 17.30 u Balkanskoj 40b, 3600 dinara, dva sata.","Первый из трёх потоков мастерской на этой неделе: Занятие подходит участникам любого возраста и уровня, в том числе тем, кто раньше не работал с глиной.
+
+Каждый лепит своё изделие: кружку, фильтр для кофе или тарелку, а затем расписывает его ангобами. После занятия изделия обжигают, так что посудой можно пользоваться и мыть её в посудомоечной машине.
+
+Материалы, глазурь и обжиг входят в стоимость. Запись через @iyliiaart. Там же можно записаться на индивидуальное занятие за гончарным кругом или на свидание на двоих.
+
+Место: Master Land, Балканска 40б.
+
+Время: 17:30, занятие идёт два часа.
+
+Цена: 3600 динаров.
+
+Язык: русский.","The first of three sessions of the workshop this week. The class suits any age and any level, including people who have never worked with clay.
+
+Everyone makes their own piece: a mug, a coffee filter or a plate, and then paints it with engobes. The pieces are fired afterwards, so they can be used as tableware and washed in a dishwasher.
+
+Materials, glaze and firing are included in the price. Booking through @iyliiaart, where you can also arrange a private session at the potter's wheel or a date for two.
+
+Venue: Master Land, Balkanska 40b.
+
+Time: 17:30, the class lasts two hours.
+
+Price: 3600 dinars.
+
+Language: Russian.","Prvi od tri termina radionice ove nedelje: Radionica odgovara učesnicima svih uzrasta i nivoa, uključujući i one koji ranije nisu radili sa glinom.
+
+Svako pravi svoj predmet: šolju, filter za kafu ili tanjir, a zatim ga oslikava engobama. Predmeti se posle peku, pa se posuđe može koristiti i prati u mašini.
+
+Materijal, glazura i pečenje uračunati su u cenu. Prijava preko @iyliiaart, gde se može dogovoriti i individualni čas za grnčarskim kolom ili termin za dvoje.
+
+Mesto: Master Land, Balkanska 40b.
+
+Vreme: 17.30, radionica traje dva sata.
+
+Cena: 3600 dinara.
+
+Jezik: ruski.",17:30,3600,Master Land (Balkanska 40),"Balkanska 40b, 11000 Beograd","44.808519,20.458401",https://t.me/vstrechi_v_belgrade/12939,@arsraws,https://t.me/iyliiaart,Master Land,,,,,,,"керамика, мастер-класс, глина, ангобы, Master Land, русский язык","ceramics, workshop, clay, engobe, Master Land, Russian language","keramika, radionica, glina, engobe, Master Land, ruski jezik"
+9/19/2026,9/19/2026,9/15/2026,1486,Organization,Master Land,https://t.me/vstrechi_v_belgrade,ru,EducationEvent,Мастер-класс по керамике в студии Master Land,Ceramics workshop at the Master Land studio,Radionica keramike u studiju Master Land,https://raw.githubusercontent.com/newsgl/arsposters/main/1486-KeramikaMasterLand.webp,,Master classes,"Кружка, тарелка или фильтр для кофе своими руками, с росписью ангобами и обжигом. 19 сентября в 17:30 на Балканской 40б, 3600 динаров, два часа.","A mug, a plate or a coffee filter made by hand, painted with engobes and fired afterwards. 19 September at 17:30 at Balkanska 40b, 3600 dinars, two hours.","Šolja, tanjir ili filter za kafu svojim rukama, sa oslikavanjem engobama i pečenjem. 19. septembra u 17.30 u Balkanskoj 40b, 3600 dinara, dva sata.","Субботний вечерний поток мастерской: Занятие подходит участникам любого возраста и уровня, в том числе тем, кто раньше не работал с глиной.
+
+Каждый лепит своё изделие: кружку, фильтр для кофе или тарелку, а затем расписывает его ангобами. После занятия изделия обжигают, так что посудой можно пользоваться и мыть её в посудомоечной машине.
+
+Материалы, глазурь и обжиг входят в стоимость. Запись через @iyliiaart. Там же можно записаться на индивидуальное занятие за гончарным кругом или на свидание на двоих.
+
+Место: Master Land, Балканска 40б.
+
+Время: 17:30, занятие идёт два часа.
+
+Цена: 3600 динаров.
+
+Язык: русский.","The Saturday evening session of the workshop. The class suits any age and any level, including people who have never worked with clay.
+
+Everyone makes their own piece: a mug, a coffee filter or a plate, and then paints it with engobes. The pieces are fired afterwards, so they can be used as tableware and washed in a dishwasher.
+
+Materials, glaze and firing are included in the price. Booking through @iyliiaart, where you can also arrange a private session at the potter's wheel or a date for two.
+
+Venue: Master Land, Balkanska 40b.
+
+Time: 17:30, the class lasts two hours.
+
+Price: 3600 dinars.
+
+Language: Russian.","Subotnji večernji termin radionice: Radionica odgovara učesnicima svih uzrasta i nivoa, uključujući i one koji ranije nisu radili sa glinom.
+
+Svako pravi svoj predmet: šolju, filter za kafu ili tanjir, a zatim ga oslikava engobama. Predmeti se posle peku, pa se posuđe može koristiti i prati u mašini.
+
+Materijal, glazura i pečenje uračunati su u cenu. Prijava preko @iyliiaart, gde se može dogovoriti i individualni čas za grnčarskim kolom ili termin za dvoje.
+
+Mesto: Master Land, Balkanska 40b.
+
+Vreme: 17.30, radionica traje dva sata.
+
+Cena: 3600 dinara.
+
+Jezik: ruski.",17:30,3600,Master Land (Balkanska 40),"Balkanska 40b, 11000 Beograd","44.808519,20.458401",https://t.me/vstrechi_v_belgrade/12939,@arsraws,https://t.me/iyliiaart,Master Land,,,,,,,"керамика, мастер-класс, глина, ангобы, Master Land, русский язык","ceramics, workshop, clay, engobe, Master Land, Russian language","keramika, radionica, glina, engobe, Master Land, ruski jezik"
+9/20/2026,9/20/2026,9/15/2026,1487,Organization,Master Land,https://t.me/vstrechi_v_belgrade,ru,EducationEvent,Мастер-класс по керамике в студии Master Land,Ceramics workshop at the Master Land studio,Radionica keramike u studiju Master Land,https://raw.githubusercontent.com/newsgl/arsposters/main/1487-KeramikaMasterLand.webp,,Master classes,"Кружка, тарелка или фильтр для кофе своими руками, с росписью ангобами и обжигом. 20 сентября в 12:00 на Балканской 40б, 3600 динаров, два часа.","A mug, a plate or a coffee filter made by hand, painted with engobes and fired afterwards. 20 September at 12:00 at Balkanska 40b, 3600 dinars, two hours.","Šolja, tanjir ili filter za kafu svojim rukama, sa oslikavanjem engobama i pečenjem. 20. septembra u 12.00 u Balkanskoj 40b, 3600 dinara, dva sata.","Воскресный дневной поток мастерской: Занятие подходит участникам любого возраста и уровня, в том числе тем, кто раньше не работал с глиной.
+
+Каждый лепит своё изделие: кружку, фильтр для кофе или тарелку, а затем расписывает его ангобами. После занятия изделия обжигают, так что посудой можно пользоваться и мыть её в посудомоечной машине.
+
+Материалы, глазурь и обжиг входят в стоимость. Запись через @iyliiaart. Там же можно записаться на индивидуальное занятие за гончарным кругом или на свидание на двоих.
+
+Место: Master Land, Балканска 40б.
+
+Время: 12:00, занятие идёт два часа.
+
+Цена: 3600 динаров.
+
+Язык: русский.","The Sunday daytime session of the workshop. The class suits any age and any level, including people who have never worked with clay.
+
+Everyone makes their own piece: a mug, a coffee filter or a plate, and then paints it with engobes. The pieces are fired afterwards, so they can be used as tableware and washed in a dishwasher.
+
+Materials, glaze and firing are included in the price. Booking through @iyliiaart, where you can also arrange a private session at the potter's wheel or a date for two.
+
+Venue: Master Land, Balkanska 40b.
+
+Time: 12:00, the class lasts two hours.
+
+Price: 3600 dinars.
+
+Language: Russian.","Nedeljni dnevni termin radionice: Radionica odgovara učesnicima svih uzrasta i nivoa, uključujući i one koji ranije nisu radili sa glinom.
+
+Svako pravi svoj predmet: šolju, filter za kafu ili tanjir, a zatim ga oslikava engobama. Predmeti se posle peku, pa se posuđe može koristiti i prati u mašini.
+
+Materijal, glazura i pečenje uračunati su u cenu. Prijava preko @iyliiaart, gde se može dogovoriti i individualni čas za grnčarskim kolom ili termin za dvoje.
+
+Mesto: Master Land, Balkanska 40b.
+
+Vreme: 12.00, radionica traje dva sata.
+
+Cena: 3600 dinara.
+
+Jezik: ruski.",12:00,3600,Master Land (Balkanska 40),"Balkanska 40b, 11000 Beograd","44.808519,20.458401",https://t.me/vstrechi_v_belgrade/12939,@arsraws,https://t.me/iyliiaart,Master Land,,,,,,,"керамика, мастер-класс, глина, ангобы, Master Land, русский язык","ceramics, workshop, clay, engobe, Master Land, Russian language","keramika, radionica, glina, engobe, Master Land, ruski jezik"
+9/20/2026,9/20/2026,9/15/2026,1488,MusicGroup,Humans Guitar Duo,,,MusicEvent,«Антология гитары»: концерт Humans Guitar Duo в Ludwig Land,Guitar Anthology: a concert by Humans Guitar Duo at Ludwig Land,„Antologija gitare“: koncert dua Humans Guitar Duo u Ludwig Landu,https://raw.githubusercontent.com/newsgl/arsposters/main/1488-AntologiaGitaryHumansGuitarDuo.webp,,Concerts,"Две классические гитары проходят пять эпох: классицизм, ранний романтизм, импрессионизм, авангард и латиноамериканский джаз. 20 сентября в 19:00 в Ludwig Land на Светогорской 46, 2000 динаров, час музыки.","Two classical guitars travel through five eras: classicism, early romanticism, impressionism, the avant-garde and Latin American jazz. 20 September at 19:00 at Ludwig Land on Svetogorska 46, 2000 dinars, one hour of music.","Dve klasične gitare prolaze kroz pet epoha: klasicizam, rani romantizam, impresionizam, avangardu i latinoamerički džez. 20. septembra u 19.00 u Ludwig Landu u Svetogorskoj 46, 2000 dinara, sat vremena muzike.","**Humans Guitar Duo** играет программу «Антология гитары»: концерт-путешествие через несколько эпох мировой музыки в звучании двух гитар. Классицизм, ранний романтизм, импрессионизм, авангард, неоклассика и латиноамериканский джаз: за один вечер слышно, как менялся музыкальный язык от эпохи к эпохе.
+
+Большая часть произведений программы изначально писалась не для гитары. Дуэт показывает, что классическая гитара, относительно молодой концертный инструмент, звучит далеко не только по-испански.
+
+Концерт идёт час. Количество мест ограничено, бронь по ссылке обязательна. Вопросы @Maria_Kirchanova.
+
+Место: Ludwig Land Music and Art School, Светогорска 46.
+
+Время: 19:00.
+
+Цена: 2000 динаров.","**Humans Guitar Duo** plays the programme Guitar Anthology: a concert journey through several eras of world music in the sound of two guitars. Classicism, early romanticism, impressionism, the avant-garde, neoclassicism and Latin American jazz: in one evening you hear how the musical language changed from era to era.
+
+Most of the pieces in the programme were not originally written for the guitar. The duo shows that the classical guitar, a relatively young concert instrument, sounds far beyond its usual Spanish associations.
+
+The concert lasts an hour. Seats are limited and booking through the link is required. Questions to @Maria_Kirchanova.
+
+Venue: Ludwig Land Music and Art School, Svetogorska 46.
+
+Time: 19:00.
+
+Price: 2000 dinars.","**Humans Guitar Duo** izvodi program „Antologija gitare“: koncert-putovanje kroz nekoliko epoha svetske muzike u zvuku dve gitare. Klasicizam, rani romantizam, impresionizam, avangarda, neoklasika i latinoamerički džez: u jednoj večeri čuje se kako se muzički jezik menjao od epohe do epohe.
+
+Većina dela u programu prvobitno nije pisana za gitaru. Duo pokazuje da klasična gitara, relativno mlad koncertni instrument, zvuči daleko šire od uobičajenih španskih asocijacija.
+
+Koncert traje sat vremena. Broj mesta je ograničen, rezervacija preko linka je obavezna. Pitanja @Maria_Kirchanova.
+
+Mesto: Ludwig Land Music and Art School, Svetogorska 46.
+
+Vreme: 19.00.
+
+Cena: 2000 dinara.",19:00,2000,Ludwig Land Music and Art School,"Svetogorska 46, 11000 Beograd","44.812743,20.469795",https://t.me/vstrechi_v_belgrade/12940,@arsraws,https://tally.so/r/7RAyya,Humans Guitar Duo,https://t.me/Maria_Kirchanova,,,,,,"концерт, классическая гитара, гитарный дуэт, камерная музыка, Ludwig Land","concert, classical guitar, guitar duo, chamber music, Ludwig Land","koncert, klasična gitara, gitarski duo, kamerna muzika, Ludwig Land"
+9/24/2026,9/24/2026,9/15/2026,1489,Organization,MozgoQuiz Белград,https://beo.mzgb.net/,ru,SocialEvent,MozgoQuiz «Кино и Музыка» в Santo Domingo,MozgoQuiz Movies and Music at Santo Domingo,MozgoQuiz „Film i muzika“ u Santo Domingu,https://raw.githubusercontent.com/newsgl/arsposters/main/1489-MozgoQuizKinoIMuzykaSantoDomingo.webp,,Games,"Тематическая игра MozgoQuiz про кино и музыку: команды отвечают на вопросы о фильмах и саундтреках. 24 сентября в 19:30 в Santo Domingo на Студентском тргу, 1000 динаров с участника.","A themed MozgoQuiz game about movies and music: teams answer questions on films and soundtracks. 24 September at 19:30 at Santo Domingo on Studentski trg, 1000 dinars per player.","Tematska MozgoQuiz igra o filmu i muzici: ekipe odgovaraju na pitanja o filmovima i saundtrekovima. 24. septembra u 19.30 u Santo Domingu na Studentskom trgu, 1000 dinara po učesniku.","MozgoQuiz зовёт на тематическую игру **«Кино и Музыка»**: вопросы о фильмах, актёрах, саундтреках и песнях из кино. Играют командами, регистрация уже открыта на сайте организатора.
+
+Место: Santo Domingo, Студентски трг 15.
+
+Время: 19:30.
+
+Цена: 1000 динаров с участника.
+
+Язык: русский.","MozgoQuiz invites players to the themed game **Movies and Music**: questions about films, actors, soundtracks and songs from the movies. Teams play together; registration is open on the organiser's website.
+
+Venue: Santo Domingo, Studentski trg 15.
+
+Time: 19:30.
+
+Price: 1000 dinars per player.
+
+Language: Russian.","MozgoQuiz poziva na tematsku igru **„Film i muzika“**: pitanja o filmovima, glumcima, saundtrekovima i pesmama iz filmova. Igra se u ekipama, prijave su otvorene na sajtu organizatora.
+
+Mesto: Santo Domingo, Studentski trg 15.
+
+Vreme: 19.30.
+
+Cena: 1000 dinara po učesniku.
+
+Jezik: ruski.",19:30,1000,Santo Domingo,"Studentski trg 15, 11000 Beograd","44.820075,20.456560",https://t.me/mzgb_beo/672,@arsraws,https://beo.mzgb.net/#reg-event-14613,MozgoQuiz Белград,https://t.me/mzgb_beo,,,,,,"квиз, кино, музыка, MozgoQuiz, Santo Domingo, русский язык","quiz, movies, music, MozgoQuiz, Santo Domingo, Russian language","kviz, film, muzika, MozgoQuiz, Santo Domingo, ruski jezik"
+9/18/2026,9/18/2026,9/15/2026,1490,MusicGroup,Beltango,https://www.beltango.com/,,MusicEvent,Beltango meets Piazzolla: гала-концерт квинтета Beltango в Гварнериусе,Beltango meets Piazzolla: a gala concert by the Beltango quintet at Guarnerius,Beltango meets Piazzolla: gala koncert kvinteta Beltango u Gvarnerijusu,https://raw.githubusercontent.com/newsgl/arsposters/main/1490-BeltangoMeetsPiazzollaGuarnerius.webp,,Concerts,"Камерный танго-спектакль памяти Астора Пьяццоллы: квинтет Beltango с бандонеоном Александра Николича, гость Лукас Боок и две пары танцоров. 18 сентября в 19:00 в Центре изящных искусств Guarnerius, 2400 динаров.","A chamber tango show in honour of Astor Piazzolla: the Beltango quintet with Aleksandar Nikolic on bandoneon, guest Lucas Boock and two dance couples. 18 September at 19:00 at the Guarnerius fine arts centre, 2400 dinars.","Kamerni tango spektakl posvećen Astoru Pjacoli: kvintet Beltango sa bandoneonom Aleksandra Nikolića, gost Lukas Bok i dva plesna para. 18. septembra u 19.00 u Centru lepih umetnosti Gvarnerijus, 2400 dinara.","Гала-концерт **«Beltango meets Piazzolla»** посвящён Астору Пьяццолле, композитору, который изменил звук и судьбу танго. На сцене встречаются музыка и танец.
+
+Играет квинтет **Beltango**: Александр Николич (бандонеон), Ивана Николич (фортепиано), Елисавета Зорич (скрипка), Реля Турудич (гитара) и Петар Холик (контрабас). Специальный гость Лукас Боок. Танцуют Родриго Паласиос и Индира Хиайес, Данило Маддалена и Пам Эст Ла.
+
+Организаторы: учреждение культуры Guarnerius вместе с квинтетом Beltango и Tango Azuro. Концерт входит в программу фестиваля Beltango 2026.
+
+Билеты по 2400 динаров продаются в кассе Guarnerius по будням с 10:00 до 16:00, информация и резервация по почте info@guarnerius.rs и телефону 066 8028 368. Пост @free_belgrade пишет о бесплатном входе по предварительной резервации; на сайте организатора такого условия нет.
+
+Место: Guarnerius, Центр изящных искусств Йована Колунджии, Джорджа Вашингтона 12.
+
+Время: 19:00.
+
+Цена: 2400 динаров.","The gala concert **Beltango meets Piazzolla** is dedicated to Astor Piazzolla, the composer who changed the sound and the fate of tango. Music and dance meet on stage.
+
+The **Beltango** quintet plays: Aleksandar Nikolic (bandoneon), Ivana Nikolic (piano), Jelisaveta Zoric (violin), Relja Turudic (guitar) and Petar Holik (double bass). Special guest Lucas Boock. Dancing: Rodrigo Palacios and Indira Hiayes, Danilo Maddalena and Pam Est La.
+
+Organised by the Guarnerius cultural institution together with the Beltango quintet and Tango Azuro. The concert is part of the Beltango festival 2026.
+
+Tickets at 2400 dinars are sold at the Guarnerius box office on weekdays from 10:00 to 16:00; information and reservations by email at info@guarnerius.rs or by phone on 066 8028 368. The @free_belgrade post speaks of free entry with prior reservation; the organiser's website has no such condition.
+
+Venue: Guarnerius, the Jovan Kolundzija fine arts centre, Dzordza Vasingtona 12.
+
+Time: 19:00.
+
+Price: 2400 dinars.","Gala koncert **„Beltango meets Piazzolla“** posvećen je Astoru Pjacoli, kompozitoru koji je promenio zvuk i sudbinu tanga. Na sceni se susreću muzika i ples.
+
+Svira kvintet **Beltango**: Aleksandar Nikolić (bandoneon), Ivana Nikolić (klavir), Jelisaveta Zorić (violina), Relja Turudić (gitara) i Petar Holik (kontrabas). Specijalni gost Lukas Bok. Plešu Rodrigo Palasios i Indira Hiajes, Danilo Madalena i Pam Est La.
+
+Organizatori: Ustanova kulture Gvarnerijus u saradnji sa kvintetom Beltango i Tangom Azuro. Koncert je deo festivala Beltango 2026.
+
+Karte po 2400 dinara prodaju se na biletarnici Gvarnerijusa radnim danima od 10 do 16 časova, informacije i rezervacije na info@guarnerius.rs i 066 8028 368. Objava @free_belgrade navodi besplatan ulaz uz rezervaciju; na sajtu organizatora takvog uslova nema.
+
+Mesto: Gvarnerijus, Centar lepih umetnosti Jovana Kolundžije, Džordža Vašingtona 12.
+
+Vreme: 19.00.
+
+Cena: 2400 dinara.",19:00,2400,Guarnerius,"Džordža Vašingtona 12, 11000 Beograd","44.8178081,20.4673579",https://guarnerius.rs/?post_type=program&p=11906,guarnerius.rs,,Ustanova kulture Gvarnerijus,https://guarnerius.rs/,info@guarnerius.rs,+381 66 8028 368,,,,"концерт, танго, Пьяццолла, бандонеон, Beltango, Guarnerius","concert, tango, Piazzolla, bandoneon, Beltango, Guarnerius","koncert, tango, Pjacola, bandoneon, Beltango, Gvarnerijus"
+9/20/2026,9/20/2026,9/15/2026,1491,Person,Руслан Мухтаров,https://ruslan-kinder.com/,ru,ComedyEvent,Stand-up импровизация Руслана Мухтарова в баре Buratina,Stand-up improvisation with Ruslan Mukhtarov at Buratina bar,Stand-up improvizacija Ruslana Muhtarova u baru Buratina,https://raw.githubusercontent.com/newsgl/arsposters/main/1491-StandUpImprovizaciaMuhtarovBuratina.webp,,Stand Up,"Вечер без заготовленных шуток: комик разговаривает с залом, а панчи рождаются из реплик зрителей. 20 сентября в 18:00 в баре Buratina на Светогорской 46, 1500 динаров, 16+.","An evening without prepared jokes: the comedian talks to the room and the punchlines grow out of what the audience says. 20 September at 18:00 at Buratina bar on Svetogorska 46, 1500 dinars, 16+.","Veče bez pripremljenih šala: komičar razgovara sa publikom, a poente nastaju iz replika gledalaca. 20. septembra u 18.00 u baru Buratina u Svetogorskoj 46, 1500 dinara, 16+.","В stand-up импровизации нет заученных текстов и повторов шуток. **Руслан Мухтаров** выходит на сцену и начинает разговаривать с залом; панчи рождаются из фраз, историй и реакций зрителей.
+
+Руслан побеждал в проектах «Русские не смеются» (СТС), «Рассмеши комика» (1+1) и «Стрим стендап» (Smetana TV), участвовал в «Открытом микрофоне» и «Comedy Баттл. Без границ» на ТНТ, «Шоу Выходного Дня» на СТС и «Смехе без правил».
+
+Сбор в 17:30, начало в 18:00. Билеты онлайн на shutki.tic.rs.
+
+Место: бар Buratina, Светогорска 46, двор ресторана «Три».
+
+Время: 18:00.
+
+Цена: 1500 динаров.
+
+Возраст: 16+.
+
+Язык: русский.","Stand-up improvisation has no memorised material and no repeated jokes. **Ruslan Mukhtarov** walks on stage and starts talking to the room; the punchlines come from the audience's own lines, stories and reactions.
+
+Ruslan won the shows Russkie ne smeyutsya (STS), Rassmeshi komika (1+1) and Stream Stand-up (Smetana TV), and took part in Otkryty mikrofon and Comedy Battle. Bez granits on TNT, Show Vykhodnogo Dnya on STS and Smekh bez pravil.
+
+Doors at 17:30, start at 18:00. Tickets online at shutki.tic.rs.
+
+Venue: Buratina bar, Svetogorska 46, in the courtyard of the Tri restaurant.
+
+Time: 18:00.
+
+Price: 1500 dinars.
+
+Age: 16+.
+
+Language: Russian.","U stand-up improvizaciji nema naučenih tekstova ni ponavljanja šala. **Ruslan Muhtarov** izlazi na scenu i počinje razgovor sa publikom; poente nastaju iz rečenica, priča i reakcija gledalaca.
+
+Ruslan je pobeđivao u projektima „Russkie ne smejutsja“ (STS), „Rassmeši komika“ (1+1) i „Strim stendap“ (Smetana TV), a učestvovao je u emisijama „Otkriti mikrofon“ i „Comedy Battle. Bez granica“ na TNT-u, „Šou vikenda“ na STS-u i „Smeh bez pravila“.
+
+Okupljanje u 17.30, početak u 18.00. Karte onlajn na shutki.tic.rs.
+
+Mesto: bar Buratina, Svetogorska 46, dvorište restorana „Tri“.
+
+Vreme: 18.00.
+
+Cena: 1500 dinara.
+
+Uzrast: 16+.
+
+Jezik: ruski.",18:00,1500,Buratina,"Svetogorska 46, 11000 Beograd","44.812702,20.469690",https://shutki.tic.rs/ru/M4BuRdw2,@arsraws,https://shutki.tic.rs/ru/M4BuRdw2,Shutki radi,https://shutki.tic.rs/ru/M4BuRdw2,,,16+,,,"стендап, импровизация, Руслан Мухтаров, Buratina, русский язык","stand-up, improvisation, Ruslan Mukhtarov, Buratina, Russian language","stend-ap, improvizacija, Ruslan Muhtarov, Buratina, ruski jezik"
+10/13/2026,10/13/2026,9/15/2026,1492,MusicGroup,The Symphonians,https://somewhere.show/symphonians-miyazaki-belgraderu,,MusicEvent,Музыка мира Миядзаки в исполнении The Symphonians: дополнительный концерт 13 октября,Music of Miyazaki World by The Symphonians: extra concert on 13 October,Muzika sveta Mijazakija u izvođenju The Symphonians: dodatni koncert 13. oktobra,https://raw.githubusercontent.com/newsgl/arsposters/main/1492-SymphoniansMiyazaki13Oct.webp,,Concerts,"Камерный оркестр играет саундтреки Джо Хисаиси к «Унесённым призраками», «Тоторо» и «Ходячему замку», на экране кадры из фильмов. Дополнительная дата: 13 октября в 20:00 в КЦ «Влада Дивлян», от 3000 динаров.","A chamber orchestra plays Joe Hisaishi's soundtracks to Spirited Away, Totoro and Howl's Moving Castle with film scenes on screen. Extra date: 13 October at 20:00 at the Vlada Divljan cultural centre, from 3000 dinars.","Kamerni orkestar svira muziku Džoa Hisaišija iz „Začaranog grada“, „Totora“ i „Pokretnog zamka“, na ekranu su kadrovi iz filmova. Dodatni termin: 13. oktobra u 20.00 u KC „Vlada Divljan“, od 3000 dinara.","Организаторы добавили второй вечер: концерт **The Symphonians** с музыкой из фильмов Хаяо Миядзаки пройдёт 13 октября, за два дня до ранее объявленного концерта 15 октября.
+
+Саундтреки Джо Хисаиси и других композиторов из «Унесённых призраками», «Моего соседа Тоторо», «Ходячего замка» и других фильмов звучат в живом исполнении камерного оркестра, а на большом экране идёт анимация из этих картин. Музыка переносит слушателя от неба над морем в «Порко Россо» до бань Юбабы и сцен «Ведьминой службы доставки».
+
+Место: Культурный центр «Влада Дивлян», Митрополита Петра 8.
+
+Время: 20:00.
+
+Цена: от 3000 динаров.","The organisers have added a second night: **The Symphonians** play the music of Hayao Miyazaki's films on 13 October, two days before the previously announced concert on 15 October.
+
+Soundtracks by Joe Hisaishi and other composers from Spirited Away, My Neighbour Totoro, Howl's Moving Castle and other films are performed live by a chamber orchestra while animation from the films runs on the big screen. The music takes the listener from the sky above the sea in Porco Rosso to Yubaba's bathhouse and the scenes of Kiki's Delivery Service.
+
+Venue: Vlada Divljan cultural centre, Mitropolita Petra 8.
+
+Time: 20:00.
+
+Price: from 3000 dinars.","Organizatori su dodali drugo veče: **The Symphonians** sviraju muziku iz filmova Hajaa Mijazakija 13. oktobra, dva dana pre ranije najavljenog koncerta 15. oktobra.
+
+Muzika Džoa Hisaišija i drugih kompozitora iz „Začaranog grada“, „Mog komšije Totora“, „Pokretnog zamka“ i drugih filmova zvuči uživo u izvođenju kamernog orkestra, a na velikom ekranu ide animacija iz tih filmova. Muzika vodi slušaoca od neba nad morem u „Porko Rosu“ do Jubabinog kupatila i scena iz „Kikine službe dostave“.
+
+Mesto: Kulturni centar „Vlada Divljan“, Mitropolita Petra 8.
+
+Vreme: 20.00.
+
+Cena: od 3000 dinara.",20:00,3000,Kulturni centar Vlada Divljan,"Mitropolita Petra 8, 11000 Beograd","44.816425,20.485499",https://somewhere.show/symphonians-miyazaki-belgraderu,@arsraws,https://somewhere.show/symphonians-miyazaki-belgraderu,Somewhere Show,https://somewhere.show/,,,,,,"концерт, Миядзаки, Хисаиси, саундтрек, оркестр, аниме, The Symphonians","concert, Miyazaki, Hisaishi, soundtrack, orchestra, anime, The Symphonians","koncert, Mijazaki, Hisaiši, saundtrek, orkestar, anime, The Symphonians"
