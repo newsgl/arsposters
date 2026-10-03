@@ -1,0 +1,279 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+10/19/2026,10/19/2026,10/3/2026,2037,Organization,QuizHeroes,https://quizheroes.ru/city/belgrade,ru,SocialEvent,«Гарри Поттер: Большая магическая битва» от QuizHeroes в Oblak u pantalonama: квиз по восьми фильмам и семи книгам,Harry Potter: The Great Magic Battle by QuizHeroes at Oblak u pantalonama: a quiz on eight films and seven books,„Hari Poter: Velika magijska bitka“ QuizHeroes u Oblaku u pantalonama: kviz o osam filmova i sedam knjiga,https://raw.githubusercontent.com/newsgl/arsposters/main/2037-GarriPotterQuizHeroesOblak.webp,,Games,"Новый квиз Лиги Героев по миру Гарри Поттера с выбором тем: Хогвартс, Турнир трёх волшебников, крестражи и Дары Смерти. Понедельник 19 октября, 20:00, 1000 динаров с участника.","A new Heroes League quiz on the Harry Potter world where teams pick the topics: Hogwarts, the Triwizard Tournament, Horcruxes and the Deathly Hallows. Monday 19 October, 20:00, 1000 dinars per player.","Novi kviz Lige heroja o svetu Harija Potera, timovi sami biraju teme: Hogvarts, Tročarobnjački turnir, horkruksi i Relikvije smrti. Ponedeljak 19. oktobar, 20.00, 1000 dinara po učesniku.","В 12-м сезоне **Лиги Героев** QuizHeroes в Белграде выходит новая игра: **«Гарри Поттер: Большая магическая битва»**. В механике есть выбор тем, команды сами решают, на какие блоки отвечать.
+
+Вопросы по всем восьми фильмам и семи книгам: Гарри, Рон и Гермиона, Снейп и Дамблдор, Хогвартс и Косой переулок, Турнир трёх волшебников, крестражи и Дары Смерти. Есть простые вопросы, например про имя совы Гарри, и сложные, вплоть до истории Регулуса Блэка. Сложность три звезды из пяти.
+
+Записаться можно на сайте QuizHeroes, через бота @QH_Belgrade_Bot или сообщением админу @quizserbia.
+
+Место: бар Oblak u pantalonama, Ћирила и Методија 2. В расписании организатора площадка не указана; здесь же проходят «Рок-квиз» 5 октября и «Властелин колец» 12 октября этого сезона, уточняйте при записи.
+
+Время: понедельник 19 октября, 20:00.
+
+Цена: 1000 динаров с участника.
+
+Язык: русский.","QuizHeroes' **12th Heroes League season** in Belgrade gets a new game: **Harry Potter: The Great Magic Battle**. Teams choose the topics they answer.
+
+The questions cover all eight films and seven books: Harry, Ron and Hermione, Snape and Dumbledore, Hogwarts and Diagon Alley, the Triwizard Tournament, Horcruxes and the Deathly Hallows. Some are easy, like the name of Harry's owl, and some go as deep as the story of Regulus Black. Difficulty three stars out of five.
+
+Sign up on the QuizHeroes website, via the bot @QH_Belgrade_Bot or by messaging the admin @quizserbia.
+
+Venue: Oblak u pantalonama bar, Ćirila i Metodija 2. The organiser's schedule does not name the venue; the Rock Quiz on 5 October and The Lord of the Rings on 12 October this season are held here, so check when you sign up.
+
+Time: Monday 19 October, 20:00.
+
+Price: 1000 dinars per player.
+
+Language: Russian.","U 12. sezoni **Lige heroja** QuizHeroes u Beogradu stiže nova igra: **„Hari Poter: Velika magijska bitka“**. Timovi sami biraju teme na koje odgovaraju.
+
+Pitanja obuhvataju svih osam filmova i sedam knjiga: Hari, Ron i Hermiona, Snejp i Dambldor, Hogvarts i Dijagon aleja, Tročarobnjački turnir, horkruksi i Relikvije smrti. Ima lakih pitanja, recimo o imenu Harijeve sove, i teških, sve do priče o Regulusu Bleku. Težina tri zvezdice od pet.
+
+Prijava na sajtu QuizHeroes, preko bota @QH_Belgrade_Bot ili porukom adminu @quizserbia.
+
+Mesto: bar Oblak u pantalonama, Ćirila i Metodija 2. U rasporedu organizatora mesto nije navedeno; ovde se ove sezone igraju „Rok kviz“ 5. oktobra i „Gospodar prstenova“ 12. oktobra, proverite pri prijavi.
+
+Vreme: ponedeljak 19. oktobar, 20.00.
+
+Cena: 1000 dinara po učesniku.
+
+Jezik: ruski.",20:00,1000,Oblak u pantalonama,"Ćirila i Metodija 2, 11050 Beograd","44.803923,20.481276",https://t.me/quizbelgrade/8982,@arsraws,https://quizheroes.ru/game/PotterQuizBG91,QuizHeroes,https://t.me/quizbelgrade,,,,,,"квиз, Гарри Поттер, игра, команда, QuizHeroes, Oblak u pantalonama","quiz, Harry Potter, game, team, QuizHeroes, Oblak u pantalonama","kviz, Hari Poter, igra, tim, QuizHeroes, Oblak u pantalonama"
+10/8/2026,10/8/2026,10/3/2026,2038,Organization,DC Loža,https://t.me/dcloza,,EducationEvent,"Poetry Night в DC Loža: поэтический открытый микрофон, свои стихи и любимые авторы",Poetry Night at DC Loža: an open mic for your own poems and favourite authors,Poetry Night u DC Loži: otvoreni mikrofon za sopstvene pesme i omiljene autore,https://raw.githubusercontent.com/newsgl/arsposters/main/2038-PoetryNightDCLoza.webp,,Lectures,"Открытый микрофон для стихов: свои, чужие, фрагменты и заметки, с телефона, с листка или по памяти. Можно прийти просто послушать. Четверг 8 октября, сбор в 19:30, начало в 20:00, вход за свободный донат.","An open mic for poetry: your own or someone else's, fragments and notes, read from a phone, a sheet of paper or by heart. You can also come just to listen. Thursday 8 October, doors 19:30, start 20:00, entry by free donation.","Otvoreni mikrofon za poeziju: svoje ili tuđe pesme, odlomci i beleške, sa telefona, papira ili napamet. Može se doći i samo da se sluša. Četvrtak 8. oktobar, okupljanje u 19.30, početak u 20.00, ulaz za dobrovoljni prilog.","Культурный центр **DC Loža** проводит **поэтический вечер** в формате открытого микрофона.
+
+Читать можно свои стихи или стихи любимых авторов, целиком или фрагментом, а также заметки, которыми давно хочется поделиться. Подойдёт телефон, листок или память. Слушателям тоже рады.
+
+Организаторы предупреждают, что в текстах возможна нецензурная лексика. Язык выступлений любой. Курят на этом вечере только снаружи.
+
+Место: DC Loža, Dalmatinska 84L, вход со стороны Ivankovačka.
+
+Время: четверг 8 октября, сбор в 19:30, начало в 20:00.
+
+Вход: свободный донат.","The **DC Loža** cultural centre hosts a **poetry evening** in an open mic format. The announcement comes in Russian with an English version for international guests.
+
+You can read your own poems or poems by authors you love, in full or in part, or notes you have long wanted to share. Read from a phone, from paper or from memory. Listeners are welcome too, no need to perform.
+
+The organisers warn that the texts may contain strong language. Any language is fine on stage. Smoking is outside only.
+
+Venue: DC Loža, Dalmatinska 84L, entrance from Ivankovačka.
+
+Time: Thursday 8 October, doors 19:30, start 20:00.
+
+Entry: free donation.","Kulturni centar **DC Loža** organizuje **pesničko veče** u formatu otvorenog mikrofona. Najava je na ruskom, uz verziju na engleskom za strane goste.
+
+Mogu se čitati sopstvene pesme ili pesme omiljenih autora, cele ili u odlomku, kao i beleške koje odavno želite da podelite. Sa telefona, sa papira ili napamet. Dobrodošli su i oni koji samo slušaju.
+
+Organizatori upozoravaju da tekstovi mogu sadržati psovke. Jezik nastupa je bilo koji. Puši se samo napolju.
+
+Mesto: DC Loža, Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Vreme: četvrtak 8. oktobar, okupljanje u 19.30, početak u 20.00.
+
+Ulaz: dobrovoljni prilog.",20:00,0,DC Loža,"Dalmatinska 84L, 11000 Beograd","44.808482,20.480228",https://t.me/dcloza/1229,@dcloza,,DC Loža,https://t.me/dcloza,,,,,,"поэзия, стихи, открытый микрофон, DC Loža","poetry, poems, open mic, DC Loža","poezija, pesme, otvoreni mikrofon, DC Loža"
+10/8/2026,10/8/2026,10/3/2026,2039,PerformingGroup,Kraljica smeha,https://t.me/free_belgrade/3866,,TheaterEvent,"«Королева смеха» в ЦК «Влада Дивлян»: спектакль о Любинке Бобич, бесплатные билеты","Kraljica smeha at the Vlada Divljan culture centre: a play about Ljubinka Bobić, free tickets","„Kraljica smeha“ u Centru za kulturu „Vlada Divljan“: predstava o Ljubinki Bobić, besplatne ulaznice",https://raw.githubusercontent.com/newsgl/arsposters/main/2039-KraljicaSmehaVladaDivljan.webp,,Theatre,"Спектакль по пьесе Зорана Божовича о жизни Любинки Бобич, знаменитой Живки из «Госпожи министерши». Четверг 8 октября, 20:00. Вход свободный по билетам, их выдают в кассе центра 6 и 7 октября с 10:00 до 18:00.","A play by Zoran Božović about Ljubinka Bobić, the famous Živka of The Minister's Wife. Thursday 8 October, 20:00. Free entry with a ticket, handed out at the centre's box office on 6 and 7 October, 10:00 to 18:00.","Predstava po tekstu Zorana Božovića o životu Ljubinke Bobić, čuvene Živke iz „Gospođe ministarke“. Četvrtak 8. oktobar, 20.00. Ulaz besplatan uz ulaznicu, deli se na blagajni centra 6. i 7. oktobra od 10 do 18 časova.","**«Королева смеха»** рассказывает о бурной жизни **Любинки Бобич**, одной из самых известных сербских актрис своего времени. Публика запомнила её прежде всего по роли Живки в «Госпоже министерше» Нушича. В центре постановки её талант, красота, работа на сцене и писательский дар.
+
+Пьесу написал **Зоран Божович**. По афише спектакля, Бобу играет Тамара Тамчи Тоскич, Мику играет Миленко Павлов, он же режиссёр и сценограф.
+
+Вход свободный, но билет нужно получить заранее: их выдают в кассе центра 6 и 7 октября с 10:00 до 18:00.
+
+Анонс пришёл репостом из канала @free_belgrade; страницы спектакля у центра или постановщиков мы не нашли, детали лучше уточнить в кассе.
+
+Место: Центр культуры «Влада Дивлян», Mitropolita Petra 8.
+
+Время: четверг 8 октября, 20:00.
+
+Язык: сербский.","**Kraljica smeha** (The Queen of Laughter) tells the turbulent life of **Ljubinka Bobić**, one of the best known Serbian actresses of her time. Audiences remember her above all as Živka in Nušić's The Minister's Wife. The play focuses on her talent, beauty, stage work and writing.
+
+The play is by **Zoran Božović**. According to the poster, Tamara Tamči Toskić plays Boba and Milenko Pavlov plays Mika; Pavlov also directed and designed the set.
+
+Entry is free, but you need to collect a ticket in advance at the centre's box office on 6 and 7 October, 10:00 to 18:00.
+
+The announcement came as a repost from the @free_belgrade channel; we found no page for the play from the centre or the company, so check the details at the box office.
+
+Venue: Vlada Divljan Culture Centre, Mitropolita Petra 8.
+
+Time: Thursday 8 October, 20:00.
+
+Language: Serbian.","**„Kraljica smeha“** govori o burnom životu **Ljubinke Bobić**, jedne od najpoznatijih srpskih glumica svog vremena. Publika je pamti pre svega kao Živku iz Nušićeve „Gospođe ministarke“. U središtu predstave su njen talenat, lepota, rad na sceni i spisateljski dar.
+
+Tekst je napisao **Zoran Božović**. Prema plakatu, Bobu igra Tamara Tamči Toskić, a Miku Milenko Pavlov, koji potpisuje i režiju i scenografiju.
+
+Ulaz je besplatan, ali ulaznicu treba preuzeti unapred na blagajni centra 6. i 7. oktobra od 10 do 18 časova.
+
+Najava je stigla kao repost sa kanala @free_belgrade; stranicu predstave kod centra ili autora nismo našli, detalje proverite na blagajni.
+
+Mesto: Centar za kulturu „Vlada Divljan“, Mitropolita Petra 8.
+
+Vreme: četvrtak 8. oktobar, 20.00.
+
+Jezik: srpski.",20:00,0,Kulturni centar Vlada Divljan,"Mitropolita Petra 8, 11000 Beograd","44.816425,20.485499",https://t.me/free_belgrade/3866,@arsraws,,Centar za kulturu „Vlada Divljan“,https://ckvladadivljan.rs/wp/,,,,,,"спектакль, театр, Любинка Бобич, Зоран Божович, бесплатно, Влада Дивлян","play, theatre, Ljubinka Bobić, Zoran Božović, free, Vlada Divljan","predstava, pozorište, Ljubinka Bobić, Zoran Božović, besplatno, Vlada Divljan"
+10/6/2026,10/6/2026,10/3/2026,2040,MusicGroup,Kawir,https://www.instagram.com/kawir_official/,,MusicEvent,"KAWIR в Klub Fest в Земуне: пионеры греческого языческого блэк-метала, на разогреве Kolac","KAWIR at Klub Fest in Zemun: pioneers of Greek pagan black metal, with Kolac","KAWIR u Klubu Fest u Zemunu: pioniri grčkog paganskog black metala, predgrupa Kolac",https://raw.githubusercontent.com/newsgl/arsposters/main/2040-KawirKlubFest.webp,,Concerts,"Греческая группа KAWIR, больше 30 лет играющая сырой эллинский блэк-метал об античных богах. Разогрев: белградские ветераны Kolac. Вторник 6 октября, 20:00, Klub Fest. Билеты 1200 динаров в кассах, 1400 онлайн.","Greek band KAWIR has played raw Hellenic black metal about the ancient gods for over 30 years. Support: Belgrade veterans Kolac. Tuesday 6 October, 20:00, Klub Fest. Tickets 1200 dinars at outlets, 1400 online.","Grčki bend KAWIR već više od 30 godina svira sirovi helenski black metal o antičkim bogovima. Predgrupa: beogradski veterani Kolac. Utorak 6. oktobar, 20.00, Klub Fest. Ulaznice 1200 dinara na prodajnim mestima, 1400 onlajn.","Греческая группа **KAWIR** входит в число первопроходцев языческого блэк-метала в Греции. Её основали в Афинах в 1993 году, и с тех пор она держится своего звучания: от дебютного альбома «Προς Κάβειρους» (1997) до последней пластинки **«Kydoimos»** (2024). Это сырой эллинский блэк-метал, тексты которого посвящены античной истории, древним богам и греческому язычеству.
+
+На разогреве выступит белградская группа **Kolac**, которая с 2006 года играет классический блэк-метал.
+
+Место: Klub Fest, Gradski park 2, Земун.
+
+Время: вторник 6 октября, 20:00.
+
+Цена: 1400 динаров онлайн на Bilet.rs, 1200 динаров за бумажный билет в Klub Fest, Pivski Zabavnik и Pivopija.","Greek band **KAWIR** is among the pioneers of pagan black metal in Greece. Formed in Athens in 1993, it has kept to its sound ever since, from the debut album Προς Κάβειρους (1997) to the latest record **Kydoimos** (2024). This is raw Hellenic black metal with lyrics about ancient history, the old gods and Greek paganism.
+
+Support comes from Belgrade band **Kolac**, playing classic black metal since 2006.
+
+Venue: Klub Fest, Gradski park 2, Zemun.
+
+Time: Tuesday 6 October, 20:00.
+
+Price: 1400 dinars online at Bilet.rs, 1200 dinars for a paper ticket at Klub Fest, Pivski Zabavnik and Pivopija.","Grčki bend **KAWIR** spada među pionire paganskog black metala u Grčkoj. Osnovan je u Atini 1993. godine i od tada se drži svog zvuka, od debi albuma „Προς Κάβειρους“ (1997) do poslednjeg izdanja **„Kydoimos“** (2024). To je sirovi helenski black metal sa tekstovima o antičkoj istoriji, drevnim bogovima i grčkom paganizmu.
+
+Kao predgrupa nastupa beogradski bend **Kolac**, koji od 2006. svira klasični black metal.
+
+Mesto: Klub Fest, Gradski park 2, Zemun.
+
+Vreme: utorak 6. oktobar, 20.00.
+
+Cena: 1400 dinara onlajn na Bilet.rs, 1200 dinara za papirnu ulaznicu u Klubu Fest, Pivskom Zabavniku i Pivopiji.",20:00,1200,Klub Fest,"Gradski park 2, Zemun, 11080 Beograd","44.840525,20.410815",https://bilet.rs/events/504/kawir-gre-u-klubu-fest,@arsraws,https://bilet.rs/events/504/kawir-gre-u-klubu-fest,Klub Fest,https://klubfest.rs/,,,,,,"концерт, блэк-метал, метал, KAWIR, Kolac, Klub Fest, Земун","concert, black metal, metal, KAWIR, Kolac, Klub Fest, Zemun","koncert, black metal, metal, KAWIR, Kolac, Klub Fest, Zemun"
+10/16/2026,10/16/2026,10/3/2026,2041,Person,Вера Котельникова,https://t.me/standup_beo/2521,ru,ComedyEvent,Вера Котельникова в Ben Akiba: повтор проверочного стендап-концерта с новыми шутками,Vera Kotelnikova at Ben Akiba: a repeat of her stand-up try-out show with new jokes,Vera Kotelnikova u Ben Akibi: ponovljeni probni stand-up koncert sa novim šalama,https://raw.githubusercontent.com/newsgl/arsposters/main/2041-VeraKotelnikovaBenAkiba.webp,,Stand Up,"Комикесса, ведущая подкаста «правило 34» и участница «Открытого микрофона» на ТНТ проверяет на зале новый материал. Пятница 16 октября, двери 19:00, начало 19:30, Ben Akiba, билеты от 1800 динаров.","Comedian Vera Kotelnikova, host of the podcast Pravilo 34 and a contestant on the TNT show Open Mic, tests new material on the audience. Friday 16 October, doors 19:00, start 19:30, Ben Akiba, tickets from 1800 dinars.","Komičarka Vera Kotelnikova, voditeljka podkasta „pravilo 34“ i učesnica emisije „Otvoreni mikrofon“ na TNT, isprobava novi materijal pred publikom. Petak 16. oktobar, vrata u 19.00, početak u 19.30, Ben Akiba, ulaznice od 1800 dinara.","**Вера Котельникова** повторяет в Белграде **проверочный стендап-концерт**. Она пишет новые шутки, а зал решает, смешные они, несмешные или вообще не шутки. Сама Вера называет билет беспроигрышной лотереей: либо посмеётесь, либо научитесь осторожнее выбирать, как провести вечер.
+
+Вера ведёт подкаст «правило 34», выступала в «Открытом микрофоне» на ТНТ и в «Прожарке» на ТНТ4.
+
+Концерт устраивает команда «Опять Эти», которая делает стендап в Сербии.
+
+Место: Ben Akiba, Braće Krsmanovića 6.
+
+Время: пятница 16 октября, двери в 19:00, начало в 19:30.
+
+Цена: от 1800 динаров.
+
+Язык: русский.","**Vera Kotelnikova** brings back her **stand-up try-out show** to Belgrade. She writes new jokes, and the room decides whether they are funny, not funny or not jokes at all. Vera calls the ticket a lottery you cannot lose: either you laugh, or you learn to choose your evenings more carefully.
+
+Vera hosts the podcast Pravilo 34 and has appeared on Open Mic on TNT and on the roast show Prozharka on TNT4.
+
+The show is organised by Opyat Eti, a team running stand-up in Serbia.
+
+Venue: Ben Akiba, Braće Krsmanovića 6.
+
+Time: Friday 16 October, doors 19:00, start 19:30.
+
+Price: from 1800 dinars.
+
+Language: Russian.","**Vera Kotelnikova** ponovo izvodi u Beogradu **probni stand-up koncert**. Ona piše nove šale, a publika odlučuje da li su smešne, nesmešne ili uopšte nisu šale. Sama Vera kaže da je ulaznica lutrija u kojoj se ne gubi: ili ćete se smejati, ili ćete naučiti pažljivije da birate kako ćete provesti veče.
+
+Vera vodi podkast „pravilo 34“, nastupala je u emisiji „Otvoreni mikrofon“ na TNT i u „Prožarki“ na TNT4.
+
+Koncert organizuje tim „Opjat Eti“, koji pravi stand-up u Srbiji.
+
+Mesto: Ben Akiba, Braće Krsmanovića 6.
+
+Vreme: petak 16. oktobar, vrata u 19.00, početak u 19.30.
+
+Cena: od 1800 dinara.
+
+Jezik: ruski.",19:30,1800,Ben Akiba,"Braće Krsmanovića 6, Beograd","44.814204,20.450370",https://t.me/standup_beo/2521,@arsraws,https://polakohedonist.club/ru/events/vera-kotelnikova-proverochnyj-stendap-koncert-povtor-ben-akiba-2026-10-16-00-00-1,Опять Эти,https://t.me/standup_beo,,,,,,"стендап, юмор, Вера Котельникова, проверочный концерт, Ben Akiba","stand-up, comedy, Vera Kotelnikova, try-out show, Ben Akiba","stand-up, humor, Vera Kotelnikova, probni koncert, Ben Akiba"
+10/6/2026,10/6/2026,10/3/2026,2042,Person,"Дима Колыбелкин, Костя Широков",https://t.me/standup_beo/2523,ru,ComedyEvent,«В два ствола» в Polet: импров-стендап Димы Колыбелкина и Кости Широкова,V dva stvola at Polet: improv stand-up with Dima Kolybelkin and Kostya Shirokov,„V dva stvola“ u Poletu: improvizovani stand-up Dime Kolibjelkina i Koste Širokova,https://raw.githubusercontent.com/newsgl/arsposters/main/2042-VDvaStvolaPolet.webp,,Stand Up,"Комедийное импров-шоу двух стендап-комиков: общаются с залом, раскручивают истории зрителей и шутят без заготовок. Вторник 6 октября, 20:00, Polet, билеты 2000 динаров.","A comedy improv show by two stand-up comedians: they talk to the room, build on the audience's stories and joke without prepared material. Tuesday 6 October, 20:00, Polet, tickets 2000 dinars.","Komični improv šou dvojice stand-up komičara: razgovaraju sa publikom, razvijaju priče gledalaca i šale se bez pripremljenog materijala. Utorak 6. oktobar, 20.00, Polet, ulaznice 2000 dinara.","**«В два ствола»** это комедийное импров-шоу, в котором стендап-комики **Костя Широков** и **Дима Колыбелкин** выходят без готового сета. Они разговаривают с залом, раскручивают то, что услышали, и шутят. Как обещают организаторы, на сцене они могут делать что угодно. Каждый вечер такого шоу получается своим, потому что строится на том, что скажут зрители.
+
+Polet стоит во дворе бывшей пивоварни на Цетиньской, 15. Билеты продаются онлайн по ссылке на странице события.
+
+Вечер устраивает команда «Опять Эти», которая делает стендап в Сербии.
+
+Место: клуб Polet, Cetinjska 15.
+
+Время: вторник 6 октября, 20:00.
+
+Цена: 2000 динаров.
+
+Язык: русский.","**V dva stvola** (Both Barrels) is a comedy improv show where stand-up comedians **Kostya Shirokov** and **Dima Kolybelkin** go on stage without a set. They talk to the room, run with what they hear and joke. According to the organisers, anything can happen on stage. Every show of this kind turns out different, because it is built on what the audience says.
+
+Polet sits in the courtyard of the former brewery at Cetinjska 15. Tickets are sold online via the link on the event page.
+
+The evening is organised by Opyat Eti, a team running stand-up in Serbia.
+
+Venue: Polet club, Cetinjska 15.
+
+Time: Tuesday 6 October, 20:00.
+
+Price: 2000 dinars.
+
+Language: Russian.","**„V dva stvola“** je komični improv šou u kojem stand-up komičari **Kostja Širokov** i **Dima Kolibjelkin** izlaze na scenu bez pripremljenog seta. Razgovaraju sa publikom, razvijaju ono što čuju i šale se. Kako kažu organizatori, na sceni mogu da rade bilo šta. Svako izvođenje ovog šoua je drugačije, jer se gradi na onome što kaže publika.
+
+Polet se nalazi u dvorištu nekadašnje pivare u Cetinjskoj 15. Ulaznice se prodaju onlajn preko linka na stranici događaja.
+
+Veče organizuje tim „Opjat Eti“, koji pravi stand-up u Srbiji.
+
+Mesto: klub Polet, Cetinjska 15.
+
+Vreme: utorak 6. oktobar, 20.00.
+
+Cena: 2000 dinara.
+
+Jezik: ruski.",20:00,2000,Polet,"Cetinjska 15, 11000 Beograd","44.818020,20.465398",https://t.me/standup_beo/2523,@arsraws,https://polakohedonist.club/ru/events/improvizacionnyj-stendap-v-dva-stvola-polet-cetinjska-2026-10-06-20-00-1,Опять Эти,https://t.me/standup_beo,,,,,,"стендап, импровизация, юмор, Дима Колыбелкин, Костя Широков, Polet","stand-up, improv, comedy, Dima Kolybelkin, Kostya Shirokov, Polet","stand-up, improvizacija, humor, Dima Kolibjelkin, Kostja Širokov, Polet"
+10/15/2026,10/15/2026,10/3/2026,2043,Organization,MozgoQuiz,https://beo.mzgb.net/,ru,SocialEvent,MozgoQuiz «Осенняя классика» в Santo Domingo: командный квиз на общую эрудицию,MozgoQuiz Autumn Classic at Santo Domingo: a team general knowledge quiz,MozgoQuiz „Jesenja klasika“ u Santo Domingu: timski kviz opšteg znanja,https://raw.githubusercontent.com/newsgl/arsposters/main/2043-MozgoQuizOsennyayaKlassika.webp,,Games,"Классическая игра MozgoQuiz на общую эрудицию, осенний выпуск. Команды регистрируются заранее на сайте. Четверг 15 октября, 19:30, Santo Domingo на Студенческой площади, 1000 динаров с участника.","MozgoQuiz's classic general knowledge game, autumn edition. Teams register in advance on the website. Thursday 15 October, 19:30, Santo Domingo on Studentski trg, 1000 dinars per player.","Klasična MozgoQuiz igra opšteg znanja, jesenje izdanje. Timovi se prijavljuju unapred na sajtu. Četvrtak 15. oktobar, 19.30, Santo Domingo na Studentskom trgu, 1000 dinara po učesniku.","**MozgoQuiz** проводит в Белграде **«Осеннюю классику»**: игру в своём основном формате, с вопросами на общую эрудицию. Организаторы зовут на неё как на способ скрасить серые осенние вечера.
+
+Играют командами. Команду нужно зарегистрировать заранее по ссылке на сайте MozgoQuiz Белград; оплата считается с каждого участника.
+
+Santo Domingo стоит на Студенческой площади, в нескольких минутах от Кнез Михайловой. MozgoQuiz регулярно проводит здесь свои белградские игры.
+
+Место: Santo Domingo, Studentski trg 15.
+
+Время: четверг 15 октября, 19:30.
+
+Цена: 1000 динаров с участника.
+
+Язык: русский.","**MozgoQuiz** holds its **Autumn Classic** in Belgrade: a game in its main format, with general knowledge questions. The organisers pitch it as a way to brighten grey autumn evenings.
+
+You play in teams. Register your team in advance via the link on the MozgoQuiz Belgrade website; the fee is per player.
+
+Santo Domingo is on Studentski trg, a few minutes from Knez Mihailova. MozgoQuiz holds its Belgrade games here regularly.
+
+Venue: Santo Domingo, Studentski trg 15.
+
+Time: Thursday 15 October, 19:30.
+
+Price: 1000 dinars per player.
+
+Language: Russian.","**MozgoQuiz** u Beogradu organizuje **„Jesenju klasiku“**: igru u osnovnom formatu, sa pitanjima opšteg znanja. Organizatori je predstavljaju kao način da se razvedre sive jesenje večeri.
+
+Igra se u timovima. Tim treba prijaviti unapred preko linka na sajtu MozgoQuiz Beograd; plaća se po učesniku.
+
+Santo Domingo je na Studentskom trgu, nekoliko minuta od Knez Mihailove. MozgoQuiz ovde redovno organizuje svoje beogradske igre.
+
+Mesto: Santo Domingo, Studentski trg 15.
+
+Vreme: četvrtak 15. oktobar, 19.30.
+
+Cena: 1000 dinara po učesniku.
+
+Jezik: ruski.",19:30,1000,Santo Domingo,"Studentski trg 15, Beograd","44.820075,20.456560",https://t.me/mzgb_beo/678,@arsraws,https://beo.mzgb.net/#reg-event-14781,MozgoQuiz Белград,https://t.me/mzgb_beo,,,,,,"квиз, MozgoQuiz, эрудиция, игра, команда, Santo Domingo","quiz, MozgoQuiz, general knowledge, game, team, Santo Domingo","kviz, MozgoQuiz, opšte znanje, igra, tim, Santo Domingo"
+10/8/2026,10/8/2026,10/3/2026,2044,Organization,DC Loža,https://t.me/dcloza,,EducationEvent,Инди-веб в DC Loža: интернет вне корпоративных соцсетей и как сделать свой статичный сайт,Indie Web at DC Loža: the internet beyond corporate social media and how to build your own static site,Indie web u DC Loži: internet van korporativnih društvenih mreža i kako napraviti svoj statični sajt,https://raw.githubusercontent.com/newsgl/arsposters/main/2044-IndieWebDCLoza.webp,,Lectures,"Встреча об инди-вебе: личные сайты, дневники и селф-хостинг вместо алгоритмов соцсетей. История явления, как начать делать статичные сайты самому и забавные находки. Четверг 8 октября, 19:00, на английском, рекомендованный донат 500 динаров.","A talk about the indie web: personal sites, online diaries and self-hosting instead of social media algorithms. The history of the scene, how to start making static sites yourself, and some odd finds. Thursday 8 October, 19:00, in English, suggested donation 500 dinars.","Susret o indie webu: lični sajtovi, dnevnici i self-hosting umesto algoritama društvenih mreža. Istorija pojave, kako sami početi da pravite statične sajtove i zabavna otkrića. Četvrtak 8. oktobar, 19.00, na engleskom, preporučeni prilog 500 dinara.","Корпоративные площадки живут рейджбейтом, монетизацией всего подряд, размытыми правилами для контента и однотипным потоком под алгоритмы. В **DC Loža** поговорят о том, где интернет устроен иначе: об **инди-вебе**, мире смешных сайтов, активистского селф-хостинга и личных дневников.
+
+В программе история явления, показ того, как самому начать делать **статичные сайты**, и разбор забавных находок вроде сайта с крутящейся мышью и симулятора телевизора 2000-х.
+
+Курят на встрече только снаружи.
+
+Место: DC Loža, Dalmatinska 84L, вход со стороны Ivankovačka.
+
+Время: четверг 8 октября, 19:00.
+
+Вход: рекомендованный донат 500 динаров.
+
+Язык: английский.","Corporate platforms run on rage bait, monetising everything, vague content rules and a stream of look-alike posts made for the algorithm. At **DC Loža** the talk is about the places where the internet works differently: the **indie web**, a world of funny websites, activist self-hosting and personal diaries.
+
+The programme covers the history of the scene, a demo of how to start making **static sites** yourself, and a look at odd finds such as a site with a spinning mouse and a 2000s TV simulator.
+
+Smoking is outside only.
+
+Venue: DC Loža, Dalmatinska 84L, entrance from Ivankovačka.
+
+Time: Thursday 8 October, 19:00.
+
+Entry: suggested donation 500 dinars.
+
+Language: English.","Korporativne platforme žive od rage baita, monetizacije svega, nejasnih pravila za sadržaj i jednoličnog toka pod algoritme. U **DC Loži** razgovaraće se o mestima gde je internet drugačiji: o **indie webu**, svetu smešnih sajtova, aktivističkog self-hostinga i ličnih dnevnika.
+
+U programu su istorija pojave, prikaz kako sami da počnete da pravite **statične sajtove** i zabavna otkrića poput sajta sa mišem koji se vrti i simulatora televizora iz 2000-ih.
+
+Puši se samo napolju.
+
+Mesto: DC Loža, Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Vreme: četvrtak 8. oktobar, 19.00.
+
+Ulaz: preporučeni prilog 500 dinara.
+
+Jezik: engleski.",19:00,0,DC Loža,"Dalmatinska 84L, 11000 Beograd","44.808482,20.480228",https://t.me/dcloza/1228,@dcloza,,DC Loža,https://t.me/dcloza,,,,,,"лекция, интернет, инди-веб, сайты, DC Loža","talk, internet, indie web, websites, DC Loža","predavanje, internet, indie web, sajtovi, DC Loža"
