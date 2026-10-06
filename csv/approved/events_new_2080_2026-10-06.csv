@@ -1,0 +1,783 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+10/18/2026,10/18/2026,10/6/2026,2080,Person,Павел Лагашин,https://luma.com/431vwwoo,ru,ChildrensEvent,Шахматный клуб для детей в «Аудитории» с кандидатом в мастера Павлом Лагашиным,Chess club for children at Auditoria with candidate master Pavel Lagashin,Šahovski klub za decu u „Auditoriji“ sa kandidatom za majstora Pavelom Lagašinom,https://raw.githubusercontent.com/newsgl/arsposters/main/2080-ShahmatyDetiAuditoria.webp,,Kids,"Занятие для детей, которые уже знакомы с шахматами: теория, задачи, разбор партий сильных шахматистов и игры друг с другом. Ведёт КМС Павел Лагашин. Воскресенье 18 октября, 13:00, 1000 динаров по регистрации, 1500 без.","A class for children who already know how to play chess: theory, puzzles, analysis of strong players' games and games against each other. Led by candidate master Pavel Lagashin. Sunday 18 October, 13:00, 1,000 dinars with registration, 1,500 without.","Čas za decu koja već poznaju šah: teorija, zadaci, analiza partija jakih šahista i igra međusobno. Vodi kandidat za majstora Pavel Lagašin. Nedelja 18. oktobar, 13.00, 1.000 dinara uz prijavu, 1.500 bez.","В «Аудитории» продолжает работу **шахматный клуб** для детей, которые уже знакомы с шахматами и хотят играть сильнее.
+
+На занятиях разбирают шахматную теорию и решают задачи, учатся оценивать позицию и находить сильные ходы, разыгрывают игровые ситуации, разбирают партии сильных шахматистов и пробуют угадывать их ходы. Дети играют друг с другом и участвуют во внутренних турнирах.
+
+Ведёт **Павел Лагашин**, кандидат в мастера спорта с баллом международного мастера, победитель и призёр международных турниров. Преподаёт с 2009 года, среди его учеников есть кандидаты в мастера и призёры детских первенств России.
+
+Возраст: от 6 лет (пометка 6+ стоит и на афише, и на странице регистрации).
+
+Место: «Аудитория», Војводе Добрњца 48.
+
+Время: воскресенье 18 октября, с 13:00 до 15:00.
+
+Цена: 1000 динаров по регистрации на luma, 1500 без регистрации, наличными на входе.
+
+Язык: русский.","The **chess club** at Auditoria continues for children who already know the game and want to get stronger.
+
+The classes cover chess theory and puzzles, evaluating positions and finding strong moves, playing out game situations, and analysing strong players' games while trying to guess their moves. The children play each other and take part in internal tournaments.
+
+The club is led by **Pavel Lagashin**, a candidate master with an international master rating, winner and prize-winner of international tournaments. He has been teaching since 2009, and his students include candidate masters and medallists of Russian youth championships.
+
+Age: from 6 (the 6+ mark appears on both the poster and the registration page).
+
+Venue: Auditoria, Vojvode Dobrnjca 48.
+
+Time: Sunday 18 October, 13:00 to 15:00.
+
+Price: 1,000 dinars with registration on luma, 1,500 without, cash at the door.
+
+Language: Russian.","U „Auditoriji“ nastavlja sa radom **šahovski klub** za decu koja već poznaju šah i žele da igraju jače.
+
+Na časovima se radi šahovska teorija i rešavaju zadaci, uči se procena pozicije i traženje jakih poteza, igraju se različite situacije, analiziraju partije jakih šahista uz pogađanje njihovih poteza. Deca igraju međusobno i učestvuju na internim turnirima.
+
+Časove vodi **Pavel Lagašin**, kandidat za majstora sa rejtingom internacionalnog majstora, pobednik i osvajač nagrada na međunarodnim turnirima. Predaje od 2009. godine, a među njegovim učenicima su kandidati za majstora i osvajači medalja na dečjim prvenstvima Rusije.
+
+Uzrast: od 6 godina (oznaka 6+ stoji i na plakatu i na stranici za prijavu).
+
+Mesto: „Auditorija“, Vojvode Dobrnjca 48.
+
+Vreme: nedelja 18. oktobar, od 13.00 do 15.00.
+
+Cena: 1.000 dinara uz prijavu na lumi, 1.500 bez prijave, gotovinom na ulazu.
+
+Jezik: ruski.",13:00,1000,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://t.me/auditoria_belgrade/1752,@auditoria_belgrade,https://luma.com/431vwwoo,Auditoria,https://t.me/auditoria_belgrade,,,6+,,,"шахматы, дети, клуб, Аудитория, русский язык","chess, kids, club, Auditoria, Russian language","šah, deca, klub, Auditorija, ruski jezik"
+10/9/2026,10/9/2026,10/6/2026,2081,Organization,Squiz Beograd,https://belgrade.squiz.ru/,ru,SocialEvent,«Классический Сквиз» в Santo Domingo,Classic Squiz at Santo Domingo,Klasični Squiz u Santo Domingu,https://raw.githubusercontent.com/newsgl/arsposters/main/2081-SquizKlassicheskiy.webp,,Games,"Классический командный квиз без темы: вопросы на логику и эрудицию обо всём подряд. 9 октября в 19:00 в Santo Domingo, от 1000 RSD с игрока.","A classic team quiz with no theme: questions on logic and general knowledge about everything at once. 9 October at 19:00 at Santo Domingo, from 1,000 RSD per player.","Klasičan timski kviz bez teme: pitanja iz logike i opšte kulture o svemu i svačemu. 9. oktobra u 19.00 u Santo Domingu, od 1.000 RSD po igraču.","Основная игра **Squiz** в Белграде, выпуск #171: без темы, вопросы про всё сразу.
+
+В игре 51 вопрос в семи раундах, около двух часов. За столом соревнуются от 20 до 40 команд по 2 до 8 человек, ответы пишут на бланках. Формат считается удобным и для новичков, и для опытных игроков.
+
+Записываться можно командой или в одиночку: одиночек рассаживают по столам на месте.
+
+Сложность по шкале организаторов средняя.
+
+Место: Santo Domingo, Студентски трг 15.
+
+Время: пятница 9 октября, 19:00.
+
+Цена: от 1000 RSD с человека.
+
+Язык: русский.
+
+Запись через сайт belgrade.squiz.ru.","The main **Squiz** game in Belgrade, game #171: no theme, questions on everything at once.
+
+The game runs 51 questions across seven rounds, about two hours. Between 20 and 40 teams of 2 to 8 people compete, writing answers on forms. The format works for newcomers and regulars alike.
+
+You can sign up as a team or alone: single players are seated at shared tables.
+
+The organisers rate the difficulty as medium.
+
+Venue: Santo Domingo, Studentski trg 15.
+
+Time: Friday 9 October, 19:00.
+
+Price: from 1,000 RSD per person.
+
+Language: Russian.
+
+Sign-up through belgrade.squiz.ru.","Glavna **Squiz** igra u Beogradu, izdanje #171: bez teme, pitanja o svemu odjednom.
+
+Igra ima 51 pitanje u sedam rundi i traje oko dva sata. Takmiči se između 20 i 40 timova od 2 do 8 ljudi, odgovori se pišu na formularima. Format odgovara i početnicima i iskusnim igračima.
+
+Prijaviti se možete sa timom ili sami: pojedinci se raspoređuju za zajedničke stolove.
+
+Organizatori težinu ocenjuju kao srednju.
+
+Mesto: Santo Domingo, Studentski trg 15.
+
+Vreme: petak 9. oktobar, 19.00.
+
+Cena: od 1.000 RSD po osobi.
+
+Jezik: ruski.
+
+Prijava preko belgrade.squiz.ru.",19:00,1000,Santo Domingo,"Studentski trg 15, Beograd","44.820075,20.456560",https://t.me/quiz_bg/5111,@arsraws,https://belgrade.squiz.ru/,Squiz Beograd,https://t.me/quiz_bg,,,,,,"квиз, интеллектуальные игры, эрудиция, Santo Domingo, Squiz","quiz, trivia, general knowledge, Santo Domingo, Squiz","kviz, timska igra, opšta kultura, Santo Domingo, Squiz"
+10/16/2026,10/16/2026,10/6/2026,2082,Organization,Squiz Beograd,https://belgrade.squiz.ru/,ru,SocialEvent,"Squiz «Осенний кубок» в Santo Domingo: семь раундов, вопросы сложнее обычного",Squiz Autumn Cup at Santo Domingo: seven rounds with harder questions than usual,"Squiz „Jesenji kup“ u Santo Domingu: sedam rundi, pitanja teža nego obično",https://raw.githubusercontent.com/newsgl/arsposters/main/2082-SquizOsennijKubok.webp,,Games,"Главный формат Squiz в усложнённом варианте: семь раундов на разные темы, победителю кубок. Пятница 16 октября в 19:00 в Santo Domingo, 1000 динаров с участника.","The main Squiz format in a harder version: seven rounds on different topics, and the winner takes the cup. Friday 16 October at 19:00 at Santo Domingo, 1,000 dinars per player.","Glavni Squiz format u težoj varijanti: sedam rundi na različite teme, pobedniku pehar. Petak 16. oktobar u 19.00 u Santo Domingu, 1.000 dinara po igraču.","**Осенний кубок** это турнирная игра **Squiz**: тот же классический формат из семи раундов на разные темы, но вопросы сложнее, чем на обычных играх, а команда-победитель получает кубок.
+
+В игре 51 вопрос, примерно два часа. За столами от 20 до 40 команд от 2 до 8 человек, ответы пишут на бланках, ведущий читает вопросы и дублирует их на экране. Организаторы ставят сложность «высокая», поэтому кубок рассчитан на команды, которые уже играли в Squiz и хотят проверить себя против сильнейших.
+
+Прийти можно и без полной команды: одиночек рассаживают на месте. Команды записываются заранее на сайте belgrade.squiz.ru.
+
+Место: Santo Domingo, Студентски трг 15.
+
+Время: пятница 16 октября, 19:00.
+
+Цена: 1000 динаров с участника.
+
+Язык: русский.","**Autumn Cup** is the tournament game of **Squiz**: the same classic format of seven rounds on different topics, but the questions are harder than at regular games and the winning team takes home a cup.
+
+The game has 51 questions and lasts about two hours. Between 20 and 40 teams of 2 to 8 people sit at the tables, answers are written on forms, the host reads the questions and shows them on screen. The organisers rate the difficulty as high, so the cup is meant for teams who have already played Squiz and want to test themselves against the strongest.
+
+You can come without a full team: single players are seated on the spot. Teams register in advance at belgrade.squiz.ru.
+
+Venue: Santo Domingo, Studentski trg 15.
+
+Time: Friday 16 October, 19:00.
+
+Price: 1,000 dinars per player.
+
+Language: Russian.","**Jesenji kup** je turnirska igra **Squiz-a**: isti klasični format od sedam rundi na različite teme, ali su pitanja teža nego na običnim igrama, a pobednički tim nosi kući pehar.
+
+Igra ima 51 pitanje i traje oko dva sata. Za stolovima je od 20 do 40 timova od 2 do 8 ljudi, odgovori se pišu na formularima, voditelj čita pitanja i prikazuje ih na ekranu. Organizatori težinu ocenjuju kao visoku, pa je kup namenjen timovima koji su već igrali Squiz i žele da se oprobaju protiv najjačih.
+
+Može se doći i bez punog tima: pojedinci se raspoređuju na licu mesta. Timovi se prijavljuju unapred na sajtu belgrade.squiz.ru.
+
+Mesto: Santo Domingo, Studentski trg 15.
+
+Vreme: petak 16. oktobar, 19.00.
+
+Cena: 1.000 dinara po igraču.
+
+Jezik: ruski.",19:00,1000,Santo Domingo,"Studentski trg 15, Beograd","44.820075,20.456560",https://t.me/quiz_bg/5111,@arsraws,https://belgrade.squiz.ru/,Squiz Beograd,https://t.me/quiz_bg,,,,,,"квиз, Squiz, кубок, командная игра, Santo Domingo, русский язык","quiz, Squiz, cup, team game, Santo Domingo, Russian language","kviz, Squiz, kup, timska igra, Santo Domingo, ruski jezik"
+10/12/2026,10/12/2026,10/6/2026,2083,Organization,Detequiz,https://detequiz.com/,ru,SocialEvent,Detequiz «Последняя партия»: детективный паб-квиз в Santo Domingo,Detequiz The Last Game: a detective pub quiz at Santo Domingo,Detequiz „Poslednja partija“: detektivski pab kviz u Santo Domingu,https://raw.githubusercontent.com/newsgl/arsposters/main/2083-DetequizPoslednjajaPartija.webp,,Games,"Новое дело Detequiz: Вена, отель «Захер», в запертом номере найден мёртвый гость, рядом шахматная пешка и красный оттиск коня. Понедельник 12 октября в 19:00 в Santo Domingo, пять туров, около двух с половиной часов, 1000 динаров.","A new Detequiz case: Vienna, the Hotel Sacher, a dead guest found in a locked room, beside him a chess pawn and a red stamp of a knight. Monday 12 October at 19:00 at Santo Domingo, five rounds, about two and a half hours, 1,000 dinars.","Novi slučaj Detequiza: Beč, hotel „Zaher“, u zaključanoj sobi pronađen mrtav gost, pored njega šahovski pešak i crveni otisak konja. Ponedeljak 12. oktobar u 19.00 u Santo Domingu, pet rundi, oko dva i po sata, 1.000 dinara.","**Detequiz** это детективный паб-квиз: команды получают материалы дела и разбирают его по документам, аудиоперехватам, вещдокам и шифрам.
+
+Новое дело называется **«Последняя партия»**. Вена, отель «Захер»: внизу играет салонный оркестр и пахнет свежим кофе, а этажом выше в запертом номере находят мёртвого гостя. В комнате безупречный порядок, ни следов борьбы, ни сдвинутых вещей, только два чужих предмета, оставленных на виду: шахматная пешка и красный оттиск коня. Тайный игрок сделал ход и переключил таймер, дальше ходят команды сыщиков.
+
+Игра идёт пять туров, около двух с половиной часов. Команду собирают заранее, регистрация по ссылке организатора.
+
+Место: Santo Domingo, Студентски трг 15.
+
+Время: понедельник 12 октября, начало в 19:00.
+
+Цена: 1000 динаров.
+
+Язык: русский.","**Detequiz** is a detective pub quiz: teams get the case file and work through documents, intercepted recordings, evidence and ciphers.
+
+The new case is called **The Last Game**. Vienna, the Hotel Sacher: a salon orchestra plays downstairs and the lobby smells of fresh coffee, while one floor up a dead guest is found in a locked room. The room is in perfect order, no signs of a struggle, nothing moved, only two objects that do not belong there, left in plain sight: a chess pawn and a red stamp of a knight. The secret player has made a move and pressed the clock; now it is the detectives' turn.
+
+The game runs five rounds, about two and a half hours. Teams register in advance through the organiser link.
+
+Venue: Santo Domingo, Studentski trg 15.
+
+Time: Monday 12 October at 19:00.
+
+Price: 1,000 dinars.
+
+Language: Russian.","**Detequiz** je detektivski pab kviz: timovi dobijaju materijale slučaja i razrađuju ga kroz dokumenta, presretnute snimke, dokaze i šifre.
+
+Novi slučaj zove se **„Poslednja partija“**. Beč, hotel „Zaher“: dole svira salonski orkestar i miriše na svežu kafu, a sprat iznad u zaključanoj sobi pronalaze mrtvog gosta. U sobi je savršen red, nema tragova borbe ni pomerenih stvari, samo dva tuđa predmeta ostavljena na vidnom mestu: šahovski pešak i crveni otisak konja. Tajni igrač je povukao potez i pritisnuo sat, sada su na redu timovi detektiva.
+
+Igra traje pet rundi, oko dva i po sata. Tim se prijavljuje unapred, preko linka organizatora.
+
+Mesto: Santo Domingo, Studentski trg 15.
+
+Vreme: ponedeljak 12. oktobar u 19.00.
+
+Cena: 1.000 dinara.
+
+Jezik: ruski.",19:00,1000,Santo Domingo,"Studentski trg 15, Beograd","44.820075,20.456560",https://t.me/detequiz_bg/61,@arsraws,https://detequiz.com/r/359c240e-77bc-40de-bf6b-982db575bb50,Detequiz,https://t.me/detequiz_bg,,,,,,"квиз, детектив, Santo Domingo, командная игра, русский язык","quiz, detective, Santo Domingo, team game, Russian language","kviz, detektiv, Santo Domingo, timska igra, ruski jezik"
+10/11/2026,10/11/2026,10/6/2026,2084,PerformingGroup,ČemoDan Theatre,https://www.instagram.com/chemodan_theatre/,ru,ChildrensEvent,«Песнь китов»: детский спектакль ČemoDan Theatre на Светогорской,Song of the Whales: a children's show by ČemoDan Theatre on Svetogorska,„Pesma kitova“: dečja predstava ČemoDan Theatre u Svetogorskoj,https://raw.githubusercontent.com/newsgl/arsposters/main/2084-PesnKitovChemodan.webp,,Kids,"Морская сказка по мотивам кельтских легенд: китёнок Герда в день рождения теряется в океане и встречает его удивительных жителей, а после спектакля китов можно потрогать. Воскресенье 11 октября в 17:00, Светогорска 46, 45 минут, от 4 лет; детский билет 1500 динаров, взрослый 1000.","A sea tale inspired by Celtic legends: on her birthday the whale calf Gerda gets lost in the ocean and meets its strange inhabitants, and after the show children can touch the whales. Sunday 11 October at 17:00, Svetogorska 46, 45 minutes, from age 4; child ticket 1,500 dinars, adult 1,000.","Morska bajka po motivima keltskih legendi: mali kit Gerda se na rođendan izgubi u okeanu i upoznaje njegove neobične stanovnike, a posle predstave kitovi se mogu dodirnuti. Nedelja 11. oktobar u 17.00, Svetogorska 46, 45 minuta, od 4 godine; dečja karta 1.500 dinara, odrasla 1.000.","**ČemoDan Theatre** показывает **«Песнь китов»**, морскую сказку, навеянную кельтскими легендами.
+
+Китёнок Герда в свой день рождения отправляется с мамой и папой в морское путешествие и теряется. Начинается приключение: новые встречи, удивительные жители моря, музыка и счастливый финал. Спектакль родился, когда труппа жила в Черногории: зимой, в сезон дождей, когда особенно не хватало тепла и чуда.
+
+После просмотра детям разрешают потрогать и погладить кукол-китов.
+
+Продолжительность 45 минут. Организаторы рекомендуют спектакль детям от 4 лет. Бронирование билетов через телеграм @darja_theater.
+
+Место: ČemoDan Theatre, Светогорска 46, Стари град.
+
+Время: воскресенье 11 октября, 17:00.
+
+Цена: детский билет 1500 динаров, дополнительный билет для родителей, братьев и сестёр 1000 динаров.
+
+Язык: русский.","**ČemoDan Theatre** presents **Song of the Whales**, a sea tale inspired by Celtic legends.
+
+On her birthday the whale calf Gerda sets off on a sea voyage with her mother and father and gets lost. An adventure begins: new encounters, strange creatures of the sea, music and a happy ending. The show was born when the company lived in Montenegro, in winter, in the rainy season, when warmth and wonder were in short supply.
+
+After the show children may touch and stroke the whale puppets.
+
+Running time 45 minutes. The company recommends the show for children from 4. Tickets are booked through Telegram, @darja_theater.
+
+Venue: ČemoDan Theatre, Svetogorska 46, Stari grad.
+
+Time: Sunday 11 October, 17:00.
+
+Price: child ticket 1,500 dinars, an additional ticket for parents, brothers and sisters 1,000 dinars.
+
+Language: Russian.","**ČemoDan Theatre** izvodi **„Pesmu kitova“**, morsku bajku inspirisanu keltskim legendama.
+
+Mali kit Gerda na svoj rođendan kreće sa mamom i tatom na putovanje morem i izgubi se. Počinje avantura: novi susreti, neobični stanovnici mora, muzika i srećan kraj. Predstava je nastala dok je trupa živela u Crnoj Gori, zimi, u sezoni kiša, kada su toplina i čudo posebno nedostajali.
+
+Posle predstave deca mogu da dodirnu i pomaze lutke kitova.
+
+Trajanje 45 minuta. Trupa preporučuje predstavu deci od 4 godine. Karte se rezervišu preko Telegrama, @darja_theater.
+
+Mesto: ČemoDan Theatre, Svetogorska 46, Stari grad.
+
+Vreme: nedelja 11. oktobar, 17.00.
+
+Cena: dečja karta 1.500 dinara, dodatna karta za roditelje, braću i sestre 1.000 dinara.
+
+Jezik: ruski.",17:00,1000,ČemoDan Theatre,"Svetogorska 46, 11000 Beograd","44.812743,20.469795",https://t.me/afisha_rs/7592,@arsraws,,ČemoDan Theatre,https://www.instagram.com/chemodan_theatre/,,,4+,,,"дети, спектакль, куклы, сказка, ČemoDan Theatre, русский язык","kids, show, puppets, fairy tale, ČemoDan Theatre, Russian language","deca, predstava, lutke, bajka, ČemoDan Theatre, ruski jezik"
+10/10/2026,10/10/2026,10/6/2026,2085,Organization,My Art Belgrade,https://t.me/my_art_belgrade,ru,EducationEvent,Мастер-класс «Бенто-торт» в студии My Art,Bento cake workshop at the My Art studio,Radionica «Bento torta» u studiju My Art,https://raw.githubusercontent.com/newsgl/arsposters/main/2085-BentoTortMyArt.webp,,Master classes,"Собрать и украсить маленький торт с нуля под руководством кондитера, а потом забрать его домой. 10 октября в 16:00 на Катаничевой 7, 4500 динаров.","Assemble and decorate a small cake from scratch with a pastry chef, then take it home. 10 October at 16:00 at Kataniceva 7, 4500 dinars.","Sastavite i ukrasite malu tortu od nule uz slastičarku, pa je ponesite kući. 10. oktobra u 16.00 u Kataničevoj 7, 4500 dinara.","Бенто-торт это маленький торт на одну-две порции, который принято украшать надписью или рисунком. На мастер-классе в творческой студии **My Art** его собирают с нуля: коржи, крем, сборка, выравнивание и роспись.
+
+Работу ведёт практикующий кондитер, опыт участникам не нужен.
+
+Начинку выбирают на месте: малиновая, вишнёвая, арахис с карамелью, а также хит студии, морковный корж с карамельной начинкой.
+
+Торт участники забирают с собой.
+
+Занятие идёт от двух до двух с половиной часов. Запись по предоплате через организатора.
+
+Место: студия My Art, Katanićeva 7.
+
+Время: суббота 10 октября, начало в 16:00.
+
+Цена: 4500 динаров.
+
+Язык: русский.","A bento cake is a small cake for one or two servings, usually decorated with a message or a drawing. At this workshop in the **My Art** studio it is built from scratch: layers, cream, assembly, smoothing and decoration.
+
+A working pastry chef leads the session and no experience is required.
+
+The filling is chosen on the spot: raspberry, cherry, peanut with caramel, or the studio's favourite, a carrot layer with caramel filling.
+
+Participants take the cake home.
+
+The session runs two to two and a half hours. Booking is by prepayment through the organiser.
+
+Venue: My Art studio, Kataniceva 7.
+
+Time: Saturday 10 October, starts at 16:00.
+
+Price: 4500 dinars.
+
+Language: Russian.","Bento torta je mala torta za jednu ili dve porcije, obično ukrašena natpisom ili crtežom. Na radionici u kreativnom studiju **My Art** pravi se od nule: korice, krem, sastavljanje, ravnanje i oslikavanje.
+
+Radionicu vodi slastičarka koja se time bavi profesionalno, iskustvo nije potrebno.
+
+Fil se bira na licu mesta: malina, višnja, kikiriki sa karamelom ili hit studija, korica od šargarepe sa karamel filom.
+
+Tortu učesnici nose kući.
+
+Čas traje dva do dva i po sata. Prijava je uz avans, preko organizatora.
+
+Mesto: studio My Art, Katanićeva 7.
+
+Vreme: subota 10. oktobar, početak u 16.00.
+
+Cena: 4500 dinara.
+
+Jezik: ruski.",16:00,4500,Katanićeva 7,"Katanićeva 7, 11000 Beograd","44.799477,20.470947",https://t.me/my_art_belgrade/12585,@arsraws,,My Art Belgrade,https://t.me/my_art_belgrade,,,,,,"мастер-класс, кондитерский, бенто-торт, My Art, русский язык","workshop, baking, bento cake, My Art, Russian language","radionica, poslastičarstvo, bento torta, My Art, ruski jezik"
+10/27/2026,10/27/2026,10/6/2026,2086,MusicGroup,НОМ,https://ru.wikipedia.org/wiki/%D0%9D%D0%9E%D0%9C,,MusicEvent,Группа НОМ в Sprat Bar: «драматическо-идиотическое шоу» легенд ленинградского абсурда,"NOM at Sprat Bar: the ""dramatic-idiotic show"" of Leningrad's absurdist rock legends",Grupa NOM u Sprat Baru: „dramatično-idiotski šou“ legendi lenjingradskog apsurda,https://raw.githubusercontent.com/newsgl/arsposters/main/2086-NOMSpratBar.webp,,Concerts,"Петербургская группа НОМ, с 1987 года смешивающая авангард, панк, театр абсурда и сатиру, играет главные хиты и новые песни. Вторник 27 октября в 20:00 в Sprat Bar, билеты 2900 динаров, 14+.","The St Petersburg band NOM, mixing avant-garde, punk, theatre of the absurd and satire since 1987, plays its main hits and new songs. Tuesday 27 October at 20:00 at Sprat Bar, tickets 2,900 dinars, 14+.","Peterburški bend NOM, koji od 1987. meša avangardu, pank, teatar apsurda i satiru, svira glavne hitove i nove pesme. Utorak 27. oktobar u 20.00 u Sprat Baru, karte 2.900 dinara, 14+.","**НОМ** (Неформальное Объединение Молодёжи) выступает в Белграде в рамках европейского тура.
+
+Группа появилась на ленинградской рок-сцене в 1987 году и с тех пор живёт в собственной системе координат: гаражный рок, электроника, почти комическая опера, театр абсурда и сатира. Свой метод участники описывают как «идиотизацию драматических сторон жизни и драматизацию идиотических аспектов». Корни у НОМа в Козьме Пруткове и обэриутах, по духу группу сравнивают с The Residents и ранними DEVO, а Артемий Троицкий назвал её «последним бастионом безжалостной сатиры».
+
+В программе проверенные десятилетиями хиты и новые песни. На сцене основатель группы **Андрей Кагадеев**, **Федул Жадный** и **Алексей Зубкерман**. На следующий день, 28 октября, НОМ играет в Нови-Саде.
+
+Место: Sprat Bar, Цетињска 15, вход со стороны Зетской.
+
+Время: вторник 27 октября, 20:00.
+
+Цена: 2900 динаров на kontramarka.com (билеты early bird за 2300 динаров распроданы).
+
+Возраст: 14+.","**NOM** (the Informal Youth Association) plays Belgrade as part of a European tour.
+
+The band appeared on the Leningrad rock scene in 1987 and has lived in its own coordinate system ever since: garage rock, electronics, near-comic opera, theatre of the absurd and satire. The members describe their method as ""making the dramatic sides of life idiotic and the idiotic aspects dramatic"". NOM's roots are in Kozma Prutkov and the OBERIU poets; in spirit the band is compared to The Residents and early DEVO, and critic Artemy Troitsky called it ""the last bastion of merciless satire"".
+
+The programme includes hits tested by decades and new songs. On stage: founder **Andrey Kagadeev**, **Fedul Zhadny** and **Alexey Zubkerman**. The next day, 28 October, NOM plays Novi Sad.
+
+Venue: Sprat Bar, Cetinjska 15, entrance from Zetska.
+
+Time: Tuesday 27 October, 20:00.
+
+Price: 2,900 dinars on kontramarka.com (early bird tickets at 2,300 dinars are sold out).
+
+Age: 14+. Lyrics in Russian.","**NOM** (Neformalno udruženje omladine) nastupa u Beogradu u okviru evropske turneje.
+
+Bend se pojavio na lenjingradskoj rok sceni 1987. i od tada živi u sopstvenom koordinatnom sistemu: garažni rok, elektronika, gotovo komična opera, teatar apsurda i satira. Svoj metod članovi opisuju kao „idiotizaciju dramatičnih strana života i dramatizaciju idiotskih aspekata“. Koreni NOM-a su u Kozmi Prutkovu i oberiutima, po duhu ih porede sa The Residents i ranim DEVO, a kritičar Artemij Trojicki nazvao ih je „poslednjim bastionom nemilosrdne satire“.
+
+Na programu su hitovi provereni decenijama i nove pesme. Na sceni osnivač benda **Andrej Kagadejev**, **Fedul Žadni** i **Aleksej Zubkerman**. Sutradan, 28. oktobra, NOM svira u Novom Sadu.
+
+Mesto: Sprat Bar, Cetinjska 15, ulaz iz Zetske.
+
+Vreme: utorak 27. oktobar, 20.00.
+
+Cena: 2.900 dinara na kontramarka.com (early bird karte po 2.300 dinara su rasprodate).
+
+Uzrast: 14+. Tekstovi na ruskom.",20:00,2900,Sprat,"Cetinjska 15 (ulaz iz Zetske), 11000 Beograd","44.817297,20.465602",https://www.kontramarka.com/ru/tickets-nom-belgrade/,@arsraws,https://www.kontramarka.com/ru/tickets-nom-belgrade/,,,,,14+,,,"концерт, НОМ, рок, авангард, Sprat Bar","concert, NOM, rock, avant-garde, Sprat Bar","koncert, NOM, rok, avangarda, Sprat Bar"
+10/10/2026,10/10/2026,10/6/2026,2087,Person,Катя Климова,https://kreativnicentar.rs/,,EducationEvent,Презентация книги Кати Климовой «Млађа сестра» в книжном «Лав и Жабац»,Katya Klimova presents her book Mlađa sestra at the Lav i Žabac bookshop,Promocija knjige Katje Klimove „Mlađa sestra“ u knjižari „Lav i žabac“,https://raw.githubusercontent.com/newsgl/arsposters/main/2087-KlimovaMladjaSestra.webp,,Lectures,"Детская книга Кати Климовой вышла на сербском в издательстве Kreativni centar: автор и редактор Маша Томанович рассказывают о книге и о сербской детской литературе, книгу можно купить и подписать. Суббота 10 октября в 17:00, Цара Уроша 12, вход свободный, на русском и сербском.","Katya Klimova's children's book is out in Serbian from Kreativni centar: the author and editor Maša Tomanović talk about the book and about Serbian children's literature, with copies on sale and signing. Saturday 10 October at 17:00, Cara Uroša 12, free entry, in Russian and Serbian.","Dečja knjiga Katje Klimove izašla je na srpskom u izdanju Kreativnog centra: autorka i urednica Maša Tomanović govore o knjizi i o srpskoj književnosti za decu, knjiga se može kupiti i potpisati. Subota 10. oktobar u 17.00, Cara Uroša 12, ulaz slobodan, na ruskom i srpskom.","Книжный магазин **«Лав и Жабац»** приглашает на презентацию книги **Кати Климовой «Млађа сестра»** («Младшая сестра»), которая недавно вышла на сербском языке в издательстве Kreativni centar.
+
+На встрече автор вместе с редактором издательства **Машей Томанович** расскажет о книге и об особенностях сербской детской литературы и ответит на вопросы читателей. Книгу можно будет купить и подписать у автора.
+
+Маша Томанович работает редактором в Kreativni centar, прежде редактировала книги в издательствах Darma Books и FMK, выпустила сборник стихов «Могу да имам» и ведёт подкаст «Аутопут и ноћ».
+
+Встреча проходит на русском и сербском языках.
+
+Место: книжный «Лав и Жабац», Цара Уроша 12, Дорчол.
+
+Время: суббота 10 октября, 17:00.
+
+Цена: вход свободный.","The **Lav i Žabac** bookshop hosts the presentation of **Katya Klimova's book Mlađa sestra** (Younger Sister), recently published in Serbian by Kreativni centar.
+
+The author and the publisher's editor **Maša Tomanović** will talk about the book and about what makes Serbian children's literature distinctive, and answer readers' questions. The book will be on sale, and the author will sign copies.
+
+Maša Tomanović is an editor at Kreativni centar; she previously edited books at Darma Books and FMK, published the poetry collection Mogu da imam and hosts the podcast Autoput i noć.
+
+The meeting is held in Russian and Serbian.
+
+Venue: Lav i Žabac bookshop, Cara Uroša 12, Dorćol.
+
+Time: Saturday 10 October, 17:00.
+
+Price: free entry.","Knjižara **„Lav i žabac“** poziva na promociju knjige **Katje Klimove „Mlađa sestra“**, nedavno objavljene na srpskom u izdanju Kreativnog centra.
+
+Autorka će zajedno sa urednicom izdavačke kuće **Mašom Tomanović** govoriti o knjizi i o posebnostima srpske književnosti za decu i odgovarati na pitanja čitalaca. Knjiga će moći da se kupi i potpiše kod autorke.
+
+Maša Tomanović je urednica u Kreativnom centru; ranije je uređivala knjige u izdavačkim kućama Darma Books i FMK, objavila je zbirku pesama „Mogu da imam“ i vodi podkast „Autoput i noć“.
+
+Susret se održava na ruskom i srpskom jeziku.
+
+Mesto: knjižara „Lav i žabac“, Cara Uroša 12, Dorćol.
+
+Vreme: subota 10. oktobar, 17.00.
+
+Cena: ulaz slobodan.",17:00,0,Лав и Жабац,"Cara Uroša 12, Beograd","44.821246,20.455834",https://t.me/lav_i_zabac/1026,@arsraws,,Лав и Жабац,https://t.me/lav_i_zabac,,,,,,"книги, презентация, детская литература, Лав и Жабац, бесплатно","books, presentation, children's literature, Lav i Žabac, free","knjige, promocija, književnost za decu, Lav i žabac, besplatno"
+10/10/2026,10/10/2026,10/6/2026,2088,Organization,JKP Gradska čistoća,https://www.gradskacistoca.rs/,,ChildrensEvent,День открытых дверей в «Градской чистоте»: спектакль и поездки на мусоровозах для детей,Open day at Gradska čistoća: a show and rides on garbage trucks for children,Dan otvorenih vrata u „Gradskoj čistoći“: predstava i vožnja kamionima za decu,https://raw.githubusercontent.com/newsgl/arsposters/main/2088-DanOtvorenihVrataCistoca.webp,,Kids,"Белградское коммунальное предприятие открывает двери для детей: эко-мастерская о переработке, спектакль «Рециклозавры 2» и катание на мусоровозах, амфибиях и цистернах по огороженной территории. Суббота 10 октября с 9:30, Мије Ковачевића 4, бесплатно.","Belgrade's utility company opens its gates to children: an eco workshop on recycling, the play Recyclosaurs 2 and rides on garbage trucks, amphibious vehicles and tankers around the fenced grounds. Saturday 10 October from 9:30, Mije Kovačevića 4, free.","Beogradsko komunalno preduzeće otvara vrata deci: eko radionica o reciklaži, predstava „Reciklosaurusi 2“ i vožnja kamionima za smeće, amfibijama i cisternama po ograđenom prostoru. Subota 10. oktobar od 9.30, Mije Kovačevića 4, besplatno.","Коммунальное предприятие **«Градска чистоћа»** проводит традиционный день открытых дверей для самых маленьких жителей города.
+
+Программа: в 10:00 эко-мастерская о переработке отходов и мойке мусорных контейнеров, в 10:20 познавательный театральный спектакль **«Рециклозавры 2: Миссия чистая планета!»**, с 10:55 до 13:30 поездки на спецтехнике по огороженной территории предприятия.
+
+Дети прокатятся на мусоровозах, амфибиях, рабочих машинах и цистернах, увидят электрические уборочные машины и технику для мытья контейнеров, узнают, зачем нужна переработка, и познакомятся с людьми, которые убирают Белград. Для всех детей подготовлены подарки, перекус и прохладительные напитки.
+
+Место: ЈКП «Градска чистоћа», Мије Ковачевића 4, Звездара.
+
+Время: суббота 10 октября, начало в 9:30, программа до 13:30.
+
+Цена: бесплатно.
+
+Язык: сербский.","The city utility company **Gradska čistoća** holds its traditional open day for Belgrade's youngest residents.
+
+Programme: at 10:00 an eco workshop on recycling and on how waste containers are washed, at 10:20 the educational play **Recyclosaurs 2: Mission Clean Planet!**, from 10:55 to 13:30 rides on special vehicles around the fenced grounds of the company.
+
+Children can ride garbage trucks, amphibious vehicles, work machines and tankers, see electric street sweepers and container washing trucks, learn why recycling matters and meet the people who keep Belgrade clean. Gifts, a snack and soft drinks are prepared for every child.
+
+Venue: JKP Gradska čistoća, Mije Kovačevića 4, Zvezdara.
+
+Time: Saturday 10 October, start at 9:30, programme until 13:30.
+
+Price: free.
+
+Language: Serbian.","Komunalno preduzeće **„Gradska čistoća“** organizuje tradicionalni dan otvorenih vrata za najmlađe Beograđane.
+
+Program: u 10.00 eko radionica o reciklaži i pranju kontejnera za smeće, u 10.20 edukativna pozorišna predstava **„Reciklosaurusi 2: Misija čista planeta!“**, od 10.55 do 13.30 vožnja specijalnim vozilima po ograđenom prostoru preduzeća.
+
+Deca će se voziti kamionima za smeće, amfibijama, radnim mašinama i cisternama, videti električne čistilice i vozila za pranje kontejnera, saznati zašto je reciklaža važna i upoznati ljude koji čiste Beograd. Za svu decu pripremljeni su pokloni, užina i osvežavajuća pića.
+
+Mesto: JKP „Gradska čistoća“, Mije Kovačevića 4, Zvezdara.
+
+Vreme: subota 10. oktobar, početak u 9.30, program do 13.30.
+
+Cena: besplatno.
+
+Jezik: srpski.",09:30,0,JKP Gradska čistoća,"Mije Kovačevića 4, 11000 Beograd","44.812026,20.489916",https://t.me/mamakudaidem/2490,@arsraws,,JKP Gradska čistoća,https://www.gradskacistoca.rs/,,,,,,"дети, день открытых дверей, экология, спецтехника, бесплатно","kids, open day, ecology, vehicles, free","deca, dan otvorenih vrata, ekologija, vozila, besplatno"
+10/8/2026,10/8/2026,10/6/2026,2089,Organization,Zavičajni muzej Žarkovo,https://sr.wikipedia.org/wiki/Muzej_grada_Beograda,,EducationEvent,Традиционные ремёсла в Краеведческом музее Жарково: гончарное дело,Traditional crafts at the Žarkovo Local History Museum: pottery,Tradicionalni zanati u Zavičajnom muzeju Žarkovo: grnčarija,https://raw.githubusercontent.com/newsgl/arsposters/main/2089-GoncarstvoZarkovo.webp,,Master classes,"Бесплатный мастер-класс из цикла «Традиционные ремёсла» в рамках Дней европейского наследия 2026: гончарное дело. Четверг 8 октября с 19:00 до 20:30, Краеведческий музей Жарково, Аце Јоксимовића 2, вход свободный.","A free workshop from the Traditional Crafts series within the European Heritage Days 2026: pottery. Thursday 8 October, 19:00 to 20:30, Žarkovo Local History Museum, Ace Joksimovića 2, free entry.","Besplatna radionica iz ciklusa „Tradicionalni zanati“ u okviru Dana evropske baštine 2026: grnčarija. Četvrtak 8. oktobar od 19.00 do 20.30, Zavičajni muzej Žarkovo, Ace Joksimovića 2, ulaz slobodan.","Краеведческий музей Жарково (отдел Музея города Белграда) проводит цикл бесплатных мастер-классов **«Традиционные ремёсла»** в рамках **Дней европейского наследия 2026**. Каждый вечер посвящён одному ремеслу или технике, которые передаются из поколения в поколение.
+
+Тема этого вечера: **гончарное дело**. Гончарное дело: работа с глиной и традиционные формы сербской керамики.
+
+Полный цикл: 8 октября гончарное дело, 9 октября мастерство гусляра, 11 октября техника валяния, 13 октября каллиграфия, 15 октября косовская вышивка, 18 октября опанчарское дело. Все занятия идут с 19:00 до 20:30.
+
+Место: Краеведческий музей Жарково, Аце Јоксимовића 2 (здание старой школы в Жаркове), Чукарица.
+
+Время: четверг 8 октября, с 19:00 до 20:30.
+
+Цена: вход свободный.
+
+Язык: сербский.","The Žarkovo Local History Museum (a department of the Belgrade City Museum) runs a series of free workshops **Traditional Crafts** as part of the **European Heritage Days 2026**. Each evening is devoted to one craft or technique passed down through generations.
+
+This evening's theme: **pottery**. Pottery: working with clay and the traditional forms of Serbian ceramics.
+
+The full series: 8 October pottery, 9 October the gusle maker's craft, 11 October felting, 13 October calligraphy, 15 October Kosovo embroidery, 18 October opanak making. All sessions run from 19:00 to 20:30.
+
+Venue: Žarkovo Local History Museum, Ace Joksimovića 2 (the old school building in Žarkovo), Čukarica.
+
+Time: Thursday 8 October, 19:00 to 20:30.
+
+Price: free entry.
+
+Language: Serbian.","Zavičajni muzej Žarkovo (odeljenje Muzeja grada Beograda) organizuje ciklus besplatnih radionica **„Tradicionalni zanati“** u okviru **Dana evropske baštine 2026**. Svako veče posvećeno je jednom zanatu ili tehnici koji se prenose s kolena na koleno.
+
+Tema ove večeri: **grnčarija**. Grnčarija: rad sa glinom i tradicionalni oblici srpske keramike.
+
+Ceo ciklus: 8. oktobar grnčarija, 9. oktobar guslarski zanat, 11. oktobar tehnika pustovanja, 13. oktobar kaligrafski zanat, 15. oktobar kosovski vez, 18. oktobar opančarski zanat. Sve radionice traju od 19.00 do 20.30.
+
+Mesto: Zavičajni muzej Žarkovo, Ace Joksimovića 2 (zgrada stare škole u Žarkovu), Čukarica.
+
+Vreme: četvrtak 8. oktobar, od 19.00 do 20.30.
+
+Cena: ulaz slobodan.
+
+Jezik: srpski.",19:00,0,Zavičajni muzej Žarkovo,"Ace Joksimovića 2, 11030 Beograd","44.758238,20.416837",https://t.me/mamakudaidem/2493,@arsraws,,Muzej grada Beograda,https://sr.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%B8%D1%87%D0%B0%D1%98%D0%BD%D0%B8_%D0%BC%D1%83%D0%B7%D0%B5%D1%98_%D0%96%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0,,,,,,"мастер-класс, ремёсла, гончарное дело, Жарково, Дни европейского наследия, бесплатно","workshop, crafts, pottery, Žarkovo, European Heritage Days, free","radionica, zanati, grnčarija, Žarkovo, Dani evropske baštine, besplatno"
+10/9/2026,10/9/2026,10/6/2026,2090,Organization,Zavičajni muzej Žarkovo,https://sr.wikipedia.org/wiki/Muzej_grada_Beograda,,EducationEvent,Традиционные ремёсла в Краеведческом музее Жарково: мастерство гусляра,Traditional crafts at the Žarkovo Local History Museum: the gusle maker's craft,Tradicionalni zanati u Zavičajnom muzeju Žarkovo: guslarski zanat,https://raw.githubusercontent.com/newsgl/arsposters/main/2090-GuslarskiZanatZarkovo.webp,,Master classes,"Бесплатный мастер-класс из цикла «Традиционные ремёсла» в рамках Дней европейского наследия 2026: мастерство гусляра. Пятница 9 октября с 19:00 до 20:30, Краеведческий музей Жарково, Аце Јоксимовића 2, вход свободный.","A free workshop from the Traditional Crafts series within the European Heritage Days 2026: the gusle maker's craft. Friday 9 October, 19:00 to 20:30, Žarkovo Local History Museum, Ace Joksimovića 2, free entry.","Besplatna radionica iz ciklusa „Tradicionalni zanati“ u okviru Dana evropske baštine 2026: guslarski zanat. Petak 9. oktobar od 19.00 do 20.30, Zavičajni muzej Žarkovo, Ace Joksimovića 2, ulaz slobodan.","Краеведческий музей Жарково (отдел Музея города Белграда) проводит цикл бесплатных мастер-классов **«Традиционные ремёсла»** в рамках **Дней европейского наследия 2026**. Каждый вечер посвящён одному ремеслу или технике, которые передаются из поколения в поколение.
+
+Тема этого вечера: **мастерство гусляра**. Мастерство гусляра: изготовление гусле, однострунного смычкового инструмента, под который исполняют эпические песни.
+
+Полный цикл: 8 октября гончарное дело, 9 октября мастерство гусляра, 11 октября техника валяния, 13 октября каллиграфия, 15 октября косовская вышивка, 18 октября опанчарское дело. Все занятия идут с 19:00 до 20:30.
+
+Место: Краеведческий музей Жарково, Аце Јоксимовића 2 (здание старой школы в Жаркове), Чукарица.
+
+Время: пятница 9 октября, с 19:00 до 20:30.
+
+Цена: вход свободный.
+
+Язык: сербский.","The Žarkovo Local History Museum (a department of the Belgrade City Museum) runs a series of free workshops **Traditional Crafts** as part of the **European Heritage Days 2026**. Each evening is devoted to one craft or technique passed down through generations.
+
+This evening's theme: **the gusle maker's craft**. The gusle maker's craft: making the gusle, the single-string bowed instrument that accompanies epic songs.
+
+The full series: 8 October pottery, 9 October the gusle maker's craft, 11 October felting, 13 October calligraphy, 15 October Kosovo embroidery, 18 October opanak making. All sessions run from 19:00 to 20:30.
+
+Venue: Žarkovo Local History Museum, Ace Joksimovića 2 (the old school building in Žarkovo), Čukarica.
+
+Time: Friday 9 October, 19:00 to 20:30.
+
+Price: free entry.
+
+Language: Serbian.","Zavičajni muzej Žarkovo (odeljenje Muzeja grada Beograda) organizuje ciklus besplatnih radionica **„Tradicionalni zanati“** u okviru **Dana evropske baštine 2026**. Svako veče posvećeno je jednom zanatu ili tehnici koji se prenose s kolena na koleno.
+
+Tema ove večeri: **guslarski zanat**. Guslarski zanat: izrada gusala, jednožičanog gudačkog instrumenta uz koji se pevaju epske pesme.
+
+Ceo ciklus: 8. oktobar grnčarija, 9. oktobar guslarski zanat, 11. oktobar tehnika pustovanja, 13. oktobar kaligrafski zanat, 15. oktobar kosovski vez, 18. oktobar opančarski zanat. Sve radionice traju od 19.00 do 20.30.
+
+Mesto: Zavičajni muzej Žarkovo, Ace Joksimovića 2 (zgrada stare škole u Žarkovu), Čukarica.
+
+Vreme: petak 9. oktobar, od 19.00 do 20.30.
+
+Cena: ulaz slobodan.
+
+Jezik: srpski.",19:00,0,Zavičajni muzej Žarkovo,"Ace Joksimovića 2, 11030 Beograd","44.758238,20.416837",https://t.me/mamakudaidem/2493,@arsraws,,Muzej grada Beograda,https://sr.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%B8%D1%87%D0%B0%D1%98%D0%BD%D0%B8_%D0%BC%D1%83%D0%B7%D0%B5%D1%98_%D0%96%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0,,,,,,"мастер-класс, ремёсла, мастерство гусляра, Жарково, Дни европейского наследия, бесплатно","workshop, crafts, the gusle maker's craft, Žarkovo, European Heritage Days, free","radionica, zanati, guslarski zanat, Žarkovo, Dani evropske baštine, besplatno"
+10/11/2026,10/11/2026,10/6/2026,2091,Organization,Zavičajni muzej Žarkovo,https://sr.wikipedia.org/wiki/Muzej_grada_Beograda,,EducationEvent,Традиционные ремёсла в Краеведческом музее Жарково: техника валяния,Traditional crafts at the Žarkovo Local History Museum: felting,Tradicionalni zanati u Zavičajnom muzeju Žarkovo: tehnika pustovanja,https://raw.githubusercontent.com/newsgl/arsposters/main/2091-PustovanjeZarkovo.webp,,Master classes,"Бесплатный мастер-класс из цикла «Традиционные ремёсла» в рамках Дней европейского наследия 2026: техника валяния. Воскресенье 11 октября с 19:00 до 20:30, Краеведческий музей Жарково, Аце Јоксимовића 2, вход свободный.","A free workshop from the Traditional Crafts series within the European Heritage Days 2026: felting. Sunday 11 October, 19:00 to 20:30, Žarkovo Local History Museum, Ace Joksimovića 2, free entry.","Besplatna radionica iz ciklusa „Tradicionalni zanati“ u okviru Dana evropske baštine 2026: tehnika pustovanja. Nedelja 11. oktobar od 19.00 do 20.30, Zavičajni muzej Žarkovo, Ace Joksimovića 2, ulaz slobodan.","Краеведческий музей Жарково (отдел Музея города Белграда) проводит цикл бесплатных мастер-классов **«Традиционные ремёсла»** в рамках **Дней европейского наследия 2026**. Каждый вечер посвящён одному ремеслу или технике, которые передаются из поколения в поколение.
+
+Тема этого вечера: **техника валяния**. Техника валяния: изготовление войлока из шерсти, от волокна до плотного полотна и небольших изделий.
+
+Полный цикл: 8 октября гончарное дело, 9 октября мастерство гусляра, 11 октября техника валяния, 13 октября каллиграфия, 15 октября косовская вышивка, 18 октября опанчарское дело. Все занятия идут с 19:00 до 20:30.
+
+Место: Краеведческий музей Жарково, Аце Јоксимовића 2 (здание старой школы в Жаркове), Чукарица.
+
+Время: воскресенье 11 октября, с 19:00 до 20:30.
+
+Цена: вход свободный.
+
+Язык: сербский.","The Žarkovo Local History Museum (a department of the Belgrade City Museum) runs a series of free workshops **Traditional Crafts** as part of the **European Heritage Days 2026**. Each evening is devoted to one craft or technique passed down through generations.
+
+This evening's theme: **felting**. Felting: making felt from wool, from loose fibre to dense fabric and small objects.
+
+The full series: 8 October pottery, 9 October the gusle maker's craft, 11 October felting, 13 October calligraphy, 15 October Kosovo embroidery, 18 October opanak making. All sessions run from 19:00 to 20:30.
+
+Venue: Žarkovo Local History Museum, Ace Joksimovića 2 (the old school building in Žarkovo), Čukarica.
+
+Time: Sunday 11 October, 19:00 to 20:30.
+
+Price: free entry.
+
+Language: Serbian.","Zavičajni muzej Žarkovo (odeljenje Muzeja grada Beograda) organizuje ciklus besplatnih radionica **„Tradicionalni zanati“** u okviru **Dana evropske baštine 2026**. Svako veče posvećeno je jednom zanatu ili tehnici koji se prenose s kolena na koleno.
+
+Tema ove večeri: **tehnika pustovanja**. Tehnika pustovanja: izrada filca od vune, od vlakna do gustog platna i manjih predmeta.
+
+Ceo ciklus: 8. oktobar grnčarija, 9. oktobar guslarski zanat, 11. oktobar tehnika pustovanja, 13. oktobar kaligrafski zanat, 15. oktobar kosovski vez, 18. oktobar opančarski zanat. Sve radionice traju od 19.00 do 20.30.
+
+Mesto: Zavičajni muzej Žarkovo, Ace Joksimovića 2 (zgrada stare škole u Žarkovu), Čukarica.
+
+Vreme: nedelja 11. oktobar, od 19.00 do 20.30.
+
+Cena: ulaz slobodan.
+
+Jezik: srpski.",19:00,0,Zavičajni muzej Žarkovo,"Ace Joksimovića 2, 11030 Beograd","44.758238,20.416837",https://t.me/mamakudaidem/2493,@arsraws,,Muzej grada Beograda,https://sr.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%B8%D1%87%D0%B0%D1%98%D0%BD%D0%B8_%D0%BC%D1%83%D0%B7%D0%B5%D1%98_%D0%96%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0,,,,,,"мастер-класс, ремёсла, техника валяния, Жарково, Дни европейского наследия, бесплатно","workshop, crafts, felting, Žarkovo, European Heritage Days, free","radionica, zanati, tehnika pustovanja, Žarkovo, Dani evropske baštine, besplatno"
+10/13/2026,10/13/2026,10/6/2026,2092,Organization,Zavičajni muzej Žarkovo,https://sr.wikipedia.org/wiki/Muzej_grada_Beograda,,EducationEvent,Традиционные ремёсла в Краеведческом музее Жарково: каллиграфия,Traditional crafts at the Žarkovo Local History Museum: calligraphy,Tradicionalni zanati u Zavičajnom muzeju Žarkovo: kaligrafski zanat,https://raw.githubusercontent.com/newsgl/arsposters/main/2092-KaligrafijaZarkovo.webp,,Master classes,"Бесплатный мастер-класс из цикла «Традиционные ремёсла» в рамках Дней европейского наследия 2026: каллиграфия. Вторник 13 октября с 19:00 до 20:30, Краеведческий музей Жарково, Аце Јоксимовића 2, вход свободный.","A free workshop from the Traditional Crafts series within the European Heritage Days 2026: calligraphy. Tuesday 13 October, 19:00 to 20:30, Žarkovo Local History Museum, Ace Joksimovića 2, free entry.","Besplatna radionica iz ciklusa „Tradicionalni zanati“ u okviru Dana evropske baštine 2026: kaligrafski zanat. Utorak 13. oktobar od 19.00 do 20.30, Zavičajni muzej Žarkovo, Ace Joksimovića 2, ulaz slobodan.","Краеведческий музей Жарково (отдел Музея города Белграда) проводит цикл бесплатных мастер-классов **«Традиционные ремёсла»** в рамках **Дней европейского наследия 2026**. Каждый вечер посвящён одному ремеслу или технике, которые передаются из поколения в поколение.
+
+Тема этого вечера: **каллиграфия**. Каллиграфия: письмо пером и кистью и оформление рукописного текста.
+
+Полный цикл: 8 октября гончарное дело, 9 октября мастерство гусляра, 11 октября техника валяния, 13 октября каллиграфия, 15 октября косовская вышивка, 18 октября опанчарское дело. Все занятия идут с 19:00 до 20:30.
+
+Место: Краеведческий музей Жарково, Аце Јоксимовића 2 (здание старой школы в Жаркове), Чукарица.
+
+Время: вторник 13 октября, с 19:00 до 20:30.
+
+Цена: вход свободный.
+
+Язык: сербский.","The Žarkovo Local History Museum (a department of the Belgrade City Museum) runs a series of free workshops **Traditional Crafts** as part of the **European Heritage Days 2026**. Each evening is devoted to one craft or technique passed down through generations.
+
+This evening's theme: **calligraphy**. Calligraphy: writing with pen and brush and the design of handwritten text.
+
+The full series: 8 October pottery, 9 October the gusle maker's craft, 11 October felting, 13 October calligraphy, 15 October Kosovo embroidery, 18 October opanak making. All sessions run from 19:00 to 20:30.
+
+Venue: Žarkovo Local History Museum, Ace Joksimovića 2 (the old school building in Žarkovo), Čukarica.
+
+Time: Tuesday 13 October, 19:00 to 20:30.
+
+Price: free entry.
+
+Language: Serbian.","Zavičajni muzej Žarkovo (odeljenje Muzeja grada Beograda) organizuje ciklus besplatnih radionica **„Tradicionalni zanati“** u okviru **Dana evropske baštine 2026**. Svako veče posvećeno je jednom zanatu ili tehnici koji se prenose s kolena na koleno.
+
+Tema ove večeri: **kaligrafski zanat**. Kaligrafski zanat: pisanje perom i četkicom i oblikovanje rukopisnog teksta.
+
+Ceo ciklus: 8. oktobar grnčarija, 9. oktobar guslarski zanat, 11. oktobar tehnika pustovanja, 13. oktobar kaligrafski zanat, 15. oktobar kosovski vez, 18. oktobar opančarski zanat. Sve radionice traju od 19.00 do 20.30.
+
+Mesto: Zavičajni muzej Žarkovo, Ace Joksimovića 2 (zgrada stare škole u Žarkovu), Čukarica.
+
+Vreme: utorak 13. oktobar, od 19.00 do 20.30.
+
+Cena: ulaz slobodan.
+
+Jezik: srpski.",19:00,0,Zavičajni muzej Žarkovo,"Ace Joksimovića 2, 11030 Beograd","44.758238,20.416837",https://t.me/mamakudaidem/2493,@arsraws,,Muzej grada Beograda,https://sr.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%B8%D1%87%D0%B0%D1%98%D0%BD%D0%B8_%D0%BC%D1%83%D0%B7%D0%B5%D1%98_%D0%96%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0,,,,,,"мастер-класс, ремёсла, каллиграфия, Жарково, Дни европейского наследия, бесплатно","workshop, crafts, calligraphy, Žarkovo, European Heritage Days, free","radionica, zanati, kaligrafski zanat, Žarkovo, Dani evropske baštine, besplatno"
+10/15/2026,10/15/2026,10/6/2026,2093,Organization,Zavičajni muzej Žarkovo,https://sr.wikipedia.org/wiki/Muzej_grada_Beograda,,EducationEvent,Традиционные ремёсла в Краеведческом музее Жарково: косовская вышивка,Traditional crafts at the Žarkovo Local History Museum: Kosovo embroidery,Tradicionalni zanati u Zavičajnom muzeju Žarkovo: kosovski vez,https://raw.githubusercontent.com/newsgl/arsposters/main/2093-KosovskiVezZarkovo.webp,,Master classes,"Бесплатный мастер-класс из цикла «Традиционные ремёсла» в рамках Дней европейского наследия 2026: косовская вышивка. Четверг 15 октября с 19:00 до 20:30, Краеведческий музей Жарково, Аце Јоксимовића 2, вход свободный.","A free workshop from the Traditional Crafts series within the European Heritage Days 2026: Kosovo embroidery. Thursday 15 October, 19:00 to 20:30, Žarkovo Local History Museum, Ace Joksimovića 2, free entry.","Besplatna radionica iz ciklusa „Tradicionalni zanati“ u okviru Dana evropske baštine 2026: kosovski vez. Četvrtak 15. oktobar od 19.00 do 20.30, Zavičajni muzej Žarkovo, Ace Joksimovića 2, ulaz slobodan.","Краеведческий музей Жарково (отдел Музея города Белграда) проводит цикл бесплатных мастер-классов **«Традиционные ремёсла»** в рамках **Дней европейского наследия 2026**. Каждый вечер посвящён одному ремеслу или технике, которые передаются из поколения в поколение.
+
+Тема этого вечера: **косовская вышивка**. Косовская вышивка: один из самых узнаваемых орнаментальных стилей сербского народного текстиля.
+
+Полный цикл: 8 октября гончарное дело, 9 октября мастерство гусляра, 11 октября техника валяния, 13 октября каллиграфия, 15 октября косовская вышивка, 18 октября опанчарское дело. Все занятия идут с 19:00 до 20:30.
+
+Место: Краеведческий музей Жарково, Аце Јоксимовића 2 (здание старой школы в Жаркове), Чукарица.
+
+Время: четверг 15 октября, с 19:00 до 20:30.
+
+Цена: вход свободный.
+
+Язык: сербский.","The Žarkovo Local History Museum (a department of the Belgrade City Museum) runs a series of free workshops **Traditional Crafts** as part of the **European Heritage Days 2026**. Each evening is devoted to one craft or technique passed down through generations.
+
+This evening's theme: **Kosovo embroidery**. Kosovo embroidery: one of the most recognisable ornamental styles of Serbian folk textiles.
+
+The full series: 8 October pottery, 9 October the gusle maker's craft, 11 October felting, 13 October calligraphy, 15 October Kosovo embroidery, 18 October opanak making. All sessions run from 19:00 to 20:30.
+
+Venue: Žarkovo Local History Museum, Ace Joksimovića 2 (the old school building in Žarkovo), Čukarica.
+
+Time: Thursday 15 October, 19:00 to 20:30.
+
+Price: free entry.
+
+Language: Serbian.","Zavičajni muzej Žarkovo (odeljenje Muzeja grada Beograda) organizuje ciklus besplatnih radionica **„Tradicionalni zanati“** u okviru **Dana evropske baštine 2026**. Svako veče posvećeno je jednom zanatu ili tehnici koji se prenose s kolena na koleno.
+
+Tema ove večeri: **kosovski vez**. Kosovski vez: jedan od najprepoznatljivijih ornamentalnih stilova srpskog narodnog tekstila.
+
+Ceo ciklus: 8. oktobar grnčarija, 9. oktobar guslarski zanat, 11. oktobar tehnika pustovanja, 13. oktobar kaligrafski zanat, 15. oktobar kosovski vez, 18. oktobar opančarski zanat. Sve radionice traju od 19.00 do 20.30.
+
+Mesto: Zavičajni muzej Žarkovo, Ace Joksimovića 2 (zgrada stare škole u Žarkovu), Čukarica.
+
+Vreme: četvrtak 15. oktobar, od 19.00 do 20.30.
+
+Cena: ulaz slobodan.
+
+Jezik: srpski.",19:00,0,Zavičajni muzej Žarkovo,"Ace Joksimovića 2, 11030 Beograd","44.758238,20.416837",https://t.me/mamakudaidem/2493,@arsraws,,Muzej grada Beograda,https://sr.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%B8%D1%87%D0%B0%D1%98%D0%BD%D0%B8_%D0%BC%D1%83%D0%B7%D0%B5%D1%98_%D0%96%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0,,,,,,"мастер-класс, ремёсла, косовская вышивка, Жарково, Дни европейского наследия, бесплатно","workshop, crafts, Kosovo embroidery, Žarkovo, European Heritage Days, free","radionica, zanati, kosovski vez, Žarkovo, Dani evropske baštine, besplatno"
+10/18/2026,10/18/2026,10/6/2026,2094,Organization,Zavičajni muzej Žarkovo,https://sr.wikipedia.org/wiki/Muzej_grada_Beograda,,EducationEvent,Традиционные ремёсла в Краеведческом музее Жарково: опанчарское дело,Traditional crafts at the Žarkovo Local History Museum: opanak making,Tradicionalni zanati u Zavičajnom muzeju Žarkovo: opančarski zanat,https://raw.githubusercontent.com/newsgl/arsposters/main/2094-OpancarskiZanatZarkovo.webp,,Master classes,"Бесплатный мастер-класс из цикла «Традиционные ремёсла» в рамках Дней европейского наследия 2026: опанчарское дело. Воскресенье 18 октября с 19:00 до 20:30, Краеведческий музей Жарково, Аце Јоксимовића 2, вход свободный.","A free workshop from the Traditional Crafts series within the European Heritage Days 2026: opanak making. Sunday 18 October, 19:00 to 20:30, Žarkovo Local History Museum, Ace Joksimovića 2, free entry.","Besplatna radionica iz ciklusa „Tradicionalni zanati“ u okviru Dana evropske baštine 2026: opančarski zanat. Nedelja 18. oktobar od 19.00 do 20.30, Zavičajni muzej Žarkovo, Ace Joksimovića 2, ulaz slobodan.","Краеведческий музей Жарково (отдел Музея города Белграда) проводит цикл бесплатных мастер-классов **«Традиционные ремёсла»** в рамках **Дней европейского наследия 2026**. Каждый вечер посвящён одному ремеслу или технике, которые передаются из поколения в поколение.
+
+Тема этого вечера: **опанчарское дело**. Опанчарское дело: как шьют опанки, традиционную кожаную обувь, и чем различаются их региональные формы.
+
+Полный цикл: 8 октября гончарное дело, 9 октября мастерство гусляра, 11 октября техника валяния, 13 октября каллиграфия, 15 октября косовская вышивка, 18 октября опанчарское дело. Все занятия идут с 19:00 до 20:30.
+
+Место: Краеведческий музей Жарково, Аце Јоксимовића 2 (здание старой школы в Жаркове), Чукарица.
+
+Время: воскресенье 18 октября, с 19:00 до 20:30.
+
+Цена: вход свободный.
+
+Язык: сербский.","The Žarkovo Local History Museum (a department of the Belgrade City Museum) runs a series of free workshops **Traditional Crafts** as part of the **European Heritage Days 2026**. Each evening is devoted to one craft or technique passed down through generations.
+
+This evening's theme: **opanak making**. Opanak making: how opanci, the traditional leather footwear, are sewn and how their regional forms differ.
+
+The full series: 8 October pottery, 9 October the gusle maker's craft, 11 October felting, 13 October calligraphy, 15 October Kosovo embroidery, 18 October opanak making. All sessions run from 19:00 to 20:30.
+
+Venue: Žarkovo Local History Museum, Ace Joksimovića 2 (the old school building in Žarkovo), Čukarica.
+
+Time: Sunday 18 October, 19:00 to 20:30.
+
+Price: free entry.
+
+Language: Serbian.","Zavičajni muzej Žarkovo (odeljenje Muzeja grada Beograda) organizuje ciklus besplatnih radionica **„Tradicionalni zanati“** u okviru **Dana evropske baštine 2026**. Svako veče posvećeno je jednom zanatu ili tehnici koji se prenose s kolena na koleno.
+
+Tema ove večeri: **opančarski zanat**. Opančarski zanat: kako se šiju opanci, tradicionalna kožna obuća, i po čemu se razlikuju njihovi regionalni oblici.
+
+Ceo ciklus: 8. oktobar grnčarija, 9. oktobar guslarski zanat, 11. oktobar tehnika pustovanja, 13. oktobar kaligrafski zanat, 15. oktobar kosovski vez, 18. oktobar opančarski zanat. Sve radionice traju od 19.00 do 20.30.
+
+Mesto: Zavičajni muzej Žarkovo, Ace Joksimovića 2 (zgrada stare škole u Žarkovu), Čukarica.
+
+Vreme: nedelja 18. oktobar, od 19.00 do 20.30.
+
+Cena: ulaz slobodan.
+
+Jezik: srpski.",19:00,0,Zavičajni muzej Žarkovo,"Ace Joksimovića 2, 11030 Beograd","44.758238,20.416837",https://t.me/mamakudaidem/2493,@arsraws,,Muzej grada Beograda,https://sr.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%B8%D1%87%D0%B0%D1%98%D0%BD%D0%B8_%D0%BC%D1%83%D0%B7%D0%B5%D1%98_%D0%96%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0,,,,,,"мастер-класс, ремёсла, опанчарское дело, Жарково, Дни европейского наследия, бесплатно","workshop, crafts, opanak making, Žarkovo, European Heritage Days, free","radionica, zanati, opančarski zanat, Žarkovo, Dani evropske baštine, besplatno"
+10/10/2026,10/10/2026,10/6/2026,2095,Organization,Be Smart,https://www.instagram.com/besmart_belgrade/,ru,ChildrensEvent,Science Day «Изучаем осень»: субботний научный клуб Be Smart для детей от 4 до 9 лет,"Science Day: Exploring Autumn, the Be Smart Saturday science club for children aged 4 to 9",Science Day „Istražujemo jesen“: subotnji naučni klub Be Smart za decu od 4 do 9 godina,https://raw.githubusercontent.com/newsgl/arsposters/main/2095-ScienceDayOsenBeSmart.webp,,Kids,"Опыты и ответы на осенние «почему»: гербарий, эксперименты с шишками и каштанами, попытка вызвать ветер и дождь. Суббота 10 октября с 10:00 до 14:00 в семейном центре Be Smart на Врачаре, 4000 динаров за четыре часа с едой или 1200 за час.","Experiments and answers to autumn's ""whys"": a herbarium, tests with pine cones and chestnuts, an attempt to summon wind and rain. Saturday 10 October, 10:00 to 14:00, at the Be Smart family centre in Vračar, 4,000 dinars for four hours with food or 1,200 per hour.","Ogledi i odgovori na jesenja „zašto“: herbarijum, eksperimenti sa šišarkama i kestenovima, pokušaj da se prizovu vetar i kiša. Subota 10. oktobar od 10.00 do 14.00 u porodičnom centru Be Smart na Vračaru, 4.000 dinara za četiri sata sa hranom ili 1.200 po satu.","Субботний научный клуб семейного центра **Be Smart** посвящает занятие осени.
+
+Дети ставят опыты и ищут ответы на осенние «почему», собирают настоящий гербарий, выясняют, на что способны обычные шишки и каштаны, и пробуют вызвать ветер и дождь, как повелители погоды. Занятие построено на экспериментах, которые можно сделать своими руками.
+
+Занятия ведут педагоги центра и его руководитель **Анастасия Белякова**, специалист по нейродиагностике и сенсорной интеграции, методолог программ обучения для детей и взрослых.
+
+Возраст: от 4 до 9 лет. Запись в личные сообщения @BeSmartSerbia.
+
+Место: Be Smart, Хаџи Мелентијева 78, Врачар.
+
+Время: суббота 10 октября, с 10:00 до 14:00.
+
+Цена: 4000 динаров за четыре часа или 1200 динаров в час, еда включена.
+
+Язык: русский.","The Saturday science club of the **Be Smart** family centre devotes a session to autumn.
+
+Children run experiments and look for answers to autumn's ""whys"", put together a real herbarium, find out what ordinary pine cones and chestnuts can do, and try to summon wind and rain like masters of the weather. The session is built around experiments children can do with their own hands.
+
+Classes are led by the centre's teachers and its head **Anastasia Belyakova**, a specialist in neurodiagnostics and sensory integration and a methodologist of learning programmes for children and adults.
+
+Age: 4 to 9. Sign up by direct message to @BeSmartSerbia.
+
+Venue: Be Smart, Hadži Melentijeva 78, Vračar.
+
+Time: Saturday 10 October, 10:00 to 14:00.
+
+Price: 4,000 dinars for four hours or 1,200 dinars per hour, food included.
+
+Language: Russian.","Subotnji naučni klub porodičnog centra **Be Smart** posvećuje čas jeseni.
+
+Deca izvode oglede i traže odgovore na jesenja „zašto“, prave pravi herbarijum, otkrivaju šta mogu obične šišarke i kestenovi i pokušavaju da prizovu vetar i kišu kao gospodari vremena. Čas je zasnovan na eksperimentima koje deca rade sopstvenim rukama.
+
+Časove vode pedagozi centra i njegova rukovoditeljka **Anastasija Beljakova**, specijalistkinja za neurodijagnostiku i senzornu integraciju, metodolog obrazovnih programa za decu i odrasle.
+
+Uzrast: od 4 do 9 godina. Prijava porukom na @BeSmartSerbia.
+
+Mesto: Be Smart, Hadži Melentijeva 78, Vračar.
+
+Vreme: subota 10. oktobar, od 10.00 do 14.00.
+
+Cena: 4.000 dinara za četiri sata ili 1.200 dinara po satu, hrana uključena.
+
+Jezik: ruski.",10:00,1200,Be Smart,"Hadži-Melentijeva 78, Vračar, Beograd","44.794256,20.476699",https://www.instagram.com/p/DeHzERzRgFp/,@arsraws,,Be Smart,https://www.instagram.com/besmart_belgrade/,,,4-9,,,"дети, наука, опыты, осень, Be Smart, русский язык","kids, science, experiments, autumn, Be Smart, Russian language","deca, nauka, ogledi, jesen, Be Smart, ruski jezik"
+10/31/2026,10/31/2026,10/6/2026,2096,Person,Анна Власова,https://t.me/Anna_Vlasova_kids,ru,ChildrensEvent,Хэллоуин для детей в Teen Club: квест «Таинственная квартира» для трёх возрастов,Halloween for kids at Teen Club: the Mysterious Apartment quest in three age groups,Noć veštica za decu u Teen Clubu: kvest „Tajanstveni stan“ za tri uzrasta,https://raw.githubusercontent.com/newsgl/arsposters/main/2096-HalloweenDetiTeenClub.webp,,Kids,"Дети собирают лицо Невидимки, создают костюм-иллюзию, разгадывают тайну живой картины и проходят мастер-класс от Руми. Суббота 31 октября в Teen Club на Небојшиной 53: 13:00 для детей от 5 лет, 18:00 от 8, 20:00 от 11; 2800 динаров.","Children assemble the face of the Invisible Man, make an illusion costume, solve the mystery of a living painting and take a workshop with Rumi. Saturday 31 October at Teen Club, Nebojšina 53: 13:00 for children from 5, 18:00 from 8, 20:00 from 11; 2,800 dinars.","Deca sastavljaju lice Nevidljivog čoveka, prave kostim-iluziju, rešavaju tajnu žive slike i prolaze radionicu sa Rumi. Subota 31. oktobar u Teen Clubu, Nebojšina 53: 13.00 za decu od 5 godina, 18.00 od 8, 20.00 od 11; 2.800 dinara.","На Хэллоуин детей приглашают в **«Таинственную квартиру»**: ночью здесь оживают тени, слышатся загадочные звуки и происходят странные вещи.
+
+Участники собирают лицо Невидимки, создают костюм-иллюзию, разгадывают тайну живой картины и проходят мастер-класс от Руми.
+
+Три программы для разного возраста: с 13:00 до 15:00 **«Falloween»** для детей от 5 лет, с 18:00 до 20:00 **«Ха-ха-луин»** от 8 лет, с 20:00 до 22:00 **«Охотники на страхи»** от 11 лет. По желанию можно остаться на ночёвку.
+
+Мест немного, запись в телеграме @Anna_Vlasova_kids.
+
+Место: Teen Club, Небојшина 53, Врачар.
+
+Время: суббота 31 октября, начало программ в 13:00, 18:00 и 20:00.
+
+Цена: 2800 динаров; второму ребёнку из семьи скидка 800 динаров; ночёвка 1200 динаров дополнительно.
+
+Язык: русский.","On Halloween children are invited into the **Mysterious Apartment**: at night shadows come alive here, strange sounds are heard and odd things happen.
+
+Participants assemble the face of the Invisible Man, make an illusion costume, solve the mystery of a living painting and take a workshop with Rumi.
+
+Three programmes for different ages: 13:00 to 15:00 **Falloween** for children from 5, 18:00 to 20:00 **Ha-ha-loween** from 8, 20:00 to 22:00 **Fear Hunters** from 11. A sleepover is available on request.
+
+Places are limited; sign up on Telegram, @Anna_Vlasova_kids.
+
+Venue: Teen Club, Nebojšina 53, Vračar.
+
+Time: Saturday 31 October, programmes start at 13:00, 18:00 and 20:00.
+
+Price: 2,800 dinars; 800 dinars off for a second child from the same family; sleepover 1,200 dinars extra.
+
+Language: Russian.","Za Noć veštica deca su pozvana u **„Tajanstveni stan“**: noću ovde oživljavaju senke, čuju se zagonetni zvuci i dešavaju se čudne stvari.
+
+Učesnici sastavljaju lice Nevidljivog čoveka, prave kostim-iluziju, rešavaju tajnu žive slike i prolaze radionicu sa Rumi.
+
+Tri programa za različite uzraste: od 13.00 do 15.00 **„Falloween“** za decu od 5 godina, od 18.00 do 20.00 **„Ha-ha-luin“** od 8 godina, od 20.00 do 22.00 **„Lovci na strahove“** od 11 godina. Po želji moguće je ostati na spavanju.
+
+Mesta je malo, prijava na Telegramu @Anna_Vlasova_kids.
+
+Mesto: Teen Club, Nebojšina 53, Vračar.
+
+Vreme: subota 31. oktobar, programi počinju u 13.00, 18.00 i 20.00.
+
+Cena: 2.800 dinara; za drugo dete iz porodice popust 800 dinara; spavanje 1.200 dinara dodatno.
+
+Jezik: ruski.",13:00,2800,Teen Club,"Nebojšina 53, 11000 Beograd","44.792017,20.469195",https://t.me/mamakudaidem/2499,@arsraws,,Анна Власова,https://t.me/Anna_Vlasova_kids,,,5+,,,"дети, Хэллоуин, квест, Teen Club, русский язык","kids, Halloween, quest, Teen Club, Russian language","deca, Noć veštica, kvest, Teen Club, ruski jezik"
+10/11/2026,10/11/2026,10/6/2026,2097,Organization,Showa Pulse,https://www.instagram.com/showa_pulse_party/,,SocialEvent,Showa Pulse: вечеринка Visual Kei в DC Loža с J-Rock и японским металом,Showa Pulse: a Visual Kei party at DC Loža with J-Rock and Japanese metal,Showa Pulse: Visual Kei žurka u DC Loži uz J-Rock i japanski metal,https://raw.githubusercontent.com/newsgl/arsposters/main/2097-ShowaPulseVisualKeiDCLoza.webp,,Games,"После Нови-Сада вечеринка Showa Pulse впервые собирает поклонников visual kei в Белграде: Malice Mizer, The GazettE, BUCK-TICK, X Japan, Dir En Grey и другие, дресс-код в оттенках чёрного. Воскресенье 11 октября с 19:00 в DC Loža, рекомендованный донат 400 динаров, 18+.","After Novi Sad, the Showa Pulse party gathers visual kei fans in Belgrade for the first time: Malice Mizer, The GazettE, BUCK-TICK, X Japan, Dir En Grey and more, dress code in shades of black. Sunday 11 October from 19:00 at DC Loža, recommended donation 400 dinars, 18+.","Posle Novog Sada žurka Showa Pulse prvi put okuplja ljubitelje visual kei scene u Beogradu: Malice Mizer, The GazettE, BUCK-TICK, X Japan, Dir En Grey i drugi, dres kod u nijansama crne. Nedelja 11. oktobar od 19.00 u DC Loži, preporučena donacija 400 dinara, 18+.","**Showa Pulse** это вечеринка для слушателей **visual kei**, японской рок- и метал-сцены с театральным гримом и костюмами. После вечера в Нови-Саде организаторы впервые проводят её в Белграде.
+
+В программе хиты групп, оставивших след в японской рок-музыке: Malice Mizer, The GazettE, BUCK-TICK, X Japan, Dir En Grey, Luna Sea, Plastic Tree, MUCC, Nightmare, Versailles, GACKT, Hide, Janne Da Arc, D'espairsRay, Kuroyume и другие.
+
+Дресс-код: все оттенки чёрного; ожерелья, платья, корсеты, цепи и другие аксессуары приветствуются. Постер вечеринки нарисовала художница norororin. Язык общения любой, на этом мероприятии курить можно.
+
+Место: DC Loža, Dalmatinska 84L, вход со стороны Ivankovačka.
+
+Время: воскресенье 11 октября, с 19:00 до 23:00.
+
+Цена: рекомендованный донат 400 динаров.
+
+Возраст: 18+.","**Showa Pulse** is a party for listeners of **visual kei**, the Japanese rock and metal scene known for theatrical make-up and costumes. After an evening in Novi Sad the organisers bring it to Belgrade for the first time.
+
+The programme is built on hits by bands that shaped Japanese rock: Malice Mizer, The GazettE, BUCK-TICK, X Japan, Dir En Grey, Luna Sea, Plastic Tree, MUCC, Nightmare, Versailles, GACKT, Hide, Janne Da Arc, D'espairsRay, Kuroyume and others.
+
+Dress code: all shades of black; necklaces, dresses, corsets, chains and other accessories are welcome. The poster was drawn by the artist norororin. Any language is fine, and smoking is allowed at this event.
+
+Venue: DC Loža, Dalmatinska 84L, entrance from Ivankovačka.
+
+Time: Sunday 11 October, 19:00 to 23:00.
+
+Price: recommended donation 400 dinars.
+
+Age: 18+.","**Showa Pulse** je žurka za slušaoce **visual kei** scene, japanskog roka i metala poznatog po teatralnoj šminki i kostimima. Posle večeri u Novom Sadu organizatori je prvi put dovode u Beograd.
+
+Program čine hitovi bendova koji su obeležili japanski rok: Malice Mizer, The GazettE, BUCK-TICK, X Japan, Dir En Grey, Luna Sea, Plastic Tree, MUCC, Nightmare, Versailles, GACKT, Hide, Janne Da Arc, D'espairsRay, Kuroyume i drugi.
+
+Dres kod: sve nijanse crne; ogrlice, haljine, korseti, lanci i drugi aksesoari su dobrodošli. Poster je nacrtala umetnica norororin. Jezik bilo koji, na ovom događaju je pušenje dozvoljeno.
+
+Mesto: DC Loža, Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Vreme: nedelja 11. oktobar, od 19.00 do 23.00.
+
+Cena: preporučena donacija 400 dinara.
+
+Uzrast: 18+.",19:00,400,DC Loža,"Dalmatinska 84L, 11000 Beograd","44.808482,20.480228",https://t.me/dcloza/1240,@dcloza,,Showa Pulse,https://www.instagram.com/showa_pulse_party/,,,18+,,,"вечеринка, visual kei, J-Rock, Япония, DC Loža","party, visual kei, J-Rock, Japan, DC Loža","žurka, visual kei, J-Rock, Japan, DC Loža"
+10/9/2026,10/10/2026,10/6/2026,2098,Organization,Čumić Design District,https://www.instagram.com/cumicdesigndistrict/,,Festival,"Маркет Čumić & Friends в дизайн-дистрикте Чумићево сокаче: хендмейд, воркшопы и концерты","Čumić & Friends market in the Čumićevo sokače design district: handmade, workshops and concerts","Market Čumić & Friends u dizajn-distriktu Čumićevo sokače: hendmejd, radionice i koncerti",https://raw.githubusercontent.com/newsgl/arsposters/main/2098-CumicFriendsMarket.webp,,Festivals,"Дизайнеры и шоурумы квартала впервые зовут в гости независимых мастеров хендмейда под слоганом «Коллеги для коллег»: маркет, творческие воркшопы, мини-концерт фанк-рока и выступление классических музыкантов. Пятница и суббота 9 и 10 октября, Чумићево сокаче, вход свободный.","The quarter's designers and showrooms host independent handmade makers for the first time under the slogan ""Colleagues for colleagues"": a market, creative workshops, a funk rock mini-concert and classical musicians. Friday and Saturday 9 and 10 October, Čumićevo sokače, free entry.","Dizajneri i šourumi kvarta prvi put ugošćuju nezavisne majstore hendmejda pod sloganom „Kolege za kolege“: market, kreativne radionice, mini koncert fank roka i nastup klasičnih muzičara. Petak i subota 9. i 10. oktobar, Čumićevo sokače, ulaz slobodan.","Дизайн-дистрикт **Čumić** впервые проводит маркет **Čumić & Friends**.
+
+Под слоганом «Коллеги для коллег» местные дизайнеры и шоурумы пригласили независимых мастеров хендмейда и бесплатно выделили им места под столы с продукцией, чтобы поддержать локальные бренды.
+
+Кроме маркета гостей ждут творческие воркшопы, мини-концерт фанк-рока и выступление классических музыкантов. Каждая лавка квартала готовит собственную программу с мастер-классами, угощениями и зонами для общения. Подробное расписание и список участников организаторы обещали опубликовать ближе к дате: следите за страницей дизайн-дистрикта в Instagram.
+
+Место: Чумићево сокаче, пассаж между улицами Нушићева и Чумићева в центре Белграда.
+
+Время: пятница 9 и суббота 10 октября; часы работы организаторы не объявили.
+
+Цена: вход свободный.","The **Čumić** design district holds its first **Čumić & Friends** market.
+
+Under the slogan ""Colleagues for colleagues"", the local designers and showrooms invited independent handmade makers and gave them free table space for their products to support local brands.
+
+Besides the market, visitors can expect creative workshops, a funk rock mini-concert and a performance by classical musicians. Every shop in the quarter prepares its own programme with workshops, treats and spaces to hang out. The organisers promised to publish the detailed schedule and the list of participants closer to the date: follow the design district's Instagram page.
+
+Venue: Čumićevo sokače, the passage between Nušićeva and Čumićeva streets in the centre of Belgrade.
+
+Time: Friday 9 and Saturday 10 October; opening hours have not been announced.
+
+Price: free entry.","Dizajn-distrikt **Čumić** prvi put organizuje market **Čumić & Friends**.
+
+Pod sloganom „Kolege za kolege“ lokalni dizajneri i šourumi pozvali su nezavisne majstore hendmejda i besplatno im ustupili mesta za stolove sa proizvodima, da bi podržali lokalne brendove.
+
+Pored marketa goste očekuju kreativne radionice, mini koncert fank roka i nastup klasičnih muzičara. Svaka radnja u kvartu priprema sopstveni program sa radionicama, posluženjem i prostorom za druženje. Detaljan raspored i spisak učesnika organizatori su obećali bliže datumu: pratite Instagram stranicu dizajn-distrikta.
+
+Mesto: Čumićevo sokače, pasaž između Nušićeve i Čumićeve ulice u centru Beograda.
+
+Vreme: petak 9. i subota 10. oktobar; radno vreme organizatori nisu objavili.
+
+Cena: ulaz slobodan.",,0,Čumićevo sokače,"Čumićevo sokače, 11000 Beograd","44.815014,20.461889",https://t.me/sta_imas_beograd/4860,@arsraws,,Čumić Design District,https://www.instagram.com/cumicdesigndistrict/,,,,,,"маркет, дизайн, хендмейд, воркшопы, Чумићево сокаче, бесплатно","market, design, handmade, workshops, Čumićevo sokače, free","market, dizajn, hendmejd, radionice, Čumićevo sokače, besplatno"
+10/12/2026,10/12/2026,10/6/2026,2099,Person,Егор Королёв,https://luma.com/9ycf086i,ru,EducationEvent,«10 маршрутов по Черногории»: лекция-путеводитель Егора Королёва в «Аудитории»,Ten Routes Across Montenegro: a guidebook lecture by Egor Korolev at Auditoria,„10 ruta po Crnoj Gori“: predavanje-vodič Jegora Koroljova u „Auditoriji“,https://raw.githubusercontent.com/newsgl/arsposters/main/2099-KorolevChernogoriaAuditoria.webp,,Lectures,"Путешественник и исследователь Балкан Егор Королёв, автор блога «Закрома и закоулки», рассказывает о национальных парках и тропах Черногории, от Приморья до Жабляка и Гусинье. Понедельник 12 октября в 19:00 в «Аудитории», 1000 динаров по регистрации, 1500 без.","Traveller and Balkans explorer Egor Korolev, author of the blog Zakroma i zakoulki, talks about Montenegro's national parks and trails, from the coast to Žabljak and Gusinje. Monday 12 October at 19:00 at Auditoria, 1,000 dinars with registration, 1,500 without.","Putnik i istraživač Balkana Jegor Koroljov, autor bloga „Zakroma i zakoulki“, govori o nacionalnim parkovima i stazama Crne Gore, od primorja do Žabljaka i Gusinja. Ponedeljak 12. oktobar u 19.00 u „Auditoriji“, 1.000 dinara uz prijavu, 1.500 bez.","**Егор Королёв**, путешественник и исследователь Балкан, автор блога «Закрома и закоулки», читает в «Аудитории» лекцию-путеводитель по Черногории.
+
+Речь пойдёт о национальных парках и красивых тропах, о самых живописных маршрутах в Приморье и в горной части страны, о достопримечательностях Жабляка, Никшича, Гусинье и Боко-Которского залива. Среди остановок: дворцы Цетине, оливковая роща за Старым Баром, югославские споменики вокруг Подгорицы, деревянные дома и мечети Гусинье, средневековые надгробия стечки из списка ЮНЕСКО.
+
+Помимо маршрутов лектор рассказывает историю страны, в которую россиянам пока можно попасть без виз.
+
+Место: «Аудитория», Војводе Добрњца 48.
+
+Время: понедельник 12 октября, 19:00.
+
+Цена: 1000 динаров по предварительной регистрации на luma, 1500 без регистрации, наличными на входе.
+
+Язык: русский.","**Egor Korolev**, a traveller and explorer of the Balkans and author of the blog Zakroma i zakoulki, gives a guidebook lecture on Montenegro at Auditoria.
+
+The talk covers national parks and scenic trails, the most picturesque routes on the coast and in the mountains, and the sights of Žabljak, Nikšić, Gusinje and the Bay of Kotor. Among the stops: the palaces of Cetinje, the olive grove behind Stari Bar, Yugoslav memorials around Podgorica, the wooden houses and mosques of Gusinje, and the medieval stećak tombstones on the UNESCO list.
+
+Besides the routes, the lecturer tells the history of a country that Russians can still enter without a visa.
+
+Venue: Auditoria, Vojvode Dobrnjca 48.
+
+Time: Monday 12 October, 19:00.
+
+Price: 1,000 dinars with advance registration on luma, 1,500 without, cash at the door.
+
+Language: Russian.","**Jegor Koroljov**, putnik i istraživač Balkana, autor bloga „Zakroma i zakoulki“, drži u „Auditoriji“ predavanje-vodič po Crnoj Gori.
+
+Reč je o nacionalnim parkovima i lepim stazama, o najslikovitijim rutama na primorju i u planinskom delu zemlje, o znamenitostima Žabljaka, Nikšića, Gusinja i Boke Kotorske. Među stanicama: dvorci Cetinja, maslinjak iza Starog Bara, jugoslovenski spomenici oko Podgorice, drvene kuće i džamije Gusinja, srednjovekovni stećci sa Uneskove liste.
+
+Pored ruta, predavač priča i istoriju zemlje u koju Rusi za sada mogu da uđu bez vize.
+
+Mesto: „Auditorija“, Vojvode Dobrnjca 48.
+
+Vreme: ponedeljak 12. oktobar, 19.00.
+
+Cena: 1.000 dinara uz prethodnu prijavu na lumi, 1.500 bez prijave, gotovinom na ulazu.
+
+Jezik: ruski.",19:00,1000,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://t.me/auditoria_belgrade/1754,@auditoria_belgrade,https://luma.com/9ycf086i,Auditoria,https://t.me/auditoria_belgrade,,,,,,"лекция, Черногория, путешествия, Аудитория, русский язык","lecture, Montenegro, travel, Auditoria, Russian language","predavanje, Crna Gora, putovanja, Auditorija, ruski jezik"
