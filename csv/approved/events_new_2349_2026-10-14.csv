@@ -1,0 +1,510 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+10/16/2026,10/16/2026,10/14/2026,2349,Person,Juzo Itami,https://en.wikipedia.org/wiki/Juzo_Itami,ru,ScreeningEvent,«Тампопо» Итами Дзюдзо: киновстреча Японского клуба в «Среде обитания»,Tampopo by Juzo Itami: a Japanese Club film night at Sreda Obitaniya,„Tampopo“ Džuza Itamija: filmsko veče Japanskog kluba u Sredi obitanija,https://raw.githubusercontent.com/newsgl/arsposters/main/2349-TampopoJapanClub.webp,,Movies,"Японский клуб показывает «рамен-вестерн» Итами Дзюдзо 1985 года на японском с русскими субтитрами, после фильма обсуждение. Пятница 16 октября, 18:30, донат, регистрация обязательна.","The Japanese Club screens Juzo Itami's 1985 ""ramen western"" in Japanese with Russian subtitles, followed by a discussion. Friday 16 October, 18:30, donation, registration required.","Japanski klub prikazuje „ramen-vestern“ Džuza Itamija iz 1985. na japanskom sa ruskim titlovima, posle filma razgovor. Petak 16. oktobar, 18.30, prilog po želji, prijava obavezna.","Японский клуб в Белграде показывает **«Тампопо»** (1985) **Итами Дзюдзо**. В Японии фильм очень любят, хотя наград у него почти нет, кроме призов Японской киноакадемии за монтаж и звук.
+
+Его называют «рамен-вестерном»: это оммаж западной поп-культуре и одновременно пародия на неё, с суровым героем в ковбойской шляпе. При этом кино очень японское, ведь кто ещё поднимет столько суеты вокруг рамена и снимет об этом целый фильм.
+
+После показа обсуждение: признание в любви это или стёб над японским культом еды, и пробуждает фильм аппетит или отбивает его.
+
+Фильм на японском языке с русскими субтитрами, около 2 часов. Организатор предупреждает: 18+, в фильме есть немного эротики, а веганам смотреть может быть тяжело.
+
+Время: пятница, 16 октября, 18:30-21:30.
+
+Цена: донат.
+
+Регистрация обязательна, ссылка в анонсе.","The Japanese Club in Belgrade is screening **Tampopo** (1985) by **Juzo Itami**. The film is much loved in Japan, even though its only awards were Japan Academy prizes for editing and sound.
+
+It is often called a ""ramen western"": a tribute to Western pop culture and a parody of it at the same time, with a stern hero in a cowboy hat. It is also deeply Japanese, because who else would make such a fuss over ramen and then shoot a whole film about it?
+
+A discussion follows the screening: is it a declaration of love or a send-up of Japan's food cult, and does it whet the appetite or spoil it?
+
+The film is in Japanese with Russian subtitles and runs about 2 hours. The organiser notes that it is 18+ for some erotic scenes and may be hard going for vegans.
+
+Time: Friday 16 October, 18:30-21:30.
+
+Price: donation.
+
+Registration is required via the link in the announcement.","Japanski klub u Beogradu prikazuje **„Tampopo“** (1985) **Džuza Itamija**. Film je u Japanu veoma omiljen, iako je dobio samo nagrade Japanske filmske akademije za montažu i zvuk.
+
+Zovu ga „ramen-vesternom“: to je omaž zapadnoj pop kulturi i istovremeno njena parodija, sa strogim junakom u kaubojskom šeširu. Pritom je film duboko japanski, jer ko bi drugi digao toliku galamu oko ramena i snimio o tome ceo film.
+
+Posle projekcije razgovor: da li je to izjava ljubavi ili sprdnja sa japanskim kultom hrane, i da li film budi apetit ili ga kvari.
+
+Film je na japanskom sa ruskim titlovima i traje oko 2 sata. Organizator upozorava: 18+, ima malo erotike, a veganima bi moglo biti teško da ga gledaju.
+
+Vreme: petak, 16. oktobar, 18.30-21.30.
+
+Cena: prilog po želji.
+
+Prijava je obavezna, link je u najavi.",18:30,0,Среда обитания,"Šafarikova 6, 11000 Beograd","44.816038,20.467220",https://t.me/obitaniya_sreda/2282,@obitaniya_sreda,https://cal.com/jp-bg-club/2026-10-16-%D0%BA%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0-%D1%82%D0%B0%D0%BC%D0%BF%D0%BE%D0%BF%D0%BE,Японский клуб в Белграде,https://t.me/japanclub_belgrade,,,18+,,,"кино, японское кино, киноклуб, Итами Дзюдзо, рамен, обсуждение","film, Japanese cinema, film club, Juzo Itami, ramen, discussion","film, japanski film, filmski klub, Džuzo Itami, ramen, razgovor"
+10/17/2026,10/17/2026,10/14/2026,2350,Organization,BIG Rakovica,https://www.bigcenters.rs/rakovica/,,ChildrensEvent,Украшаем тыквы: бесплатный осенний мастер-класс для детей в BIG Rakovica,Pumpkin decorating: a free autumn workshop for kids at BIG Rakovica,Ukrašavanje bundeva: besplatna jesenja radionica za decu u BIG Rakovici,https://raw.githubusercontent.com/newsgl/arsposters/main/2350-PumpkinsBIGRakovica.webp,,Kids,"Торговый центр BIG Rakovica устраивает для детей осенние творческие мастерские: украшение тыкв, рисование, поделки. Суббота 17 октября с 14:00, вход свободный.","BIG Rakovica shopping centre runs autumn craft workshops for children: pumpkin decorating, drawing and seasonal crafts. Saturday 17 October from 14:00, free entry.","Tržni centar BIG Rakovica priprema jesenje kreativne radionice za decu: ukrašavanje bundeva, crtanje i rukotvorine. Subota 17. oktobar od 14.00, ulaz slobodan.","В субботу торговый центр **BIG Rakovica** на Мильяковце проводит осенние творческие мастерские для детей.
+
+Главное занятие дня: **украшение тыкв**. Дети смогут порисовать, придумать свой узор и сделать собственные осенние поделки.
+
+Время: суббота, 17 октября, с 14:00.
+
+Цена: вход свободный, мастерские бесплатные.","On Saturday **BIG Rakovica** shopping centre in Miljakovac hosts autumn craft workshops for children.
+
+The main activity is **pumpkin decorating**: kids can draw, come up with their own designs and make seasonal crafts to take home.
+
+Time: Saturday 17 October, from 14:00.
+
+Price: free entry, the workshops are free of charge.","U subotu tržni centar **BIG Rakovica** na Miljakovcu organizuje jesenje kreativne radionice za decu.
+
+Glavna aktivnost je **ukrašavanje bundeva**: deca mogu da crtaju, smisle svoje šare i naprave male jesenje rukotvorine.
+
+Vreme: subota, 17. oktobar, od 14.00.
+
+Cena: ulaz slobodan, radionice su besplatne.",14:00,0,BIG Rakovica,"Patrijarha Dimitrija 14, 11090 Beograd","44.740254,20.437965",https://www.instagram.com/p/DeZkMBaG5Wo/,BIG Rakovica (Instagram),,BIG Rakovica,https://www.bigcenters.rs/rakovica/,,,,,,"дети, мастер-класс, тыквы, осень, Хэллоуин, бесплатно","kids, workshop, pumpkins, autumn, Halloween, free","deca, radionica, bundeve, jesen, Noć veštica, besplatno"
+10/17/2026,10/17/2026,10/14/2026,2351,Organization,Master Land,https://t.me/iyliiaart,ru,EducationEvent,Мастер-класс по керамике в студии Master Land на Балканской,Ceramics workshop at the Master Land studio on Balkanska,Radionica keramike u studiju Master Land u Balkanskoj,https://raw.githubusercontent.com/newsgl/arsposters/main/2351-CeramicsMasterLand.webp,,Master classes,"Двухчасовое занятие ручной лепки: кружка, фильтр для кофе или тарелка, роспись ангобами и обжиг. Подходит новичкам. Суббота 17 октября, 17:00, 3600 динаров со всеми материалами.","A two-hour hand-building class: make a mug, a coffee dripper or a plate, decorate it with engobes, and it gets kiln-fired. Beginners welcome. Saturday 17 October, 17:00, 3,600 dinars with all materials.","Dvočasovna radionica ručnog oblikovanja: šolja, filter za kafu ili tanjir, oslikavanje engobama i pečenje. Pogodno za početnike. Subota 17. oktobar, 17.00, 3.600 dinara sa svim materijalima.","Мастер-класс по керамике ручной лепки в студии **Master Land** на Балканской. Опыт работы с глиной не нужен, занятие подходит участникам любого возраста и уровня.
+
+Каждый лепит своё изделие на выбор: **кружку, фильтр для кофе или тарелку**, а потом расписывает его ангобами. После занятия студия обжигает работы, так что посудой можно пользоваться и мыть её в посудомоечной машине.
+
+Материалы, глазурь и обжиг входят в стоимость. Отдельно можно записаться на индивидуальное занятие на гончарном круге или на мастер-класс в формате свидания для двоих.
+
+Время: суббота 17 октября, 17:00, занятие длится 2 часа.
+
+Цена: 3600 динаров.
+
+Запись: в телеграме @iyliiaart.","A hand-built ceramics workshop at the **Master Land** studio on Balkanska. No experience with clay is needed, and the class suits all ages and levels.
+
+Everyone makes a piece of their choice, **a mug, a coffee dripper or a plate**, and then decorates it with engobes. The studio fires the work afterwards, so it can be used and even put in the dishwasher.
+
+Materials, glaze and firing are included. You can also book a one-to-one wheel-throwing session or a workshop set up as a date for two.
+
+Time: Saturday 17 October, 17:00; the class lasts 2 hours.
+
+Price: 3,600 dinars.
+
+Sign-up: @iyliiaart on Telegram.","Radionica ručno oblikovane keramike u studiju **Master Land** u Balkanskoj. Iskustvo sa glinom nije potrebno, radionica je za sve uzraste i nivoe.
+
+Svako pravi predmet po izboru, **šolju, filter za kafu ili tanjir**, i oslikava ga engobama. Studio posle radionice peče radove, pa se posuđe može koristiti i prati u mašini za sudove.
+
+Materijal, glazura i pečenje uračunati su u cenu. Posebno se može zakazati individualni čas na grnčarskom kolu ili radionica u formatu sastanka za dvoje.
+
+Vreme: Subota 17. oktobar, 17.00, radionica traje 2 sata.
+
+Cena: 3.600 dinara.
+
+Prijava: @iyliiaart na Telegramu.",17:00,3600,Master Land (Balkanska 40),"Balkanska 40b, 11000 Beograd","44.808519,20.458401",https://t.me/vstrechi_v_belgrade/13150,Встречи в Белграде,https://t.me/iyliiaart,Master Land,https://t.me/iyliiaart,,,,,,"керамика, лепка, глина, мастер-класс, посуда своими руками","ceramics, pottery, clay, workshop, handmade tableware","keramika, vajanje, glina, radionica, ručno pravljeno posuđe"
+10/18/2026,10/18/2026,10/14/2026,2352,Organization,shell(f),https://t.me/shelllllf,,Festival,Книжный своп в магазине «Лав и Жабац»: обмен книгами на Дорчоле,Book swap at the Lav i Žabac bookshop in Dorćol,Razmena knjiga u knjižari „Lav i žabac“ na Dorćolu,https://raw.githubusercontent.com/newsgl/arsposters/main/2352-BookSwapLaviZabac.webp,,Festivals,"Приносите свои книги на обмен или просто забирайте понравившиеся. Воскресенье 18 октября в книжном «Лав и Жабац» на Цара Уроша, 16:00-18:00, бесплатно.","Bring books to swap, or just come and take the ones you like. Sunday 18 October at the Lav i Žabac bookshop on Cara Uroša, 16:00-18:00, free.","Donesite svoje knjige za razmenu ili samo uzmite one koje vam se dopadnu. Nedelja 18. oktobar u knjižari „Lav i žabac“ u Cara Uroša, 16-18 časova, besplatno.","Книжный своп от **shell(f)** в русском книжном магазине **«Лав и Жабац»** на Дорчоле.
+
+Приносите книги, которые хотите отдать, или приходите без них и забирайте то, что понравится.
+
+Место: «Лав и Жабац», Цара Уроша, 12.
+
+Время: воскресенье, 18 октября, 16:00-18:00 (так в тексте анонса; на афише указано 14:00-16:00).
+
+Цена: бесплатно.","A book swap by **shell(f)** at the **Lav i Žabac** Russian bookshop in Dorćol.
+
+Bring the books you want to pass on, or come empty-handed and pick up whatever catches your eye.
+
+Venue: Lav i Žabac, Cara Uroša 12.
+
+Time: Sunday 18 October, 16:00-18:00 (as given in the announcement text; the poster says 14:00-16:00).
+
+Price: free.","Razmena knjiga u organizaciji **shell(f)** u ruskoj knjižari **„Lav i žabac“** na Dorćolu.
+
+Donesite knjige koje želite da poklonite ili dođite bez njih i uzmite ono što vam se dopadne.
+
+Mesto: „Lav i žabac“, Cara Uroša 12.
+
+Vreme: nedelja, 18. oktobar, 16-18 časova (tako piše u tekstu najave; na plakatu je navedeno 14-16 časova).
+
+Cena: besplatno.",16:00,0,Лав и Жабац,"Cara Uroša 12, Beograd","44.821246,20.455834",https://t.me/shelllllf/1147,@shelllllf,,shell(f),https://t.me/shelllllf,,,,,,"книги, своп, обмен книгами, книжный магазин, Дорчол","books, swap, book exchange, bookshop, Dorćol","knjige, razmena, razmena knjiga, knjižara, Dorćol"
+10/18/2026,10/18/2026,10/14/2026,2353,Organization,Master Land,https://t.me/iyliiaart,ru,EducationEvent,Мастер-класс по керамике в студии Master Land на Балканской,Ceramics workshop at the Master Land studio on Balkanska,Radionica keramike u studiju Master Land u Balkanskoj,https://raw.githubusercontent.com/newsgl/arsposters/main/2353-CeramicsMasterLand.webp,,Master classes,"Двухчасовое занятие ручной лепки: кружка, фильтр для кофе или тарелка, роспись ангобами и обжиг. Подходит новичкам. Воскресенье 18 октября, 17:00, 3600 динаров со всеми материалами.","A two-hour hand-building class: make a mug, a coffee dripper or a plate, decorate it with engobes, and it gets kiln-fired. Beginners welcome. Sunday 18 October, 17:00, 3,600 dinars with all materials.","Dvočasovna radionica ručnog oblikovanja: šolja, filter za kafu ili tanjir, oslikavanje engobama i pečenje. Pogodno za početnike. Nedelja 18. oktobar, 17.00, 3.600 dinara sa svim materijalima.","Мастер-класс по керамике ручной лепки в студии **Master Land** на Балканской. Опыт работы с глиной не нужен, занятие подходит участникам любого возраста и уровня.
+
+Каждый лепит своё изделие на выбор: **кружку, фильтр для кофе или тарелку**, а потом расписывает его ангобами. После занятия студия обжигает работы, так что посудой можно пользоваться и мыть её в посудомоечной машине.
+
+Материалы, глазурь и обжиг входят в стоимость. Отдельно можно записаться на индивидуальное занятие на гончарном круге или на мастер-класс в формате свидания для двоих.
+
+Время: воскресенье 18 октября, 17:00, занятие длится 2 часа.
+
+Цена: 3600 динаров.
+
+Запись: в телеграме @iyliiaart.","A hand-built ceramics workshop at the **Master Land** studio on Balkanska. No experience with clay is needed, and the class suits all ages and levels.
+
+Everyone makes a piece of their choice, **a mug, a coffee dripper or a plate**, and then decorates it with engobes. The studio fires the work afterwards, so it can be used and even put in the dishwasher.
+
+Materials, glaze and firing are included. You can also book a one-to-one wheel-throwing session or a workshop set up as a date for two.
+
+Time: Sunday 18 October, 17:00; the class lasts 2 hours.
+
+Price: 3,600 dinars.
+
+Sign-up: @iyliiaart on Telegram.","Radionica ručno oblikovane keramike u studiju **Master Land** u Balkanskoj. Iskustvo sa glinom nije potrebno, radionica je za sve uzraste i nivoe.
+
+Svako pravi predmet po izboru, **šolju, filter za kafu ili tanjir**, i oslikava ga engobama. Studio posle radionice peče radove, pa se posuđe može koristiti i prati u mašini za sudove.
+
+Materijal, glazura i pečenje uračunati su u cenu. Posebno se može zakazati individualni čas na grnčarskom kolu ili radionica u formatu sastanka za dvoje.
+
+Vreme: Nedelja 18. oktobar, 17.00, radionica traje 2 sata.
+
+Cena: 3.600 dinara.
+
+Prijava: @iyliiaart na Telegramu.",17:00,3600,Master Land (Balkanska 40),"Balkanska 40b, 11000 Beograd","44.808519,20.458401",https://t.me/vstrechi_v_belgrade/13150,Встречи в Белграде,https://t.me/iyliiaart,Master Land,https://t.me/iyliiaart,,,,,,"керамика, лепка, глина, мастер-класс, посуда своими руками","ceramics, pottery, clay, workshop, handmade tableware","keramika, vajanje, glina, radionica, ručno pravljeno posuđe"
+10/18/2026,10/18/2026,10/14/2026,2354,Organization,DC Loža,https://t.me/dcloza,,SocialEvent,"Sunday Escape в DC Loža: винил, какао, настолки и чтение вслух","Sunday Escape at DC Loža: vinyl, cocoa, board games and reading aloud","Sunday Escape u DC Loži: vinil, kakao, društvene igre i čitanje naglas",https://raw.githubusercontent.com/newsgl/arsposters/main/2354-SundayEscapeDCLoza.webp,,Games,"Тихий воскресный вечер в подвале DC Loža: пластинки в наушниках, шахматы и карты, какао на овсяном молоке и чтение книги вслух по очереди. 18 октября с 17:00, донат.","A slow Sunday evening in the DC Loža basement: records on headphones, chess and cards, oat-milk cocoa and taking turns reading a book aloud. 18 October from 17:00, donation.","Mirno nedeljno veče u podrumu DC Lože: ploče na slušalicama, šah i karte, kakao sa ovsenim mlekom i čitanje knjige naglas na smenu. 18. oktobar od 17.00, prilog po želji.","**Sunday Escape Chill Day** в DC Loža: вечер, чтобы отдохнуть перед новой неделей. Подвал Ложи организаторы описывают как пространство вне времени, где можно забыться.
+
+**Зелёная комната:** виниловый проигрыватель с пластинками и наушниками, лаунж-зона, книги, игры, кроссворды и судоку, недорогое какао на овсяном молоке.
+
+**Синяя комната:** «чтение с СДВГ». Участники по очереди читают вслух книгу, которую выбрал один из них, а потом обсуждают её.
+
+Язык любой. Курят только снаружи.
+
+Место: DC Loža, Далматинска 84L, вход со стороны Иванковачкой.
+
+Время: воскресенье, 18 октября, 17:00.
+
+Цена: любой донат на развитие Ложи.","**Sunday Escape Chill Day** at DC Loža: an evening to unwind before the new week. The organisers describe the Loža basement as a place outside time where you can switch off for a while.
+
+**Green room:** a turntable with records and headphones, a lounge corner, books, games, crosswords and sudoku, and cheap oat-milk cocoa.
+
+**Blue room:** ""ADHD reading"". Participants take turns reading aloud from a book picked by one of them, then talk it over.
+
+Any language is fine. Smoking outside only.
+
+Venue: DC Loža, Dalmatinska 84L, entrance from Ivankovačka.
+
+Time: Sunday 18 October, 17:00.
+
+Price: any donation towards the Loža.","**Sunday Escape Chill Day** u DC Loži: veče za odmor pre nove nedelje. Organizatori podrum Lože opisuju kao prostor van vremena u kome možete da se isključite.
+
+**Zelena soba:** gramofon sa pločama i slušalicama, lounge kutak, knjige, igre, ukrštenice i sudoku, jeftin kakao sa ovsenim mlekom.
+
+**Plava soba:** „čitanje sa ADHD-om“. Učesnici na smenu čitaju naglas knjigu koju je izabrao neko od njih, a onda o njoj razgovaraju.
+
+Jezik je svejedno koji. Puši se samo napolju.
+
+Mesto: DC Loža, Dalmatinska 84L, ulaz iz Ivankovačke.
+
+Vreme: nedelja, 18. oktobar, 17.00.
+
+Cena: prilog po želji za razvoj Lože.",17:00,0,DC Loža,"Dalmatinska 84L, 11000 Beograd","44.808482,20.480228",https://t.me/dcloza/1281,@dcloza,,DC Loža,https://t.me/dcloza,,,,,,"чил, винил, настольные игры, чтение вслух, книжный клуб, DC Loža","chill, vinyl, board games, reading aloud, book club, DC Loža","opuštanje, vinil, društvene igre, čitanje naglas, čitalački klub, DC Loža"
+10/18/2026,10/18/2026,10/14/2026,2355,Person,Евгения Хузиятова,https://cal.com/victorian-bg,ru,EducationEvent,Лекция «Как читать викторианскую литературу» в «Среде обитания»,How to Read Victorian Literature: a lecture at Sreda Obitaniya,Predavanje „Kako čitati viktorijansku književnost“ u Sredi obitanija,https://raw.githubusercontent.com/newsgl/arsposters/main/2355-VictorianLiteratureLecture.webp,,Lectures,"Переводчица Троллопа Евгения Хузиятова объясняет конфликты романов Остен, Диккенса и Бронте: кто такой джентльмен, как устроено наследство, брак и развод. 18 октября, 18:00, донат.","Trollope translator Evgenia Khuziyatova explains the conflicts behind Austen, Dickens and the Brontës: what made a gentleman, how inheritance, marriage and divorce worked. 18 October, 18:00, donation.","Prevoditeljka Trolopa Evgenija Huzijatova objašnjava sukobe u romanima Ostinove, Dikensa i sestara Bronte: ko je džentlmen, kako funkcionišu nasledstvo, brak i razvod. 18. oktobar, 18.00, prilog.","Почему Элинор и Марианна в «Разуме и чувствах» остались без наследства? Мог ли Пип из «Больших надежд» на самом деле стать джентльменом? Зачем мистер Рочестер в «Джейн Эйр» запирал жену на чердаке, если можно было развестись?
+
+Такие вопросы возникают у читателей Джейн Остен, Диккенса и сестёр Бронте, а заодно у зрителей экранизаций. Лекция разбирает главные конфликты английской литературы викторианской эпохи, а также того, что было до и после неё. Тогда они не требовали пояснений, а сегодняшнего читателя могут поставить в тупик:
+
+- кто такой **джентльмен** и как им стать;
+- как было устроено **наследование**;
+- **брак, развод** и права замужней женщины.
+
+Лекторка: **Евгения Хузиятова**, переводчица романов Энтони Троллопа. Лекция идёт 1,5 часа, потом вопросы.
+
+Время: воскресенье, 18 октября, 18:00.
+
+Цена: донат.
+
+Запись по ссылке в анонсе.
+
+Язык: русский.","Why were Elinor and Marianne in Sense and Sensibility left without an inheritance? Could Pip in Great Expectations really become a gentleman? Why did Mr Rochester in Jane Eyre lock his wife in the attic instead of simply divorcing her?
+
+Readers of Jane Austen, Dickens and the Brontës, and viewers of the screen adaptations, run into questions like these. The lecture looks at the central conflicts of English literature from the Victorian era and the periods either side of it. They needed no explanation at the time but can puzzle a reader today:
+
+- what a **gentleman** was and how one became one;
+- how **inheritance** worked;
+- **marriage, divorce** and the rights of a married woman.
+
+Speaker: **Evgenia Khuziyatova**, translator of Anthony Trollope's novels. The talk lasts 1.5 hours, followed by questions.
+
+Time: Sunday 18 October, 18:00.
+
+Price: donation.
+
+Sign-up via the link in the announcement.
+
+Language: Russian.","Zašto su Elinor i Marijana u „Razumu i osećajnosti“ ostale bez nasledstva? Da li je Pip iz „Velikih očekivanja“ zaista mogao da postane džentlmen? Zašto je gospodin Ročester u „Džejn Ejr“ zaključao ženu na tavanu umesto da se razvede?
+
+Takva pitanja muče čitaoce Džejn Ostin, Dikensa i sestara Bronte, a i gledaoce ekranizacija. Predavanje razmatra glavne sukobe engleske književnosti viktorijanskog doba i perioda pre i posle njega. Tada nisu zahtevali objašnjenje, a današnjeg čitaoca mogu da zbune:
+
+- ko je **džentlmen** i kako se to postaje;
+- kako je funkcionisalo **nasleđivanje**;
+- **brak, razvod** i prava udate žene.
+
+Predavačica: **Evgenija Huzijatova**, prevoditeljka romana Entonija Trolopa. Predavanje traje sat i po, zatim pitanja.
+
+Vreme: nedelja, 18. oktobar, 18.00.
+
+Cena: prilog po želji.
+
+Prijava preko linka u najavi.
+
+Jezik: ruski.",18:00,0,Среда обитания,"Šafarikova 6, 11000 Beograd","44.816038,20.467220",https://t.me/vstrechi_v_belgrade/13137,Встречи в Белграде,https://cal.com/victorian-bg,Среда обитания,https://t.me/obitaniya_sreda,,,,,,"лекция, литература, викторианская эпоха, Джейн Остен, Диккенс, Бронте","lecture, literature, Victorian era, Jane Austen, Dickens, Brontës","predavanje, književnost, viktorijansko doba, Džejn Ostin, Dikens, sestre Bronte"
+10/19/2026,10/23/2026,10/14/2026,2356,Organization,Turistička organizacija Čukarice,https://www.cukarica.rs/,,Festival,"Чукарицкий фестиваль зимницы: айвар, квашеная капуста и соленья на Бановом брде","Čukarica Winter Preserves Festival: ajvar, sauerkraut and pickles on Banovo Brdo","Čukarički festival zimnice: ajvar, kiseli kupus i turšija na Banovom brdu",https://raw.githubusercontent.com/newsgl/arsposters/main/2356-ZimnicaCukarica.webp,,Festivals,"Фермеры со всей Сербии привозят на Баново брдо домашние заготовки на зиму: айвар, квашеную капусту, перцы, острые соленья. 19-23 октября, 09:00-19:00, вход свободный.","Farmers from all over Serbia bring homemade winter preserves to Banovo Brdo: ajvar, sauerkraut, peppers and spicy pickles. 19-23 October, 09:00-19:00, free entry.","Proizvođači iz cele Srbije donose na Banovo brdo domaću zimnicu: ajvar, kiseli kupus, papriku i ljute turšije. 19-23. oktobar, 9-19 časova, ulaz slobodan.","Городская община Чукарица и Туристическая организация Чукарицы проводят традиционный **«Чукарички фестивал зимнице»**, ярмарку домашних заготовок на зиму.
+
+Фермеры и домашние производители со всей Сербии привозят продукты, приготовленные по семейным рецептам: **айвар, квашеную капусту, перцы, острые закуски** и другие соленья. Можно попробовать десятки видов и закупиться на зиму.
+
+Место: площадка перед школой «Йосиф Панчич» на Пожешкой, у «Шолици», Баново брдо.
+
+Время: 19-23 октября, 09:00-19:00.
+
+Цена: вход свободный.","The Čukarica municipality and the Čukarica Tourist Organisation hold their traditional **Čukarica Winter Preserves Festival**, a fair of homemade food put up for the winter.
+
+Farmers and home producers from all over Serbia bring goods made to family recipes: **ajvar, sauerkraut, peppers, spicy relishes** and other pickles. You can taste dozens of kinds and stock up for the winter.
+
+Venue: the plaza in front of the Josif Pančić school on Požeška, by the ""Šoljica"", Banovo Brdo.
+
+Time: 19-23 October, 09:00-19:00.
+
+Price: free entry.","Gradska opština Čukarica i Turistička organizacija Čukarice organizuju tradicionalni **Čukarički festival zimnice**, sajam domaće zimnice.
+
+Poljoprivrednici i domaćinstva iz cele Srbije donose proizvode pripremljene po porodičnim receptima: **ajvar, kiseli kupus, papriku, ljute đakonije** i drugu turšiju. Možete probati desetine vrsta i nabaviti zimnicu.
+
+Mesto: plato ispred OŠ „Josif Pančić“ u Požeškoj, kod „Šoljice“, Banovo brdo.
+
+Vreme: 19-23. oktobar, 9-19 časova.
+
+Cena: ulaz slobodan.",09:00,0,Plato ispred OŠ Josif Pančić,"Požeška, Banovo brdo, 11030 Beograd","44.781072,20.417217",https://mojbeograd.com/cukaricki-festival-zimnice-prijave-za-izlagace-otvorene-do-23-oktobra/,mojbeograd.com,,GO Čukarica i Turistička organizacija Čukarice,https://www.cukarica.rs/,,,,,,"ярмарка, зимница, айвар, соленья, фермерские продукты, Баново брдо","fair, winter preserves, ajvar, pickles, farm produce, Banovo Brdo","sajam, zimnica, ajvar, turšija, domaći proizvodi, Banovo brdo"
+10/20/2026,10/20/2026,10/14/2026,2357,Organization,Master Land,https://t.me/iyliiaart,ru,EducationEvent,Мастер-класс по керамике в студии Master Land на Балканской,Ceramics workshop at the Master Land studio on Balkanska,Radionica keramike u studiju Master Land u Balkanskoj,https://raw.githubusercontent.com/newsgl/arsposters/main/2357-CeramicsMasterLand.webp,,Master classes,"Двухчасовое занятие ручной лепки: кружка, фильтр для кофе или тарелка, роспись ангобами и обжиг. Подходит новичкам. Вторник 20 октября, 17:30, 3600 динаров со всеми материалами.","A two-hour hand-building class: make a mug, a coffee dripper or a plate, decorate it with engobes, and it gets kiln-fired. Beginners welcome. Tuesday 20 October, 17:30, 3,600 dinars with all materials.","Dvočasovna radionica ručnog oblikovanja: šolja, filter za kafu ili tanjir, oslikavanje engobama i pečenje. Pogodno za početnike. Utorak 20. oktobar, 17.30, 3.600 dinara sa svim materijalima.","Мастер-класс по керамике ручной лепки в студии **Master Land** на Балканской. Опыт работы с глиной не нужен, занятие подходит участникам любого возраста и уровня.
+
+Каждый лепит своё изделие на выбор: **кружку, фильтр для кофе или тарелку**, а потом расписывает его ангобами. После занятия студия обжигает работы, так что посудой можно пользоваться и мыть её в посудомоечной машине.
+
+Материалы, глазурь и обжиг входят в стоимость. Отдельно можно записаться на индивидуальное занятие на гончарном круге или на мастер-класс в формате свидания для двоих.
+
+Время: вторник 20 октября, 17:30, занятие длится 2 часа.
+
+Цена: 3600 динаров.
+
+Запись: в телеграме @iyliiaart.","A hand-built ceramics workshop at the **Master Land** studio on Balkanska. No experience with clay is needed, and the class suits all ages and levels.
+
+Everyone makes a piece of their choice, **a mug, a coffee dripper or a plate**, and then decorates it with engobes. The studio fires the work afterwards, so it can be used and even put in the dishwasher.
+
+Materials, glaze and firing are included. You can also book a one-to-one wheel-throwing session or a workshop set up as a date for two.
+
+Time: Tuesday 20 October, 17:30; the class lasts 2 hours.
+
+Price: 3,600 dinars.
+
+Sign-up: @iyliiaart on Telegram.","Radionica ručno oblikovane keramike u studiju **Master Land** u Balkanskoj. Iskustvo sa glinom nije potrebno, radionica je za sve uzraste i nivoe.
+
+Svako pravi predmet po izboru, **šolju, filter za kafu ili tanjir**, i oslikava ga engobama. Studio posle radionice peče radove, pa se posuđe može koristiti i prati u mašini za sudove.
+
+Materijal, glazura i pečenje uračunati su u cenu. Posebno se može zakazati individualni čas na grnčarskom kolu ili radionica u formatu sastanka za dvoje.
+
+Vreme: Utorak 20. oktobar, 17.30, radionica traje 2 sata.
+
+Cena: 3.600 dinara.
+
+Prijava: @iyliiaart na Telegramu.",17:30,3600,Master Land (Balkanska 40),"Balkanska 40b, 11000 Beograd","44.808519,20.458401",https://t.me/vstrechi_v_belgrade/13150,Встречи в Белграде,https://t.me/iyliiaart,Master Land,https://t.me/iyliiaart,,,,,,"керамика, лепка, глина, мастер-класс, посуда своими руками","ceramics, pottery, clay, workshop, handmade tableware","keramika, vajanje, glina, radionica, ručno pravljeno posuđe"
+10/20/2026,10/20/2026,10/14/2026,2358,Organization,Auditoria Belgrade,https://t.me/auditoria_belgrade,,EducationEvent,Французский языковой клуб с Лизой в «Аудитории»: дискуссии для уровня B1 и выше,French Speaking Club with Lisa at Auditoria: discussions for B1 and above,Francuski jezički klub sa Lizom u Auditoriji: diskusije za nivo B1 i više,https://raw.githubusercontent.com/newsgl/arsposters/main/2358-FrenchClubAuditoria.webp,,Master classes,"Разговорный клуб без учебников: темы, неожиданные вопросы и споры на французском. Ведёт преподаватель с 15-летним опытом. Вторник 20 октября, 18:30, 1500 динаров, уровень от B1.","A conversation club with no textbooks: topics, unexpected questions and debate in French, led by a teacher with 15 years of experience. Tuesday 20 October, 18:30, 1,500 dinars, B1 and above.","Klub konverzacije bez udžbenika: teme, neočekivana pitanja i rasprava na francuskom, vodi profesorka sa 15 godina iskustva. Utorak 20. oktobar, 18.30, 1.500 dinara, nivo od B1.","Клуб для тех, кто хочет не просто практиковать французский, а думать, спорить и быстро реагировать на нём в живом разговоре.
+
+Учебников и заученных диалогов нет. Вместо них интересные темы, неожиданные вопросы и дискуссии, где важно не только говорить, но и отстаивать свою точку зрения.
+
+Ведёт **Лиза**, преподаватель французского с 15-летним опытом и член экзаменационной комиссии **DELF-DALF**. Она преподавала в МГИМО и получила степень магистра по преподаванию французского как иностранного.
+
+Клуб рассчитан на уровень **B1 и выше**.
+
+Время: вторник, 20 октября, 18:30.
+
+Цена: 1500 динаров при регистрации по ссылке, оплата наличными на входе.","A club for people who want more than practice: to think, argue and react quickly in French in a real conversation.
+
+There are no textbooks or memorised dialogues. Instead there are interesting topics, unexpected questions and discussions where you need to hold your ground as well as speak.
+
+It is run by **Lisa**, a French teacher with 15 years of experience and a member of the **DELF-DALF** examination board. She has taught at MGIMO and holds a master's degree in teaching French as a foreign language.
+
+The club is for **B1 level and above**.
+
+Time: Tuesday 20 October, 18:30.
+
+Price: 1,500 dinars with registration via the link, paid in cash at the door.","Klub za one koji žele više od vežbanja: da na francuskom razmišljaju, raspravljaju i brzo reaguju u živom razgovoru.
+
+Nema udžbenika ni naučenih dijaloga. Umesto toga zanimljive teme, neočekivana pitanja i diskusije u kojima treba i braniti svoje mišljenje.
+
+Klub vodi **Liza**, profesorka francuskog sa 15 godina iskustva i članica ispitne komisije **DELF-DALF**. Predavala je na MGIMO i ima master iz nastave francuskog kao stranog jezika.
+
+Klub je namenjen nivou **B1 i višem**.
+
+Vreme: utorak, 20. oktobar, 18.30.
+
+Cena: 1.500 dinara uz prijavu preko linka, plaćanje gotovinom na ulazu.",18:30,1500,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://t.me/auditoria_belgrade/1783,@auditoria_belgrade,https://luma.com/xde8bqdj,Auditoria Belgrade,https://t.me/auditoria_belgrade,,,,,,"французский язык, разговорный клуб, языковой клуб, дискуссия, Аудитория","French, conversation club, language club, discussion, Auditoria","francuski jezik, klub konverzacije, jezički klub, diskusija, Auditorija"
+10/21/2026,10/21/2026,10/14/2026,2359,Organization,Умная среда,https://t.me/umnaya_sreda_bg,ru,EducationEvent,«Еда как бизнес»: «Умная среда» о гастробизнесах россиян в Сербии,Food as Business: the Umnaya Sreda club on Russian food ventures in Serbia,„Hrana kao biznis“: klub Umnaja sreda o ruskim gastro biznisima u Srbiji,https://raw.githubusercontent.com/newsgl/arsposters/main/2359-UmnayaSredaFoodBusiness.webp,,Lectures,"Дискуссионный клуб русскоязычных эмигрантов обсуждает, почему гастропроекты россиян в Белграде часто закрываются и как выжить на местном рынке. Среда 21 октября, 19:00, донат.","A discussion club for Russian-speaking emigrants looks at why food projects opened by Russians in Belgrade close so often and how to survive the local market. Wednesday 21 October, 19:00, donation.","Diskusioni klub emigranata koji govore ruski razgovara o tome zašto se gastro projekti Rusa u Beogradu često zatvaraju i kako opstati na lokalnom tržištu. Sreda 21. oktobar, 19.00, prilog.","Октябрьская встреча дискуссионного клуба **«Умная среда»** посвящена российским гастробизнесам в Сербии. Что любят есть эмигранты и почему этим не привлечь в заведения сербов? Почему проекты, открытые выходцами из России в Белграде, так часто закрываются? Как создать успешное заведение и выжить на местном рынке?
+
+Первые спикеры:
+
+- **Владимир Олькиницкий**, шеф, чемпион России и призёр чемпионатов Европы и мира, создатель екатеринбургского ресторана «Полекафе» и пельменной «Замес». В Белграде работал шефом в баре Axiom, сейчас проводит камерные ужины в Bife, Škrt, Gevum и Recept.
+- **Семён Фатурский**, ресторатор: OVO Bistro и JetSet Bar, затем свой бар KISSA10 и итальянский ресторан FRESCA. Расскажет о брендах, деньгах и концепциях.
+- **Анатолий Побожев**, основатель сети кофеен Kofilin: первая кофейня в Белграде в 2022 году, сейчас 12 точек по Сербии. Расскажет об ошибках и о разнице сербского и российского рынков.
+
+Клуб ведёт Вера Тарасова, встречи проходят только офлайн.
+
+Время: среда, 21 октября, 19:00.
+
+Цена: произвольный донат. Регистрация по ссылке.","The October meeting of the **Umnaya Sreda** discussion club is about Russian food businesses in Serbia. What do emigrants like to eat, and why does that not bring Serbs into their venues? Why do projects opened by people from Russia in Belgrade close so often? How do you build a successful place and survive the local market?
+
+The first speakers:
+
+- **Vladimir Olkinitsky**, chef, Russian champion and medallist at European and world championships, founder of the Polekafe restaurant and the Zames dumpling bar in Yekaterinburg. In Belgrade he was head chef at Axiom bar and now hosts intimate dinners at Bife, Škrt, Gevum and Recept.
+- **Semyon Faturskiy**, restaurateur: OVO Bistro and JetSet Bar, then his own KISSA10 bar and the Italian restaurant FRESCA. He will talk about brands, money and concepts.
+- **Anatoly Pobozhev**, founder of the Kofilin coffee chain: the first café opened in Belgrade in 2022, and there are now 12 locations across Serbia. He will talk about mistakes and how the Serbian market differs from the Russian one.
+
+The club is hosted by Vera Tarasova and meets offline only.
+
+Time: Wednesday 21 October, 19:00.
+
+Price: donation of your choice. Registration via the link.","Oktobarski susret diskusionog kluba **Umnaja sreda** posvećen je ruskim gastro biznisima u Srbiji. Šta vole da jedu emigranti i zašto time ne mogu da privuku Srbe u svoje lokale? Zašto se projekti koje su u Beogradu otvorili ljudi iz Rusije tako često zatvaraju? Kako napraviti uspešan lokal i opstati na domaćem tržištu?
+
+Prvi govornici:
+
+- **Vladimir Olkinicki**, šef kuhinje, prvak Rusije i osvajač medalja na evropskim i svetskim prvenstvima, osnivač restorana „Polekafe“ i pelmenjare „Zames“ u Jekaterinburgu. U Beogradu je bio šef u baru Axiom, a sada priređuje intimne večere u Bife, Škrt, Gevum i Recept.
+- **Semjon Faturski**, restorater: OVO Bistro i JetSet Bar, zatim sopstveni bar KISSA10 i italijanski restoran FRESCA. Govoriće o brendovima, novcu i konceptima.
+- **Anatolij Pobožev**, osnivač lanca kafića Kofilin: prvi kafić otvoren je u Beogradu 2022, a sada ih ima 12 širom Srbije. Govoriće o greškama i razlikama između srpskog i ruskog tržišta.
+
+Klub vodi Vera Tarasova, susreti su samo uživo.
+
+Vreme: sreda, 21. oktobar, 19.00.
+
+Cena: prilog po želji. Prijava preko linka.",19:00,0,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://t.me/auditoria_belgrade/1785,@auditoria_belgrade,https://forms.gle/DnawA9K1E1qrB7FL7,Умная среда / Ковчег Бизнес,https://t.me/umnaya_sreda_bg,,,,,,"дискуссия, бизнес, рестораны, гастрономия, эмиграция, Аудитория","discussion, business, restaurants, food, emigration, Auditoria","diskusija, biznis, restorani, gastronomija, emigracija, Auditorija"
+10/22/2026,10/22/2026,10/14/2026,2360,Person,Татьяна Верещагина,https://t.me/auditoria_belgrade,ru,EducationEvent,Собака в городе: первая встреча с кинологом Татьяной Верещагиной в «Аудитории»,A dog in the city: first meetup with dog trainer Tatiana Vereshchagina at Auditoria,Pas u gradu: prvi susret sa kinološkinjom Tatjanom Vereščaginom u Auditoriji,https://raw.githubusercontent.com/newsgl/arsposters/main/2360-DogInTheCityAuditoria.webp,,Lectures,"«Аудитория» начинает серию встреч о собаках: короткая лекция кинолога и обсуждение за чаем. Первая тема: как живётся собаке в большом городе. Четверг 22 октября, 19:00, 1000 динаров.","Auditoria starts a series of meetups about dogs: a short talk by a dog trainer and a discussion over tea. First topic: how a dog copes with big-city life. Thursday 22 October, 19:00, 1,000 dinars.","Auditorija počinje seriju susreta o psima: kratko predavanje kinologa i razgovor uz čaj. Prva tema: kako je psu u velikom gradu. Četvrtak 22. oktobar, 19.00, 1.000 dinara.","Белград очень дружелюбен к собакам: их встречаешь не только в парке, но и в кафе, магазинах, салонах красоты. Но насколько комфортно собаке в большом городе на самом деле?
+
+«Аудитория» запускает серию встреч о собаках, их поведении и жизни рядом с человеком. Раз в две недели: чай, короткая лекция кинолога и обсуждение.
+
+Тема первой встречи **«Жизнь собаки в городе»**:
+
+- чем городская жизнь собаки отличается от сельской;
+- когда естественное поведение собаки становится проблемой в городе;
+- какой мы представляем идеальную городскую собаку и что ей на самом деле нужно;
+- всем ли собакам подходит город;
+- как снизить стресс и учесть потребности питомца.
+
+После лекции можно разобрать свои ситуации и задать вопросы.
+
+Ведёт **Татьяна Верещагина**, кинолог и специалист по поведению собак. Окончила курс зоопсихологии в Школе прикладной этологии и Университет современной кинологии, работает гуманными методами со щенками и взрослыми собаками любых пород.
+
+Время: четверг, 22 октября, 19:00.
+
+Цена: 1000 динаров при регистрации по ссылке, наличными на входе.","Belgrade is very dog-friendly: you meet dogs not only in parks but in cafés, shops and beauty salons. But how comfortable is a dog in a big city really?
+
+Auditoria is starting a series of meetups about dogs, their behaviour and life alongside people. Every two weeks: tea, a short talk by a dog trainer and a discussion.
+
+The first meetup is **A Dog's Life in the City**:
+
+- how city life differs from country life for a dog;
+- when natural dog behaviour becomes a problem in town;
+- what we imagine the ideal city dog to be and what it actually needs;
+- whether city life suits every dog;
+- how to lower stress and meet a pet's needs.
+
+After the talk you can bring up your own situations and ask questions.
+
+The host is **Tatiana Vereshchagina**, a dog trainer and canine behaviour specialist. She studied animal psychology at the School of Applied Ethology and trained at the University of Modern Cynology, and works with puppies and adult dogs of any breed using humane methods.
+
+Time: Thursday 22 October, 19:00.
+
+Price: 1,000 dinars with registration via the link, cash at the door.
+
+Language: Russian.","Beograd je veoma naklonjen psima: srećete ih ne samo u parku već i u kafićima, prodavnicama i salonima lepote. Ali koliko je psu zaista udobno u velikom gradu?
+
+Auditorija pokreće seriju susreta o psima, njihovom ponašanju i životu sa ljudima. Na svake dve nedelje: čaj, kratko predavanje kinologa i razgovor.
+
+Tema prvog susreta je **„Život psa u gradu“**:
+
+- po čemu se gradski život psa razlikuje od seoskog;
+- kada prirodno ponašanje psa postaje problem u gradu;
+- kako zamišljamo idealnog gradskog psa i šta mu je zaista potrebno;
+- da li grad odgovara svakom psu;
+- kako smanjiti stres i ispuniti potrebe ljubimca.
+
+Posle predavanja možete izneti svoje situacije i postaviti pitanja.
+
+Susret vodi **Tatjana Vereščagina**, kinološkinja i stručnjakinja za ponašanje pasa. Završila je kurs zoopsihologije u Školi primenjene etologije i Univerzitet savremene kinologije, radi humanim metodama sa štencima i odraslim psima svih rasa.
+
+Vreme: četvrtak, 22. oktobar, 19.00.
+
+Cena: 1.000 dinara uz prijavu preko linka, gotovinom na ulazu.
+
+Jezik: ruski.",19:00,1000,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://t.me/auditoria_belgrade/1784,@auditoria_belgrade,https://luma.com/ha9or1e8,Auditoria Belgrade,https://t.me/auditoria_belgrade,,,,,,"собаки, кинолог, поведение собак, домашние животные, лекция, Аудитория","dogs, dog trainer, dog behaviour, pets, talk, Auditoria","psi, kinolog, ponašanje pasa, kućni ljubimci, predavanje, Auditorija"
+10/22/2026,10/22/2026,10/14/2026,2361,Organization,Lego Battle Club,https://t.me/auditoria_belgrade,ru,SocialEvent,Lego Battle в «Аудитории»: командные битвы роботов из Lego для взрослых,Lego Battle at Auditoria: team robot challenges for grown-ups,Lego Battle u Auditoriji: timske bitke robota od lego kocki za odrasle,https://raw.githubusercontent.com/newsgl/arsposters/main/2361-LegoBattleAuditoria.webp,,Games,"Три раунда, три задания: команды собирают Lego-роботов и соревнуются, подготовка не нужна. Четверг 22 октября, 19:00, 2000 динаров, с пивом 2500, команда 8000.","Three rounds, three tasks: teams build Lego robots and compete, no preparation needed. Thursday 22 October, 19:00, 2,000 dinars, 2,500 with beer, 8,000 per team.","Tri runde, tri zadatka: timovi sklapaju lego robote i takmiče se, priprema nije potrebna. Četvrtak 22. oktobar, 19.00, 2.000 dinara, sa pivom 2.500, tim 8.000.","«Аудитория» вместе с **Lego Battle Club** запускает клуб Лего-битв: взрослые собирают роботов, решают инженерные задачи, соревнуются и проверяют безумные идеи.
+
+В игре **три раунда** и в каждом новое задание: команда получает задачу, собирает Lego-робота и пытается справиться с испытанием лучше соперников. Готовиться не нужно: Lego детское, программирование понятное, всё покажут и объяснят.
+
+Команды от 2 до 4 человек. Можно прийти своей командой или одному, компанию помогут найти. Пиво по желанию.
+
+Время: четверг, 22 октября, 19:00.
+
+Цена: 2000 динаров, с пивом 2500, команда 8000 при регистрации. Ссылка на регистрацию в анонсе «Аудитории» ведёт на другое событие, уточняйте в канале площадки.","Auditoria and **Lego Battle Club** are launching a Lego battle club: grown-ups build robots, solve engineering problems, compete and test wild ideas.
+
+There are **three rounds**, each with a new task: the team gets a challenge, builds a Lego robot and tries to beat the others. No preparation is needed: the Lego is the children's kind, the programming is simple, and everything is explained on the spot.
+
+Teams of 2 to 4. Come with your own team or alone and they will help you find one. Beer is optional.
+
+Time: Thursday 22 October, 19:00.
+
+Price: 2,000 dinars, 2,500 with beer, 8,000 per team with registration. The registration link in Auditoria's announcement leads to a different event, so check the venue's channel.","Auditorija zajedno sa **Lego Battle Club** pokreće klub lego bitaka: odrasli sklapaju robote, rešavaju inženjerske zadatke, takmiče se i isprobavaju lude ideje.
+
+Igra ima **tri runde** i u svakoj novi zadatak: tim dobija izazov, sklapa lego robota i pokušava da ga reši bolje od protivnika. Priprema nije potrebna: lego je dečji, programiranje jednostavno, sve će vam pokazati i objasniti.
+
+Timovi od 2 do 4 osobe. Možete doći sa svojim timom ili sami, pomoći će vam da nađete društvo. Pivo po želji.
+
+Vreme: četvrtak, 22. oktobar, 19.00.
+
+Cena: 2.000 dinara, sa pivom 2.500, tim 8.000 uz prijavu. Link za prijavu u najavi Auditorije vodi na drugi događaj, proverite na kanalu prostora.",19:00,2000,Auditoria,"Vojvode Dobrnjca 48, Beograd","44.818886,20.474869",https://t.me/auditoria_belgrade/1787,@auditoria_belgrade,,"Auditoria Belgrade, Lego Battle Club",https://t.me/auditoria_belgrade,,,,,,"Lego, роботы, командная игра, инженерия, соревнование, Аудитория","Lego, robots, team game, engineering, competition, Auditoria","lego, roboti, timska igra, inženjerstvo, takmičenje, Auditorija"
+11/11/2026,11/13/2026,10/14/2026,2362,Organization,Наше Место,https://t.me/nashemesto_vrachar,ru,ChildrensEvent,Городской лагерь «Эпичный трейлер» в «Нашем Месте» на Врачаре для детей 8-13 лет,Epic Trailer city camp at Nashe Mesto Vračar for kids aged 8-13,Gradski kamp „Epski trejler“ u Našem mestu na Vračaru za decu od 8 do 13,https://raw.githubusercontent.com/newsgl/arsposters/main/2362-EpicTrailerCampNasheMesto.webp,,Kids,"Трёхдневная кино-смена: дети придумывают сюжет, готовят реквизит и спецэффекты и снимают трейлер к своему фильму. 11-13 ноября, 8-13 лет, от 6000 динаров за день.","A three-day film camp: kids come up with a plot, make props and effects and shoot a trailer for their own movie. 11-13 November, ages 8-13, from 6,000 dinars a day.","Trodnevna filmska smena: deca smišljaju priču, prave rekvizite i specijalne efekte i snimaju trejler za svoj film. 11-13. novembar, uzrast 8-13, od 6.000 dinara po danu.","Городской лагерь **«Эпичный трейлер»** в семейном клубе «Наше Место» на Врачаре: кино-смена, на которой дети снимают трейлер к собственному фильму.
+
+Участники придумают сюжет и распределят роли, подготовят реквизит и спецэффекты, напишут титры и подберут музыку, а потом выберут лучшие дубли. Продюсер смены Александр, художник по костюмам Анастасия.
+
+В программе три дня съёмок и творчества, завтраки, обеды и перекусы, маленькие группы.
+
+Время: 11-13 ноября, полный день 8:30-17:00.
+
+Цена за три дня: 16 000 динаров полный день, 14 000 динаров с 8:30 до 14:00; один полный день 6000 динаров.
+
+Возраст: 8-13 лет.
+
+Запись: в телеграме @NMesto_Vrachar.","The **Epic Trailer** city camp at the Nashe Mesto family club in Vračar is a film session where children shoot a trailer for their own movie.
+
+They will come up with a plot and cast the roles, make props and special effects, write the credits and pick the music, then choose the best takes. The camp producer is Alexander and the costume designer is Anastasia.
+
+The programme covers three days of filming and creative work, breakfasts, lunches and snacks, in small groups.
+
+Time: 11-13 November, full day 8:30-17:00.
+
+Price for three days: 16,000 dinars full day, 14,000 dinars from 8:30 to 14:00; a single full day is 6,000 dinars.
+
+Age: 8-13.
+
+Sign-up: @NMesto_Vrachar on Telegram.
+
+Language: Russian.","Gradski kamp **„Epski trejler“** u porodičnom klubu Naše mesto na Vračaru je filmska smena na kojoj deca snimaju trejler za sopstveni film.
+
+Učesnici će smisliti priču i podeliti uloge, napraviti rekvizite i specijalne efekte, napisati špice i izabrati muziku, a zatim odabrati najbolje kadrove. Producent smene je Aleksandar, kostimografkinja Anastasija.
+
+U programu su tri dana snimanja i kreativnog rada, doručak, ručak i užine, male grupe.
+
+Vreme: 11-13. novembar, ceo dan 8.30-17.00.
+
+Cena za tri dana: 16.000 dinara ceo dan, 14.000 dinara od 8.30 do 14.00; jedan ceo dan 6.000 dinara.
+
+Uzrast: 8-13 godina.
+
+Prijava: @NMesto_Vrachar na Telegramu.
+
+Jezik: ruski.",08:30,6000,Наше Место. Врачар,"Sazonova 88, 11000 Beograd","44.794292,20.486934",https://t.me/nashemesto_vrachar/1547,@nashemesto_vrachar,https://t.me/NMesto_Vrachar,Наше Место. Врачар,https://t.me/nashemesto_vrachar,,,8-13,,,"детский лагерь, городской лагерь, кино, каникулы, дети 8-13, Врачар","kids camp, day camp, film, school holidays, kids 8-13, Vračar","dečji kamp, gradski kamp, film, raspust, deca 8-13, Vračar"
+11/12/2026,11/15/2026,10/14/2026,2363,Organization,Beogradski sajam,https://etnohip.rs/,,Festival,20-я ярмарка «Етно храна и пиће»: традиционная еда и напитки на Белградском сайме,20th Ethno Food and Drink Fair: traditional produce at the Belgrade Fair,20. Sajam etno hrane i pića: tradicionalni proizvodi na Beogradskom sajmu,https://raw.githubusercontent.com/newsgl/arsposters/main/2363-EtnoHranaSajam.webp,,Festivals,"Крупнейшая в регионе ярмарка традиционных продуктов: деликатесы малых производителей из Сербии и соседних стран. 12-15 ноября, Белградский сайм, 10:00-19:00, вход 600 динаров.","The region's largest fair of traditional produce, with specialities from small producers in Serbia and neighbouring countries. 12-15 November, Belgrade Fair, 10:00-19:00, entry 600 dinars.","Najveća smotra tradicionalnih proizvoda u regionu: specijaliteti malih proizvođača iz Srbije i susednih zemalja. 12-15. novembar, Beogradski sajam, 10-19 časova, ulaz 600 dinara.","Белградский сайм в двадцатый раз проводит ярмарку национальной кухни **«Етно храна и пиће»**. Организаторы называют её крупнейшим смотром производителей традиционных продуктов в Сербии и Юго-Восточной Европе.
+
+На ярмарке представлены национальные деликатесы и продукты малых производителей, многие из органического сырья. Цель ярмарки: продвигать традиционные продукты на местном и экспортном рынке и как часть туристического предложения. По итогам вручается награда «Етно храна и пиће: торговая марка из Сербии».
+
+Место: Белградский сайм, по анонсу зал 2.
+
+Время: 12-15 ноября, 10:00-19:00.
+
+Цена: вход 600 динаров (по анонсу).
+
+В тексте анонса даты указаны как 12-17 ноября, в его же карточке 12-15 ноября; сайт сайма и ярмарки подтверждает 12-15 ноября.","The Belgrade Fair is holding the **Ethno Food and Drink Fair** for the twentieth time. The organisers call it the largest showcase of traditional food producers in Serbia and South-East Europe.
+
+The fair presents national specialities and goods from small producers, many made from organic ingredients. Its aim is to promote traditional products on the home and export markets and as part of what Serbia offers visitors. The ""Ethno Food and Drink: Brand from Serbia"" award is presented at the end.
+
+Venue: Belgrade Fair, Hall 2 according to the announcement.
+
+Time: 12-15 November, 10:00-19:00.
+
+Price: entry 600 dinars (per the announcement).
+
+The announcement text gives the dates as 12-17 November and its own summary as 12-15 November; the fair's website confirms 12-15 November.","Beogradski sajam po dvadeseti put organizuje **Sajam etno hrane i pića**. Organizatori ga nazivaju najvećom smotrom proizvođača tradicionalnih proizvoda u Srbiji i regionu Jugoistočne Evrope.
+
+Na sajmu su nacionalni specijaliteti i proizvodi malih proizvođača, mnogi od organskih sirovina. Cilj je promocija tradicionalnih proizvoda na domaćem i izvoznom tržištu i kao dela turističke ponude. Na kraju se dodeljuje nagrada „Etno hrana i piće: robna marka iz Srbije“.
+
+Mesto: Beogradski sajam, prema najavi hala 2.
+
+Vreme: 12-15. novembar, 10-19 časova.
+
+Cena: ulaz 600 dinara (prema najavi).
+
+U tekstu najave datumi su 12-17. novembar, a u njenom rezimeu 12-15. novembar; sajt sajma potvrđuje 12-15. novembar.",10:00,600,Beogradski sajam,"Bulevar vojvode Mišića 14, Beograd","44.795697,20.431571",https://etnohip.rs/,etnohip.rs,,Beogradski sajam,https://sajam.rs/,,,,,,"ярмарка, сербская кухня, фермерские продукты, деликатесы, Белградский сайм","fair, Serbian cuisine, farm produce, delicacies, Belgrade Fair","sajam, srpska kuhinja, domaći proizvodi, delikatesi, Beogradski sajam"
