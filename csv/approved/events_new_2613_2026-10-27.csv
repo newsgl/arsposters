@@ -1,0 +1,465 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb,PriceEUR,SeatsStatus,OfferIncludesRus,OfferIncludesSrb,OfferIncludesEng,OfferMusicRus,OfferMusicSrb,OfferMusicEng,OfferDressCodeRus,OfferDressCodeSrb,OfferDressCodeEng
+12/31/2026,12/31/2026,10/27/2026,2613,MusicGroup,"Nemanja Šolak, Biljana Grujić",,,MusicEvent,Новый год 2027 в отеле Hilton: ужин и живой концерт в зале Car Dušan,New Year 2027 at the Hilton: dinner and live show in the Car Dušan hall,Nova godina 2027 u hotelu Hilton: večera i živa svirka u sali Car Dušan,https://raw.githubusercontent.com/newsgl/arsposters/main/2613-NovaGodinaHilton.webp,,Concerts,"Новогодняя ночь в отеле Hilton на Кралья Милана: праздничный шведский стол, отечественные напитки без ограничений и живой вокал Неманьи Шолака и Биляны Груич до утра. Цена от 100 до 200 евро за человека по зонам зала (от 11 700 динаров).","New Year's Eve at the Hilton on Kralja Milana: festive buffet dinner, unlimited domestic drinks and live vocals by Nemanja Šolak and Biljana Grujić until morning. From 100 to 200 euros per person depending on the zone (from 11,700 dinars).","Doček Nove godine u hotelu Hilton u Kralja Milana: svečani švedski sto, neograničeno domaće piće i živi vokali Nemanje Šolaka i Biljane Grujić do jutra. Cena od 100 do 200 evra po osobi u zavisnosti od zone (od 11.700 dinara).","Отель **Hilton Belgrade** на улице Кралья Милана встречает 2027 год в зале Car Dušan. Формат классический для белградских отелей: место за столом, праздничный ужин и живая музыка до утра.
+
+На сцене вокальный дуэт **Неманья Шолак и Биляна Груич**: поп и народная музыка, живой вокал всю ночь.
+
+В цену входят праздничный ужин в формате шведского стола и отечественные напитки без ограничений весь вечер: приветственный просекко, ракии, виньяк, вода и соки. Импортные напитки оплачиваются отдельно по акционным ценам. Гардероб 500 динаров.
+
+Цена зависит от зоны зала: Vitez 100 евро, Vojvoda 125, Župan 150, Knez 175, Car 200 евро за человека, в динарах от 11 700. Бронирование по телефону или на странице кассы-партнёра. Время начала уточняйте при бронировании.
+
+Место: Hilton Belgrade, Kralja Milana 35.
+
+Время: 31 декабря, вечер и ночь до утра.
+
+Цена: от 100 до 200 евро за человека (от 11 700 динаров), ужин и отечественные напитки включены.","The **Hilton Belgrade** on Kralja Milana street welcomes 2027 in its Car Dušan hall. The format is the classic one for Belgrade hotels: a seat at the table, a festive dinner and live music until morning.
+
+On stage is the vocal duo **Nemanja Šolak and Biljana Grujić**: pop and folk songs with live vocals all night.
+
+The price includes a festive buffet dinner and unlimited domestic drinks for the whole evening: a welcome prosecco, rakija, vinjak, water and juices. Imported drinks are charged separately at promotional prices. Cloakroom 500 dinars.
+
+The price depends on the zone: Vitez 100 euros, Vojvoda 125, Župan 150, Knez 175, Car 200 euros per person, from 11,700 dinars. Book by phone or on the partner ticket page. Ask about the start time when booking.
+
+Venue: Hilton Belgrade, Kralja Milana 35.
+
+Time: 31 December, evening and night until morning.
+
+Price: 100 to 200 euros per person (from 11,700 dinars), dinner and domestic drinks included.","Hotel **Hilton Belgrade** u Kralja Milana dočekuje 2027. u sali Car Dušan. Format je klasičan za beogradske hotele: mesto za stolom, svečana večera i živa muzika do jutra.
+
+Na bini je vokalni duo **Nemanja Šolak i Biljana Grujić**: pop i narodna muzika, živi vokali cele noći.
+
+U cenu ulaze svečana večera na bazi švedskog stola i neograničeno domaće piće tokom cele večeri: prosecco dobrodošlice, rakije, vinjak, voda i sokovi. Uvozna pića se naplaćuju posebno po akcijskim cenama. Garderoba 500 dinara.
+
+Cena zavisi od zone u sali: Vitez 100 evra, Vojvoda 125, Župan 150, Knez 175, Car 200 evra po osobi, u dinarima od 11.700. Rezervacija telefonom ili na strani partnerske prodaje. Vreme početka proverite pri rezervaciji.
+
+Mesto: Hilton Belgrade, Kralja Milana 35.
+
+Vreme: 31. decembar, veče i noć do jutra.
+
+Cena: od 100 do 200 evra po osobi (od 11.700 dinara), večera i domaće piće uključeni.",,11700,Hilton Belgrade,"Kralja Milana 35, 11000 Beograd","44.804428,20.466461",https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/hilton,novagodina.rs,https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/hilton,Hilton Belgrade,https://www.hilton.com/en/hotels/beghihi-hilton-belgrade/,,+381 62 111 22 33,,,,"Отели, Новый год, Hilton, банкет, новогодняя ночь, поп, народная музыка, Врачар","Hotels, New Year, Hilton, banquet, New Year's Eve, pop, folk music, Vračar","Hoteli, Nova godina, Hilton, banket, novogodišnja noć, pop, narodna muzika, Vračar",100,available,"Место за столом, праздничный ужин (шведский стол), отечественные напитки без ограничений: просекко, ракии, виньяк, вода, соки; импортные напитки отдельно; гардероб 500 динаров","Mesto za stolom, svečana večera (švedski sto), neograničeno domaće piće: prosecco, rakije, vinjak, voda, sokovi; uvozna pića posebno; garderoba 500 dinara","Seat at the table, festive buffet dinner, unlimited domestic drinks: prosecco, rakija, vinjak, water, juices; imported drinks extra; cloakroom 500 dinars","поп и народная музыка, живой вокал: Неманья Шолак и Биляна Груич","pop i narodna muzika, živi vokali: Nemanja Šolak i Biljana Grujić","pop and folk, live vocals: Nemanja Šolak and Biljana Grujić",вечерний,svečano,evening dress
+12/31/2026,12/31/2026,10/27/2026,2614,MusicGroup,Prestige bend,,,MusicEvent,Новый год 2027 в Radisson Collection Old Mill: Prestige bend в банкетном зале,New Year 2027 at Radisson Collection Old Mill: Prestige band in the Banquet Hall,Nova godina 2027 u Radisson Collection Old Mill: Prestige bend u banket sali,https://raw.githubusercontent.com/newsgl/arsposters/main/2614-NovaGodinaRadissonBanket.webp,,Concerts,"Новогодняя ночь в банкетном зале отеля Radisson Collection Old Mill: всё включено, шведский стол, напитки из программы без ограничений и кавер-группа Prestige bend с поп-хитами. От 70 до 120 евро за человека по зонам (от 8 200 динаров), дресс-код Elegance.","New Year's Eve in the Banquet Hall of the Radisson Collection Old Mill: all inclusive, buffet dinner, unlimited drinks from the programme and the Prestige cover band with pop hits. From 70 to 120 euros per person by zone (from 8,200 dinars), dress code Elegance.","Doček Nove godine u banket sali hotela Radisson Collection Old Mill: all inclusive, švedski sto, neograničeno piće iz programa i kaver bend Prestige sa pop hitovima. Od 70 do 120 evra po osobi po zonama (od 8.200 dinara), dres kod Elegance.","Отель **Radisson Collection Old Mill** на бульваре Воеводы Мишича в новогоднюю ночь открывает два зала с разными программами. Эта карточка про банкетный зал, где играет кавер-группа **Prestige bend**: поп-хиты, живой звук, танцы до утра.
+
+Формат «всё включено»: ужин в виде шведского стола с холодными и горячими закусками, мясом, рыбой и десертами, напитки из программы без ограничений (пиво, водка, ракия, вино, биттеры, безалкогольные, кофе), фотозона и праздничный декор. Напитки вне программы по акционным ценам.
+
+Цена зависит от зоны: Silver 70 евро (коктейльный стол), Gold 80, Diamond 90, Platinum 100, первый ряд у сцены 120 евро за человека, в динарах от 8 200. Дресс-код Elegance. Бронирование по телефону или на странице кассы-партнёра, время начала уточняйте при бронировании.
+
+Вторая программа отеля в ресторане Senjak описана отдельной карточкой.
+
+Место: Radisson Collection Hotel, Old Mill Belgrade, Bulevar vojvode Mišića 15.
+
+Время: 31 декабря, вечер и ночь до утра.
+
+Цена: от 70 до 120 евро за человека (от 8 200 динаров), всё включено.","The **Radisson Collection Old Mill** on Bulevar vojvode Mišića opens two halls with different programmes on New Year's Eve. This listing is for the Banquet Hall, where the **Prestige** cover band plays pop hits with live sound and dancing until morning.
+
+All inclusive: a buffet dinner with cold and hot starters, meat, fish and desserts, unlimited drinks from the programme (beer, vodka, rakija, wine, bitters, soft drinks, coffee), a photo corner and festive decor. Drinks outside the programme at promotional prices.
+
+The price depends on the zone: Silver 70 euros (cocktail table), Gold 80, Diamond 90, Platinum 100, front row by the stage 120 euros per person, from 8,200 dinars. Dress code Elegance. Book by phone or on the partner ticket page, ask about the start time when booking.
+
+The hotel's second programme, in the Senjak restaurant, has its own listing.
+
+Venue: Radisson Collection Hotel, Old Mill Belgrade, Bulevar vojvode Mišića 15.
+
+Time: 31 December, evening and night until morning.
+
+Price: 70 to 120 euros per person (from 8,200 dinars), all inclusive.","Hotel **Radisson Collection Old Mill** na Bulevaru vojvode Mišića za doček otvara dve sale sa različitim programima. Ova kartica je za banket salu, gde svira kaver bend **Prestige**: pop hitovi, živ zvuk, igranka do jutra.
+
+Format all inclusive: večera na bazi švedskog stola sa hladnim i toplim predjelima, mesom, ribom i desertima, neograničeno piće iz programa (pivo, vodka, rakija, vino, biteri, bezalkoholna pića, kafa), foto kutak i praznična dekoracija. Pića van programa po akcijskim cenama.
+
+Cena zavisi od zone: Silver 70 evra (koktel sto), Gold 80, Diamond 90, Platinum 100, prvi red uz binu 120 evra po osobi, u dinarima od 8.200. Dres kod Elegance. Rezervacija telefonom ili na strani partnerske prodaje, vreme početka proverite pri rezervaciji.
+
+Drugi program hotela, u restoranu Senjak, ima posebnu karticu.
+
+Mesto: Radisson Collection Hotel, Old Mill Belgrade, Bulevar vojvode Mišića 15.
+
+Vreme: 31. decembar, veče i noć do jutra.
+
+Cena: od 70 do 120 evra po osobi (od 8.200 dinara), all inclusive.",,8200,"Radisson Collection Hotel, Old Mill Belgrade","Bulevar vojvode Mišića 15, Beograd","44.797257,20.447425",https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/hotel-radisson,novagodina.rs,https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/hotel-radisson,"Radisson Collection Hotel, Old Mill Belgrade",https://www.radissonhotels.com/en-us/hotels/radisson-collection-belgrade-old-mill,,+381 60 434 66 22,,,,"Отели, Новый год, Radisson Collection, банкет, новогодняя ночь, кавер-группа, всё включено, Сеньяк","Hotels, New Year, Radisson Collection, banquet, New Year's Eve, cover band, all inclusive, Senjak","Hoteli, Nova godina, Radisson Collection, banket, novogodišnja noć, kaver bend, all inclusive, Senjak",70,available,"Всё включено: шведский стол (закуски, мясо, рыба, десерты), напитки из программы без ограничений (пиво, водка, ракия, вино, биттеры, безалкогольные, кофе), фотозона, декор; напитки вне программы по акционным ценам","All inclusive: švedski sto (predjela, meso, riba, deserti), neograničeno piće iz programa (pivo, vodka, rakija, vino, biteri, bezalkoholna, kafa), foto kutak, dekoracija; pića van programa po akcijskim cenama","All inclusive: buffet dinner (starters, meat, fish, desserts), unlimited drinks from the programme (beer, vodka, rakija, wine, bitters, soft drinks, coffee), photo corner, decor; drinks outside the programme at promotional prices","кавер-группа Prestige bend, поп-хиты","kaver bend Prestige, pop hitovi","Prestige cover band, pop hits",Elegance,Elegance,Elegance
+12/31/2026,12/31/2026,10/27/2026,2615,MusicGroup,"Katarina Bojović, Stefan Ušljebrka",,,MusicEvent,Новый год 2027 в Radisson Collection Old Mill: Катарина Бойович в ресторане Senjak,New Year 2027 at Radisson Old Mill: Katarina Bojović at the Senjak restaurant,Nova godina 2027 u Radisson Collection Old Mill: Katarina Bojović u restoranu Senjak,https://raw.githubusercontent.com/newsgl/arsposters/main/2615-NovaGodinaRadissonSenjak.webp,,Concerts,"Вторая новогодняя программа отеля Radisson Collection Old Mill: премиум-ресторан Senjak, живой вокал Катарины Бойович и Стефана Ушлебрки, всё включено. От 80 до 120 евро за человека по зонам (от 9 400 динаров), дресс-код Elegance.","The second New Year's Eve programme of the Radisson Collection Old Mill: the premium Senjak restaurant, live vocals by Katarina Bojović and Stefan Ušljebrka, all inclusive. From 80 to 120 euros per person by zone (from 9,400 dinars), dress code Elegance.","Drugi novogodišnji program hotela Radisson Collection Old Mill: premium restoran Senjak, živi vokali Katarine Bojović i Stefana Ušljebrke, all inclusive. Od 80 do 120 evra po osobi po zonama (od 9.400 dinara), dres kod Elegance.","В новогоднюю ночь отель **Radisson Collection Old Mill** открывает вторую площадку: премиум-ресторан **Senjak**. Здесь поют **Катарина Бойович и Стефан Ушлебрка**: поп и народная музыка, живой вокал до утра, камернее, чем в банкетном зале.
+
+Формат «всё включено»: ужин в виде шведского стола, напитки из программы без ограничений, отдельный VIP-вход и фотозона. Напитки вне программы по акционным ценам.
+
+Цена зависит от зоны: Pink 80 евро, Black 90, Premium 100 (с видом на сцену), VIP 120 евро за человека, в динарах от 9 400. Дресс-код Elegance. Бронирование по телефону или на странице кассы-партнёра, время начала уточняйте при бронировании.
+
+Программа банкетного зала с группой Prestige bend описана отдельной карточкой.
+
+Место: Radisson Collection Hotel, Old Mill Belgrade, Bulevar vojvode Mišića 15.
+
+Время: 31 декабря, вечер и ночь до утра.
+
+Цена: от 80 до 120 евро за человека (от 9 400 динаров), всё включено.","On New Year's Eve the **Radisson Collection Old Mill** opens a second venue: the premium **Senjak** restaurant. Singing here are **Katarina Bojović and Stefan Ušljebrka**: pop and folk songs with live vocals until morning, in a more intimate setting than the Banquet Hall.
+
+All inclusive: a buffet dinner, unlimited drinks from the programme, a separate VIP entrance and a photo corner. Drinks outside the programme at promotional prices.
+
+The price depends on the zone: Pink 80 euros, Black 90, Premium 100 (stage view), VIP 120 euros per person, from 9,400 dinars. Dress code Elegance. Book by phone or on the partner ticket page, ask about the start time when booking.
+
+The Banquet Hall programme with the Prestige band has its own listing.
+
+Venue: Radisson Collection Hotel, Old Mill Belgrade, Bulevar vojvode Mišića 15.
+
+Time: 31 December, evening and night until morning.
+
+Price: 80 to 120 euros per person (from 9,400 dinars), all inclusive.","Za doček hotel **Radisson Collection Old Mill** otvara i drugi prostor: premium restoran **Senjak**. Ovde pevaju **Katarina Bojović i Stefan Ušljebrka**: pop i narodna muzika, živi vokali do jutra, intimnije nego u banket sali.
+
+Format all inclusive: večera na bazi švedskog stola, neograničeno piće iz programa, poseban VIP ulaz i foto kutak. Pića van programa po akcijskim cenama.
+
+Cena zavisi od zone: Pink 80 evra, Black 90, Premium 100 (pogled na binu), VIP 120 evra po osobi, u dinarima od 9.400. Dres kod Elegance. Rezervacija telefonom ili na strani partnerske prodaje, vreme početka proverite pri rezervaciji.
+
+Program banket sale sa bendom Prestige ima posebnu karticu.
+
+Mesto: Radisson Collection Hotel, Old Mill Belgrade, Bulevar vojvode Mišića 15.
+
+Vreme: 31. decembar, veče i noć do jutra.
+
+Cena: od 80 do 120 evra po osobi (od 9.400 dinara), all inclusive.",,9400,"Radisson Collection Hotel, Old Mill Belgrade","Bulevar vojvode Mišića 15, Beograd","44.797257,20.447425",https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/hotel-radisson,novagodina.rs,https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/hotel-radisson,"Radisson Collection Hotel, Old Mill Belgrade",https://www.radissonhotels.com/en-us/hotels/radisson-collection-belgrade-old-mill,,+381 60 434 66 22,,,,"Отели, Новый год, Radisson Collection, ресторан Senjak, новогодняя ночь, Катарина Бойович, всё включено, Сеньяк","Hotels, New Year, Radisson Collection, Senjak restaurant, New Year's Eve, Katarina Bojović, all inclusive, Senjak","Hoteli, Nova godina, Radisson Collection, restoran Senjak, novogodišnja noć, Katarina Bojović, all inclusive, Senjak",80,available,"Всё включено: шведский стол, напитки из программы без ограничений, VIP-вход, фотозона; напитки вне программы по акционным ценам","All inclusive: švedski sto, neograničeno piće iz programa, VIP ulaz, foto kutak; pića van programa po akcijskim cenama","All inclusive: buffet dinner, unlimited drinks from the programme, VIP entrance, photo corner; drinks outside the programme at promotional prices","поп и народная музыка, живой вокал: Катарина Бойович и Стефан Ушлебрка","pop i narodna muzika, živi vokali: Katarina Bojović i Stefan Ušljebrka","pop and folk, live vocals: Katarina Bojović and Stefan Ušljebrka",Elegance,Elegance,Elegance
+12/31/2026,12/31/2026,10/27/2026,2616,MusicGroup,Megamix bend,,,MusicEvent,Новый год 2027 в Courtyard by Marriott: ужин с видом на Площадь Республики,New Year 2027 at the Courtyard by Marriott: dinner overlooking Republic Square,Nova godina 2027 u Courtyard by Marriott: večera sa pogledom na Trg republike,https://raw.githubusercontent.com/newsgl/arsposters/main/2616-NovaGodinaCourtyard.webp,,Concerts,"Новогодняя ночь в ресторане Credo отеля Courtyard by Marriott на Площади Республики: всё включено, шведский стол, напитки и кавер-группа Megamix bend. От 70 до 140 евро за человека по зонам, самые дорогие столы у стеклянного портала с видом на площадь (от 8 200 динаров).","New Year's Eve at the Credo restaurant of the Courtyard by Marriott on Republic Square: all inclusive, buffet dinner, drinks and the Megamix cover band. From 70 to 140 euros per person by zone, the top tables by the glass wall overlooking the square (from 8,200 dinars).","Doček Nove godine u restoranu Credo hotela Courtyard by Marriott na Trgu republike: all inclusive, švedski sto, piće i kaver bend Megamix. Od 70 do 140 evra po osobi po zonama, najskuplji stolovi uz stakleni portal sa pogledom na trg (od 8.200 dinara).","Отель **Courtyard by Marriott Belgrade City Center** стоит прямо на Площади Республики, и его ресторан Credo в новогоднюю ночь продаёт столы с видом на главную площадь города. Играет кавер-группа **Megamix bend**: местные и зарубежные хиты, живой звук до утра.
+
+Формат «всё включено»: ужин в виде шведского стола с закусками, салат-баром, горячим (курица, стейк, лосось) и десертами; напитки: пиво Heineken, водка Absolut, ракии, вина Aleksić и Kovačević, безалкогольные напитки и кофе. Остальные напитки за доплату.
+
+Цена зависит от зоны: Vibrant 70 евро (коктейльный стол), Festive 80, Midnight 90, Crystal 120 (с видом на город), Skyline 140 евро у стеклянного портала с видом на площадь, в динарах от 8 200. Дресс-код Elegance. Бронирование по телефону или на странице кассы-партнёра, время начала уточняйте при бронировании.
+
+Место: Courtyard by Marriott Belgrade City Center, Vase Čarapića 2-4.
+
+Время: 31 декабря, вечер и ночь до утра.
+
+Цена: от 70 до 140 евро за человека (от 8 200 динаров), всё включено.","The **Courtyard by Marriott Belgrade City Center** stands right on Republic Square, and on New Year's Eve its Credo restaurant sells tables overlooking the city's main square. The **Megamix** cover band plays local and international hits with live sound until morning.
+
+All inclusive: a buffet dinner with starters, a salad bar, mains (chicken, steak, salmon) and desserts; drinks: Heineken beer, Absolut vodka, rakija, Aleksić and Kovačević wines, soft drinks and coffee. Other drinks are charged extra.
+
+The price depends on the zone: Vibrant 70 euros (cocktail table), Festive 80, Midnight 90, Crystal 120 (city view), Skyline 140 euros by the glass wall overlooking the square, from 8,200 dinars. Dress code Elegance. Book by phone or on the partner ticket page, ask about the start time when booking.
+
+Venue: Courtyard by Marriott Belgrade City Center, Vase Čarapića 2-4.
+
+Time: 31 December, evening and night until morning.
+
+Price: 70 to 140 euros per person (from 8,200 dinars), all inclusive.","Hotel **Courtyard by Marriott Belgrade City Center** stoji na samom Trgu republike, a njegov restoran Credo za doček prodaje stolove sa pogledom na glavni gradski trg. Svira kaver bend **Megamix**: domaći i strani hitovi, živ zvuk do jutra.
+
+Format all inclusive: večera na bazi švedskog stola sa predjelima, salat barom, glavnim jelima (piletina, stek, losos) i desertima; piće: pivo Heineken, vodka Absolut, rakije, vina Aleksić i Kovačević, bezalkoholna pića i kafa. Ostala pića se doplaćuju.
+
+Cena zavisi od zone: Vibrant 70 evra (koktel sto), Festive 80, Midnight 90, Crystal 120 (pogled na grad), Skyline 140 evra uz stakleni portal sa pogledom na trg, u dinarima od 8.200. Dres kod Elegance. Rezervacija telefonom ili na strani partnerske prodaje, vreme početka proverite pri rezervaciji.
+
+Mesto: Courtyard by Marriott Belgrade City Center, Vase Čarapića 2-4.
+
+Vreme: 31. decembar, veče i noć do jutra.
+
+Cena: od 70 do 140 evra po osobi (od 8.200 dinara), all inclusive.",,8200,Courtyard by Marriott Belgrade City Center,"Vase Čarapića 2-4, 11000 Beograd","44.817120,20.460184",https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/courtyard-marriott,novagodina.rs,https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/courtyard-marriott,Courtyard by Marriott Belgrade City Center,https://www.marriott.com/en-us/hotels/begcy-courtyard-belgrade-city-center/overview/,,+381 60 434 66 22,,,,"Отели, Новый год, Courtyard by Marriott, Площадь Республики, новогодняя ночь, кавер-группа, всё включено, Стари-Град","Hotels, New Year, Courtyard by Marriott, Republic Square, New Year's Eve, cover band, all inclusive, Stari Grad","Hoteli, Nova godina, Courtyard by Marriott, Trg republike, novogodišnja noć, kaver bend, all inclusive, Stari grad",70,available,"Всё включено: шведский стол (закуски, салат-бар, курица, стейк, лосось, десерты), напитки Heineken, Absolut, ракии, вина Aleksić и Kovačević, безалкогольные, кофе; остальные напитки за доплату","All inclusive: švedski sto (predjela, salat bar, piletina, stek, losos, deserti), piće Heineken, Absolut, rakije, vina Aleksić i Kovačević, bezalkoholna, kafa; ostala pića se doplaćuju","All inclusive: buffet dinner (starters, salad bar, chicken, steak, salmon, desserts), drinks Heineken, Absolut, rakija, Aleksić and Kovačević wines, soft drinks, coffee; other drinks extra","кавер-группа Megamix bend, местные и зарубежные хиты","kaver bend Megamix, domaći i strani hitovi","Megamix cover band, local and international hits",Elegance,Elegance,Elegance
+12/31/2026,12/31/2026,10/27/2026,2617,MusicGroup,"Ruža Rupić, Nikola Mićović",,,MusicEvent,Новый год 2027 в Zijin Hotel Belgrade: ужин в зале White Pearl на Новом Белграде,"New Year 2027 at Zijin Hotel Belgrade: dinner in the White Pearl hall, New Belgrade",Nova godina 2027 u Zijin Hotel Belgrade: večera u sali White Pearl na Novom Beogradu,https://raw.githubusercontent.com/newsgl/arsposters/main/2617-NovaGodinaZijin.webp,,Concerts,"Новогодняя ночь в зале White Pearl отеля Zijin на Новом Белграде (бывший Falkensteiner): шведский стол от шефа Божидара Стефановича, напитки всё включено, игристое в полночь и живой вокал Ружи Рупич и Николы Мичовича. От 70 евро за место у барного стола до 180 за стол в зоне Diamond (от 8 200 динаров).","New Year's Eve in the White Pearl hall of the Zijin Hotel in New Belgrade (formerly Falkensteiner): buffet by chef Božidar Stefanović, all inclusive drinks, sparkling wine at midnight and live vocals by Ruža Rupić and Nikola Mićović. From 70 euros at a bar table to 180 in the Diamond zone (from 8,200 dinars).","Doček Nove godine u sali White Pearl hotela Zijin na Novom Beogradu (bivši Falkensteiner): švedski sto šefa Božidara Stefanovića, all inclusive piće, penušavo u ponoć i živi vokali Ruže Rupić i Nikole Mićovića. Od 70 evra za mesto uz barski sto do 180 za sto u zoni Diamond (od 8.200 dinara).","**Zijin Hotel Belgrade** на бульваре Михаила Пупина работал под именем Falkensteiner, и его зал White Pearl на двести гостей по-прежнему принимает новогодний вечер. Поют **Ружа Рупич и Никола Мичович**: поп и народная музыка, живой вокал до утра.
+
+В цену входят место, новогодний ужин в виде шведского стола от шефа Божидара Стефановича (международная кухня с сербскими акцентами) и напитки «всё включено»: виски Ballantine's, Johnnie Walker Red и Jameson, водка Smirnoff, джин Beefeater, Campari, Jägermeister, Baileys, ракии, вина Despotika, пиво и безалкогольные. В полночь бокал игристого. Гардероб 500 динаров.
+
+Цена зависит от места: 70 евро за высокое место у барного стола, столы в зонах Velvet 140, Gold 160 и Diamond 180 евро за человека, в динарах от 8 200. По условиям кассы-партнёра возврат билетов после 10 ноября невозможен. Бронирование по телефону или на странице кассы, время начала уточняйте при бронировании.
+
+Место: Zijin Hotel Belgrade, Bulevar Mihaila Pupina 10k, Novi Beograd.
+
+Время: 31 декабря, вечер и ночь до утра.
+
+Цена: от 70 до 180 евро за человека (от 8 200 динаров), ужин и напитки включены.","**Zijin Hotel Belgrade** on Bulevar Mihaila Pupina used to operate as the Falkensteiner, and its White Pearl hall for two hundred guests still hosts the New Year's Eve dinner. Singing are **Ruža Rupić and Nikola Mićović**: pop and folk songs, live vocals until morning.
+
+The price includes a seat, a New Year buffet dinner by chef Božidar Stefanović (international cuisine with Serbian touches) and all inclusive drinks: Ballantine's, Johnnie Walker Red and Jameson whisky, Smirnoff vodka, Beefeater gin, Campari, Jägermeister, Baileys, rakija, Despotika wines, beer and soft drinks. A glass of sparkling wine at midnight. Cloakroom 500 dinars.
+
+The price depends on the seat: 70 euros for a high seat at a bar table, tables in the Velvet zone 140, Gold 160 and Diamond 180 euros per person, from 8,200 dinars. Under the partner ticket agent's terms, no refunds after 10 November. Book by phone or on the ticket page, ask about the start time when booking.
+
+Venue: Zijin Hotel Belgrade, Bulevar Mihaila Pupina 10k, New Belgrade.
+
+Time: 31 December, evening and night until morning.
+
+Price: 70 to 180 euros per person (from 8,200 dinars), dinner and drinks included.","**Zijin Hotel Belgrade** na Bulevaru Mihaila Pupina radio je pod imenom Falkensteiner, a njegova sala White Pearl za dvesta gostiju i dalje prima novogodišnje veče. Pevaju **Ruža Rupić i Nikola Mićović**: pop i narodna muzika, živi vokali do jutra.
+
+U cenu ulaze mesto, novogodišnja večera na bazi švedskog stola šefa Božidara Stefanovića (internacionalna kuhinja sa srpskim akcentima) i all inclusive piće: viski Ballantine's, Johnnie Walker Red i Jameson, vodka Smirnoff, džin Beefeater, Campari, Jägermeister, Baileys, rakije, vina Despotika, pivo i bezalkoholna pića. U ponoć čaša penušavog. Garderoba 500 dinara.
+
+Cena zavisi od mesta: 70 evra za visoko mesto uz barski sto, stolovi u zonama Velvet 140, Gold 160 i Diamond 180 evra po osobi, u dinarima od 8.200. Po uslovima partnerske prodaje povraćaj karata posle 10. novembra nije moguć. Rezervacija telefonom ili na strani prodaje, vreme početka proverite pri rezervaciji.
+
+Mesto: Zijin Hotel Belgrade, Bulevar Mihaila Pupina 10k, Novi Beograd.
+
+Vreme: 31. decembar, veče i noć do jutra.
+
+Cena: od 70 do 180 evra po osobi (od 8.200 dinara), večera i piće uključeni.",,8200,Zijin Hotel Belgrade,"Bulevar Mihaila Pupina 10k, 11070 Novi Beograd","44.821500,20.419500",https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/zijin,novagodina.rs,https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/zijin,Zijin Hotel Belgrade,,,+381 62 111 22 33,,,,"Отели, Новый год, Zijin Hotel, Falkensteiner, новогодняя ночь, банкет, всё включено, Новый Белград","Hotels, New Year, Zijin Hotel, Falkensteiner, New Year's Eve, banquet, all inclusive, New Belgrade","Hoteli, Nova godina, Zijin Hotel, Falkensteiner, novogodišnja noć, banket, all inclusive, Novi Beograd",70,available,"Место, новогодний ужин (шведский стол от шефа Божидара Стефановича), напитки всё включено: виски, водка, джин, Campari, Jägermeister, Baileys, ракии, вина Despotika, пиво, безалкогольные; игристое в полночь; гардероб 500 динаров","Mesto, novogodišnja večera (švedski sto šefa Božidara Stefanovića), all inclusive piće: viski, vodka, džin, Campari, Jägermeister, Baileys, rakije, vina Despotika, pivo, bezalkoholna; penušavo u ponoć; garderoba 500 dinara","Seat, New Year buffet dinner by chef Božidar Stefanović, all inclusive drinks: whisky, vodka, gin, Campari, Jägermeister, Baileys, rakija, Despotika wines, beer, soft drinks; sparkling wine at midnight; cloakroom 500 dinars","поп и народная музыка, живой вокал: Ружа Рупич и Никола Мичович","pop i narodna muzika, živi vokali: Ruža Rupić i Nikola Mićović","pop and folk, live vocals: Ruža Rupić and Nikola Mićović",вечерний,svečano,evening dress
+12/31/2026,12/31/2026,10/27/2026,2618,Person,Uroš Živković,,,MusicEvent,Новый год 2027 в отеле Majdan на Воздоваце: гала-ужин и Урош Живкович,New Year 2027 at Hotel Majdan in Voždovac: gala dinner with Uroš Živković,Nova godina 2027 u hotelu Majdan na Voždovcu: gala večera i Uroš Živković,https://raw.githubusercontent.com/newsgl/arsposters/main/2618-NovaGodinaMajdan.webp,,Concerts,"Новогодняя ночь в отеле Majdan на Воздоваце: гала-ужин из нескольких блюд, напитки из списка без ограничений и живой вокал Уроша Живковича. От 100 до 150 евро за человека по зонам (от 11 700 динаров).","New Year's Eve at Hotel Majdan in Voždovac: a multi-course gala dinner, unlimited drinks from the list and live vocals by Uroš Živković. From 100 to 150 euros per person by zone (from 11,700 dinars).","Doček Nove godine u hotelu Majdan na Voždovcu: gala večera od više sledova, neograničeno piće sa liste i živi vokal Uroša Živkovića. Od 100 do 150 evra po osobi po zonama (od 11.700 dinara).","Отель **Majdan** на Воздоваце встречает 2027 год гала-ужином с живой музыкой: поёт **Урош Живкович**, народная и поп-музыка до утра.
+
+В цену входят место за столом и гала-ужин из закуски, основного блюда, салатов и десерта, а также напитки из списка без ограничений: ракии, вино Orfelin от винодельни Kovačević, пиво, соки, вода и кофе. Остальные крепкие напитки и энергетики оплачиваются отдельно.
+
+Цена зависит от зоны зала: Bronze 100 евро, Silver 130, Gold 150 евро за человека, в динарах от 11 700. Бронирование по телефону или на странице кассы-партнёра, время начала уточняйте при бронировании.
+
+Отель стоит вдали от центра, в районе Медакович, и рассчитан скорее на гостей с юга города и тех, кто остаётся ночевать: отель предлагает и номера, спрашивайте при бронировании.
+
+Место: Hotel Majdan, Mokroluška 174d, Voždovac.
+
+Время: 31 декабря, вечер и ночь до утра.
+
+Цена: от 100 до 150 евро за человека (от 11 700 динаров), ужин и напитки из списка включены.","**Hotel Majdan** in Voždovac welcomes 2027 with a gala dinner and live music: **Uroš Živković** sings folk and pop until morning.
+
+The price includes a seat at the table and a gala dinner of a starter, main course, salads and dessert, plus unlimited drinks from the list: rakija, Orfelin wine from the Kovačević winery, beer, juices, water and coffee. Other spirits and energy drinks are charged separately.
+
+The price depends on the zone: Bronze 100 euros, Silver 130, Gold 150 euros per person, from 11,700 dinars. Book by phone or on the partner ticket page, ask about the start time when booking.
+
+The hotel is away from the centre, in the Medaković district, and suits guests from the south of the city and those staying overnight: the hotel also offers rooms, ask when booking.
+
+Venue: Hotel Majdan, Mokroluška 174d, Voždovac.
+
+Time: 31 December, evening and night until morning.
+
+Price: 100 to 150 euros per person (from 11,700 dinars), dinner and drinks from the list included.","Hotel **Majdan** na Voždovcu dočekuje 2027. gala večerom uz živu muziku: peva **Uroš Živković**, narodna i pop muzika do jutra.
+
+U cenu ulaze mesto za stolom i gala večera od predjela, glavnog jela, salata i deserta, kao i neograničeno piće sa liste: rakije, vino Orfelin vinarije Kovačević, pivo, sokovi, voda i kafa. Ostala žestoka pića i energetska pića naplaćuju se posebno.
+
+Cena zavisi od zone u sali: Bronze 100 evra, Silver 130, Gold 150 evra po osobi, u dinarima od 11.700. Rezervacija telefonom ili na strani partnerske prodaje, vreme početka proverite pri rezervaciji.
+
+Hotel je dalje od centra, na Medakoviću, i odgovara gostima sa juga grada i onima koji ostaju na spavanju: hotel nudi i sobe, pitajte pri rezervaciji.
+
+Mesto: Hotel Majdan, Mokroluška 174d, Voždovac.
+
+Vreme: 31. decembar, veče i noć do jutra.
+
+Cena: od 100 do 150 evra po osobi (od 11.700 dinara), večera i piće sa liste uključeni.",,11700,Hotel Majdan,"Mokroluška 174d, 11000 Beograd (Voždovac)","44.774412,20.510466",https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/hotel-majdan,novagodina.rs,https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/hotel-majdan,Hotel Majdan,https://majdan.rs/,,+381 66 00 22 55,,,,"Отели, Новый год, отель Majdan, Воздовац, новогодняя ночь, гала-ужин, народная музыка, Урош Живкович","Hotels, New Year, Hotel Majdan, Voždovac, New Year's Eve, gala dinner, folk music, Uroš Živković","Hoteli, Nova godina, hotel Majdan, Voždovac, novogodišnja noć, gala večera, narodna muzika, Uroš Živković",100,available,"Место за столом, гала-ужин (закуска, основное блюдо, салаты, десерт), напитки из списка без ограничений: ракии, вино Orfelin, пиво, соки, вода, кофе; прочие крепкие напитки и энергетики отдельно","Mesto za stolom, gala večera (predjelo, glavno jelo, salate, desert), neograničeno piće sa liste: rakije, vino Orfelin, pivo, sokovi, voda, kafa; ostala žestoka i energetska pića posebno","Seat at the table, gala dinner (starter, main course, salads, dessert), unlimited drinks from the list: rakija, Orfelin wine, beer, juices, water, coffee; other spirits and energy drinks extra","народная и поп-музыка, живой вокал: Урош Живкович","narodna i pop muzika, živi vokal: Uroš Živković","folk and pop, live vocals: Uroš Živković",вечерний,svečano,evening dress
+12/31/2026,12/31/2026,10/27/2026,2619,MusicGroup,Laguna bend,,,MusicEvent,Новый год 2027 в ресторане Karuzo на крыше Теразие 23: вид на салют,New Year 2027 at Karuzo on the roof of Terazije 23: fireworks view,Nova godina 2027 u restoranu Karuzo na krovu Terazija 23: pogled na vatromet,https://raw.githubusercontent.com/newsgl/arsposters/main/2619-NovaGodinaKaruzo.webp,,Concerts,"Новогодняя ночь в панорамном ресторане Karuzo на восьмом этаже дома Теразие 23: премиум всё включено, шведский стол, импортные напитки, тост шампанским в полночь и кавер-группа Laguna bend. От 80 до 140 евро за человека, дороже всего первый ряд у окна с видом на салют (от 9 400 динаров).","New Year's Eve at the panoramic Karuzo restaurant on the eighth floor of Terazije 23: premium all inclusive, buffet dinner, imported drinks, a champagne toast at midnight and the Laguna cover band. From 80 to 140 euros per person, the front row by the window with the fireworks view costs most (from 9,400 dinars).","Doček Nove godine u panoramskom restoranu Karuzo na osmom spratu zgrade Terazije 23: premium all inclusive, švedski sto, uvozna pića, šampanjac u ponoć i kaver bend Laguna. Od 80 do 140 evra po osobi, najskuplji je prvi red uz prozor sa pogledom na vatromet (od 9.400 dinara).","Ресторан **Karuzo** занимает восьмой этаж дома Теразие 23 в самом центре, и в новогоднюю ночь его главный козырь это вид: с панорамных окон виден салют над городом. Играет кавер-группа **Laguna bend**, музыка всю ночь.
+
+Формат «премиум всё включено». Шведский стол с мясными деликатесами, сырами, пирогами, салатами, рыбой, блюдами с гриля и тортами. Напитки: Jameson, Jack Daniel's, Johnnie Walker, ракии, ликёры, пиво, водка, вина Aleksandrović и безалкогольные. В полночь тост шампанским, с полуночи до часа ночи коктейли по формуле Happy Hour.
+
+Цена зависит от места: 80 евро у барного стола, 100 за остальные места, 120 за второй ряд у окна, 140 евро за первый ряд у окна, в динарах от 9 400. Бронирование по телефону или на странице кассы-партнёра, время начала уточняйте при бронировании.
+
+Место: Restoran Karuzo, Terazije 23, 8-й этаж.
+
+Время: 31 декабря, вечер и ночь до утра.
+
+Цена: от 80 до 140 евро за человека (от 9 400 динаров), всё включено.","The **Karuzo** restaurant takes up the eighth floor of the Terazije 23 building in the very centre, and on New Year's Eve its main asset is the view: the fireworks over the city are visible from the panoramic windows. The **Laguna** cover band plays all night.
+
+Premium all inclusive. A buffet with cured meats, cheeses, pies, salads, fish, grilled dishes and cakes. Drinks: Jameson, Jack Daniel's, Johnnie Walker, rakija, liqueurs, beer, vodka, Aleksandrović wines and soft drinks. A champagne toast at midnight, and Happy Hour cocktails from midnight to one.
+
+The price depends on the seat: 80 euros at a bar table, 100 for other seats, 120 for the second row by the window, 140 euros for the front row by the window, from 9,400 dinars. Book by phone or on the partner ticket page, ask about the start time when booking.
+
+Venue: Restoran Karuzo, Terazije 23, 8th floor.
+
+Time: 31 December, evening and night until morning.
+
+Price: 80 to 140 euros per person (from 9,400 dinars), all inclusive.","Restoran **Karuzo** zauzima osmi sprat zgrade Terazije 23 u samom centru, a za doček mu je glavni adut pogled: sa panoramskih prozora vidi se vatromet nad gradom. Svira kaver bend **Laguna**, muzika cele noći.
+
+Format premium all inclusive. Švedski sto sa suhomesnatim delikatesima, sirevima, pitama, salatama, ribom, jelima sa roštilja i tortama. Piće: Jameson, Jack Daniel's, Johnnie Walker, rakije, likeri, pivo, vodka, vina Aleksandrović i bezalkoholna pića. U ponoć zdravica šampanjcem, od ponoći do jedan kokteli po formuli Happy Hour.
+
+Cena zavisi od mesta: 80 evra uz barski sto, 100 za ostala mesta, 120 za drugi red uz prozor, 140 evra za prvi red uz prozor, u dinarima od 9.400. Rezervacija telefonom ili na strani partnerske prodaje, vreme početka proverite pri rezervaciji.
+
+Mesto: Restoran Karuzo, Terazije 23, 8. sprat.
+
+Vreme: 31. decembar, veče i noć do jutra.
+
+Cena: od 80 do 140 evra po osobi (od 9.400 dinara), all inclusive.",,9400,Restoran Karuzo,"Terazije 23/8, 11000 Beograd","44.813497,20.461149",https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/caruso,novagodina.rs,https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/caruso,Restoran Karuzo,,,+381 60 434 66 22,,,,"Рестораны и кафаны, Новый год, Karuzo, Теразие, новогодняя ночь, панорамный ресторан, всё включено, салют","Restaurants and kafanas, New Year, Karuzo, Terazije, New Year's Eve, rooftop restaurant, all inclusive, fireworks","Restorani i kafane, Nova godina, Karuzo, Terazije, novogodišnja noć, panoramski restoran, all inclusive, vatromet",80,available,"Премиум всё включено: шведский стол (мясные деликатесы, сыры, пироги, салаты, рыба, гриль, торты), напитки Jameson, Jack Daniel's, Johnnie Walker, ракии, ликёры, пиво, водка, вина Aleksandrović, безалкогольные; тост шампанским в полночь, Happy Hour коктейли с полуночи до часа","Premium all inclusive: švedski sto (suhomesnato, sirevi, pite, salate, riba, roštilj, torte), piće Jameson, Jack Daniel's, Johnnie Walker, rakije, likeri, pivo, vodka, vina Aleksandrović, bezalkoholna; šampanjac u ponoć, Happy Hour kokteli od ponoći do jedan","Premium all inclusive: buffet (cured meats, cheeses, pies, salads, fish, grill, cakes), drinks Jameson, Jack Daniel's, Johnnie Walker, rakija, liqueurs, beer, vodka, Aleksandrović wines, soft drinks; champagne toast at midnight, Happy Hour cocktails from midnight to one",кавер-группа Laguna bend,kaver bend Laguna,Laguna cover band,,,
+12/31/2026,12/31/2026,10/27/2026,2620,MusicGroup,Wake Up bend,,,MusicEvent,Новый год 2027 в Toro Latin GastroBar в Бетон-хале: ужин и Wake Up bend,New Year 2027 at Toro Latin GastroBar in Beton Hala: dinner and the Wake Up band,Nova godina 2027 u Toro Latin GastroBar u Beton hali: večera i Wake Up bend,https://raw.githubusercontent.com/newsgl/arsposters/main/2620-NovaGodinaToro.webp,,Concerts,"Новогодняя ночь в Toro Latin GastroBar в Бетон-хале на набережной Савы: полный ужин по меню шефа Ричарда Сандовала, кавер-группа Wake Up bend с латино и поп-хитами. От 6 990 динаров за человека, напитки по счёту.","New Year's Eve at Toro Latin GastroBar in Beton Hala on the Sava embankment: a full dinner from chef Richard Sandoval's menu and the Wake Up cover band with Latin and pop hits. From 6,990 dinars per person, drinks charged separately.","Doček Nove godine u Toro Latin GastroBaru u Beton hali na savskom keju: puna večera po meniju šefa Richarda Sandovala i kaver bend Wake Up sa latino i pop hitovima. Od 6.990 dinara po osobi, piće po potrošnji.","**Toro Latin GastroBar** в Бетон-хале на набережной Савы встречает 2027 год в своём стиле: латиноамериканская кухня, коктейли и живая музыка. Играет кавер-группа **Wake Up bend**: латино и поп-хиты до утра.
+
+В цену входит полный новогодний ужин по меню, составленному под руководством шефа Ричарда Сандовала. Напитки в цену не входят и оплачиваются по счёту, это отличает Toro от большинства новогодних программ города с формулой «всё включено».
+
+Цена от 6 990 динаров за человека. Бронирование онлайн на странице ресторана или по телефону, время начала уточняйте при бронировании.
+
+Бетон-хала стоит у самой воды под Калемегданом, в новогоднюю ночь отсюда видно салют над рекой.
+
+Место: Toro Latin GastroBar, Karađorđeva 2-4 (Beton hala).
+
+Время: 31 декабря, вечер и ночь до утра.
+
+Цена: от 6 990 динаров за человека, ужин включён, напитки отдельно.","**Toro Latin GastroBar** in Beton Hala on the Sava embankment welcomes 2027 in its own style: Latin American food, cocktails and live music. The **Wake Up** cover band plays Latin and pop hits until morning.
+
+The price includes a full New Year dinner from a menu created under chef Richard Sandoval. Drinks are not included and are charged as consumed, which sets Toro apart from most all inclusive New Year programmes in the city.
+
+From 6,990 dinars per person. Book online on the restaurant's page or by phone, ask about the start time when booking.
+
+Beton Hala stands right by the water below Kalemegdan, and the fireworks over the river are visible from here on New Year's Eve.
+
+Venue: Toro Latin GastroBar, Karađorđeva 2-4 (Beton Hala).
+
+Time: 31 December, evening and night until morning.
+
+Price: from 6,990 dinars per person, dinner included, drinks extra.","**Toro Latin GastroBar** u Beton hali na savskom keju dočekuje 2027. u svom stilu: latinoamerička kuhinja, kokteli i živa muzika. Svira kaver bend **Wake Up**: latino i pop hitovi do jutra.
+
+U cenu ulazi puna novogodišnja večera po meniju sastavljenom pod vođstvom šefa Richarda Sandovala. Piće nije uključeno i naplaćuje se po potrošnji, po čemu se Toro razlikuje od većine novogodišnjih programa u gradu sa formulom all inclusive.
+
+Cena od 6.990 dinara po osobi. Rezervacija onlajn na strani restorana ili telefonom, vreme početka proverite pri rezervaciji.
+
+Beton hala stoji uz samu vodu ispod Kalemegdana, odavde se u novogodišnjoj noći vidi vatromet nad rekom.
+
+Mesto: Toro Latin GastroBar, Karađorđeva 2-4 (Beton hala).
+
+Vreme: 31. decembar, veče i noć do jutra.
+
+Cena: od 6.990 dinara po osobi, večera uključena, piće posebno.",,6990,Toro Latin GastroBar,"Karađorđeva 2-4 (Beton hala), 11000 Beograd","44.819428,20.448375",https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/toro,novagodina.rs,https://toro.cloudwaitress.com/,Toro Latin GastroBar,https://tororestaurant.rs/,,+381 65 99 97 980,,,,"Рестораны и кафаны, Новый год, Toro, Бетон-хала, новогодняя ночь, латино, Савамала, набережная","Restaurants and kafanas, New Year, Toro, Beton Hala, New Year's Eve, Latin, Savamala, embankment","Restorani i kafane, Nova godina, Toro, Beton hala, novogodišnja noć, latino, Savamala, kej",,available,Полный новогодний ужин по меню шефа Ричарда Сандовала; напитки по счёту,Puna novogodišnja večera po meniju šefa Richarda Sandovala; piće po potrošnji,Full New Year dinner from chef Richard Sandoval's menu; drinks charged separately,"кавер-группа Wake Up bend, латино и поп","kaver bend Wake Up, latino i pop","Wake Up cover band, Latin and pop",,,
+12/31/2026,12/31/2026,10/27/2026,2621,MusicGroup,Bele pčele,,,MusicEvent,Новый год 2027 в ресторане Savski venac: старогородская музыка и всё включено,"New Year 2027 at the Savski venac restaurant: old town music, all inclusive",Nova godina 2027 u restoranu Savski venac: starogradska muzika i all inclusive,https://raw.githubusercontent.com/newsgl/arsposters/main/2621-NovaGodinaSavskiVenac.webp,,Concerts,"Новогодняя ночь в ресторане Savski venac на Бирчаниновой: сербский ужин из нескольких блюд, отечественные напитки без ограничений и акустический оркестр Bele pčele со старогородскими песнями. От 75 до 90 евро за человека (от 8 800 динаров).","New Year's Eve at the Savski venac restaurant on Birčaninova: a Serbian multi-course dinner, unlimited domestic drinks and the Bele pčele acoustic band with old town songs. From 75 to 90 euros per person (from 8,800 dinars).","Doček Nove godine u restoranu Savski venac u Birčaninovoj: srpska večera od više sledova, neograničeno domaće piće i akustični orkestar Bele pčele sa starogradskim pesmama. Od 75 do 90 evra po osobi (od 8.800 dinara).","Ресторан **Savski venac** на Бирчаниновой улице встречает 2027 год по-сербски: домашняя кухня, ракия и старогородская музыка. Играет акустический оркестр **Bele pčele**, песни до утра.
+
+Формат «всё включено». Ужин: сербская тарелка с закусками, шпигованный окорок в грибном соусе, гурманская плескавица, курица Royal, картофель, овощи с гриля, салат и десерт «Španski vetar». Отечественные напитки без ограничений весь вечер: вина, пиво Lav, домашняя ракия, джин, коньяк, пелинковац, водка, вермут, соки, вода и кофе.
+
+Цена от 75 до 90 евро за человека в зависимости от места в зале (75, 80, 85 и 90 евро), в динарах от 8 800. Бронирование по телефону или на странице кассы-партнёра, время начала уточняйте при бронировании.
+
+Место: Restoran Savski venac, Birčaninova 16a.
+
+Время: 31 декабря, вечер и ночь до утра.
+
+Цена: от 75 до 90 евро за человека (от 8 800 динаров), всё включено.","The **Savski venac** restaurant on Birčaninova street welcomes 2027 the Serbian way: home cooking, rakija and old town music. The **Bele pčele** acoustic band plays and sings until morning.
+
+All inclusive. Dinner: a Serbian platter of starters, larded ham in mushroom sauce, a gourmet pljeskavica, chicken Royal, potatoes, grilled vegetables, salad and the Španski vetar dessert. Unlimited domestic drinks all evening: wines, Lav beer, homemade rakija, gin, brandy, pelinkovac, vodka, vermouth, juices, water and coffee.
+
+From 75 to 90 euros per person depending on the seat (75, 80, 85 and 90 euros), from 8,800 dinars. Book by phone or on the partner ticket page, ask about the start time when booking.
+
+Venue: Restoran Savski venac, Birčaninova 16a.
+
+Time: 31 December, evening and night until morning.
+
+Price: 75 to 90 euros per person (from 8,800 dinars), all inclusive.","Restoran **Savski venac** u Birčaninovoj dočekuje 2027. na srpski način: domaća kuhinja, rakija i starogradska muzika. Svira akustični orkestar **Bele pčele**, pesma do jutra.
+
+Format all inclusive. Večera: srpska tabla sa predjelima, špikovani but u sosu od pečuraka, gurmanska pljeskavica, piletina Royal, krompir, povrće sa roštilja, salata i desert Španski vetar. Neograničeno domaće piće cele večeri: vina, pivo Lav, domaća rakija, džin, konjak, pelinkovac, vodka, vermut, sokovi, voda i kafa.
+
+Cena od 75 do 90 evra po osobi u zavisnosti od mesta u sali (75, 80, 85 i 90 evra), u dinarima od 8.800. Rezervacija telefonom ili na strani partnerske prodaje, vreme početka proverite pri rezervaciji.
+
+Mesto: Restoran Savski venac, Birčaninova 16a.
+
+Vreme: 31. decembar, veče i noć do jutra.
+
+Cena: od 75 do 90 evra po osobi (od 8.800 dinara), all inclusive.",,8800,Restoran Savski venac,"Birčaninova 16a, 11000 Beograd","44.804375,20.459168",https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/savski-venac,novagodina.rs,https://www.novagodina.rs/docek-nove-godine-restorani-hoteli/savski-venac,Restoran Savski venac,https://restoransavskivenac.rs/,,+381 65 50 80 472,,,,"Рестораны и кафаны, Новый год, Savski venac, старогородская музыка, новогодняя ночь, сербская кухня, всё включено, Савски-Венац","Restaurants and kafanas, New Year, Savski venac, old town music, New Year's Eve, Serbian cuisine, all inclusive, Savski Venac","Restorani i kafane, Nova godina, Savski venac, starogradska muzika, novogodišnja noć, srpska kuhinja, all inclusive, Savski venac",75,available,"Всё включено: ужин (сербская тарелка, шпигованный окорок, плескавица, курица Royal, картофель, гриль-овощи, салат, десерт Španski vetar), отечественные напитки без ограничений: вина, пиво Lav, ракия, джин, коньяк, пелинковац, водка, вермут, соки, вода, кофе","All inclusive: večera (srpska tabla, špikovani but, pljeskavica, piletina Royal, krompir, povrće sa roštilja, salata, desert Španski vetar), neograničeno domaće piće: vina, pivo Lav, rakija, džin, konjak, pelinkovac, vodka, vermut, sokovi, voda, kafa","All inclusive: dinner (Serbian platter, larded ham, pljeskavica, chicken Royal, potatoes, grilled vegetables, salad, Španski vetar dessert), unlimited domestic drinks: wines, Lav beer, rakija, gin, brandy, pelinkovac, vodka, vermouth, juices, water, coffee","старогородская музыка, акустический оркестр Bele pčele","starogradska muzika, akustični orkestar Bele pčele","old town music, Bele pčele acoustic band",,,
+12/31/2026,12/31/2026,10/27/2026,2622,MusicGroup,Mala Maca Band,,,MusicEvent,"Новый год 2027 в кафане Pavle Korčagin: народная музыка, шведский стол всю ночь",New Year 2027 at Kafana Pavle Korčagin: folk music and an all-night buffet,Nova godina 2027 u kafani Pavle Korčagin: narodna muzika i švedski sto cele noći,https://raw.githubusercontent.com/newsgl/arsposters/main/2622-NovaGodinaKorcagin.webp,,Concerts,"Новогодняя ночь в кафане Pavle Korčagin на Звездаре: отечественные напитки без ограничений, шведский стол, который пополняют всю ночь, и Mala Maca Band с народной и старогородской музыкой. 80 евро для женщин, 85 для мужчин, барные столы для женских компаний по 40 евро (от 4 700 динаров).","New Year's Eve at Kafana Pavle Korčagin in Zvezdara: unlimited domestic drinks, a buffet replenished all night and the Mala Maca Band with folk and old town music. 80 euros for women, 85 for men, bar tables for all-female groups at 40 euros (from 4,700 dinars).","Doček Nove godine u kafani Pavle Korčagin na Zvezdari: neograničeno domaće piće, švedski sto koji se dopunjava cele noći i Mala Maca Band sa narodnom i starogradskom muzikom. 80 evra za žene, 85 za muškarce, barski stolovi za ženska društva po 40 evra (od 4.700 dinara).","Кафана **Pavle Korčagin** на Звездаре, названная в честь героя Островского и украшенная югославской символикой, встречает 2027 год так, как в ней празднуют всегда: громко, с народной музыкой и до утра. Играет **Mala Maca Band**: народная и старогородская музыка.
+
+В цену входят отечественные напитки без ограничений и шведский стол, который пополняют всю ночь. Варианты посадки: барный стол, высокие места, сепаре и VIP.
+
+Цена 80 евро для женщин и 85 евро для мужчин, в динарах от 9 400. Барные столы только для женских компаний стоят 40 евро с человека (от 4 700 динаров). Бронирование по телефону кафаны или на странице кассы-партнёра, время начала уточняйте при бронировании.
+
+Место: Kafana Pavle Korčagin, Ćirila i Metodija 2a, Zvezdara.
+
+Время: 31 декабря, вечер и ночь до утра.
+
+Цена: 80 евро для женщин, 85 для мужчин, барные столы 40 евро (от 4 700 динаров), напитки и шведский стол включены.","**Kafana Pavle Korčagin** in Zvezdara, named after Ostrovsky's hero and decorated with Yugoslav memorabilia, welcomes 2027 the way it always celebrates: loud, with folk music and until morning. The **Mala Maca Band** plays folk and old town music.
+
+The price includes unlimited domestic drinks and a buffet replenished all night. Seating options: bar table, high seats, booth and VIP.
+
+80 euros for women and 85 euros for men, from 9,400 dinars. Bar tables for all-female groups cost 40 euros per person (from 4,700 dinars). Book by the kafana's phone or on the partner ticket page, ask about the start time when booking.
+
+Venue: Kafana Pavle Korčagin, Ćirila i Metodija 2a, Zvezdara.
+
+Time: 31 December, evening and night until morning.
+
+Price: 80 euros for women, 85 for men, bar tables 40 euros (from 4,700 dinars), drinks and buffet included.","Kafana **Pavle Korčagin** na Zvezdari, nazvana po junaku Ostrovskog i ukrašena jugoslovenskim simbolima, dočekuje 2027. onako kako se u njoj uvek slavi: glasno, uz narodnu muziku i do jutra. Svira **Mala Maca Band**: narodna i starogradska muzika.
+
+U cenu ulaze neograničeno domaće piće i švedski sto koji se dopunjava cele noći. Opcije sedenja: barski sto, visoka mesta, separe i VIP.
+
+Cena 80 evra za žene i 85 evra za muškarce, u dinarima od 9.400. Barski stolovi samo za ženska društva koštaju 40 evra po osobi (od 4.700 dinara). Rezervacija telefonom kafane ili na strani partnerske prodaje, vreme početka proverite pri rezervaciji.
+
+Mesto: Kafana Pavle Korčagin, Ćirila i Metodija 2a, Zvezdara.
+
+Vreme: 31. decembar, veče i noć do jutra.
+
+Cena: 80 evra za žene, 85 za muškarce, barski stolovi 40 evra (od 4.700 dinara), piće i švedski sto uključeni.",,4700,Kafana Pavle Korčagin,"Ćirila i Metodija 2a, 11000 Beograd","44.803766,20.481788",https://www.kudaveceras.rs/docek-nove-godine-beograd/kafana-pavle-korcagin-docek-nove-godine,kudaveceras.rs,https://www.kudaveceras.rs/docek-nove-godine-beograd/kafana-pavle-korcagin-docek-nove-godine,Kafana Pavle Korčagin,,,+381 11 2401 093,,,,"Рестораны и кафаны, Новый год, кафана, Pavle Korčagin, Звездара, новогодняя ночь, народная музыка, всё включено","Restaurants and kafanas, New Year, kafana, Pavle Korčagin, Zvezdara, New Year's Eve, folk music, all inclusive","Restorani i kafane, Nova godina, kafana, Pavle Korčagin, Zvezdara, novogodišnja noć, narodna muzika, all inclusive",40,available,"Отечественные напитки без ограничений и шведский стол, пополняемый всю ночь; посадка: барный стол, высокие места, сепаре, VIP","Neograničeno domaće piće i švedski sto koji se dopunjava cele noći; sedenje: barski sto, visoka mesta, separe, VIP","Unlimited domestic drinks and a buffet replenished all night; seating: bar table, high seats, booth, VIP","народная и старогородская музыка, Mala Maca Band","narodna i starogradska muzika, Mala Maca Band","folk and old town music, Mala Maca Band",,,
+12/31/2026,12/31/2026,10/27/2026,2623,MusicGroup,"Barberi bend, Sense1.dj, DJ IGGY",,,MusicEvent,Semafor žurka 2027: новогодняя вечеринка на шести сценах у Бранкова моста,Semafor žurka 2027: New Year's Eve party on six stages by Branko's Bridge,Semafor žurka 2027: novogodišnja žurka na šest bina kod Brankovog mosta,https://raw.githubusercontent.com/newsgl/arsposters/main/2623-SemaforZurka2027.webp,,Concerts,"Самая большая новогодняя вечеринка Белграда по одному билету: шесть сцен в клубе Semafor у Бранкова моста, от народной музыки с Barberi bend до хауса и ретро, отечественные напитки без ограничений. С 20:00 до 4:00, билеты от 25 евро (от 2 900 динаров), продажа онлайн с 1 ноября.","Belgrade's biggest New Year's Eve party on a single ticket: six stages at the Semafor club by Branko's Bridge, from folk with the Barberi band to house and retro, unlimited domestic drinks. From 20:00 to 4:00, tickets from 25 euros (from 2,900 dinars), online sales from 1 November.","Najveća novogodišnja žurka u Beogradu za jednu kartu: šest bina u klubu Semafor kod Brankovog mosta, od narodne muzike sa Barberi bendom do housa i retroa, neograničeno domaće piće. Od 20:00 do 4:00, karte od 25 evra (od 2.900 dinara), onlajn prodaja od 1. novembra.","**Semafor žurka** это новогодняя вечеринка на несколько тысяч гостей в клубе Semafor на Старом Саймиште у Бранкова моста. Один билет открывает шесть сцен: на главной Live Arena играет **Barberi bend** с забавной и народной музыкой и диджей, на House Stage Sense1.dj с коммерческим хаусом, на Retro Stage DJ IGGY с хитами семидесятых, восьмидесятых и девяностых, плюс кафанская сцена, караоке и зона chill-out.
+
+В цену входят все отечественные напитки без ограничений: текила, виски, вино, пиво, джин, водка, коньяк, пелинковац, вермут, три вида ракии, коктейли-миксы и безалкогольные, а также закуски из пекарни, пока не закончатся. Сепаре нет, бронь барного стола стоит дополнительно 20 евро, гардероб 500 динаров.
+
+Цена растёт по мере продажи: первые 400 билетов по 25 евро, следующие 600 по 30, следующие 400 по 35, остальные по 40 евро, в динарах от 2 900. Онлайн-продажа с 1 ноября на сайте организатора, с 1 декабря и в клубе. После 10 ноября билеты не возвращают. Вечеринка для гостей от 18 лет.
+
+Место: Semafor, Staro sajmište, у Бранкова моста.
+
+Время: 31 декабря с 20:00 до 4:00.
+
+Цена: от 25 до 40 евро (от 2 900 динаров), напитки включены.","**Semafor žurka** is a New Year's Eve party for several thousand guests at the Semafor club in Staro Sajmište by Branko's Bridge. One ticket opens six stages: the main Live Arena with the **Barberi band** playing pop and folk plus a DJ, the House Stage with Sense1.dj and commercial house, the Retro Stage with DJ IGGY and hits of the seventies, eighties and nineties, plus a kafana stage, karaoke and a chill-out zone.
+
+The price includes all domestic drinks without limit: tequila, whisky, wine, beer, gin, vodka, brandy, pelinkovac, vermouth, three kinds of rakija, mixed drinks and soft drinks, plus bakery snacks while they last. There are no booths, a bar table reservation costs an extra 20 euros, cloakroom 500 dinars.
+
+The price rises as tickets sell: the first 400 at 25 euros, the next 600 at 30, the next 400 at 35, the rest at 40 euros, from 2,900 dinars. Online sales from 1 November on the organiser's site, from 1 December also at the club. No refunds after 10 November. Guests 18 and over.
+
+Venue: Semafor, Staro Sajmište, by Branko's Bridge.
+
+Time: 31 December from 20:00 to 4:00.
+
+Price: 25 to 40 euros (from 2,900 dinars), drinks included.","**Semafor žurka** je novogodišnja žurka za nekoliko hiljada gostiju u klubu Semafor na Starom sajmištu kod Brankovog mosta. Jedna karta otvara šest bina: na glavnoj Live Areni svira **Barberi bend** sa zabavnom i narodnom muzikom uz DJ-a, na House Stageu Sense1.dj sa komercijalnim housom, na Retro Stageu DJ IGGY sa hitovima sedamdesetih, osamdesetih i devedesetih, plus kafanska bina, karaoke i chill-out zona.
+
+U cenu ulazi sve domaće piće bez ograničenja: tekila, viski, vino, pivo, džin, vodka, konjak, pelinkovac, vermut, tri vrste rakije, miksevi i bezalkoholna pića, kao i pecivo iz pekare dok traje. Separea nema, rezervacija barskog stola košta dodatnih 20 evra, garderoba 500 dinara.
+
+Cena raste kako se karte prodaju: prvih 400 po 25 evra, sledećih 600 po 30, sledećih 400 po 35, ostale po 40 evra, u dinarima od 2.900. Onlajn prodaja od 1. novembra na sajtu organizatora, od 1. decembra i u klubu. Posle 10. novembra nema povraćaja. Žurka za goste od 18 godina.
+
+Mesto: Semafor, Staro sajmište, kod Brankovog mosta.
+
+Vreme: 31. decembar od 20:00 do 4:00.
+
+Cena: od 25 do 40 evra (od 2.900 dinara), piće uključeno.",20:00,2900,Semafor,"Staro sajmište 20, 11070 Novi Beograd","44.810400,20.440300",https://semaforzurka.com/,semaforzurka.com,https://semaforzurka.com/kupi-karte/,Semafor žurka,https://semaforzurka.com/,info@semaforzurka.com,+381 60 650 7 656,18+,,,"Клубы и вечеринки, Новый год, Semafor, Старо-Саймиште, новогодняя ночь, вечеринка, хаус, ретро","Clubs and parties, New Year, Semafor, Staro Sajmište, New Year's Eve, party, house, retro","Klubovi i žurke, Nova godina, Semafor, Staro sajmište, novogodišnja noć, žurka, house, retro",25,available,"Все отечественные напитки без ограничений (текила, виски, вино, пиво, джин, водка, коньяк, пелинковац, вермут, три ракии, миксы, безалкогольные), закуски из пекарни; шесть сцен по одному билету; бронь барного стола +20 евро, гардероб 500 динаров","Sve domaće piće bez ograničenja (tekila, viski, vino, pivo, džin, vodka, konjak, pelinkovac, vermut, tri rakije, miksevi, bezalkoholna), pecivo iz pekare; šest bina za jednu kartu; rezervacija barskog stola +20 evra, garderoba 500 dinara","All domestic drinks without limit (tequila, whisky, wine, beer, gin, vodka, brandy, pelinkovac, vermouth, three rakijas, mixed drinks, soft drinks), bakery snacks; six stages on one ticket; bar table reservation +20 euros, cloakroom 500 dinars","народная и забавная музыка (Barberi bend + DJ), коммерческий хаус (Sense1.dj), ретро от 70-х до 90-х (DJ IGGY), кафана, караоке, chill-out","narodna i zabavna (Barberi bend + DJ), komercijalni house (Sense1.dj), retro od 70-ih do 90-ih (DJ IGGY), kafana, karaoke, chill-out","folk and pop (Barberi band + DJ), commercial house (Sense1.dj), 70s to 90s retro (DJ IGGY), kafana, karaoke, chill-out",,,
+12/04/2026,01/04/2027,10/27/2026,2624,Organization,Zimska bajka,,,Festival,"«Зимняя сказка» в Савском парке: каток, базар и концерты в Белграде-на-воде","Winter Fairy Tale in Savski Park: rink, market and concerts at Belgrade Waterfront","Zimska bajka u Savskom parku: klizalište, bazar i koncerti u Beogradu na vodi",https://raw.githubusercontent.com/newsgl/arsposters/main/2624-ZimskaBajka2026.webp,,"Festivals, Kids","Зимний городок Белграда-на-воде в Савском парке с 4 декабря по 4 января: каток, новогодний базар, концерты, детские спектакли и мастерские, зимний кинотеатр под открытым небом и еда. Ежедневно с 12:00 до 22:00, вход бесплатный, программа на сезон объявляется в ноябре.","The winter village of Belgrade Waterfront in Savski Park from 4 December to 4 January: ice rink, New Year market, concerts, children's shows and workshops, an open-air winter cinema and food. Daily from 12:00 to 22:00, free entry, the season's programme is announced in November.","Zimski gradić Beograda na vodi u Savskom parku od 4. decembra do 4. januara: klizalište, novogodišnji bazar, koncerti, dečje predstave i radionice, zimski bioskop na otvorenom i hrana. Svakog dana od 12:00 do 22:00, ulaz besplatan, program sezone objavljuje se u novembru.","**«Зимняя сказка»** (Zimska bajka) это зимний городок Белграда-на-воде в Савском парке на набережной Савы. Сезон 2026/27 открывается 4 декабря и длится до 4 января, то есть захватывает Новый год и первые дни репризы.
+
+Что внутри: каток под открытым небом, новогодний базар с домиками, концерты на сцене, детские спектакли и мастерские, зимний кинотеатр под открытым небом, еда и горячие напитки. Вход на территорию бесплатный, за прокат коньков и еду платят отдельно; цены катка на новый сезон организатор пока не объявил.
+
+Программа по дням, включая вечер 31 декабря и 1 января, публикуется на сайте городка в ноябре. В прошлом сезоне городок открывался вечером с концертом, 31 декабря на сцене выступала группа, а 1 января вечером шла реприза. Как только организатор объявит программу этого года, карточка обновится.
+
+Место: Savski park, Beograd na vodi, набережная Савы.
+
+Время: с 4 декабря по 4 января, ежедневно с 12:00 до 22:00.
+
+Цена: вход бесплатный, прокат коньков и еда отдельно.","**Zimska bajka**, the Winter Fairy Tale, is the winter village of Belgrade Waterfront in Savski Park on the Sava embankment. The 2026/27 season opens on 4 December and runs until 4 January, covering New Year's Eve and the first days of the repriza.
+
+Inside: an open-air ice rink, a New Year market with wooden huts, concerts on the stage, children's shows and workshops, an open-air winter cinema, food and hot drinks. Entry is free, skate hire and food are paid separately; the organiser has not yet announced rink prices for the new season.
+
+The day-by-day programme, including the evening of 31 December and 1 January, is published on the village's website in November. Last season the village opened in the evening with a concert, a band played on 31 December and a repeat show ran on the evening of 1 January. The listing will be updated as soon as this year's programme is announced.
+
+Venue: Savski park, Belgrade Waterfront, Sava embankment.
+
+Time: 4 December to 4 January, daily from 12:00 to 22:00.
+
+Price: free entry, skate hire and food extra.","**Zimska bajka** je zimski gradić Beograda na vodi u Savskom parku na savskom keju. Sezona 2026/27 otvara se 4. decembra i traje do 4. januara, dakle obuhvata doček i prve dane reprize.
+
+Šta ima unutra: klizalište na otvorenom, novogodišnji bazar sa kućicama, koncerti na bini, dečje predstave i radionice, zimski bioskop na otvorenom, hrana i topli napici. Ulaz je besplatan, iznajmljivanje klizaljki i hrana se plaćaju posebno; cene klizališta za novu sezonu organizator još nije objavio.
+
+Program po danima, uključujući veče 31. decembra i 1. januara, objavljuje se na sajtu gradića u novembru. Prošle sezone gradić se otvarao uveče koncertom, 31. decembra na bini je svirao bend, a 1. januara uveče išla je repriza. Čim organizator objavi ovogodišnji program, kartica će biti dopunjena.
+
+Mesto: Savski park, Beograd na vodi, savski kej.
+
+Vreme: od 4. decembra do 4. januara, svakog dana od 12:00 do 22:00.
+
+Cena: ulaz besplatan, klizaljke i hrana posebno.",12:00,0,Savski park,"Savski park, Beograd na vodi, Beograd","44.808722,20.452306",https://zimskabajka.rs/,zimskabajka.rs,,Zimska bajka,https://zimskabajka.rs/,office@starsandmoreevents.com,,,,,"Ярмарки и катки, Детям, Новый год, Зимняя сказка, Белград-на-воде, Савский парк, каток, новогодняя ярмарка","Markets and ice rinks, Kids: shows and parties, New Year, Zimska bajka, Belgrade Waterfront, Savski park, ice rink, New Year market","Vašari i klizališta, Za decu: predstave i novogodišnji programi, Nova godina, Zimska bajka, Beograd na vodi, Savski park, klizalište, novogodišnji vašar",,,"Вход бесплатный: каток (прокат коньков платно), базар, концерты, детские спектакли и мастерские, зимний кинотеатр, еда","Ulaz besplatan: klizalište (klizaljke se plaćaju), bazar, koncerti, dečje predstave i radionice, zimski bioskop, hrana","Free entry: ice rink (skate hire paid), market, concerts, children's shows and workshops, winter cinema, food",,,,,,
+12/11/2026,12/30/2026,10/27/2026,2625,Organization,Beogradski sajam,,,Festival,"64-я Новогодняя ярмарка на Белградской ярмарке: подарки, ёлочные игрушки, сладости","64th New Year Fair at the Belgrade Fair: gifts, tree decorations and sweets","64. Novogodišnji vašar na Beogradskom sajmu: pokloni, ukrasi za jelku, slatkiši",https://raw.githubusercontent.com/newsgl/arsposters/main/2625-NovogodisnjiVasarSajam.webp,,Festivals,"Традиционная Новогодняя ярмарка в Зале 1 Белградской ярмарки с 11 по 30 декабря: подарки, ёлочные украшения, сладости, игрушки и развлекательная программа. Ежедневно с 12:00 до 20:00. Ярмарка проходит в 64-й раз, вход в прошлые годы был бесплатным.","The traditional New Year Fair in Hall 1 of the Belgrade Fair from 11 to 30 December: gifts, tree decorations, sweets, toys and an entertainment programme. Daily from 12:00 to 20:00. The fair is held for the 64th time, entry was free in previous years.","Tradicionalni Novogodišnji vašar u Hali 1 Beogradskog sajma od 11. do 30. decembra: pokloni, ukrasi za jelku, slatkiši, igračke i zabavni program. Svakog dana od 12:00 do 20:00. Vašar se održava 64. put, ulaz je prethodnih godina bio besplatan.","**Новогодняя ярмарка** на Белградской ярмарке проходит с 1960-х годов, в этом сезоне в 64-й раз. С 11 по 30 декабря Зал 1 на бульваре Воеводы Мишича превращается в большой крытый базар: подарки, ёлочные украшения, сладости, игрушки, товары для дома и праздничного стола, а между рядами развлекательная программа для детей и взрослых.
+
+Ярмарка работает ежедневно с 12:00 до 20:00. Для организованных групп от 20 человек ярмарка оформляет групповые билеты, онлайн-касса на сайте Белградской ярмарки. Цену входа на этот год организатор не объявил: в прошлые годы вход был бесплатным, карточка обновится, как только появятся условия. Парковка у ярмарки платная.
+
+Ярмарка удобна тем, что она крытая: единственный большой новогодний базар Белграда, куда не страшно идти в дождь и мороз, и один из немногих, работающих до самого вечера 30 декабря.
+
+Место: Beogradski sajam, Hala 1, Bulevar vojvode Mišića 14.
+
+Время: с 11 по 30 декабря, ежедневно с 12:00 до 20:00.
+
+Цена: не объявлена, в прошлые годы вход бесплатный.","The **New Year Fair** at the Belgrade Fair has been held since the 1960s, this season for the 64th time. From 11 to 30 December Hall 1 on Bulevar vojvode Mišića becomes a large indoor bazaar: gifts, tree decorations, sweets, toys, goods for the home and the festive table, with an entertainment programme for children and adults between the rows.
+
+The fair is open daily from 12:00 to 20:00. For organised groups of 20 or more the fair issues group tickets, with an online box office on the Belgrade Fair website. The organiser has not announced this year's entry price: in previous years entry was free, and the listing will be updated as soon as the terms appear. Parking at the fair is paid.
+
+The fair's advantage is that it is indoors: the only big New Year bazaar in Belgrade that works in rain and frost, and one of the few open until the evening of 30 December.
+
+Venue: Beogradski sajam, Hall 1, Bulevar vojvode Mišića 14.
+
+Time: 11 to 30 December, daily from 12:00 to 20:00.
+
+Price: not announced, entry was free in previous years.","**Novogodišnji vašar** na Beogradskom sajmu održava se od šezdesetih godina, ove sezone 64. put. Od 11. do 30. decembra Hala 1 na Bulevaru vojvode Mišića postaje veliki zatvoreni bazar: pokloni, ukrasi za jelku, slatkiši, igračke, roba za kuću i praznični sto, a između redova zabavni program za decu i odrasle.
+
+Vašar radi svakog dana od 12:00 do 20:00. Za organizovane grupe od 20 i više osoba vašar izdaje grupne karte, onlajn blagajna je na sajtu Beogradskog sajma. Cenu ulaza za ovu godinu organizator nije objavio: prethodnih godina ulaz je bio besplatan, kartica će biti dopunjena čim se pojave uslovi. Parking kod sajma se plaća.
+
+Prednost vašara je što je zatvoren: jedini veliki novogodišnji bazar u Beogradu u koji se ide i po kiši i mrazu, i jedan od retkih koji radi do uveče 30. decembra.
+
+Mesto: Beogradski sajam, Hala 1, Bulevar vojvode Mišića 14.
+
+Vreme: od 11. do 30. decembra, svakog dana od 12:00 do 20:00.
+
+Cena: nije objavljena, prethodnih godina ulaz besplatan.",12:00,,Beogradski sajam,"Bulevar vojvode Mišića 14, Beograd","44.799400,20.446500",https://sajam.rs/en/calendar-2026/new-years-fair/,sajam.rs,https://ticketing.sajam.rs,Beogradski sajam,https://sajam.rs/,vasar@sajam.rs,+381 11 2655 831,,,,"Ярмарки и катки, Новый год, Белградская ярмарка, новогодняя ярмарка, подарки, ёлочные игрушки, базар, Сеньяк","Markets and ice rinks, New Year, Belgrade Fair, New Year fair, gifts, tree decorations, bazaar, Senjak","Vašari i klizališta, Nova godina, Beogradski sajam, novogodišnji vašar, pokloni, ukrasi za jelku, bazar, Senjak",,,"Ярмарка подарков, ёлочных украшений, сладостей и игрушек; развлекательная программа; групповые билеты от 20 человек","Vašar poklona, ukrasa za jelku, slatkiša i igračaka; zabavni program; grupne karte od 20 osoba","Fair of gifts, tree decorations, sweets and toys; entertainment programme; group tickets from 20 people",,,,,,
+12/01/2026,01/14/2027,10/27/2026,2626,Organization,SRC Tašmajdan,,,ChildrensEvent,Каток в Ледовом зале «Пионир»: катание для всех по вечерам и в выходные,Skating at the Pionir Ice Hall: public sessions in the evenings and at weekends,Klizanje u Ledenoj dvorani Pionir: rekreativni termini uveče i vikendom,https://raw.githubusercontent.com/newsgl/arsposters/main/2626-LedenaDvoranaPionir.webp,,Kids,"Крытый каток Ледового зала «Пионир» у Ташмайдана работает всю зиму: сеансы катания для всех по средам, четвергам и пятницам с 20:00, по выходным в 11:00, 14:00 и 20:00. Разовый билет 500 динаров, семейные 700 и 900, прокат коньков на кассе. Сезон до марта.","The indoor rink of the Pionir Ice Hall next to Tašmajdan runs all winter: public skating on Wednesdays, Thursdays and Fridays from 20:00, at weekends at 11:00, 14:00 and 20:00. A single ticket is 500 dinars, family tickets 700 and 900, skate hire at the box office. The season runs until March.","Zatvoreno klizalište Ledene dvorane Pionir kod Tašmajdana radi cele zime: rekreativno klizanje sredom, četvrtkom i petkom od 20:00, vikendom u 11:00, 14:00 i 20:00. Pojedinačna karta 500 dinara, porodične 700 i 900, iznajmljivanje klizaljki na blagajni. Sezona traje do marta.","Ледовый зал **«Пионир»** спортивного центра Ташмайдан это единственный в Белграде крытый каток с подтверждённым расписанием на всю зиму 2026/27: сезон открылся в конце октября и идёт до марта, а значит, кататься можно и в новогодние праздники, когда открытые катки в парках только собираются.
+
+Сеансы рекреативного катания для всех: по средам, четвергам и пятницам с 20:00 до 21:30, по субботам и воскресеньям с 11:00 до 12:30, с 14:00 до 15:30 и с 20:00 до 21:30. Расписание может сдвигаться из-за хоккейных матчей и соревнований, перед выходом лучше проверить на сайте центра или по телефону.
+
+Цены: разовый билет 500 динаров, семейный для одного родителя с ребёнком до 12 лет 700, для родителей с детьми до 12 лет 900 динаров, месячный абонемент 8 500, сезонный 18 000. Коньки дают напрокат на кассе, свои приносить можно. При катке работает школа катания: восемь занятий 6 000 динаров, пробное 1 000.
+
+Место: Ledena dvorana Pionir, Čarlija Čaplina 39, у парка Ташмайдан.
+
+Время: сеансы со среды по пятницу с 20:00, в субботу и воскресенье в 11:00, 14:00 и 20:00; сезон до марта.
+
+Цена: 500 динаров, семейные 700 и 900, прокат коньков отдельно.","The **Pionir** Ice Hall of the Tašmajdan sports centre is the only indoor rink in Belgrade with a confirmed schedule for the whole 2026/27 winter: the season opened at the end of October and runs until March, so you can skate over the New Year holidays while the open-air rinks in the parks are still being set up.
+
+Public skating sessions: Wednesdays, Thursdays and Fridays from 20:00 to 21:30, Saturdays and Sundays from 11:00 to 12:30, 14:00 to 15:30 and 20:00 to 21:30. The schedule can shift because of hockey matches and competitions, so check the centre's website or call before you go.
+
+Prices: a single ticket 500 dinars, a family ticket for one parent with a child under 12 is 700, for parents with children under 12 it is 900 dinars, a monthly pass 8,500, a season pass 18,000. Skates are hired at the box office, you can bring your own. A skating school runs at the rink: eight lessons 6,000 dinars, a trial lesson 1,000.
+
+Venue: Ledena dvorana Pionir, Čarlija Čaplina 39, next to Tašmajdan park.
+
+Time: sessions Wed to Fri from 20:00, Sat and Sun at 11:00, 14:00 and 20:00; season until March.
+
+Price: 500 dinars, family tickets 700 and 900, skate hire extra.","Ledena dvorana **Pionir** sportskog centra Tašmajdan jedino je zatvoreno klizalište u Beogradu sa potvrđenim rasporedom za celu zimu 2026/27: sezona je otvorena krajem oktobra i traje do marta, pa se kliza i tokom novogodišnjih praznika, dok se otvorena klizališta po parkovima tek postavljaju.
+
+Termini rekreativnog klizanja za sve: sredom, četvrtkom i petkom od 20:00 do 21:30, subotom i nedeljom od 11:00 do 12:30, od 14:00 do 15:30 i od 20:00 do 21:30. Raspored se može pomerati zbog hokejaških utakmica i takmičenja, pre polaska proverite na sajtu centra ili telefonom.
+
+Cene: pojedinačna karta 500 dinara, porodična za jednog roditelja sa detetom do 12 godina 700, za roditelje sa decom do 12 godina 900 dinara, mesečna 8.500, sezonska 18.000. Klizaljke se iznajmljuju na blagajni, mogu i svoje. Uz klizalište radi škola klizanja: osam časova 6.000 dinara, probni 1.000.
+
+Mesto: Ledena dvorana Pionir, Čarlija Čaplina 39, kod parka Tašmajdan.
+
+Vreme: termini od srede do petka od 20:00, subotom i nedeljom u 11:00, 14:00 i 20:00; sezona do marta.
+
+Cena: 500 dinara, porodične 700 i 900, klizaljke posebno.",11:00,500,Ledena dvorana Pionir,"Čarlija Čaplina 39, 11000 Beograd","44.815757,20.483854",https://www.danubeogradu.rs/2026/10/ledena-dvorana-pionir-klizanje-2026-27-termini-cene-ulaznica-i-skola-klizanja/,danubeogradu.rs,,SRC Tašmajdan,https://tasmajdan.rs/,ledena@tasmajdan.rs,+381 11 2766 566,,,,"Ярмарки и катки, Новый год, каток, Пионир, Ташмайдан, коньки, зима, семейный отдых","Markets and ice rinks, New Year, ice rink, Pionir, Tašmajdan, skating, winter, family","Vašari i klizališta, Nova godina, klizalište, Pionir, Tašmajdan, klizanje, zima, porodica",,,Сеанс катания 90 минут; прокат коньков на кассе отдельно; семейные билеты 700 и 900 динаров; школа катания,Termin klizanja 90 minuta; iznajmljivanje klizaljki na blagajni posebno; porodične karte 700 i 900 dinara; škola klizanja,A 90 minute skating session; skate hire at the box office extra; family tickets 700 and 900 dinars; skating school,,,,,,
