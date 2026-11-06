@@ -1,0 +1,63 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+11/7/2026,11/7/2026,11/6/2026,3136,Person,"Dušica Mladenović, Kosta Knežević",https://www.bgf.rs/,,MusicEvent,«Славянская музыкальная нить»: скрипка и фортепиано в галерее ЦКО Раковица,Slavic Musical Thread: violin and piano at the Rakovica Culture Centre gallery,„Slovenska muzička nit“: violina i klavir u Galeriji CKO Rakovica,https://raw.githubusercontent.com/newsgl/arsposters/main/3136-SlovenskaNitRakovica.webp,,Concerts,"Скрипачка Душица Младенович и пианист Коста Кнежевич играют Трайковича, Мокраняца и Шимановского. Суббота 7 ноября, 20:00, галерея Центра культуры и образования Раковица, вход свободный.","Violinist Dušica Mladenović and pianist Kosta Knežević play Trajković, Mokranjac and Szymanowski. Saturday 7 November, 20:00, gallery of the Rakovica Centre for Culture and Education, free admission.","Violinistkinja Dušica Mladenović i pijanista Kosta Knežević sviraju Trajkovića, Mokranjca i Šimanovskog. Subota, 7. novembar, 20.00, Galerija Centra za kulturu i obrazovanje Rakovica, ulaz slobodan.","Программа **«Славянская музыкальная нить»** собрана для скрипки и фортепиано: выступают скрипачка **Душица Младенович** и пианист **Коста Кнежевич**.
+
+Они играют сочинения сербских композиторов Влады Трайковича и Василия Мокраняца и поляка Кароля Шимановского.
+
+Концерт идёт дважды и на разных площадках: 7 ноября в галерее Центра культуры и образования Раковица, 14 ноября в зале Белградской филармонии. Оба вечера начинаются в 20:00, вход на оба свободный.
+
+На афише стоят логотипы Белградской филармонии, центра в Раковице и Sokoj, организации музыкальных авторов Сербии.
+
+Время: суббота, 7 ноября, 20:00.
+
+Вход: свободный.","**Slavic Musical Thread** is a programme for violin and piano with violinist **Dušica Mladenović** and pianist **Kosta Knežević**.
+
+They play works by the Serbian composers Vlada Trajković and Vasilije Mokranjac and by the Polish composer Karol Szymanowski.
+
+The concert happens twice, at two venues: on 7 November in the gallery of the Rakovica Centre for Culture and Education, and on 14 November in the hall of the Belgrade Philharmonic. Both evenings start at 20:00 and admission is free.
+
+The poster carries the logos of the Belgrade Philharmonic, the Rakovica centre and Sokoj, the Serbian music authors' organisation.
+
+Time: Saturday 7 November, 20:00.
+
+Admission: free.","Program **„Slovenska muzička nit“** sastavljen je za violinu i klavir: nastupaju violinistkinja **Dušica Mladenović** i pijanista **Kosta Knežević**.
+
+Na repertoaru su dela srpskih kompozitora Vlade Trajkovića i Vasilija Mokranjca i poljskog kompozitora Karola Šimanovskog.
+
+Koncert se izvodi dva puta, na dva mesta: 7. novembra u Galeriji Centra za kulturu i obrazovanje Rakovica i 14. novembra u Sali Beogradske filharmonije. Obe večeri počinju u 20.00, a ulaz je slobodan.
+
+Na plakatu su logotipi Beogradske filharmonije, centra u Rakovici i Sokoja, Organizacije muzičkih autora Srbije.
+
+Vreme: subota, 7. novembar, 20.00.
+
+Ulaz: slobodan.",20:00,0,Centar za kulturu i obrazovanje Rakovica,"Miška Kranjca 7, 11090 Beograd","44.744622,20.446550",https://www.sokoj.rs/slovenska-muzicka-nit/,@arsraws,,Centar za kulturu i obrazovanje Rakovica,,,,,,,"концерт, скрипка, фортепиано, классическая музыка, вход свободный, Раковица","concert, violin, piano, classical music, free entry, Rakovica","koncert, violina, klavir, klasična muzika, slobodan ulaz, Rakovica"
+11/14/2026,11/14/2026,11/6/2026,3137,Person,"Dušica Mladenović, Kosta Knežević",https://www.bgf.rs/,,MusicEvent,«Славянская музыкальная нить»: скрипка и фортепиано в зале Белградской филармонии,Slavic Musical Thread: violin and piano at the Belgrade Philharmonic Hall,„Slovenska muzička nit“: violina i klavir u Sali Beogradske filharmonije,https://raw.githubusercontent.com/newsgl/arsposters/main/3137-SlovenskaNitFilharmonija.webp,,Concerts,"Скрипачка Душица Младенович и пианист Коста Кнежевич играют Трайковича, Мокраняца и Шимановского. Суббота 14 ноября, 20:00, зал Белградской филармонии, вход свободный.","Violinist Dušica Mladenović and pianist Kosta Knežević play Trajković, Mokranjac and Szymanowski. Saturday 14 November, 20:00, Belgrade Philharmonic Hall, free admission.","Violinistkinja Dušica Mladenović i pijanista Kosta Knežević sviraju Trajkovića, Mokranjca i Šimanovskog. Subota, 14. novembar, 20.00, Sala Beogradske filharmonije, ulaz slobodan.","Программа **«Славянская музыкальная нить»** собрана для скрипки и фортепиано: выступают скрипачка **Душица Младенович** и пианист **Коста Кнежевич**.
+
+Они играют сочинения сербских композиторов Влады Трайковича и Василия Мокраняца и поляка Кароля Шимановского.
+
+Концерт идёт дважды и на разных площадках: 7 ноября в галерее Центра культуры и образования Раковица, 14 ноября в зале Белградской филармонии. Оба вечера начинаются в 20:00, вход на оба свободный.
+
+На афише стоят логотипы Белградской филармонии, центра в Раковице и Sokoj, организации музыкальных авторов Сербии.
+
+Время: суббота, 14 ноября, 20:00.
+
+Вход: свободный.","**Slavic Musical Thread** is a programme for violin and piano with violinist **Dušica Mladenović** and pianist **Kosta Knežević**.
+
+They play works by the Serbian composers Vlada Trajković and Vasilije Mokranjac and by the Polish composer Karol Szymanowski.
+
+The concert happens twice, at two venues: on 7 November in the gallery of the Rakovica Centre for Culture and Education, and on 14 November in the hall of the Belgrade Philharmonic. Both evenings start at 20:00 and admission is free.
+
+The poster carries the logos of the Belgrade Philharmonic, the Rakovica centre and Sokoj, the Serbian music authors' organisation.
+
+Time: Saturday 14 November, 20:00.
+
+Admission: free.","Program **„Slovenska muzička nit“** sastavljen je za violinu i klavir: nastupaju violinistkinja **Dušica Mladenović** i pijanista **Kosta Knežević**.
+
+Na repertoaru su dela srpskih kompozitora Vlade Trajkovića i Vasilija Mokranjca i poljskog kompozitora Karola Šimanovskog.
+
+Koncert se izvodi dva puta, na dva mesta: 7. novembra u Galeriji Centra za kulturu i obrazovanje Rakovica i 14. novembra u Sali Beogradske filharmonije. Obe večeri počinju u 20.00, a ulaz je slobodan.
+
+Na plakatu su logotipi Beogradske filharmonije, centra u Rakovici i Sokoja, Organizacije muzičkih autora Srbije.
+
+Vreme: subota, 14. novembar, 20.00.
+
+Ulaz: slobodan.",20:00,0,Sala Beogradske filharmonije,"Studentski trg 11, Beograd","44.819232,20.455808",https://www.sokoj.rs/slovenska-muzicka-nit/,@arsraws,,Beogradska filharmonija,https://www.bgf.rs/,,,,,,"концерт, скрипка, фортепиано, классическая музыка, вход свободный, Белградская филармония","concert, violin, piano, classical music, free entry, Belgrade Philharmonic","koncert, violina, klavir, klasična muzika, slobodan ulaz, Beogradska filharmonija"
