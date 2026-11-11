@@ -1,0 +1,44 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+11/18/2026,11/18/2026,11/11/2026,3351,Organization,XM,https://www.xm.com/,,EducationEvent,Бесплатный семинар по трейдингу от брокера XM в отеле Metropol Palace,Free trading seminar by broker XM at Hotel Metropol Palace,Besplatan seminar o trgovanju brokerske kuće XM u hotelu Metropol Palace,https://raw.githubusercontent.com/newsgl/arsposters/main/3351-SeminarTrgovanjaXMMetropol.webp,,Lectures,"Брокер XM проводит бесплатный семинар по трейдингу на сербском: стратегии, анализ рынка и управление риском, для новичков и опытных трейдеров. Среда 18 ноября, с 18:00 до 21:30, отель Metropol Palace, 100 мест по предварительной регистрации.","Broker XM runs a free trading seminar in Serbian on strategies, market analysis and risk management, for beginners and experienced traders. Wednesday 18 November, 18:00 to 21:30, Hotel Metropol Palace, 100 places, registration required.","Brokerska kuća XM organizuje besplatan seminar o trgovanju na srpskom: strategije, analiza tržišta i upravljanje rizikom, za početnike i iskusne trejdere. Sreda, 18. novembar, od 18 do 21.30, hotel Metropol Palace, 100 mesta uz prethodnu prijavu.","Брокерская компания **XM** проводит в Белграде бесплатный обучающий семинар по трейдингу. Он рассчитан и на новичков, и на опытных трейдеров, которые хотят торговать увереннее.
+
+В программе практические стратегии и разбор рынка: техники торговли, **управление риском** и поиск возможностей на глобальном рынке. Семинар целиком идёт на сербском языке. После официальной части участников ждут угощение и время для общения.
+
+Мест 100, участие только по предварительной регистрации. Регистрация идёт через личный кабинет XM на my.xmglobal.com, без аккаунта XM на страницу не попасть.
+
+Важно: XM работает с CFD. Сам брокер предупреждает, что это сложные инструменты с высоким риском быстрой потери денег из-за кредитного плеча.
+
+Место: отель Metropol Palace, Bulevar kralja Aleksandra 69.
+
+Время: среда, 18 ноября, с 18:00 до 21:30.
+
+Цена: бесплатно, по регистрации.
+
+Язык: сербский.","Brokerage **XM** is holding a free educational trading seminar in Belgrade. It is aimed both at beginners and at experienced traders who want to trade with more confidence.
+
+The programme covers practical strategies and market analysis: trading techniques, **risk management** and spotting opportunities on the global market. The whole seminar is in Serbian. After the formal part there are refreshments and time to talk.
+
+There are 100 places and attendance is by advance registration only. Registration goes through the XM client area at my.xmglobal.com, and you need an XM account to reach the page.
+
+Note: XM deals in CFDs. The broker itself warns that these are complex instruments with a high risk of losing money rapidly due to leverage.
+
+Venue: Hotel Metropol Palace, Bulevar kralja Aleksandra 69.
+
+Time: Wednesday 18 November, 18:00 to 21:30.
+
+Price: free, registration required.
+
+Language: Serbian.","Brokerska kuća **XM** organizuje u Beogradu besplatan edukativni seminar o trgovanju. Namenjen je i početnicima i iskusnim trejderima koji žele da trguju sigurnije.
+
+Na programu su praktične strategije i analiza tržišta: tehnike trgovanja, **upravljanje rizikom** i prepoznavanje prilika na globalnom tržištu. Ceo seminar je na srpskom jeziku. Posle zvaničnog dela učesnike čeka posluženje i vreme za razgovor.
+
+Broj mesta je 100, a učešće je moguće samo uz prethodnu prijavu. Prijava ide preko korisničkog naloga XM na my.xmglobal.com, pa je za nju potreban XM nalog.
+
+Važno: XM posluje sa CFD instrumentima. Sam broker upozorava da su to složeni instrumenti sa visokim rizikom brzog gubitka novca zbog finansijske poluge.
+
+Mesto: hotel Metropol Palace, Bulevar kralja Aleksandra 69.
+
+Vreme: sreda, 18. novembar, od 18 do 21.30.
+
+Cena: besplatno, uz prijavu.
+
+Jezik: srpski.",18:00,,Metropol Palace,"Bulevar kralja Aleksandra 69, 11000 Beograd","44.806788,20.473775",https://www.xm.com/,njovanovic@xm.com,https://my.xmglobal.com/upcoming-seminars,XM,https://www.xm.com/,,,,100,,"трейдинг, финансы, семинар, XM, Metropol Palace","trading, finance, seminar, XM, Metropol Palace","trejding, finansije, seminar, XM, Metropol Palace"
