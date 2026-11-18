@@ -1,0 +1,569 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+11/20/2026,11/20/2026,11/18/2026,3497,Person,Олег Яковлев,https://t.me/belavrana/1906,ru,EducationEvent,«Невидимые миры»: лекция Олега Яковлева об экзопланетах в «Белой Вороне»,Invisible Worlds: Oleg Yakovlev's lecture on exoplanets at Bela Vrana,„Nevidljivi svetovi“: predavanje Olega Jakovljeva o egzoplanetama u Beloj Vrani,https://raw.githubusercontent.com/newsgl/arsposters/main/3497-NevidimyeMiryBelaVrana.webp,,Lectures,"Олег Яковлев, работавший астрономом в обсерваториях и научном институте, рассказывает в «Белой Вороне» об экзопланетах: как их находят, насколько они далеко и какие из тысяч открытых миров теоретически подошли бы для жизни. Час, 1000 динаров, по записи.","Oleg Yakovlev, who has worked as an astronomer at observatories and a research institute, talks at Bela Vrana about exoplanets: how they are found, how far away they are and which of the thousands known could in theory support life. One hour, 1,000 dinars, booking required. In Russian.","Oleg Jakovljev, koji je radio kao astronom u opservatorijama i naučnom institutu, govori u Beloj Vrani o egzoplanetama: kako se otkrivaju, koliko su daleko i koji od hiljada poznatih svetova bi u teoriji mogli da podrže život. Sat vremena, 1.000 dinara, uz prijavu. Na ruskom.","Книжное пространство **«Белая Ворона»** приглашает на научно-популярную лекцию об **экзопланетах**. Ещё недавно воображаемое космическое путешествие ограничивалось планетами Солнечной системы, а сегодня астрономам известны тысячи планет у других звёзд, и у каждой свои особенности.
+
+Лектор расскажет, какими бывают экзопланеты, как астрономы обнаруживают их у других звёзд и что можно узнать о мирах, которые невозможно увидеть напрямую. Отдельно речь пойдёт о расстояниях до далёких планет и возможностях космических путешествий. В конце слушатели сравнят характеристики разных миров, как в своеобразном космическом Booking, и попробуют разобраться, какие из них теоретически подошли бы для жизни.
+
+Лекцию читает **Олег Яковлев**, исследователь в области астрономии и космонавтики. Он работал астрономом в нескольких обсерваториях и научном институте, преподавал физику и опирается в выступлениях на собственный исследовательский опыт.
+
+Вход по записи через бота @belavrana_bot.
+
+Место: «Белая Ворона», Gavrila Principa 29.
+
+Время: пятница, 20 ноября, с 19:00 до 20:00.
+
+Цена: 1000 динаров.
+
+Язык: русский.","The **Bela Vrana** bookshop and space hosts a popular science lecture on **exoplanets**. Not long ago an imaginary space journey could only go to the planets of our Solar System; today astronomers know thousands of planets around other stars, each with its own features.
+
+The lecturer explains what kinds of exoplanets exist, how astronomers detect planets around other stars and what can be learned about worlds that cannot be seen directly. He also talks about the distances to faraway planets and the possibilities of space travel. At the end the audience compares different worlds side by side, a kind of cosmic Booking, and tries to work out which of them could in theory support life.
+
+The lecture is given by **Oleg Yakovlev**, a researcher in astronomy and space science. He has worked as an astronomer at several observatories and a research institute, has taught physics and draws on his own research experience.
+
+Booking via the @belavrana_bot bot.
+
+Venue: Bela Vrana, Gavrila Principa 29.
+
+Time: Friday 20 November, 19:00 to 20:00.
+
+Price: 1,000 dinars.
+
+Language: Russian.","Knjižarski prostor **Bela Vrana** poziva na naučno-popularno predavanje o **egzoplanetama**. Donedavno je zamišljeno putovanje kroz svemir moglo da vodi samo do planeta Sunčevog sistema, a danas astronomi znaju za hiljade planeta oko drugih zvezda, i svaka ima svoje osobine.
+
+Predavač objašnjava kakve sve egzoplanete postoje, kako ih astronomi otkrivaju oko drugih zvezda i šta se može saznati o svetovima koji se ne mogu direktno videti. Biće reči i o udaljenostima do dalekih planeta i mogućnostima svemirskih putovanja. Na kraju publika upoređuje osobine različitih svetova, kao na nekoj vrsti kosmičkog Bookinga, i pokušava da proceni koji bi od njih u teoriji mogli da podrže život.
+
+Predavanje drži **Oleg Jakovljev**, istraživač u oblasti astronomije i kosmonautike. Radio je kao astronom u nekoliko opservatorija i u naučnom institutu, predavao je fiziku i u izlaganjima se oslanja na sopstveno istraživačko iskustvo.
+
+Prijava preko bota @belavrana_bot.
+
+Mesto: Bela Vrana, Gavrila Principa 29.
+
+Vreme: petak, 20. novembar, od 19 do 20 časova.
+
+Cena: 1.000 dinara.
+
+Jezik: ruski.",19:00,1000,Bela Vrana,"Gavrila Principa 29, 11000 Beograd","44.812466,20.455659",https://t.me/belavrana/1906,@belavrana,https://t.me/belavrana_bot,Bela Vrana,https://t.me/belavrana,,,,,,"лекция, астрономия, экзопланеты, наука, Белая Ворона, на русском","lecture, astronomy, exoplanets, science, Bela Vrana, in Russian","predavanje, astronomija, egzoplanete, nauka, Bela Vrana, na ruskom"
+11/17/2026,12/05/2026,11/18/2026,3566,Organization,Kuća Đure Jakšića,https://t.me/sta_imas_beograd/5014,,Festival,"«Дни Джуры Якшича» в его доме на Скадарлии: выставки, стихи и концерты","Days of Đura Jakšić at his house in Skadarlija: exhibitions, poetry, concerts","„Dani Đure Jakšića“ u njegovoj kući na Skadarliji: izložbe, poezija, koncerti",https://raw.githubusercontent.com/newsgl/arsposters/main/3566-DaniDjureJaksica.webp,,Festivals,"Ежегодный фестиваль в честь Джуры Якшича, поэта и художника эпохи романтизма, идёт в его доме на Скадарлии до 5 декабря: выставки, поэтические вечера, камерные концерты и спектакли. До 25 ноября открыта выставка портретов Углеши Цолича. Вход на все события свободный.","The annual festival in honour of Đura Jakšić, the Romantic-era poet and painter, runs at his house in Skadarlija until 5 December: exhibitions, poetry evenings, chamber concerts and plays. Uglješa Colić's portrait exhibition is open until 25 November. All events are free.","Godišnji festival posvećen Đuri Jakšiću, pesniku i slikaru romantizma, traje u njegovoj kući na Skadarliji do 5. decembra: izložbe, pesničke večeri, kamerni koncerti i predstave. Izložba portreta Uglješe Colića otvorena je do 25. novembra. Ulaz na sve programe je slobodan.","В Доме Джуры Якшича на Скадарлии 17 ноября открылся ежегодный фестиваль **«Дни Джуры Якшича»**, посвящённый сербскому поэту и художнику эпохи романтизма. Программа продлится до 5 декабря: выставки, поэтические вечера, камерные концерты и театральные постановки.
+
+На открытии выступили писатель Радомир Андрич, Миодраг Якшич, Катарина Симийонович и вокальный ансамбль «Гледанице». В тот же вечер открылась выставка новосадского художника **Углеши Цолича** «Лица сербского искусства», около тридцати портретов выдающихся деятелей культуры. Её можно посмотреть до 25 ноября включительно.
+
+Расписание остальных вечеров в анонсе не опубликовано, даты и часы конкретных событий стоит уточнять у площадки. Дом Джуры Якшича работает как культурный центр общины Стари-Град.
+
+Место: Kuća Đure Jakšića, Skadarska 34.
+
+Даты: с 17 ноября по 5 декабря, открытие 17 ноября в 18:00.
+
+Вход свободный на все события фестиваля.","The annual **Days of Đura Jakšić** festival, devoted to the Serbian Romantic-era poet and painter, opened on 17 November at his house in Skadarlija. The programme runs until 5 December and brings together exhibitions, poetry evenings, chamber concerts and theatre.
+
+The opening featured the writer Radomir Andrić, Miodrag Jakšić, Katarina Simijonović and the vocal ensemble Gledanice. The same evening saw the opening of Faces of Serbian Art, an exhibition by the Novi Sad painter **Uglješa Colić** with around thirty portraits of leading cultural figures. It stays open until 25 November inclusive.
+
+The schedule of the other evenings has not been published in the announcement, so check dates and times of individual events with the venue. The Đura Jakšić House is a cultural centre of the Stari Grad municipality.
+
+Venue: Kuća Đure Jakšića, Skadarska 34.
+
+Dates: 17 November to 5 December, opening on 17 November at 18:00.
+
+Free entry to all festival events.","U Kući Đure Jakšića na Skadarliji 17. novembra otvoren je godišnji festival **„Dani Đure Jakšića“**, posvećen srpskom pesniku i slikaru romantizma. Program traje do 5. decembra: izložbe, pesničke večeri, kamerni koncerti i pozorišne predstave.
+
+Na otvaranju su nastupili pisac Radomir Andrić, Miodrag Jakšić, Katarina Simijonović i vokalni ansambl „Gledanice“. Iste večeri otvorena je izložba novosadskog slikara **Uglješe Colića** „Lica srpske umetnosti“, tridesetak portreta istaknutih stvaralaca. Može se pogledati zaključno sa 25. novembrom.
+
+Raspored ostalih večeri u najavi nije objavljen, pa datume i satnicu pojedinačnih programa treba proveriti kod domaćina. Kuća Đure Jakšića radi kao kulturni centar opštine Stari grad.
+
+Mesto: Kuća Đure Jakšića, Skadarska 34.
+
+Datumi: od 17. novembra do 5. decembra, otvaranje 17. novembra u 18 časova.
+
+Ulaz na sve programe festivala je slobodan.",18:00,0,Kuća Đure Jakšića,"Skadarska 34, 11000 Beograd","44.817775,20.464426",https://t.me/sta_imas_beograd/5014,@sta_imas_beograd,,Kuća Đure Jakšića,,,,,,,"фестиваль, поэзия, выставка, Скадарлия, бесплатно","festival, poetry, exhibition, Skadarlija, free","festival, poezija, izložba, Skadarlija, besplatno"
+12/02/2026,12/07/2026,11/18/2026,3567,MusicGroup,"Motherfunkers, Loup Garou, Cotton Pickers, Bullet for a Badman, Jet Clock Project, Ritual Trio",https://www.cukafest.rs/,,MusicFestival,"Čukafest 12: шесть вечеров музыки на Чукарице, от блюза и фанка до хора","Čukafest 12: six nights of music in Čukarica, from blues and funk to choirs","Čukafest 12: šest muzičkih večeri na Čukarici, od bluza i fanka do hora",https://raw.githubusercontent.com/newsgl/arsposters/main/3567-Cukafest12.webp,,"Concerts, Festivals","Двенадцатый Čukafest: со 2 по 7 декабря на пяти площадках Чукарицы выступают Motherfunkers, Loup Garou, Cotton Pickers, Bullet for a Badman, оркестр аккордеонистов «Соня Маринкович», Ritual Trio и хоры. Вход на все концерты свободный.","The twelfth Čukafest: from 2 to 7 December five venues in Čukarica host Motherfunkers, Loup Garou, Cotton Pickers, Bullet for a Badman, the Sonja Marinković accordion orchestra, Ritual Trio and choirs. All concerts are free.","Dvanaesti Čukafest: od 2. do 7. decembra na pet lokacija na Čukarici nastupaju Motherfunkers, Loup Garou, Cotton Pickers, Bullet for a Badman, orkestar harmonika AKUD „Sonja Marinković“, Ritual trio i horovi. Ulaz na sve koncerte je slobodan.","**Čukafest** проходит в двенадцатый раз: шесть дней, больше ста музыкантов и площадки по всей Чукарице. Фестиваль делает художественное объединение Jet Clock вместе с КЦ «Чукарица», жанры от хорового пения и классики до джаза, фанка и блюз-рока.
+
+2 декабря, Vox Blues Club: Motherfunkers в 21:00, Loup Garou в 22:00, Cotton Pickers в 23:00.
+
+3 декабря, FAKS в Шечеране: DJ Jedan Nenad с 20:30, Bullet for a Badman в 21:30, Jet Clock Project основателя фестиваля Деяна Ресановича в 22:30.
+
+4 декабря, малый зал КЦ «Чукарица», 20:00: оркестр аккордеонистов AKUD «Sonja Marinković», в программе Бах, Моцарт, Равель, Бизе.
+
+5 декабря, там же, 20:00: Ritual Trio с программой «Миф и мистерия» (Григ, де Фалья, Сати).
+
+6 декабря, храм Святой Петки на Чукаричкой падине, 18:00: хор «Святые Иоаким и Анна».
+
+7 декабря, Галерея 73 на Бановом брде, 18:00: концерт молодых талантов.
+
+Вход на все концерты свободный, 6 декабря добровольный взнос в пользу храма и хора. По традиции фестиваля зрители приносят зимние вещи для детей из приюта «Свратиште».","**Čukafest** returns for the twelfth time: six days, more than a hundred musicians and venues across Čukarica. The festival is run by the Jet Clock arts association with KC Čukarica, and the styles range from choral singing and classical music to jazz, funk and blues rock.
+
+2 December, Vox Blues Club: Motherfunkers at 21:00, Loup Garou at 22:00, Cotton Pickers at 23:00.
+
+3 December, FAKS at Šećerana: DJ Jedan Nenad from 20:30, Bullet for a Badman at 21:30, Jet Clock Project of festival founder Dejan Resanović at 22:30.
+
+4 December, KC Čukarica small hall, 20:00: the AKUD Sonja Marinković accordion orchestra plays Bach, Mozart, Ravel and Bizet.
+
+5 December, same hall, 20:00: Ritual Trio with Myth and Mystery (Grieg, de Falla, Satie).
+
+6 December, Church of St Petka in Čukarička Padina, 18:00: the Saints Joachim and Anna choir.
+
+7 December, Galerija 73 in Banovo Brdo, 18:00: a young talents concert.
+
+All concerts are free; on 6 December there is a voluntary contribution for the church and the choir. By festival tradition, visitors bring winter clothes for the children of the Svratište shelter.","**Čukafest** se održava dvanaesti put: šest dana, više od sto muzičara i lokacije širom Čukarice. Festival pravi umetničko udruženje „Jet Clock“ u saradnji sa KC „Čukarica“, a žanrovi idu od horskog pevanja i klasike do džeza, fanka i bluz-roka.
+
+2. decembar, Vox Blues Club: Motherfunkers u 21 čas, Loup Garou u 22, Cotton Pickers u 23.
+
+3. decembar, FAKS u Šećerani: DJ Jedan Nenad od 20.30, Bullet for a Badman u 21.30, Jet Clock Project osnivača festivala Dejana Resanovića u 22.30.
+
+4. decembar, mala sala KC „Čukarica“, 20 časova: orkestar harmonika AKUD „Sonja Marinković“, na programu Bah, Mocart, Ravel, Bize.
+
+5. decembar, isto mesto, 20 časova: Ritual trio sa programom „Mit i misterija“ (Grig, de Falja, Sati).
+
+6. decembar, Hram Svete Petke na Čukaričkoj padini, 18 časova: hor „Sveti Joakim i Ana“.
+
+7. decembar, Galerija 73 na Banovom brdu, 18 časova: koncert mladih talenata.
+
+Ulaz na sve koncerte je slobodan, 6. decembra uz dobrovoljni prilog za hram i hor. Po tradiciji festivala posetioci donose zimske stvari za decu iz Svratišta.",21:00,0,Razne lokacije na Čukarici,"Vox Blues Club, FAKS, KC Čukarica, Hram Svete Petke, Galerija 73 (Čukarica, Beograd)","44.783240,20.417517",https://www.cukafest.rs/,cukafest.rs,,"Umetničko udruženje „Jet Clock“, KC „Čukarica“",https://www.cukafest.rs/,,,,,,"фестиваль, блюз, фанк, классика, Чукарица, бесплатно","festival, blues, funk, classical, Čukarica, free","festival, bluz, fank, klasika, Čukarica, besplatno"
+12/05/2026,12/05/2026,11/18/2026,3568,Organization,Nacionalno udruženje „Alergija i ja“,https://t.me/sta_imas_beograd/5017,,Festival,Третий Gluten Free Festival в BEO Shopping Center: без глютена к праздникам,The third Gluten Free Festival at BEO Shopping Center: holiday food without gluten,Treći Gluten Free Festival u BEO Shopping Centru: praznici bez glutena,https://raw.githubusercontent.com/newsgl/arsposters/main/3568-GlutenFreeFestivalBEO.webp,,Festivals,"Фестиваль безглютенового питания, целиакии и пищевых аллергий: производители продуктов без глютена, бесплатные дегустации, мастер-классы с безглютеновой мукой, лекции врачей и нутрициологов, детская зона. Суббота, 5 декабря, с 10 до 22 часов, вход свободный.","A festival on gluten-free eating, coeliac disease and food allergies: gluten-free producers, free tastings, workshops with gluten-free flour, talks by doctors and nutritionists, and a kids' zone. Saturday 5 December, 10:00 to 22:00, free entry.","Festival posvećen ishrani bez glutena, celijakiji i alergijama na hranu: proizvođači bezglutenskih proizvoda, besplatne degustacije, radionice sa bezglutenskim brašnom, predavanja lekara i nutricionista i dečja zona. Subota, 5. decembar, od 10 do 22 časa, ulaz slobodan.","В холле **BEO Shopping Center** 5 декабря проходит третий **Gluten Free Festival**, посвящённый безглютеновому питанию, целиакии и пищевым аллергиям. Организатор: Национальная ассоциация «Alergija i ja».
+
+Сербские производители и поставщики продуктов без глютена привозят выпечку, сладости, бакалею и готовые блюда. Новинки можно попробовать на бесплатных дегустациях, а сертифицированные товары купить к новогодним праздникам.
+
+Весь день идут кулинарные мастер-классы по работе с безглютеновой мукой и праздничным десертам, лекции врачей и нутрициологов. На стенде ассоциации бесплатно консультируют специалисты по питанию и психологи. Для детей устроят игровую зону с пластилином из безглютеновой муки.
+
+Место: BEO Shopping Center, Vojislava Ilića 141, Вождовац.
+
+Время: суббота, 5 декабря, с 10:00 до 22:00.
+
+Вход свободный.","On 5 December the hall of **BEO Shopping Center** hosts the third **Gluten Free Festival**, devoted to gluten-free eating, coeliac disease and food allergies. It is organised by the national association Alergija i ja.
+
+Serbian producers and suppliers of gluten-free food bring pastries, sweets, groceries and ready meals. New products can be tried at free tastings, and certified goods bought for the New Year holidays.
+
+Throughout the day there are cooking workshops on working with gluten-free flour and making festive desserts, as well as talks by doctors and nutritionists. At the association's stand, nutrition specialists and psychologists give free consultations. Children get a play area with modelling dough made from gluten-free flour.
+
+Venue: BEO Shopping Center, Vojislava Ilića 141, Voždovac.
+
+Time: Saturday 5 December, 10:00 to 22:00.
+
+Free entry.","U holu **BEO Shopping Centra** 5. decembra održava se treći **Gluten Free Festival**, posvećen ishrani bez glutena, celijakiji i alergijama na hranu. Organizator je Nacionalno udruženje „Alergija i ja“.
+
+Srpski proizvođači i dobavljači bezglutenske hrane donose peciva, slatkiše, namirnice i gotova jela. Novitete možete probati na besplatnim degustacijama, a sertifikovane proizvode kupiti za novogodišnje praznike.
+
+Celog dana traju kulinarske radionice o radu sa bezglutenskim brašnom i pripremi prazničnih poslastica, kao i predavanja lekara i nutricionista. Na štandu udruženja nutricionisti i psiholozi besplatno savetuju posetioce. Za decu je predviđena igraonica sa plastelinom od bezglutenskog brašna.
+
+Mesto: BEO Shopping Center, Vojislava Ilića 141, Voždovac.
+
+Vreme: subota, 5. decembar, od 10 do 22 časa.
+
+Ulaz slobodan.",10:00,0,BEO Shopping Center,"Vojislava Ilića 141, 11050 Beograd","44.786732,20.502559",https://t.me/sta_imas_beograd/5017,@sta_imas_beograd,,Nacionalno udruženje „Alergija i ja“,,,,,,,"фестиваль, без глютена, еда, дегустация, бесплатно","festival, gluten-free, food, tasting, free","festival, bez glutena, hrana, degustacija, besplatno"
+11/22/2026,11/22/2026,11/18/2026,3569,Person,"Артём Юровский, Анна Левковцева",https://www.instagram.com/artem_yurovskiy,,ChildrensEvent,«Jazz вокруг нас»: детский джазовый концерт для скрипки и фортепиано в Ludwig Land,Jazz Around Us: a children's jazz concert for violin and piano at Ludwig Land,„Jazz oko nas“: dečji džez koncert za violinu i klavir u Ludwig Landu,https://raw.githubusercontent.com/newsgl/arsposters/main/3569-JazzOkoNasLudwigLand.webp,,"Kids, Concerts","Джазовый скрипач Артём Юровский и пианистка Анна Левковцева знакомят детей от 3 до 8 лет с джазом через живую музыку: свинг, импровизация, игра в ритм, а в конце можно рассмотреть инструменты. Воскресенье, 11:00, детский билет 2000, взрослый 1000 динаров.","Jazz violinist Artyom Yurovsky and pianist Anna Levkovtseva introduce children aged 3 to 8 to jazz through live music: swing, improvisation, rhythm games, and a close look at the instruments at the end. Sunday at 11:00, 2,000 dinars for a child, 1,000 for an adult.","Džez violinista Artem Jurovski i pijanistkinja Ana Levkovceva upoznaju decu od 3 do 8 godina sa džezom kroz živu muziku: sving, improvizacija, igra ritma, a na kraju i instrumenti izbliza. Nedelja u 11 časova, dečja karta 2.000, karta za odrasle 1.000 dinara.","Концерт **«Jazz вокруг нас»** в музыкальной школе Ludwig Land объясняет детям джаз без лекций: музыканты просто начинают играть и зовут присоединиться. Дети услышат, как разговаривают скрипка и фортепиано, и узнают, откуда берётся импровизация.
+
+По ходу концерта все вместе ловят ритм, повторяют музыкальную фразу или придумывают свою. В конце инструменты можно рассмотреть поближе.
+
+Играют **Артём Юровский**, джазовый скрипач и импровизатор, полуфиналист сербского шоу Ja imam supertalenat, и **Анна Левковцева**, джазовая пианистка, выпускница Российской академии музыки имени Гнесиных и лауреат джазовых фестивалей.
+
+Концерт для детей от 3 до 8 лет, идёт на русском и сербском языках, мест немного. Детский билет не включает билет для взрослого. Постоянным гостям и ученикам школы скидка 10%. Бронь у @Maria_Kirchanova в телеграме.
+
+Место: Ludwig Land, Svetogorska 46.
+
+Время: воскресенье, 22 ноября, 11:00.
+
+Цена: детский билет 2000 динаров, взрослый 1000.","The **Jazz Around Us** concert at the Ludwig Land music school explains jazz to children without a lecture: the musicians simply start playing and invite the kids to join in. Children hear the violin and the piano talk to each other and find out where improvisation comes from.
+
+During the concert everyone tries to catch the rhythm, repeat a musical phrase or invent their own. At the end the instruments can be seen up close.
+
+Playing are **Artyom Yurovsky**, a jazz violinist and improviser who reached the semi-final of the Serbian show Ja imam supertalenat, and **Anna Levkovtseva**, a jazz pianist, graduate of the Gnessin Russian Academy of Music and a jazz festival prize-winner.
+
+The concert is for children aged 3 to 8, in Russian and Serbian, with limited seats. A child's ticket does not include an accompanying adult. Regular guests and pupils of the school get 10% off. Book with @Maria_Kirchanova on Telegram.
+
+Venue: Ludwig Land, Svetogorska 46.
+
+Time: Sunday 22 November, 11:00.
+
+Price: 2,000 dinars for a child, 1,000 for an adult.","Koncert **„Jazz oko nas“** u muzičkoj školi Ludwig Land objašnjava deci džez bez predavanja: muzičari jednostavno počnu da sviraju i pozovu decu da im se pridruže. Deca će čuti kako violina i klavir razgovaraju i saznati odakle dolazi improvizacija.
+
+Tokom koncerta svi zajedno hvataju ritam, ponavljaju muzičku frazu ili smišljaju svoju. Na kraju instrumenti mogu da se pogledaju izbliza.
+
+Sviraju **Artem Jurovski**, džez violinista i improvizator, polufinalista emisije Ja imam supertalenat, i **Ana Levkovceva**, džez pijanistkinja, diplomac Ruske muzičke akademije „Gnjesini“ i laureat džez festivala.
+
+Koncert je za decu od 3 do 8 godina, na ruskom i srpskom jeziku, broj mesta je ograničen. Dečja karta ne uključuje kartu za pratioca. Stalni gosti i učenici škole imaju popust od 10%. Rezervacije kod @Maria_Kirchanova na Telegramu.
+
+Mesto: Ludwig Land, Svetogorska 46.
+
+Vreme: nedelja, 22. novembar, u 11 časova.
+
+Cena: dečja karta 2.000 dinara, za odrasle 1.000.",11:00,1000,Ludwig Land Music and Art School,"Svetogorska 46, 11000 Beograd","44.812743,20.469795",https://t.me/mamakudaidem/2920,@mamakudaidem,https://t.me/Maria_Kirchanova,Ludwig Land Music and Art School,,,,,,,"дети, джаз, концерт для детей, скрипка, Ludwig Land","kids, jazz, children's concert, violin, Ludwig Land","deca, džez, koncert za decu, violina, Ludwig Land"
+11/22/2026,11/22/2026,11/18/2026,3570,Organization,Hobbit House,https://t.me/mamakudaidem/2924,ru,EducationEvent,DIY-вечер в «Хоббит Хаусе»: мастерская с инструментами для своих проектов,DIY afternoon at Hobbit House: a workshop with tools for your own projects,DIY popodne u Hobbit Houseu: radionica sa alatom za sopstvene projekte,https://raw.githubusercontent.com/newsgl/arsposters/main/3570-DIYHobbitHouse2211.webp,,Master classes,"Открытая мастерская для тех, кто любит делать руками: приходите со своим проектом или придумайте идею на месте. Швейная машинка, инструменты для кожи и литья, дремель, стеклорез, столярная мастерская. Воскресенье, с 15 до 18 часов, донейшн от 700 динаров, запись обязательна.","An open workshop for people who like making things by hand: bring your own project or come up with an idea on the spot. Sewing machine, leather and casting tools, Dremel, glass cutter, woodworking corner. Sunday 15:00 to 18:00, donation from 700 dinars, booking required. In Russian.","Otvorena radionica za sve koji vole da prave nešto svojim rukama: dođite sa svojim projektom ili osmislite ideju na licu mesta. Šivaća mašina, alat za kožu i livenje, dremel, rezač stakla, stolarska radionica. Nedelja od 15 do 18 časova, donacija od 700 dinara, prijava obavezna. Na ruskom.","**«Хоббит Хаус»** на Палилуле устраивает DIY-вечера: открытую мастерскую для всех, кто любит творить руками. Можно прийти со своим проектом или придумать идею вместе с ведущей.
+
+В распоряжении участников швейная машинка, инструменты для работы с кожей и литья, аэрогриль для запекания полимерной глины, дремель и стеклорез, столярная мастерская и разные материалы для творчества. С собой стоит взять материалы под свой проект и что-нибудь вкусное к чаю.
+
+Встреча состоится, если запишутся минимум три участника, поэтому запись обязательна: @ksenka0611 в телеграме, там же можно задать вопросы.
+
+Место: Hobbit House, Draže Pavlovića 21.
+
+Время: воскресенье, 22 ноября, с 15:00 до 18:00.
+
+Цена: донейшн от 700 динаров.
+
+Язык: русский.","**Hobbit House** in Palilula runs DIY evenings: an open workshop for everyone who likes making things by hand. You can come with your own project or work out an idea together with the host.
+
+Participants can use a sewing machine, leather and casting tools, an air fryer for baking polymer clay, a Dremel and a glass cutter, a woodworking corner and various craft materials. Bring materials for your project and something tasty to go with tea.
+
+The session goes ahead if at least three people sign up, so booking is required: @ksenka0611 on Telegram, where you can also ask questions.
+
+Venue: Hobbit House, Draže Pavlovića 21.
+
+Time: Sunday 22 November, 15:00 to 18:00.
+
+Price: donation from 700 dinars.
+
+Language: Russian.","**Hobbit House** na Paliluli organizuje DIY večeri: otvorenu radionicu za sve koji vole da stvaraju rukama. Možete doći sa svojim projektom ili zajedno sa voditeljkom osmisliti ideju.
+
+Učesnicima su na raspolaganju šivaća mašina, alat za rad sa kožom i livenje, erfrajer za pečenje polimerne gline, dremel i rezač stakla, stolarska radionica i razni materijali za kreativni rad. Ponesite materijal za svoj projekat i nešto slatko uz čaj.
+
+Radionica se održava ako se prijave najmanje tri učesnika, zato je prijava obavezna: @ksenka0611 na Telegramu, gde možete postaviti i pitanja.
+
+Mesto: Hobbit House, Draže Pavlovića 21.
+
+Vreme: nedelja, 22. novembar, od 15 do 18 časova.
+
+Cena: donacija od 700 dinara.
+
+Jezik: ruski.",15:00,700,Hobbit House,"Draže Pavlovića 21, 11060 Beograd","44.813827,20.476530",https://t.me/mamakudaidem/2924,@mamakudaidem,https://t.me/ksenka0611,Hobbit House,,,,,,,"мастер-класс, DIY, рукоделие, мастерская, Hobbit House, на русском","workshop, DIY, crafts, makerspace, Hobbit House, in Russian","radionica, DIY, rukotvorine, majstorski prostor, Hobbit House, na ruskom"
+11/22/2026,11/22/2026,11/18/2026,3571,Organization,Javni akvarijum i tropikarijum,https://www.instagram.com/javniakvarijum/,,ChildrensEvent,Магическое шоу в Белградском аквариуме и тропикариуме: фокусы и животные,Magic show at the Belgrade Aquarium and Tropicarium: tricks and animals,Magic show u Javnom akvarijumu i tropikarijumu: trikovi i životinje,https://raw.githubusercontent.com/newsgl/arsposters/main/3571-MagicShowAkvarijum.webp,,Kids,"Воскресное утро для детей от 3 до 12 лет в Аквариуме и тропикариуме: фокусы вживую, сюрпризы и знакомство с животными из разных уголков мира, с ними можно сфотографироваться. 11:00, 1000 динаров, запись обязательна.","A Sunday morning for children aged 3 to 12 at the Aquarium and Tropicarium: live magic tricks, surprises and a chance to meet animals from around the world and take photos with them. 11:00, 1,000 dinars, booking required.","Nedeljno jutro za decu od 3 do 12 godina u Akvarijumu i tropikarijumu: mađioničarski trikovi uživo, iznenađenja i druženje sa životinjama iz različitih krajeva sveta, uz fotografisanje. U 11 časova, 1.000 dinara, prijava obavezna.","**Javni akvarijum i tropikarijum** зовёт детей на **магическое шоу**: фокусы вживую, весёлые сюрпризы и интерактивная программа со знакомством с животными из разных уголков мира. С животными можно пообщаться и сфотографироваться.
+
+Программа рассчитана на детей от 3 до 12 лет, а также на всех, кто любит магию и животных. Фокусы показывает иллюзионист из проекта @magic.show.animals, анонс выпустил сам аквариум в своём инстаграме.
+
+Мест немного, запись обязательна: в личных сообщениях аквариума в инстаграме или по телефону 063 654 686.
+
+Место: Javni akvarijum i tropikarijum, Milenka Vesnića 3.
+
+Время: воскресенье, 22 ноября, 11:00.
+
+Цена: 1000 динаров.
+
+Язык: сербский.","The **Belgrade Aquarium and Tropicarium** (Javni akvarijum i tropikarijum) invites children to a **magic show**: live tricks, fun surprises and an interactive programme where they meet animals from different corners of the world. Kids can get close to the animals and have their photos taken with them.
+
+The programme is for children aged 3 to 12 and for anyone who loves magic and animals. The tricks are performed by the illusionist behind @magic.show.animals, and the announcement comes from the aquarium's own Instagram.
+
+Places are limited and booking is required: by direct message to the aquarium on Instagram or by phone on 063 654 686.
+
+Venue: Javni akvarijum i tropikarijum, Milenka Vesnića 3.
+
+Time: Sunday 22 November, 11:00.
+
+Price: 1,000 dinars.
+
+Language: Serbian.","**Javni akvarijum i tropikarijum** poziva decu na **magic show**: mađioničarske trikove uživo, zabavna iznenađenja i interaktivni program uz druženje sa životinjama iz različitih krajeva sveta. Sa životinjama može da se druži i fotografiše.
+
+Program je namenjen deci uzrasta od 3 do 12 godina, ali i svima koji vole magiju i životinjski svet. Trikove izvodi mađioničar sa profila @magic.show.animals, a najavu je objavio sam akvarijum na svom Instagramu.
+
+Broj mesta je ograničen, prijava je obavezna putem poruke akvarijumu na Instagramu ili na broj 063 654 686.
+
+Mesto: Javni akvarijum i tropikarijum, Milenka Vesnića 3.
+
+Vreme: nedelja, 22. novembar, u 11 časova.
+
+Cena: 1.000 dinara.
+
+Jezik: srpski.",11:00,1000,Javni akvarijum i tropikarijum,"Milenka Vesnića 3, 11000 Beograd","44.783985,20.450180",https://www.instagram.com/p/Df2i1pdRvAU/,@javniakvarijum,,Javni akvarijum i tropikarijum,https://www.instagram.com/javniakvarijum/,,+381 63 654 686,,,,"дети, фокусы, шоу, животные, аквариум","kids, magic, show, animals, aquarium","deca, mađioničar, šou, životinje, akvarijum"
+11/22/2026,11/22/2026,11/18/2026,3572,TheaterGroup,Pozorište Sanjalište,https://t.me/mamakudaidem/2926,,ChildrensEvent,«Красавица и Чудовище» театра Sanjalište в ЦК «Влада Дивлян»: бесплатно для детей,Beauty and the Beast by Pozorište Sanjalište at CK Vlada Divljan: free for kids,„Lepotica i zver“ Pozorišta Sanjalište u CK „Vlada Divljan“: besplatno za decu,https://raw.githubusercontent.com/newsgl/arsposters/main/3572-LepoticaIZverVladaDivljan.webp,,"Kids, Theatre","Сказка о любви, доброте и красоте, которую видно сердцем: детский спектакль белградского театра Sanjalište по пьесе и в постановке Николы Марковича. Для детей от 3 до 10 лет, воскресенье, 12:00, вход бесплатный, билеты раздают в кассе 19 и 20 ноября.","A tale of love, kindness and beauty seen with the heart: a children's show by the Belgrade company Pozorište Sanjalište, written and directed by Nikola Marković. For ages 3 to 10, Sunday at 12:00, free, with tickets handed out at the box office on 19 and 20 November.","Bajka o ljubavi, dobroti i lepoti koja se vidi srcem: dečja predstava beogradskog Pozorišta Sanjalište, tekst i režija Nikola Marković. Za decu od 3 do 10 godina, nedelja u 12 časova, ulaz besplatan, karte se dele na blagajni 19. i 20. novembra.","Центр культуры **«Влада Дивлян»** показывает детский спектакль **«Красавица и Чудовище»** белградского театра **Sanjalište**. Это живая и весёлая история о любви, доброте и красоте, которую видно не глазами, а сердцем: малыши узнают, что настоящая красота прячется в доброте и понимании.
+
+Текст и постановка Николы Марковича, музыка Саши Кузмановича, маски и костюмы Зораны Милошакович. На афише театр перечисляет награды спектакля: лучший спектакль по выбору жюри, дважды лучший по выбору публики, лучшие женская и мужская роли.
+
+Спектакль для детей от 3 до 10 лет, идёт на сербском. Вход бесплатный, но нужен билет: их раздают в кассе центра в четверг 19 и пятницу 20 ноября с 10:00 до 18:00, лучше прийти пораньше.
+
+Место: Kulturni centar Vlada Divljan, Mitropolita Petra 8.
+
+Время: воскресенье, 22 ноября, 12:00.
+
+Вход свободный по билетам.","The **Vlada Divljan** cultural centre stages **Beauty and the Beast**, a children's show by the Belgrade company **Pozorište Sanjalište**. It is a lively, funny story about love, kindness and beauty that is seen with the heart rather than the eyes: little ones learn that true beauty hides in kindness and understanding.
+
+Written and directed by Nikola Marković, with music by Saša Kuzmanović and masks and costumes by Zorana Milošaković. The company's poster lists the show's awards: best show by jury vote, twice best show by audience vote, and best female and male roles.
+
+The show is for children aged 3 to 10 and is in Serbian. Entry is free but you need a ticket: they are handed out at the centre's box office on Thursday 19 and Friday 20 November from 10:00 to 18:00, so come early.
+
+Venue: Kulturni centar Vlada Divljan, Mitropolita Petra 8.
+
+Time: Sunday 22 November, 12:00.
+
+Free entry with a ticket.","Centar za kulturu **„Vlada Divljan“** prikazuje dečju predstavu **„Lepotica i zver“** beogradskog **Pozorišta Sanjalište**. To je živa i vesela priča o ljubavi, dobroti i lepoti koja se ne vidi očima nego srcem: mališani će saznati da se prava lepota krije u dobroti i razumevanju.
+
+Tekst i režija Nikola Marković, muzika Saša Kuzmanović, maske i kostimi Zorana Milošaković. Na plakatu pozorište navodi nagrade predstave: najbolja predstava po izboru žirija, dva puta najbolja po izboru publike, najbolja ženska i muška uloga.
+
+Predstava je za decu od 3 do 10 godina, na srpskom jeziku. Ulaz je besplatan, ali je potrebna karta: deli se na blagajni centra u četvrtak 19. i petak 20. novembra od 10 do 18 časova, bolje je doći ranije.
+
+Mesto: Kulturni centar Vlada Divljan, Mitropolita Petra 8.
+
+Vreme: nedelja, 22. novembar, u 12 časova.
+
+Ulaz slobodan uz kartu.",12:00,0,Kulturni centar Vlada Divljan,"Mitropolita Petra 8, 11000 Beograd","44.816425,20.485499",https://t.me/mamakudaidem/2926,@mamakudaidem,,Kulturni centar „Vlada Divljan“,https://ckvladadivljan.rs/,,,,,,"дети, детский театр, сказка, бесплатно, Влада Дивлян","kids, children's theatre, fairy tale, free, Vlada Divljan","deca, dečje pozorište, bajka, besplatno, Vlada Divljan"
+11/20/2026,11/20/2026,11/18/2026,3573,Person,"Лёня Липелис, Scruscru (Антон Богомолов)",https://www.instagram.com/lipelis/,,MusicEvent,"Лёня Липелис и Scruscru в EJE: самба, японский джаз-фанк и диско с семидюймовок","Lyonya Lipelis and Scruscru at EJE: samba edits, Japanese jazz-funk, 7-inch disco","Ljonja Lipelis i Scruscru u EJE: samba, japanski džez-fank i disko sa singlica",https://raw.githubusercontent.com/newsgl/arsposters/main/3573-LipelisScruscruEJE.webp,,Concerts,"В пятницу в EJE на Добрачиной играют Лёня Липелис и Антон Богомолов aka Scruscru: эдиты бразильской самбы, японский джаз-фанк 80-х и диско с семидюймовых пластинок. Вход свободный, время начала в анонсе не названо.","On Friday Lyonya Lipelis and Anton Bogomolov aka Scruscru play EJE on Dobračina: Brazilian samba edits, Japanese jazz-funk from the 80s and disco from 7-inch records. Free entry; the start time has not been announced.","U petak u EJE u Dobračinoj puštaju Ljonja Lipelis i Anton Bogomolov aka Scruscru: edite brazilske sambe, japanski džez-fank iz osamdesetih i disko sa singlica. Ulaz slobodan, početak nije najavljen.","В пятницу в **EJE** (Esthetic Joys Embassy) диджейский вечер: играют **Лёня Липелис** и **Антон Богомолов aka Scruscru**. В программе эдиты бразильской самбы, японский джаз-фанк 80-х и диско с семидюймовых пластинок.
+
+EJE занимает виллу 1927 года на Дорчоле, в том же доме работает отель Pavilion. Заведение совмещает обеденный зал, бар и дискотеку.
+
+Анонс вечера вышел в канале @zarko_tusic. Вход свободный. Время начала в анонсе не названо, его стоит уточнить у площадки ближе к дате.
+
+Место: EJE, Dobračina 39.
+
+Время: пятница, 20 ноября, время начала не объявлено.
+
+Вход свободный.","Friday brings a DJ night at **EJE** (Esthetic Joys Embassy) with **Lyonya Lipelis** and **Anton Bogomolov aka Scruscru**. Expect Brazilian samba edits, Japanese jazz-funk from the 80s and disco played from 7-inch records.
+
+EJE occupies a 1927 villa in Dorćol that also houses the Pavilion hotel, and works as a dining room, bar and discotheque in one.
+
+The night was announced on the @zarko_tusic channel. Entry is free. The start time has not been announced, so check with the venue closer to the date.
+
+Venue: EJE, Dobračina 39.
+
+Time: Friday 20 November, start time not announced.
+
+Free entry.","U petak je u **EJE** (Esthetic Joys Embassy) didžej veče: puštaju **Ljonja Lipelis** i **Anton Bogomolov aka Scruscru**. Na programu su editi brazilske sambe, japanski džez-fank iz osamdesetih i disko sa singlica od sedam inča.
+
+EJE se nalazi u vili iz 1927. godine na Dorćolu, u kojoj radi i hotel Pavilion. Mesto je istovremeno restoran, bar i diskoteka.
+
+Veče je najavljeno na kanalu @zarko_tusic. Ulaz je slobodan. Vreme početka nije navedeno u najavi, pa ga treba proveriti kod domaćina bliže datumu.
+
+Mesto: EJE, Dobračina 39.
+
+Vreme: petak, 20. novembar, početak nije najavljen.
+
+Ulaz slobodan.",,0,EJE (Esthetic Joys Embassy),"Dobračina 39, 11000 Beograd","44.820572,20.463853",https://t.me/zarko_tusic/5209,@zarko_tusic,,EJE (Esthetic Joys Embassy),,,,,,,"диджей, диско, джаз-фанк, самба, бесплатно, Дорчол","DJ, disco, jazz-funk, samba, free, Dorćol","didžej, disko, džez-fank, samba, besplatno, Dorćol"
+11/21/2026,11/21/2026,11/18/2026,3574,Person,Лидия (@Familiar_artist),https://t.me/Familiar_artist,ru,EducationEvent,Новогодние открытки акварелью: мастер-класс художницы Лидии на Бановом брде,New Year cards in watercolour: artist Lidia's workshop in Banovo Brdo,Novogodišnje čestitke akvarelom: radionica slikarke Lidije na Banovom brdu,https://raw.githubusercontent.com/newsgl/arsposters/main/3574-NovogodnieOtkrytkiAkvarel2111.webp,,Master classes,"За два с половиной, три часа участники рисуют акварелью набор из десяти новогодних открыток. Группа до пяти человек, все материалы включены, 2000 динаров. Суббота, 21 ноября, 12:00, Баново брдо, точный адрес при записи.","In two and a half to three hours, participants paint a set of ten New Year cards in watercolour. Up to five people, all materials included, 2,000 dinars. Saturday 21 November at 12:00, Banovo Brdo, exact address on booking. In Russian.","Za dva i po do tri sata učesnici akvarelom slikaju set od deset novogodišnjih čestitki. Do pet učesnika, sav materijal uključen, 2.000 dinara. Subota, 21. novembar u 12 časova, Banovo brdo, tačna adresa pri prijavi. Na ruskom.","Художница **Лидия** проводит акварельный мастер-класс к Новому году: за два с половиной, три часа участники создают набор из **десяти новогодних открыток**. На афише примеры работ: зимние пейзажи, домики в снегу, ёлки и праздничные огни.
+
+Группа маленькая, всего пять гостей, поэтому записываться стоит заранее. Все материалы включены в стоимость.
+
+Занятие проходит на Бановом брде, в районе школы имени Йосифа Панчича. Точный адрес в анонсе не назван, Лидия сообщает его при записи в телеграме @Familiar_artist. Второе занятие с той же программой пройдёт 27 ноября.
+
+Место: Баново брдо, район школы Josif Pančić (адрес при записи).
+
+Время: суббота, 21 ноября, начало в 12:00.
+
+Цена: 2000 динаров, материалы включены.
+
+Язык: русский.","Artist **Lidia** runs a watercolour workshop ahead of the New Year: in two and a half to three hours participants make a set of **ten New Year cards**. The poster shows examples: winter landscapes, snowy houses, fir trees and festive lights.
+
+The group is small, only five guests, so it is worth booking early. All materials are included in the price.
+
+The session takes place in Banovo Brdo, near the Josif Pančić school. The exact address is not given in the announcement; Lidia shares it when you book via Telegram at @Familiar_artist. A second session with the same programme takes place on 27 November.
+
+Venue: Banovo Brdo, near the Josif Pančić school (address on booking).
+
+Time: Saturday 21 November, starting at 12:00.
+
+Price: 2,000 dinars, materials included.
+
+Language: Russian.","Slikarka **Lidija** vodi radionicu akvarela pred Novu godinu: za dva i po do tri sata učesnici prave set od **deset novogodišnjih čestitki**. Na plakatu su primeri radova: zimski pejzaži, kućice u snegu, jelke i praznična svetla.
+
+Grupa je mala, samo pet gostiju, pa je bolje prijaviti se ranije. Sav materijal je uključen u cenu.
+
+Radionica se održava na Banovom brdu, u blizini škole „Josif Pančić“. Tačna adresa nije navedena u najavi, Lidija je šalje pri prijavi na Telegramu, @Familiar_artist. Druga radionica sa istim programom održava se 27. novembra.
+
+Mesto: Banovo brdo, kod OŠ „Josif Pančić“ (adresa pri prijavi).
+
+Vreme: subota, 21. novembar, početak u 12 časova.
+
+Cena: 2.000 dinara, materijal uključen.
+
+Jezik: ruski.",12:00,2000,Banovo brdo (kod OŠ Josif Pančić),"Požeška, Banovo brdo, 11030 Beograd (tačna adresa pri prijavi)","44.781072,20.417217",https://t.me/vstrechi_v_belgrade/13360,@vstrechi_v_belgrade,https://t.me/Familiar_artist,"Лидия, художник",,,,,,,"мастер-класс, акварель, открытки, Новый год, на русском","workshop, watercolour, greeting cards, New Year, in Russian","radionica, akvarel, čestitke, Nova godina, na ruskom"
+11/27/2026,11/27/2026,11/18/2026,3575,Person,Лидия (@Familiar_artist),https://t.me/Familiar_artist,ru,EducationEvent,Новогодние открытки акварелью: мастер-класс художницы Лидии на Бановом брде,New Year cards in watercolour: artist Lidia's workshop in Banovo Brdo,Novogodišnje čestitke akvarelom: radionica slikarke Lidije na Banovom brdu,https://raw.githubusercontent.com/newsgl/arsposters/main/3575-NovogodnieOtkrytkiAkvarel2711.webp,,Master classes,"За два с половиной, три часа участники рисуют акварелью набор из десяти новогодних открыток. Группа до пяти человек, все материалы включены, 2000 динаров. Пятница, 27 ноября, 12:00, Баново брдо, точный адрес при записи.","In two and a half to three hours, participants paint a set of ten New Year cards in watercolour. Up to five people, all materials included, 2,000 dinars. Friday 27 November at 12:00, Banovo Brdo, exact address on booking. In Russian.","Za dva i po do tri sata učesnici akvarelom slikaju set od deset novogodišnjih čestitki. Do pet učesnika, sav materijal uključen, 2.000 dinara. Petak, 27. novembar u 12 časova, Banovo brdo, tačna adresa pri prijavi. Na ruskom.","Художница **Лидия** проводит акварельный мастер-класс к Новому году: за два с половиной, три часа участники создают набор из **десяти новогодних открыток**. На афише примеры работ: зимние пейзажи, домики в снегу, ёлки и праздничные огни.
+
+Группа маленькая, всего пять гостей, поэтому записываться стоит заранее. Все материалы включены в стоимость.
+
+Занятие проходит на Бановом брде, в районе школы имени Йосифа Панчича. Точный адрес в анонсе не назван, Лидия сообщает его при записи в телеграме @Familiar_artist. Первое занятие с той же программой проходит 21 ноября.
+
+Место: Баново брдо, район школы Josif Pančić (адрес при записи).
+
+Время: пятница, 27 ноября, начало в 12:00.
+
+Цена: 2000 динаров, материалы включены.
+
+Язык: русский.","Artist **Lidia** runs a watercolour workshop ahead of the New Year: in two and a half to three hours participants make a set of **ten New Year cards**. The poster shows examples: winter landscapes, snowy houses, fir trees and festive lights.
+
+The group is small, only five guests, so it is worth booking early. All materials are included in the price.
+
+The session takes place in Banovo Brdo, near the Josif Pančić school. The exact address is not given in the announcement; Lidia shares it when you book via Telegram at @Familiar_artist. The first session with the same programme takes place on 21 November.
+
+Venue: Banovo Brdo, near the Josif Pančić school (address on booking).
+
+Time: Friday 27 November, starting at 12:00.
+
+Price: 2,000 dinars, materials included.
+
+Language: Russian.","Slikarka **Lidija** vodi radionicu akvarela pred Novu godinu: za dva i po do tri sata učesnici prave set od **deset novogodišnjih čestitki**. Na plakatu su primeri radova: zimski pejzaži, kućice u snegu, jelke i praznična svetla.
+
+Grupa je mala, samo pet gostiju, pa je bolje prijaviti se ranije. Sav materijal je uključen u cenu.
+
+Radionica se održava na Banovom brdu, u blizini škole „Josif Pančić“. Tačna adresa nije navedena u najavi, Lidija je šalje pri prijavi na Telegramu, @Familiar_artist. Prva radionica sa istim programom održava se 21. novembra.
+
+Mesto: Banovo brdo, kod OŠ „Josif Pančić“ (adresa pri prijavi).
+
+Vreme: petak, 27. novembar, početak u 12 časova.
+
+Cena: 2.000 dinara, materijal uključen.
+
+Jezik: ruski.",12:00,2000,Banovo brdo (kod OŠ Josif Pančić),"Požeška, Banovo brdo, 11030 Beograd (tačna adresa pri prijavi)","44.781072,20.417217",https://t.me/vstrechi_v_belgrade/13360,@vstrechi_v_belgrade,https://t.me/Familiar_artist,"Лидия, художник",,,,,,,"мастер-класс, акварель, открытки, Новый год, на русском","workshop, watercolour, greeting cards, New Year, in Russian","radionica, akvarel, čestitke, Nova godina, na ruskom"
+11/22/2026,11/22/2026,11/18/2026,3576,Person,Павел Богданов,https://t.me/vstrechi_v_belgrade/13363,ru,EducationEvent,«Когда с ребёнком трудно»: открытая лекция психолога Павла Богданова в «Нити»,"""When It's Hard with Your Child"": psychologist Pavel Bogdanov at Nit",„Kada je sa detetom teško“: otvoreno predavanje psihologa Pavla Bogdanova u Niti,https://raw.githubusercontent.com/newsgl/arsposters/main/3576-KogdaSRebenkomTrudnoNit.webp,,Lectures,"Подростковый психолог Павел Богданов, магистр психологии СПбГУ с 13-летним опытом, говорит с родителями о том, как дети взрослеют, как выстраивать границы и не терять близость. Воскресенье, 17:00, бесплатно по предварительной записи.","Adolescent psychologist Pavel Bogdanov, who holds a master's in psychology from St Petersburg State University and has 13 years of practice, talks to parents about growing up, setting boundaries and staying close. Sunday at 17:00, free with registration. In Russian.","Psiholog za adolescente Pavel Bogdanov, master psihologije Državnog univerziteta u Sankt Peterburgu sa 13 godina iskustva, govori roditeljima o odrastanju dece, postavljanju granica i očuvanju bliskosti. Nedelja u 17 časova, besplatno uz prijavu. Na ruskom.","Психологическое пространство **«Нить»** (Nit caring camp) проводит открытую лекцию **«Когда с ребёнком трудно: как выстраивать границы и не терять близость»**. Речь не о том, как вырастить идеального ребёнка или стать идеальным родителем, а о том, как дети взрослеют и как вести себя родителям в это время: когда настоять на своём, а когда дать больше свободы, что делать, если разговоры заканчиваются ссорами.
+
+В программе: что стоит за поведением ребёнка, почему подростки отдаляются и почему это нормально, как выстраивать границы и сохранять тепло, как выдерживать сильные эмоции, свои и детские, и как оставаться надёжным взрослым, к которому ребёнок придёт в трудную минуту.
+
+Ведёт **Павел Богданов**, подростковый психолог, магистр психологии СПбГУ. Он 13 лет работает с детьми и подростками и консультирует по отношениям в семье, эмоциям и поведению.
+
+Участие бесплатное, нужна регистрация: написать координатору @niti_coord слово «Лекция».
+
+Место: «Нить», Generala Lešjanina 2.
+
+Время: воскресенье, 22 ноября, 17:00.
+
+Язык: русский.","The **Nit** psychology space (Nit caring camp) hosts an open lecture, **When It's Hard with Your Child: How to Set Boundaries Without Losing Closeness**. It is not about raising a perfect child or becoming a perfect parent, but about how children grow up and how parents can act during that time: when to insist and when to give more freedom, and what to do when conversations keep ending in arguments.
+
+Topics include what lies behind a child's behaviour, why teenagers pull away and why that is normal, how to set boundaries and keep warmth, how to cope with strong emotions, both yours and your child's, and how to stay the dependable adult a child turns to in hard times.
+
+The speaker is **Pavel Bogdanov**, an adolescent psychologist with a master's in psychology from St Petersburg State University. He has worked with children and teenagers for 13 years and counsels on family relationships, emotions and behaviour.
+
+Attendance is free but registration is required: send the word ""Лекция"" to the coordinator at @niti_coord.
+
+Venue: Nit, Generala Lešjanina 2.
+
+Time: Sunday 22 November, 17:00.
+
+Language: Russian.","Psihološki prostor **„Nit“** (Nit caring camp) organizuje otvoreno predavanje **„Kada je sa detetom teško: kako postaviti granice i ne izgubiti bliskost“**. Tema nije kako odgajiti savršeno dete ili postati savršen roditelj, već kako deca odrastaju i kako roditelji da se ponašaju u tom periodu: kada insistirati, a kada dati više slobode, i šta raditi kada se razgovori završavaju svađom.
+
+Na programu je šta stoji iza ponašanja deteta, zašto se tinejdžeri udaljavaju i zašto je to normalno, kako postaviti granice i sačuvati toplinu, kako izdržati jake emocije, svoje i dečje, i kako ostati pouzdana odrasla osoba kojoj će se dete obratiti u teškom trenutku.
+
+Predavanje drži **Pavel Bogdanov**, psiholog za adolescente, master psihologije Državnog univerziteta u Sankt Peterburgu. Već 13 godina radi sa decom i tinejdžerima i savetuje o porodičnim odnosima, emocijama i ponašanju.
+
+Učešće je besplatno uz prijavu: koordinatoru @niti_coord treba poslati reč Lekcija (na ruskom).
+
+Mesto: Nit, Generala Lešjanina 2.
+
+Vreme: nedelja, 22. novembar, u 17 časova.
+
+Jezik: ruski.",17:00,0,Нить,"Generala Lešjanina 2, 11000 Beograd","44.813761,20.471362",https://t.me/vstrechi_v_belgrade/13363,@vstrechi_v_belgrade,https://t.me/niti_coord,Нить (Nit caring camp),,,,,,,"лекция, психология, родителям, подростки, бесплатно, на русском","lecture, psychology, for parents, teenagers, free, in Russian","predavanje, psihologija, za roditelje, tinejdžeri, besplatno, na ruskom"
+11/22/2026,11/22/2026,11/18/2026,3577,MusicGroup,Hor „Beogradski madrigalisti“,https://t.me/free_belgrade/3957,,MusicEvent,Хор «Белградские мадригалисты» отмечает 75 лет юбилейным концертом в Коларце,The Belgrade Madrigalists choir marks 75 years with a concert at Kolarac,Hor „Beogradski madrigalisti“ jubilarnim koncertom na Kolarcu slavi 75 godina,https://raw.githubusercontent.com/newsgl/arsposters/main/3577-BeogradskiMadrigalisti75Kolarac.webp,,Concerts,"Хор «Белградские мадригалисты», поющий с 1951 года, отмечает 75-летие концертом духовной и светской музыки сербских и европейских композиторов от Ренессанса до наших дней. Солист Марко Костич, тенор. Воскресенье, 11:00, вход свободный.","The Belgrade Madrigalists, singing since 1951, celebrate their 75th anniversary with sacred and secular music by Serbian and European composers from the Renaissance to today. Tenor soloist Marko Kostić. Sunday at 11:00, free entry.","Hor „Beogradski madrigalisti“, koji peva od 1951. godine, obeležava 75 godina koncertom duhovne i svetovne muzike srpskih i evropskih kompozitora od renesanse do danas. Solista Marko Kostić, tenor. Nedelja u 11 časova, ulaz slobodan.","Хор **«Белградские мадригалисты»** отмечает 75 лет юбилейным концертом в **Коларчевой задужбине**. С 1951 года коллектив хранит традиции сербской и мировой хоровой музыки.
+
+В программе духовные и светские произведения сербских и европейских композиторов от Ренессанса до наших дней. В духовной части сочинения Симича, Илича, Христича, Кузмановича, Тайчевича и Чеснокова, в светской Жанекен, Донато, Скандэлло, Маренцио, Трбоевич и Бабич. Солирует тенор **Марко Костич**.
+
+Афишу концерта выпустил сам хор, анонс разошёлся через канал @free_belgrade. Концерт утренний, начало в 11 часов.
+
+Место: Zadužbina Ilije M. Kolarca, Studentski trg 5.
+
+Время: воскресенье, 22 ноября, 11:00.
+
+Вход свободный.","The **Belgrade Madrigalists** choir celebrates 75 years with an anniversary concert at the **Kolarac Endowment**. Since 1951 the ensemble has kept up the traditions of Serbian and world choral music.
+
+The programme covers sacred and secular works by Serbian and European composers from the Renaissance to the present. The sacred part features Simić, Ilić, Hristić, Kuzmanović, Tajčević and Chesnokov; the secular part Janequin, Donato, Scandello, Marenzio, Trbojević and Babić. The tenor soloist is **Marko Kostić**.
+
+The poster comes from the choir itself, and the announcement was shared by the @free_belgrade channel. It is a morning concert, starting at 11 o'clock.
+
+Venue: Zadužbina Ilije M. Kolarca, Studentski trg 5.
+
+Time: Sunday 22 November, 11:00.
+
+Free entry.","Hor **„Beogradski madrigalisti“** obeležava 75 godina postojanja jubilarnim koncertom u **Kolarčevoj zadužbini**. Od 1951. godine ansambl neguje tradiciju srpske i svetske horske muzike.
+
+Na programu su duhovna i svetovna dela srpskih i evropskih kompozitora od renesanse do danas. U duhovnom delu su kompozicije Simića, Ilića, Hristića, Kuzmanovića, Tajčevića i Česnokova, a u svetovnom Janekena, Donata, Skandela, Marenca, Trbojevića i Babića. Solista je tenor **Marko Kostić**.
+
+Plakat koncerta objavio je sam hor, a najavu je preneo kanal @free_belgrade. Koncert je prepodnevni, sa početkom u 11 časova.
+
+Mesto: Zadužbina Ilije M. Kolarca, Studentski trg 5.
+
+Vreme: nedelja, 22. novembar, u 11 časova.
+
+Ulaz slobodan.",11:00,0,Zadužbina Ilije M. Kolarca,"Studentski trg 5, 11000 Beograd","44.819094,20.456261",https://t.me/free_belgrade/3957,@free_belgrade,,Hor „Beogradski madrigalisti“,,,,,,,"хор, хоровая музыка, классика, юбилей, бесплатно, Коларац","choir, choral music, classical, anniversary, free, Kolarac","hor, horska muzika, klasika, jubilej, besplatno, Kolarac"
+11/18/2026,11/25/2026,11/18/2026,3578,Person,Stefan Boškoćević,https://ulus.rs/blog/stefan-boskocevic-ko-si-ti/,,Festival,«Ko si ti?»: вышитый лабиринт Стефана Бошкочевича в павильоне «Цвиета Зузорич»,Ko si ti?: Stefan Boškoćević's embroidered labyrinth at Cvijeta Zuzorić Pavilion,„Ko si ti?“: izložba vezova Stefana Boškoćevića u paviljonu „Cvijeta Zuzorić“,https://raw.githubusercontent.com/newsgl/arsposters/main/3578-KoSiTiBoskocevicZuzoric.webp,,Festivals,"Персональная выставка Стефана Бошкочевича: безликие фигуры, вышитые вручную, с «рогами» у головы, сердца и паха как символами разума, эмоций и инстинктов. Работы висят на длинных полупрозрачных полотнах и образуют лабиринт. До 25 ноября, вход свободный.","A solo show by Stefan Boškoćević: faceless hand-embroidered figures with horns at the head, heart and groin as symbols of reason, emotion and instinct. The works hang on long translucent cloths that form a labyrinth. Until 25 November, free entry.","Samostalna izložba Stefana Boškoćevića: figure bez lica izvedene ručnim vezom, sa rogovima na glavi, srcu i intimnom delu tela kao simbolima razuma, osećanja i nagona. Radovi vise na dugim poluprozirnim platnima i čine lavirint. Do 25. novembra, ulaz slobodan.","В павильоне **«Цвиета Зузорич»** на Малом Калемегдане проходит персональная выставка **Стефана Бошкочевича** «Ko si ti?» («Кто ты?»), которую представляет Союз художников Сербии (ULUS). Это разговор о человеке, его идентичности и телесности и о том скрытом, что есть в каждом.
+
+Фигуры без лиц выполнены ручной вышивкой. Автор добавляет им «рога» в трёх точках, у головы, сердца и паха, как символы разума, эмоций и инстинктов. Работы размещены на длинных полупрозрачных полотнах, которые складываются в лабиринт: посетитель проходит между ними и сам становится частью инсталляции.
+
+Бошкочевич родился в 2001 году в Штрпце, окончил Факультет искусств в Звечане по классу скульптуры и учится там в докторантуре. На его счету семь персональных выставок, участие в групповых выставках, колониях и фестивалях в Сербии и за рубежом.
+
+Место: Umetnički paviljon Cvijeta Zuzorić, Mali Kalemegdan 1.
+
+Даты: с 18 по 25 ноября, открытие 18 ноября в 19:00. Работает со вторника по воскресенье с 16:00 до 20:00, понедельник выходной.
+
+Вход свободный.","The **Cvijeta Zuzorić Pavilion** on Mali Kalemegdan hosts Ko si ti? (Who Are You?), a solo exhibition by **Stefan Boškoćević** presented by the Association of Fine Artists of Serbia (ULUS). It is a conversation about the human being, identity and the body, and about what each of us keeps hidden.
+
+The faceless figures are hand-embroidered. The artist gives them horns at three points, the head, the heart and the groin, as symbols of reason, emotion and instinct. The works hang on long translucent cloths arranged into a labyrinth: visitors walk between them and become part of the installation.
+
+Boškoćević was born in 2001 in Štrpce, graduated in sculpture from the Faculty of Arts in Zvečan, where he is now a doctoral student. He has had seven solo exhibitions and has taken part in group shows, art colonies and festivals in Serbia and abroad.
+
+Venue: Umetnički paviljon Cvijeta Zuzorić, Mali Kalemegdan 1.
+
+Dates: 18 to 25 November, opening on 18 November at 19:00. Open Tuesday to Sunday, 16:00 to 20:00, closed on Mondays.
+
+Free entry.","U Umetničkom paviljonu **„Cvijeta Zuzorić“** na Malom Kalemegdanu otvorena je samostalna izložba **Stefana Boškoćevića** „Ko si ti?“ u organizaciji ULUS-a. To je razgovor o čoveku, njegovom identitetu i telesnosti, i o onome skrivenom što postoji u svakom od nas.
+
+Figure bez lica izvedene su tehnikom ručnog veza. Autor im dodaje rogove na tri mesta, na glavi, srcu i intimnom delu tela, kao simbole razuma, osećanja i nagona. Radovi su raspoređeni na dugačkim poluprozirnim platnima koja formiraju lavirint: posetilac prolazi između njih i sam postaje deo instalacije.
+
+Boškoćević je rođen 2001. godine u Štrpcu, diplomirao je vajarstvo na Fakultetu umetnosti u Zvečanu, gde je sada na doktorskim studijama. Do sada je imao sedam samostalnih izložbi i učestvovao na grupnim izložbama, likovnim kolonijama i festivalima u zemlji i inostranstvu.
+
+Mesto: Umetnički paviljon Cvijeta Zuzorić, Mali Kalemegdan 1.
+
+Datumi: od 18. do 25. novembra, otvaranje 18. novembra u 19 časova. Radno vreme od utorka do nedelje od 16 do 20 časova, ponedeljkom zatvoreno.
+
+Ulaz slobodan.",16:00,0,Umetnički paviljon Cvijeta Zuzorić,"Mali Kalemegdan 1, 11000 Beograd","44.822596,20.453885",https://ulus.rs/blog/stefan-boskocevic-ko-si-ti/,ulus.rs,,ULUS (Udruženje likovnih umetnika Srbije),https://ulus.rs/,,,,,,"выставка, вышивка, современное искусство, Калемегдан, бесплатно","exhibition, embroidery, contemporary art, Kalemegdan, free","izložba, vez, savremena umetnost, Kalemegdan, besplatno"
+11/29/2026,11/29/2026,11/18/2026,3579,Organization,My Art,https://t.me/my_art_belgrade,ru,EducationEvent,Новогодняя композиция из живой хвои: мастер-класс в студии My Art,A New Year arrangement of fresh fir: workshop at My Art studio,Novogodišnji aranžman od prirodne četine: radionica u studiju My Art,https://raw.githubusercontent.com/newsgl/arsposters/main/3579-HvoyaKompoziciyaMyArt2911.webp,,Master classes,"Двухчасовой мастер-класс в студии My Art: собрать праздничную композицию из натуральной хвои и ёлочных игрушек, разобраться в сочетании материалов и декора, с подсказками мастера. Воскресенье, 29 ноября, 16:00, 5500 динаров по предоплате.","A two-hour workshop at My Art studio: build a festive arrangement from fresh fir and Christmas ornaments and learn how to combine materials and decor, with tips from the teacher. Sunday 29 November at 16:00, 5,500 dinars paid in advance. In Russian.","Dvočasovna radionica u studiju My Art: pravljenje prazničnog aranžmana od prirodne četine i ukrasa za jelku, uz savete o kombinovanju materijala i dekora. Nedelja, 29. novembar, u 16 časova, 5.500 dinara uz uplatu unapred. Na ruskom.","Студия **My Art** проводит предновогодний мастер-класс по **праздничным композициям**: участники собирают стильную композицию из натуральной хвои и ёлочных игрушек.
+
+Мастер покажет, как сочетать материалы и декор, поможет с финальными акцентами, чтобы работа получилась своей, и даст персональные рекомендации. Все материалы студия готовит заранее, приходить можно с пустыми руками. На фото с прошлых занятий композиции в белых обёртках с красными бантами.
+
+Занятие длится два часа, запись по предоплате через администратора студии в телеграме @my_art_admin. Адрес в анонсе не назван, место стоит уточнить при записи.
+
+Место: студия My Art, Katanićeva 7.
+
+Время: воскресенье, 29 ноября, 16:00.
+
+Цена: 5500 динаров.
+
+Язык: русский.","**My Art** studio runs a pre-New Year workshop on **festive arrangements**: participants put together a stylish piece from fresh fir and Christmas ornaments.
+
+The teacher shows how to combine materials and decor, helps with the finishing touches so the piece feels your own and gives personal advice. The studio prepares all materials in advance, so you can come empty-handed. Photos from earlier sessions show arrangements wrapped in white with red bows.
+
+The session lasts two hours. Booking with prepayment via the studio's Telegram admin, @my_art_admin. The announcement gives no address, so confirm the location when booking.
+
+Venue: My Art studio, Katanićeva 7.
+
+Time: Sunday 29 November, 16:00.
+
+Price: 5,500 dinars.
+
+Language: Russian.","Studio **My Art** organizuje prednovogodišnju radionicu **prazničnih aranžmana**: učesnici prave aranžman od prirodne četine i ukrasa za jelku.
+
+Instruktor pokazuje kako se kombinuju materijali i dekor, pomaže oko završnih detalja da rad bude lični i daje savete svakom učesniku. Studio sav materijal priprema unapred, pa možete doći praznih ruku. Na fotografijama sa ranijih radionica su aranžmani u belom omotu sa crvenim mašnama.
+
+Radionica traje dva sata. Prijava uz uplatu unapred preko administratora studija na Telegramu, @my_art_admin. Adresa nije navedena u najavi, pa mesto treba proveriti pri prijavi.
+
+Mesto: studio My Art, Katanićeva 7.
+
+Vreme: nedelja, 29. novembar, u 16 časova.
+
+Cena: 5.500 dinara.
+
+Jezik: ruski.",16:00,5500,My Art (Katanićeva 7),"Katanićeva 7, 11000 Beograd","44.799477,20.470947",https://t.me/my_art_belgrade/13019,@my_art_belgrade,https://t.me/my_art_admin,My Art,https://t.me/my_art_belgrade,,,,,,"мастер-класс, флористика, Новый год, декор, My Art","workshop, floristry, New Year, decor, My Art","radionica, floristika, Nova godina, dekor, My Art"
+11/20/2026,11/20/2026,11/18/2026,3580,Organization,My Art,https://t.me/my_art_belgrade,ru,EducationEvent,Керамика на гончарном круге: мастер-класс в студии My Art для новичков,Pottery on the wheel: a beginner-friendly workshop at My Art studio,Keramika na grnčarskom točku: radionica u studiju My Art za početnike,https://raw.githubusercontent.com/newsgl/arsposters/main/3580-GoncharnyKrugMyArt2011.webp,,Master classes,"Двухчасовой мастер-класс по керамике на гончарном круге в студии My Art: опыт работы с глиной не нужен, с первых шагов помогает опытный преподаватель. Пятница, 20 ноября, 18:30, 5000 динаров по предоплате.","A two-hour pottery wheel workshop at My Art studio: no experience with clay needed, an experienced teacher guides you from the first steps. Friday 20 November at 18:30, 5,000 dinars paid in advance. In Russian.","Dvočasovna radionica keramike na grnčarskom točku u studiju My Art: iskustvo sa glinom nije potrebno, iskusan instruktor pomaže od prvih koraka. Petak, 20. novembar, u 18.30, 5.000 dinara uz uplatu unapred. Na ruskom.","Студия **My Art** приглашает на мастер-класс по **керамике на гончарном круге**. Никаких навыков и опыта работы с глиной не требуется: с первых шагов помогает опытный преподаватель.
+
+На фото с прошлых занятий кружки и неглубокие волнистые пиалы, сделанные участниками, а также инструменты для работы с глиной. Занятие подойдёт тем, кто давно хотел попробовать гончарный круг, но не знал, с чего начать.
+
+Занятие длится два часа, запись по предоплате через администратора студии в телеграме @my_art_admin. Адрес в анонсе не назван, место стоит уточнить при записи.
+
+Место: студия My Art, Katanićeva 7.
+
+Время: пятница, 20 ноября, 18:30.
+
+Цена: 5000 динаров.
+
+Язык: русский.","**My Art** studio invites you to a **pottery wheel** workshop. No skills or experience with clay are needed: an experienced teacher helps from the very first steps.
+
+Photos from earlier sessions show mugs and shallow wavy bowls made by participants, along with clay tools. The session suits anyone who has long wanted to try the wheel but did not know where to start.
+
+The session lasts two hours. Booking with prepayment via the studio's Telegram admin, @my_art_admin. The announcement gives no address, so confirm the location when booking.
+
+Venue: My Art studio, Katanićeva 7.
+
+Time: Friday 20 November, 18:30.
+
+Price: 5,000 dinars.
+
+Language: Russian.","Studio **My Art** poziva na radionicu **keramike na grnčarskom točku**. Nisu potrebne nikakve veštine ni iskustvo sa glinom: iskusan instruktor pomaže od prvih koraka.
+
+Na fotografijama sa ranijih radionica su šolje i plitke talasaste činije koje su napravili učesnici, kao i alat za rad sa glinom. Radionica je za sve koji su dugo želeli da probaju grnčarski točak, a nisu znali odakle da počnu.
+
+Radionica traje dva sata. Prijava uz uplatu unapred preko administratora studija na Telegramu, @my_art_admin. Adresa nije navedena u najavi, pa mesto treba proveriti pri prijavi.
+
+Mesto: studio My Art, Katanićeva 7.
+
+Vreme: petak, 20. novembar, u 18.30.
+
+Cena: 5.000 dinara.
+
+Jezik: ruski.",18:30,5000,My Art (Katanićeva 7),"Katanićeva 7, 11000 Beograd","44.799477,20.470947",https://t.me/my_art_belgrade/13025,@my_art_belgrade,https://t.me/my_art_admin,My Art,https://t.me/my_art_belgrade,,,,,,"мастер-класс, керамика, гончарный круг, для начинающих, My Art","workshop, ceramics, pottery wheel, beginners, My Art","radionica, keramika, grnčarski točak, za početnike, My Art"
