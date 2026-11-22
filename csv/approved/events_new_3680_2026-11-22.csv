@@ -1,0 +1,613 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb,PriceEUR,SeatsStatus,OfferIncludesRus,OfferIncludesSrb,OfferIncludesEng,OfferMusicRus,OfferMusicSrb,OfferMusicEng,OfferDressCodeRus,OfferDressCodeSrb,OfferDressCodeEng
+12/31/2026,12/31/2026,11/22/2026,3680,MusicGroup,"Branka i Omega bend, Iggy bend",https://zlatnibokal.com/,,MusicEvent,Новый год 2027 в Zlatni bokal на Скадарлии: три зала и три программы,"New Year 2027 at Zlatni bokal in Skadarlija: three halls, three bands","Nova godina 2027 u Zlatnom bokalu u Skadarliji: tri sale, tri programa",https://raw.githubusercontent.com/newsgl/arsposters/main/3680-NovaGodinaZlatniBokal.webp,,Concerts,"Новогодняя ночь в ресторане Zlatni bokal на Скадарлии: в нижнем зале Branka i Omega bend, в верхнем Iggy bend, в саду тамбураши. Ужин на выбор из трёх меню, приветственный напиток и напитки к ужину. От 80 до 120 евро за человека, вход с 25 лет.","New Year's Eve at Zlatni bokal in Skadarlija: Branka i Omega bend in the lower hall, Iggy bend upstairs and a tamburica band in the garden. Dinner from one of three menus, a welcome drink and drinks with dinner. From 80 to 120 euros per person, guests 25 and over.","Doček Nove godine u restoranu Zlatni bokal u Skadarliji: u donjoj sali Branka i Omega bend, u gornjoj Iggy bend, u bašti tamburaši. Večera po izboru od tri menija, piće dobrodošlice i piće uz večeru. Od 80 do 120 evra po osobi, ulaz od 25 godina.","**Zlatni bokal** работает на Скадарлии с 1968 года. На Новый год ресторан открывает три зала, и у каждого своя музыка и своя цена, так что компания выбирает вечер под себя.
+
+В нижнем зале играет **Branka i Omega bend**, в верхнем **Iggy bend**, в саду тамбураши со старогородскими песнями.
+
+Ужин на выбор из трёх меню. Мясное: закуски, шашлычки в беконе, свиное филе в грибном соусе, чевапи, копчёная шея. Второе меню с телятиной под каймаком, третье постное, с бранцином. На входе приветственный напиток, к ужину напитки и музыкальная программа. Ресторан называет формат all inclusive, но безлимита напитков не обещает.
+
+Цена за человека: нижний зал 120 евро, верхний 100 евро, сад 80 евро. Вход с 25 лет. Задаток и время начала уточняйте при бронировании по телефону или почте.","**Zlatni bokal** has been open in Skadarlija since 1968. On New Year's Eve the restaurant opens three halls, each with its own band and its own price, so a group can pick the night that suits it.
+
+**Branka i Omega bend** play in the lower hall, **Iggy bend** upstairs, and a tamburica band with old Belgrade songs in the garden.
+
+Dinner comes from one of three menus. The meat menu has starters, bacon wrapped skewers, pork fillet in mushroom sauce, ćevapi and smoked pork neck. The second menu is veal under kajmak, the third is a fasting menu with sea bass. There is a welcome drink at the door, drinks with dinner and the music programme. The restaurant calls it all inclusive but does not promise unlimited drinks.
+
+Price per person: lower hall 120 euros, upper hall 100 euros, garden 80 euros. Guests must be 25 or over. Ask about the deposit and the start time when you book by phone or email.","**Zlatni bokal** radi u Skadarliji od 1968. godine. Za doček restoran otvara tri sale, svaka ima svoju muziku i svoju cenu, pa društvo bira veče po svom ukusu.
+
+U donjoj sali svira **Branka i Omega bend**, u gornjoj **Iggy bend**, a u bašti tamburaši sa starogradskim pesmama.
+
+Večera se bira od tri menija. Mesni: predjela, ražnjići u slanini, svinjski file u sosu od pečuraka, ćevapi, dimljeni vrat. Drugi meni je teletina ispod kajmaka, treći posni, sa brancinom. Na ulazu piće dobrodošlice, uz večeru piće i muzički program. Restoran ovo zove all inclusive, ali neograničeno piće ne obećava.
+
+Cena po osobi: donja sala 120 evra, gornja sala 100 evra, bašta 80 evra. Ulaz od 25 godina. Kaparu i vreme početka proverite pri rezervaciji telefonom ili mejlom.",,9360,Zlatni bokal,"Skadarska 26, 11000 Beograd","44.817236,20.463932",https://zlatnibokal.com/docek-nove-godine-skadarlija/,zlatnibokal.com,https://zlatnibokal.com/docek-nove-godine-skadarlija/,Restoran Zlatni bokal,https://zlatnibokal.com/,office@zlatnibokal.com,+381 60 1111 992,25+,,,"Рестораны и кафаны, Новый год, Zlatni bokal, Скадарлия, кафана, новогодняя ночь, тамбураши, живая музыка","Restaurants and kafanas, New Year, Zlatni bokal, Skadarlija, kafana, New Year's Eve, tamburica, live music","Restorani i kafane, Nova godina, Zlatni bokal, Skadarlija, kafana, novogodišnja noć, tamburaši, živa muzika",80,available,"Приветственный напиток, ужин на выбор из трёх меню (мясное, телятина под каймаком, постное с бранцином), напитки к ужину, музыкальная программа","Piće dobrodošlice, večera po izboru od tri menija (mesni, teletina ispod kajmaka, posni sa brancinom), piće uz večeru, muzički program","Welcome drink, dinner from one of three menus (meat, veal under kajmak, fasting menu with sea bass), drinks with dinner, music programme","Branka i Omega bend (нижний зал), Iggy bend (верхний зал), тамбураши (сад)","Branka i Omega bend (donja sala), Iggy bend (gornja sala), tamburaši (bašta)","Branka i Omega bend (lower hall), Iggy bend (upper hall), tamburica band (garden)",,,
+12/31/2026,12/31/2026,11/22/2026,3681,Organization,Restoran Tri šešira,https://trisesira.rs/,,MusicEvent,Новый год 2027 в «Три шешира» на Скадарлии: ужин и музыка в кафане с 1864 года,New Year 2027 at Tri šešira in Skadarlija: dinner and music in a kafana since 1864,Nova godina 2027 u Tri šešira u Skadarliji: večera i muzika u kafani od 1864.,https://raw.githubusercontent.com/newsgl/arsposters/main/3681-NovaGodinaTriSesira.webp,,Concerts,"Ресторан «Три шешира», одна из старейших кафан Скадарлии, встречает 2027 год праздничным ужином и музыкой. Цену, программу и время начала ресторан сообщает при бронировании по телефону, почте или в Viber.","Tri šešira, one of the oldest kafanas in Skadarlija, welcomes 2027 with a festive dinner and music. The restaurant gives the price, the programme and the start time when you book by phone, email or Viber.","Restoran Tri šešira, jedna od najstarijih kafana u Skadarliji, dočekuje 2027. svečanom večerom i muzikom. Cenu, program i vreme početka restoran daje pri rezervaciji telefonom, mejlom ili preko Vibera.","«Три шешира» стоит на Скадарлии с 1864 года. В этом сезоне ресторан выпустил к Новому году собственную «газету» с заголовком «163 года за одним столом»: про то, как здесь встречали праздник поколения белградцев.
+
+Новогодняя ночь в кафане устроена просто: **праздничный ужин и музыка** в залах со старой мебелью, гирляндами и фотографиями на стенах, а за дверью булыжная мостовая Скадарлии.
+
+Цену, состав ужина, исполнителей и время начала ресторан на сайте не публикует, их называют при бронировании. Звоните или пишите заранее.
+
+Новогоднюю «газету» ресторан выложил на сайте, там же фотографии зала и музыкантов.
+
+Бронирование: +381 60 31 30 180 (телефон и Viber), trisesira@live.com.","Tri šešira has stood in Skadarlija since 1864. For this New Year the restaurant put out its own ""newspaper"" headlined ""163 years at the same table"", about how generations of Belgraders have celebrated here.
+
+The night itself is simple: a **festive dinner and music** in rooms with old furniture, garlands and photos on the walls, with the cobbled Skadarlija street outside.
+
+The restaurant does not publish the price, the menu, the performers or the start time on its website; you get them when you book. Book early.
+
+The restaurant has posted its New Year ""newspaper"" on its website, with photos of the room and the musicians.
+
+Bookings: +381 60 31 30 180 (phone and Viber), trisesira@live.com.","Tri šešira je u Skadarliji od 1864. godine. Za ovu Novu godinu restoran je izdao svoje „novine“ sa naslovom „163 godine za istim stolom“, o tome kako su ovde dočekivale generacije Beograđana.
+
+Doček je jednostavan: **svečana večera i muzika** u salama sa starim nameštajem, girlandama i fotografijama na zidovima, a napolju skadarlijska kaldrma.
+
+Cenu, meni, izvođače i vreme početka restoran ne objavljuje na sajtu, dobijate ih pri rezervaciji. Javite se na vreme.
+
+Novogodišnje „novine“ restoran je objavio na sajtu, uz fotografije sale i muzičara.
+
+Rezervacije: +381 60 31 30 180 (telefon i Viber), trisesira@live.com.",,,Tri šešira,"Skadarska 29, 11000 Beograd","44.818149,20.464616",https://trisesira.rs/nova-godina/,trisesira.rs,https://trisesira.rs/nova-godina/,Restoran Tri šešira,https://trisesira.rs/,trisesira@live.com,+381 60 31 30 180,,,,"Рестораны и кафаны, Новый год, Три шешира, Скадарлия, кафана, новогодняя ночь, старый Белград, ужин","Restaurants and kafanas, New Year, Tri šešira, Skadarlija, kafana, New Year's Eve, old Belgrade, dinner","Restorani i kafane, Nova godina, Tri šešira, Skadarlija, kafana, novogodišnja noć, stari Beograd, večera",,available,Праздничный ужин и музыкальная программа; цена и состав при бронировании,Svečana večera i muzički program; cena i meni pri rezervaciji,Festive dinner and music; price and menu when booking,"живая музыка, исполнители не объявлены","živa muzika, izvođači nisu objavljeni","live music, performers not announced",,,
+12/31/2026,12/31/2026,11/22/2026,3682,Person,Nataša Bekvalac,,,MusicEvent,Новый год 2027 с Наташей Беквалац в Immersive Hall Сава-центра,New Year 2027 with Nataša Bekvalac at the Sava Centar Immersive Hall,Nova godina 2027 uz Natašu Bekvalac u Immersive Hall Sava Centra,https://raw.githubusercontent.com/newsgl/arsposters/main/3682-NovaGodinaBekvalacSavaCentar.webp,,Concerts,"Новогодняя ночь с Наташей Беквалац в Immersive Hall Сава-центра: концерт и праздничный ужин, начало в 21:00. Билеты от 6 000 динаров за барный стол до 29 500 за места Platinum, продажа на tickets.rs.","New Year's Eve with Nataša Bekvalac in the Immersive Hall of Sava Centar: a concert and a festive dinner, starting at 21:00. Tickets from 6,000 dinars for a bar table to 29,500 for Platinum seats, on sale at tickets.rs.","Doček Nove godine sa Natašom Bekvalac u Immersive Hall Sava Centra: koncert i svečana večera, početak u 21:00. Karte od 6.000 dinara za barski sto do 29.500 za Platinum mesta, prodaja na tickets.rs.","**Наташа Беквалац** встречает 2027 год в Сава-центре. Её новогодний вечер проходит в **Immersive Hall**, отдельном зале конгресс-центра.
+
+Формат как у новогодних программ в отелях: столы по зонам, праздничный ужин и концерт до утра. Ужин входит в цену по описанию программы у продавца новогодних столов; входит ли он в билеты барных столов, уточняйте при покупке. Напитки оплачиваются отдельно.
+
+Цены у кассы tickets.rs: барный стол II 6 000 динаров, барный стол I 7 400, Bronze 17 500, Silver 20 000, Gold 23 500, Platinum 29 500 динаров за место. Вечер организует агентство Avangarda.","**Nataša Bekvalac** welcomes 2027 at Sava Centar. Her New Year's Eve takes place in the **Immersive Hall**, a separate hall of the congress centre.
+
+The format is the one New Year programmes in hotels use: tables by zone, a festive dinner and a concert until morning. According to the seller of New Year tables, dinner is included in the price; check at purchase whether it comes with bar table tickets too. Drinks are paid separately.
+
+Prices at tickets.rs: bar table II 6,000 dinars, bar table I 7,400, Bronze 17,500, Silver 20,000, Gold 23,500, Platinum 29,500 dinars per seat. The night is organised by the Avangarda agency.","**Nataša Bekvalac** dočekuje 2027. u Sava Centru. Njen doček je u **Immersive Hall**, posebnoj sali kongresnog centra.
+
+Format je kao na hotelskim dočecima: stolovi po zonama, svečana večera i koncert do jutra. Prema opisu programa kod prodavca novogodišnjih stolova večera je uključena u cenu; da li važi i za karte za barske stolove, proverite pri kupovini. Piće se plaća posebno.
+
+Cene na tickets.rs: barski sto II 6.000 dinara, barski sto I 7.400, Bronze 17.500, Silver 20.000, Gold 23.500, Platinum 29.500 dinara po mestu. Veče organizuje agencija Avangarda.",21:00,6000,Sava Centar,"Milentija Popovića 9, 11070 Novi Beograd","44.809354,20.432128",https://tickets.rs/event/new_year_2027_natasa_bekvalac_29017,tickets.rs,https://tickets.rs/event/new_year_2027_natasa_bekvalac_29017,Avangarda,,,+381 66 00 22 55,,,,"Отели, Новый год, Наташа Беквалац, Сава-центр, новогодняя ночь, концерт с ужином, поп, Новый Белград","Hotels, New Year, Nataša Bekvalac, Sava Centar, New Year's Eve, dinner show, pop, New Belgrade","Hoteli, Nova godina, Nataša Bekvalac, Sava Centar, novogodišnja noć, koncert uz večeru, pop, Novi Beograd",,available,"Место по зоне, праздничный ужин (уточнять для барных столов), концерт; напитки отдельно","Mesto po zoni, svečana večera (proveriti za barske stolove), koncert; piće posebno","Seat by zone, festive dinner (check for bar tables), concert; drinks extra","поп, Наташа Беквалац","pop, Nataša Bekvalac","pop, Nataša Bekvalac",,,
+12/31/2026,12/31/2026,11/22/2026,3683,MusicGroup,Beso de Loco bend,https://komitet.rs/,,MusicEvent,Новый год 2027 в клубе Komitet в Бетон-хале: Beso de Loco bend,New Year 2027 at Komitet in Beton Hala: Beso de Loco band,Nova godina 2027 u Komitetu u Beton hali: Beso de Loco bend,https://raw.githubusercontent.com/newsgl/arsposters/main/3683-NovaGodinaKomitet.webp,,Concerts,"Новогодняя ночь в клубе Komitet в Бетон-хале с группой Beso de Loco: вход с 22:00, группа с 23:00, до 03:00. Билет 60 евро обязателен для всех, столы бронируются отдельно с бутылкой в цене.","New Year's Eve at Komitet in Beton Hala with the Beso de Loco band: doors at 22:00, band at 23:00, until 03:00. A 60 euro ticket is required for everyone, tables are booked separately with a bottle included.","Doček Nove godine u klubu Komitet u Beton hali uz Beso de Loco bend: ulaz od 22:00, bend od 23:00, do 03:00. Karta od 60 evra obavezna je za sve, stolovi se rezervišu posebno, uz flašu u ceni.","**Komitet** в Бетон-хале встречает 2027 год с группой **Beso de Loco**. Двери открываются в 22:00, группа выходит в 23:00, вечер идёт до трёх ночи. Клуб вмещает 450 человек.
+
+Билет 60 евро нужен каждому гостю, в том числе тем, кто бронирует стол. С одним билетом есть доступ к барным стойкам и ко всему залу, но без гарантированного места.
+
+Столы бронируются с доплатой на компанию, бутылка входит в цену:
+
+барный стол от 4 до 6 человек за 50 евро, минимум 4 билета;
+
+высокие места от 4 до 6 человек за 150 евро;
+
+малое сепаре от 5 до 7 человек за 200 или 350 евро, минимум 5 билетов;
+
+сепаре от 7 до 10 человек от 350 до 600 евро с двумя бутылками, минимум 7 билетов.
+
+При брони платится половина, остаток не позже чем за неделю до Нового года. Рядом парковка на 400 мест.","**Komitet** in Beton Hala welcomes 2027 with the **Beso de Loco** band. Doors open at 22:00, the band starts at 23:00 and the night runs until 3 am. The club holds 450 people.
+
+Every guest needs a 60 euro ticket, including those who book a table. A ticket alone gives access to the bars and the whole room, without a guaranteed seat.
+
+Tables cost extra per group and include a bottle:
+
+bar table for 4 to 6 people, 50 euros, at least 4 tickets;
+
+high seating for 4 to 6 people, 150 euros;
+
+small booth for 5 to 7 people, 200 or 350 euros, at least 5 tickets;
+
+booth for 7 to 10 people, 350 to 600 euros with two bottles, at least 7 tickets.
+
+Half is paid when booking, the rest no later than a week before New Year. There is parking for 400 cars next to the hall.","**Komitet** u Beton hali dočekuje 2027. uz **Beso de Loco** bend. Vrata se otvaraju u 22:00, bend počinje u 23:00, a provod traje do tri ujutru. Klub prima 450 ljudi.
+
+Karta od 60 evra potrebna je svakom gostu, i onima koji rezervišu sto. Sa samom kartom imate pristup šankovima i celom prostoru, ali bez garantovanog mesta.
+
+Stolovi se doplaćuju po društvu, flaša je u ceni:
+
+barski sto za 4 do 6 osoba, 50 evra, minimum 4 karte;
+
+visoko sedenje za 4 do 6 osoba, 150 evra;
+
+mali separe za 5 do 7 osoba, 200 ili 350 evra, minimum 5 karata;
+
+separe za 7 do 10 osoba, od 350 do 600 evra sa dve flaše, minimum 7 karata.
+
+Pri rezervaciji se plaća polovina, ostatak najkasnije nedelju dana pred Novu godinu. Pored hale je parking za 400 vozila.",22:00,7020,Klub Komitet,"Karađorđeva 2-4 (Beton hala), 11000 Beograd","44.819865,20.448431",https://komitet.rs/nova-godina/,komitet.rs,https://komitet.rs/nova-godina/,Klub Komitet,https://komitet.rs/,office@komitet.rs,+381 63 150 5555,,,,"Клубы и вечеринки, Новый год, Komitet, Бетон-хала, новогодняя ночь, живая музыка, Beso de Loco, Савамала","Clubs and parties, New Year, Komitet, Beton Hala, New Year's Eve, live music, Beso de Loco, Savamala","Klubovi i žurke, Nova godina, Komitet, Beton hala, novogodišnja noć, živa muzika, Beso de Loco, Savamala",60,available,"Вход по билету 60 евро; со столом бутылка на компанию (Absolut, Belvedere, Jameson, Chivas и др.)","Ulaz uz kartu od 60 evra; uz sto flaša za društvo (Absolut, Belvedere, Jameson, Chivas i dr.)","Entry with a 60 euro ticket; tables come with a bottle for the group (Absolut, Belvedere, Jameson, Chivas and others)",группа Beso de Loco,Beso de Loco bend,Beso de Loco band,,,
+12/31/2026,12/31/2026,11/22/2026,3684,Person,Relja Popović,https://freestylerclub.com/,,MusicEvent,Новый год 2027 на Freestyler Winter Stage в Бетон-хале: Релья Попович,New Year 2027 at Freestyler Winter Stage in Beton Hala: Relja Popović,Nova godina 2027 na Freestyler Winter Stage u Beton hali: Relja Popović,https://raw.githubusercontent.com/newsgl/arsposters/main/3684-NovaGodinaFreestylerWinterRelja.webp,,Concerts,"Новогодняя ночь на зимней сцене Freestyler в Бетон-хале: вход с 21:30, после полуночи живьём Релья Попович, за пультом DJ Architect. Вход 50 евро заранее и 60 евро в ночь события, столы пакетами с бутылками.","New Year's Eve at the Freestyler Winter Stage in Beton Hala: doors at 21:30, Relja Popović live after midnight, DJ Architect on the decks. Entry 50 euros in advance or 60 euros on the night, tables sold as packages with bottles.","Doček Nove godine na zimskoj bini Freestylera u Beton hali: ulaz od 21:30, posle ponoći uživo Relja Popović, za pultom DJ Architect. Ulaz 50 evra unapred i 60 evra na dan događaja, stolovi u paketima sa flašama.","Зимой **Freestyler** работает на зимней сцене в Бетон-хале и устраивает там новогодний марафон: девять ночей подряд, с 25 декабря по 2 января, у каждой свой хедлайнер.
+
+В новогоднюю ночь двери открываются в 21:30, раньше обычного. Резиденты ставят R&B, хип-хоп и хаус, **DJ Architect** держит зал до полуночи, а после неё живьём выступает **Релья Попович**.
+
+Вход 50 евро при покупке заранее и 60 евро в ночь события. Столы продаются пакетами: в цену входят бутылки, билеты на всю компанию и хост на вечер, отдельной минимальной суммы заказа нет.
+
+Цены указаны в евро, в клубе платят в динарах наличными или картой. Бронирование через сайт или WhatsApp.","In winter **Freestyler** works from its Winter Stage in Beton Hala and runs a New Year marathon there: nine nights in a row, from 25 December to 2 January, each with its own headliner.
+
+On New Year's Eve doors open at 21:30, earlier than usual. Residents play R&B, hip hop and house, **DJ Architect** holds the room until midnight, and after it **Relja Popović** performs live.
+
+Entry is 50 euros in advance and 60 euros on the night. Tables are sold as packages: bottles, tickets for the whole group and a host for the evening, with no extra minimum spend.
+
+Prices are in euros; at the venue you pay in dinars, in cash or by card. Book on the website or via WhatsApp.","Zimi **Freestyler** radi na zimskoj bini u Beton hali i tamo pravi novogodišnji maraton: devet noći zaredom, od 25. decembra do 2. januara, svaka sa svojim hedlajnerom.
+
+Za doček se vrata otvaraju u 21:30, ranije nego obično. Rezidenti puštaju R&B, hip-hop i haus, **DJ Architect** drži salu do ponoći, a posle ponoći uživo nastupa **Relja Popović**.
+
+Ulaz je 50 evra unapred i 60 evra na dan događaja. Stolovi se prodaju u paketima: flaše, karte za celo društvo i host za veče, bez dodatne minimalne potrošnje.
+
+Cene su u evrima, u klubu se plaća u dinarima, gotovinom ili karticom. Rezervacije preko sajta ili WhatsAppa.",21:30,5850,Freestyler Winter Stage,"Karađorđeva 2-4 (Beton hala), 11000 Beograd","44.819865,20.448431",https://ws.freestylerclub.com/new-year-2027/,freestylerclub.com,https://ws.freestylerclub.com/new-year-2027/,Freestyler,https://freestylerclub.com/,,+381 62 800 2020,,,,"Клубы и вечеринки, Новый год, Freestyler, Бетон-хала, новогодняя ночь, Релья Попович, R&B, хип-хоп","Clubs and parties, New Year, Freestyler, Beton Hala, New Year's Eve, Relja Popović, R&B, hip hop","Klubovi i žurke, Nova godina, Freestyler, Beton hala, novogodišnja noć, Relja Popović, R&B, hip-hop",50,available,"Вход по билету; столы пакетами: бутылки, билеты на компанию, хост, без минимальной суммы заказа","Ulaz uz kartu; stolovi u paketima: flaše, karte za društvo, host, bez minimalne potrošnje","Entry with a ticket; table packages with bottles, tickets for the group and a host, no minimum spend","Релья Попович живьём, DJ Architect, R&B, хип-хоп, хаус","Relja Popović uživo, DJ Architect, R&B, hip-hop, haus","Relja Popović live, DJ Architect, R&B, hip hop, house",,,
+12/31/2026,12/31/2026,11/22/2026,3685,Person,INAS,https://freestylerclub.com/,,MusicEvent,Новый год 2027 на сплаве Freestyler на Земунском кею: INAS,New Year 2027 at the Freestyler splav on Zemunski kej: INAS,Nova godina 2027 na splavu Freestyler na Zemunskom keju: INAS,https://raw.githubusercontent.com/newsgl/arsposters/main/3685-NovaGodinaFreestylerSplavInas.webp,,Concerts,"Новогодняя ночь на сплаве Freestyler на Земунском кею: выступает INAS, двери открываются в 21:00. Это вторая из трёх новогодних ночей на сплаве. Цена входа не объявлена, столы бронируются через сайт или WhatsApp.","New Year's Eve on the Freestyler splav on Zemunski kej: INAS performs, doors open at 21:00. It is the second of three New Year nights on the splav. The entry price has not been announced, tables are booked on the website or via WhatsApp.","Doček Nove godine na splavu Freestyler na Zemunskom keju: nastupa INAS, vrata se otvaraju u 21:00. Ovo je druga od tri novogodišnje noći na splavu. Cena ulaza nije objavljena, stolovi se rezervišu preko sajta ili WhatsAppa.","Пока основная зимняя программа **Freestyler** идёт в Бетон-хале, на Новый год клуб снова открывает свой сплав на Земунском кею. Здесь три ночи подряд: 30 декабря Cunami и Sajfer с DJ Anubis, 31 декабря **INAS**, 1 января Zera с DJ Ike.
+
+В новогоднюю ночь двери открываются в 21:00. Сплав стоит на Дунае у Земунского кея, так что полночь встречаете у самой воды.
+
+Цена входа на сайте пока не названа. Столы бронируются через форму на сайте клуба или в WhatsApp, на сайте можно выбрать стол на 31 декабря и сразу увидеть, на сколько человек он рассчитан.
+
+Если хочется большую клубную ночь в зале, а не на воде, в ту же ночь работает зимняя сцена Freestyler в Бетон-хале.","While the main winter programme of **Freestyler** runs in Beton Hala, for New Year the club reopens its splav on Zemunski kej. There are three nights in a row: Cunami and Sajfer with DJ Anubis on 30 December, **INAS** on 31 December and Zera with DJ Ike on 1 January.
+
+On New Year's Eve doors open at 21:00. The splav is moored on the Danube by Zemunski kej, so you see in midnight right by the water.
+
+The entry price is not on the website yet. Tables are booked through the club's online form or via WhatsApp; the site lets you pick a table for 31 December and shows how many people it seats.
+
+If you would rather have a big club night indoors than on the water, the Freestyler Winter Stage in Beton Hala is open the same night.","Dok glavni zimski program **Freestylera** ide u Beton hali, za Novu godinu klub ponovo otvara svoj splav na Zemunskom keju. Tri noći zaredom: 30. decembra Cunami i Sajfer uz DJ Anubisa, 31. decembra **INAS**, 1. januara Zera uz DJ Ikea.
+
+Za doček se vrata otvaraju u 21:00. Splav je na Dunavu kod Zemunskog keja, pa ponoć dočekujete uz samu vodu.
+
+Cena ulaza još nije objavljena na sajtu. Stolovi se rezervišu preko forme na sajtu kluba ili na WhatsApp; na sajtu birate sto za 31. decembar i odmah vidite za koliko osoba je.
+
+Ako vam je draža velika klupska noć u sali nego na vodi, iste noći radi i zimska bina Freestylera u Beton hali.",21:00,,Freestyler Summer Stage,"Obala kralja Aleksandra I Karađorđevića 100 (Zemunski kej), 11070 Novi Beograd","44.824074,20.427079",https://freestylerclub.com/splav-new-year-2027/inas-nye/,freestylerclub.com,https://freestylerclub.com/splav-new-year-2027/inas-nye/,Freestyler,https://freestylerclub.com/,,+381 62 800 2020,,,,"Сплавы, Новый год, Freestyler, INAS, новогодняя ночь, Земунский кей, Дунай, клубная ночь","Splavs, New Year, Freestyler, INAS, New Year's Eve, Zemunski kej, Danube, club night","Splavovi, Nova godina, Freestyler, INAS, novogodišnja noć, Zemunski kej, Dunav, klupska noć",,available,Вход; столы по брони через сайт или WhatsApp,Ulaz; stolovi uz rezervaciju preko sajta ili WhatsAppa,Entry; tables by booking on the website or via WhatsApp,INAS,INAS,INAS,,,
+12/31/2026,12/31/2026,11/22/2026,3686,Person,Katarina Živković,https://www.instagram.com/konzulat_events/,,MusicEvent,Новый год 2027 на сплаве Konzulat Waterfront: Катарина Живкович,New Year 2027 at Konzulat Waterfront splav: Katarina Živković,Doček 2027. na splavu Konzulat Waterfront: Katarina Živković,https://raw.githubusercontent.com/newsgl/arsposters/main/3686-NovaGodinaKonzulatZivkovic.webp,,Concerts,"Новогодняя ночь на сплаве Konzulat Waterfront у отеля «Югославия» с певицей Катариной Живкович, вход с 21:30. Билет 70 евро в первой волне продаж, столы с бутылками по схеме зала.","New Year's Eve at the Konzulat Waterfront splav next to Hotel Jugoslavija with singer Katarina Živković, doors at 21:30. Tickets are 70 euros in the first sales phase, tables with bottles are booked by the floor plan.","Doček Nove godine na splavu Konzulat Waterfront kod hotela Jugoslavija uz Katarinu Živković, ulaz od 21:30. Karta je 70 evra u prvoj fazi prodaje, stolovi sa flašama po šemi sale.","Сплав **Konzulat Waterfront** стоит на Дунае на Кею ослобођења, прямо у отеля «Югославия». На Новый год здесь поёт **Катарина Живкович**.
+
+Вход с 21:30. Билет в первой волне продаж стоит 70 евро, потом цена вырастет. Зал расписан по схеме: столы у сцены, у бара и в зоне Community, к каждому полагается бутылка, премиальная (Johnnie Walker Black Label, Beluga и другие) или обычная, в зависимости от места.
+
+Схему зала и список бутылок по каждому столу клуб показывает в своём Instagram, там же удобно выбрать место. Бронирование по телефону +381 66 555 9950.
+
+До центра Земуна отсюда можно дойти пешком по набережной.","The **Konzulat Waterfront** splav is moored on the Danube at Kej oslobođenja, right by Hotel Jugoslavija. On New Year's Eve **Katarina Živković** sings here.
+
+Doors open at 21:30. A ticket costs 70 euros in the first sales phase and the price goes up after that. The room is laid out by a floor plan: tables by the stage, by the bar and in the Community zone, each with a bottle, premium (Johnnie Walker Black Label, Beluga and others) or standard depending on the spot.
+
+The club posts the floor plan and the bottle list for each table on its Instagram, which is the easiest way to pick a seat. Bookings by phone at +381 66 555 9950.
+
+Zemun centre is a walk away along the river.","Splav **Konzulat Waterfront** je na Dunavu na Keju oslobođenja, odmah kod hotela Jugoslavija. Za doček ovde peva **Katarina Živković**.
+
+Ulaz je od 21:30. Karta u prvoj fazi prodaje košta 70 evra, posle toga cena raste. Sala je raspoređena po šemi: stolovi kod bine, kod šanka i u Community zoni, uz svaki ide flaša, premium (Johnnie Walker Black Label, Beluga i drugi) ili obična, zavisno od mesta.
+
+Šemu sale i spisak flaša po stolu klub objavljuje na svom Instagramu, tamo je najlakše izabrati mesto. Rezervacije na telefon +381 66 555 9950.
+
+Do centra Zemuna se stiže peške pored reke.",21:30,8190,Konzulat Waterfront,"Kej oslobođenja 2 (kod hotela Jugoslavija), 11080 Zemun","44.832505,20.420930",https://www.instagram.com/p/DfU2nmCIc6P/,Instagram @konzulat_events,,Konzulat Waterfront,https://www.instagram.com/konzulat_events/,,+381 66 555 9950,,,,"Сплавы, Новый год, Konzulat Waterfront, Катарина Живкович, новогодняя ночь, Земун, Дунай, живая музыка","Splavs, New Year, Konzulat Waterfront, Katarina Živković, New Year's Eve, Zemun, Danube, live music","Splavovi, Nova godina, Konzulat Waterfront, Katarina Živković, novogodišnja noć, Zemun, Dunav, živa muzika",70,available,Вход по билету; столы по схеме зала с премиальной или обычной бутылкой,Ulaz uz kartu; stolovi po šemi sale sa premium ili običnom flašom,Entry with a ticket; tables by floor plan with a premium or standard bottle,Катарина Живкович,Katarina Živković,Katarina Živković,,,
+12/31/2026,12/31/2026,11/22/2026,3687,Person,"Kristijan Tuba, Anđela Delić",https://cotier.rs/,,MusicEvent,"Новый год 2027 на сплаве Côtier: Кристиян Туба и Анджела Делич, всё включено","New Year 2027 at the Côtier splav: Kristijan Tuba and Anđela Delić, all inclusive","Doček 2027. na splavu Côtier: Kristijan Tuba i Anđela Delić, all inclusive",https://raw.githubusercontent.com/newsgl/arsposters/main/3687-NovaGodinaCotier.webp,,Concerts,"Новогодняя ночь на сплаве Côtier на Земунском кею: поют Кристиян Туба и Анджела Делич, играет диджей. Формат всё включено, 49 евро за человека, бронирование по телефону.","New Year's Eve on the Côtier splav on Zemunski kej: Kristijan Tuba and Anđela Delić sing with a DJ. All inclusive, 49 euros per person, booking by phone.","Doček Nove godine na splavu Côtier na Zemunskom keju: pevaju Kristijan Tuba i Anđela Delić uz DJ podršku. All inclusive, 49 evra po osobi, rezervacije telefonom.","Сплав **Côtier** на Земунском кею встречает 2027 год живой музыкой: поют **Кристиян Туба и Анджела Делич**, между выступлениями играет диджей.
+
+Формат всё включено за 49 евро с человека, одна из самых доступных цен среди новогодних сплавов этого сезона. Что именно входит в напитки, в анонсе не расписано, уточняйте при бронировании.
+
+Время начала в анонсе не названо, его тоже стоит спросить, когда будете бронировать стол. Бронирование по телефону +381 63 880 9389.
+
+Анонс опубликован в Instagram менеджера бронирований сплава; официальный аккаунт Côtier этот вечер пока отдельно не объявлял.","The **Côtier** splav on Zemunski kej welcomes 2027 with live music: **Kristijan Tuba and Anđela Delić** sing, with a DJ between their sets.
+
+It is all inclusive for 49 euros per person, one of the lowest prices among New Year splavs this season. The announcement does not list which drinks are included, so ask when you book.
+
+The start time is not given either, so check that when you reserve a table. Bookings by phone at +381 63 880 9389.
+
+The announcement was posted on the Instagram of the splav's booking manager; the official Côtier account has not announced the night separately yet.","Splav **Côtier** na Zemunskom keju dočekuje 2027. uz živu muziku: pevaju **Kristijan Tuba i Anđela Delić**, a između nastupa pušta DJ.
+
+Ponuda je all inclusive za 49 evra po osobi, jedna od najpovoljnijih cena među novogodišnjim splavovima ove sezone. Koja pića ulaze u ponudu, u najavi ne piše, pa pitajte pri rezervaciji.
+
+Vreme početka u najavi nije navedeno, i to proverite kada rezervišete sto. Rezervacije na telefon +381 63 880 9389.
+
+Najava je objavljena na Instagramu menadžera rezervacija splava; zvanični nalog Côtiera veče još nije posebno najavio.",,5733,Cotier Events,"Kej oslobođenja, 11080 Zemun","44.840687,20.419117",https://www.instagram.com/p/DfK9sI2gutS/,Instagram @jovan.gavrilovic187,,Splav Côtier,https://cotier.rs/,,+381 63 880 9389,,,,"Сплавы, Новый год, Côtier, Кристиян Туба, Анджела Делич, новогодняя ночь, Земунский кей, всё включено","Splavs, New Year, Côtier, Kristijan Tuba, Anđela Delić, New Year's Eve, Zemunski kej, all inclusive","Splavovi, Nova godina, Côtier, Kristijan Tuba, Anđela Delić, novogodišnja noć, Zemunski kej, all inclusive",49,available,"Всё включено (состав напитков уточнять при бронировании), живая музыка и диджей","All inclusive (pića proveriti pri rezervaciji), živa muzika i DJ","All inclusive (check the drinks list when booking), live music and a DJ","Кристиян Туба и Анджела Делич, диджей","Kristijan Tuba i Anđela Delić, DJ","Kristijan Tuba and Anđela Delić, DJ",,,
+12/31/2026,12/31/2026,11/22/2026,3688,MusicGroup,Decibel bend,https://www.instagram.com/splav_nivo/,,MusicEvent,"Новый год 2027 на сплаве NIVO на Савском кею: Decibel bend, всё включено","New Year 2027 at the NIVO splav on Savski kej: Decibel band, all inclusive","Nova godina 2027 na splavu NIVO na Savskom keju: Decibel bend, all inclusive",https://raw.githubusercontent.com/newsgl/arsposters/main/3688-NovaGodinaSplavNivo.webp,,Concerts,"Новогодняя ночь на сплаве NIVO на Савском кею в Новом Белграде: играет Decibel bend, начало в 21:00. Всё включено за 90 евро с человека, мест мало, бронирование по телефону.","New Year's Eve on the NIVO splav on Savski kej in New Belgrade: Decibel band plays, starting at 21:00. All inclusive for 90 euros per person, limited seats, booking by phone.","Doček Nove godine na splavu NIVO na Savskom keju na Novom Beogradu: svira Decibel bend, početak u 21:00. All inclusive za 90 evra po osobi, broj mesta je ograničen, rezervacije telefonom.","Сплав **NIVO** стоит на Саве у Савского кея в Новом Белграде, в стороне от шумной набережной у Бранкова моста. На Новый год здесь играет **Decibel bend**, вечер начинается в 21:00.
+
+Формат всё включено за 90 евро с человека. Что входит в напитки и ужин, в анонсе не расписано, уточняйте при бронировании.
+
+Мест на новогоднюю ночь мало, поэтому столы лучше бронировать заранее. Бронирование по телефону +381 69 228 3733.
+
+Цена в анонсе одна для всех гостей, отдельные зоны и столы не упоминаются. Точный адрес на Савском кею в анонсе не указан, ориентир спросите при бронировании.
+
+До Савского кея проще всего добраться на такси или машине: это южная часть Нового Белграда, у кварталов вдоль реки.","The **NIVO** splav is moored on the Sava at Savski kej in New Belgrade, away from the busy riverfront by Branko's Bridge. On New Year's Eve **Decibel band** plays here, with the night starting at 21:00.
+
+It is all inclusive for 90 euros per person. The announcement does not list the drinks and food, so ask when you book.
+
+Seats for the night are limited, so book a table early. Bookings by phone at +381 69 228 3733.
+
+The announcement gives one price for all guests and does not mention zones or tables. It does not give the exact address on Savski kej either, so ask for directions when you book.
+
+Savski kej is easiest to reach by taxi or car: it is the southern part of New Belgrade, by the blocks along the river.","Splav **NIVO** je na Savi kod Savskog keja na Novom Beogradu, dalje od gužve na keju kod Brankovog mosta. Za doček ovde svira **Decibel bend**, a veče počinje u 21:00.
+
+Ponuda je all inclusive za 90 evra po osobi. Šta tačno ulazi u piće i hranu, u najavi ne piše, pa pitajte pri rezervaciji.
+
+Mesta za doček je malo, zato sto rezervišite na vreme. Rezervacije na telefon +381 69 228 3733.
+
+U najavi je jedna cena za sve goste, zone i stolovi se ne pominju. Tačna adresa na Savskom keju nije navedena, pa pitajte za orijentir pri rezervaciji.
+
+Do Savskog keja je najlakše taksijem ili kolima: to je južni deo Novog Beograda, kod blokova uz reku.",21:00,10530,Splav Nivo,"Savski kej, 11070 Novi Beograd","44.795296,20.392478",https://www.instagram.com/p/DfrqdRAgA_k/,Instagram @splav_nivo,,Splav NIVO,https://www.instagram.com/splav_nivo/,,+381 69 228 3733,,,,"Сплавы, Новый год, NIVO, Decibel bend, новогодняя ночь, Савский кей, Новый Белград, всё включено","Splavs, New Year, NIVO, Decibel band, New Year's Eve, Savski kej, New Belgrade, all inclusive","Splavovi, Nova godina, NIVO, Decibel bend, novogodišnja noć, Savski kej, Novi Beograd, all inclusive",90,available,"Всё включено (состав уточнять при бронировании), живая музыка","All inclusive (ponudu proveriti pri rezervaciji), živa muzika","All inclusive (check details when booking), live music",Decibel bend,Decibel bend,Decibel band,,,
+12/31/2026,12/31/2026,11/22/2026,3689,MusicGroup,"Epic Band, Ana Mašulović",https://www.instagram.com/move_belgrade/,,MusicEvent,Новый год 2027 на сплаве MOVE на Ушче: Epic Band и Ана Машулович,New Year 2027 at the MOVE splav on Ušće: Epic Band and Ana Mašulović,Doček 2027. na splavu MOVE na Ušću: Epic Band i Ana Mašulović,https://raw.githubusercontent.com/newsgl/arsposters/main/3689-NovaGodinaSplavMove.webp,,Concerts,"Новогодняя ночь на сплаве MOVE на Ушче, у слияния Савы и Дуная: Epic Band и певица Ана Машулович, начало в 21:00. Билеты от 25 евро, бронирование по телефону.","New Year's Eve on the MOVE splav on Ušće, where the Sava meets the Danube: Epic Band and singer Ana Mašulović, starting at 21:00. Tickets from 25 euros, booking by phone.","Doček Nove godine na splavu MOVE na Ušću, gde se Sava uliva u Dunav: Epic Band i Ana Mašulović, početak u 21:00. Karte od 25 evra, rezervacije telefonom.","Сплав **MOVE** стоит на Ушче, там, где Сава впадает в Дунай, с видом на Калемегдан. Это ивент-центр с рестораном, и на Новый год здесь играет **Epic Band** с певицей **Аной Машулович**.
+
+Вечер начинается в 21:00. Билеты от 25 евро, одна из самых низких цен на новогодних сплавах сезона. Ресторан готовит к празднику своё меню, а что именно входит в билет и сколько стоят столы, уточняйте при бронировании.
+
+Бронирование и справки по телефону 061 270 2703.
+
+MOVE открылся на месте прежнего сплава Shake 'n' Shake. Дату вечера объявил сам сплав, состав и цену называет его афиша и промоутер Events Belgrade.
+
+Из центра на Ушче можно дойти пешком через Бранков мост.","The **MOVE** splav is moored on Ušće, where the Sava flows into the Danube, with a view of Kalemegdan. It is an event centre with a restaurant, and on New Year's Eve **Epic Band** plays here with singer **Ana Mašulović**.
+
+The night starts at 21:00. Tickets are from 25 euros, one of the lowest prices among New Year splavs this season. The restaurant prepares its own holiday menu; ask what the ticket includes and how much tables cost when you book.
+
+Bookings and information by phone at 061 270 2703.
+
+MOVE opened where the Shake 'n' Shake splav used to be. The splav announced the date itself; the line-up and price come from its poster and from the promoter Events Belgrade.
+
+You can walk to Ušće from the centre across Branko's Bridge.","Splav **MOVE** je na Ušću, tamo gde se Sava uliva u Dunav, sa pogledom na Kalemegdan. To je event centar sa restoranom, a za doček ovde svira **Epic Band** uz **Anu Mašulović**.
+
+Veče počinje u 21:00. Karte su od 25 evra, jedna od najnižih cena na novogodišnjim splavovima ove sezone. Restoran sprema svoju prazničnu ponudu, a šta ulazi u kartu i koliko koštaju stolovi, proverite pri rezervaciji.
+
+Rezervacije i informacije na telefon 061 270 2703.
+
+MOVE je otvoren na mestu nekadašnjeg splava Shake 'n' Shake. Datum je objavio sam splav, a postavu i cenu navode njegov plakat i promoter Events Belgrade.
+
+Iz centra se na Ušće stiže peške preko Brankovog mosta.",21:00,2925,Splav Move,"Ušće bb, 11070 Novi Beograd","44.821933,20.442976",https://www.instagram.com/p/Df6rSl9jd0c/,Instagram @move_belgrade,,MOVE Event Centar,https://www.instagram.com/move_belgrade/,,+381 61 270 2703,,,,"Сплавы, Новый год, MOVE, Epic Band, Ана Машулович, новогодняя ночь, Ушче, живая музыка","Splavs, New Year, MOVE, Epic Band, Ana Mašulović, New Year's Eve, Ušće, live music","Splavovi, Nova godina, MOVE, Epic Band, Ana Mašulović, novogodišnja noć, Ušće, živa muzika",25,available,"Вход по билету, праздничное меню ресторана (состав уточнять при бронировании)","Ulaz uz kartu, praznična ponuda restorana (proveriti pri rezervaciji)","Entry with a ticket, the restaurant's holiday menu (check details when booking)","Epic Band, Ана Машулович","Epic Band, Ana Mašulović","Epic Band, Ana Mašulović",,,
+12/31/2026,12/31/2026,11/22/2026,3690,Person,DJ Kalouh,https://www.instagram.com/remiks_belgrade/,,MusicEvent,Новый год 2027 в клубе Remiks на Карађорђевой: DJ Kalouh,New Year 2027 at Remiks club on Karađorđeva: DJ Kalouh,Doček 2027. u klubu Remiks u Karađorđevoj: DJ Kalouh,https://raw.githubusercontent.com/newsgl/arsposters/main/3690-NovaGodinaRemiksKalouh.webp,,Concerts,"Новогодняя ночь в клубе Remiks в Савамале, Карађорђева 46: за пультом DJ Kalouh, начало в 21:30. Билет 30 евро, бронирование по телефону.","New Year's Eve at Remiks club in Savamala, Karađorđeva 46: DJ Kalouh on the decks, starting at 21:30. Tickets 30 euros, booking by phone.","Doček Nove godine u klubu Remiks u Savamali, Karađorđeva 46: za pultom DJ Kalouh, početak u 21:30. Karta 30 evra, rezervacije telefonom.","**Remiks** находится в Савамале, на улице Карађорђева, 46, в квартале клубов у Савы. На Новый год клуб зовёт на диджейскую ночь: за пультом **DJ Kalouh**.
+
+Вечер начинается в 21:30, раньше, чем обычные клубные ночи, так что полночь встретите уже на танцполе. Билет стоит 30 евро. Что входит в билет и как бронируются столы, в анонсе не сказано, уточняйте по телефону.
+
+В том же доме работает клуб Hype, у которого в эти дни своя серия новогодних вечеринок: при входе не перепутайте двери.
+
+Карађорђева идёт вдоль Савамалы к Бранкову мосту, от клуба до набережной Савы несколько минут пешком.
+
+Бронирование по телефону +381 66 666 5565.","**Remiks** is in Savamala at Karađorđeva 46, in the club quarter by the Sava. For New Year the club throws a DJ night with **DJ Kalouh** on the decks.
+
+The night starts at 21:30, earlier than a normal club night, so you will see in midnight on the dance floor. Tickets are 30 euros. The announcement does not say what the ticket includes or how tables are booked, so ask by phone.
+
+Hype club works in the same building and has its own run of New Year parties these days, so mind which door you go through.
+
+Karađorđeva runs through Savamala towards Branko's Bridge, and the Sava riverside is a few minutes' walk from the club.
+
+Bookings by phone at +381 66 666 5565.","**Remiks** je u Savamali, u Karađorđevoj 46, u klupskom delu grada uz Savu. Za doček klub pravi DJ noć: za pultom je **DJ Kalouh**.
+
+Veče počinje u 21:30, ranije nego obične klupske noći, pa ponoć dočekujete već na podijumu. Karta je 30 evra. Šta ulazi u kartu i kako se rezervišu stolovi, u najavi ne piše, proverite telefonom.
+
+U istoj zgradi radi klub Hype, koji ovih dana ima svoju seriju novogodišnjih žurki, pa pazite na koja vrata ulazite.
+
+Karađorđeva vodi kroz Savamalu ka Brankovom mostu, a do savskog keja je nekoliko minuta hoda od kluba.
+
+Rezervacije na telefon +381 66 666 5565.",21:30,3510,Remiks,"Karađorđeva 46, 11000 Beograd","44.813882,20.451192",https://www.instagram.com/p/DfQcT8ZgLy0/,Instagram @remiks_belgrade,,Remiks,https://www.instagram.com/remiks_belgrade/,,+381 66 666 5565,,,,"Клубы и вечеринки, Новый год, Remiks, DJ Kalouh, новогодняя ночь, Савамала, Карађорђева, диджей","Clubs and parties, New Year, Remiks, DJ Kalouh, New Year's Eve, Savamala, Karađorđeva, DJ","Klubovi i žurke, Nova godina, Remiks, DJ Kalouh, novogodišnja noć, Savamala, Karađorđeva, DJ",30,available,Вход по билету 30 евро,Ulaz uz kartu od 30 evra,Entry with a 30 euro ticket,DJ Kalouh,DJ Kalouh,DJ Kalouh,,,
+12/31/2026,12/31/2026,11/22/2026,3691,Organization,Shootiranje,https://www.instagram.com/shootiranje_nbg/,,MusicEvent,Новогодняя вечеринка в баре Shootiranje на Тошином бунаре в Новом Белграде,New Year's party at Shootiranje bar on Tošin bunar in New Belgrade,Novogodišnja žurka u Shootiranju na Tošinom bunaru na Novom Beogradu,https://raw.githubusercontent.com/newsgl/arsposters/main/3691-NovaGodinaShootiranje.webp,,Concerts,"Новогодняя вечеринка в баре Shootiranje на Тошином бунаре в Новом Белграде, с 21:00 до 03:00. Вход 25 евро, столы бронируются в директ Instagram или по телефону.","New Year's party at Shootiranje bar on Tošin bunar in New Belgrade, from 21:00 to 03:00. Entry 25 euros, tables booked via Instagram direct messages or by phone.","Novogodišnja žurka u baru Shootiranje na Tošinom bunaru na Novom Beogradu, od 21:00 do 03:00. Ulaz 25 evra, stolovi se rezervišu u DM na Instagramu ili telefonom.","**Shootiranje** это бар на Тошином бунаре в Новом Белграде, рядом со Студентским городом. На Новый год здесь вечеринка с 21:00 до трёх ночи, и бар честно пишет в анонсе, что встречать праздник собирается весело и с тостами.
+
+Вход стоит 25 евро. Вечер идёт шесть часов, с девяти до трёх, так что полночь приходится на самую середину праздника. Это вариант для тех, кому не нужен ужин в ресторане и большой клуб в центре: свой район, бар и компания до утра.
+
+Исполнители в анонсе не названы. Столы бронируются в директ Instagram бара или по телефону +381 60 354 7337, места в небольшом баре на новогоднюю ночь лучше занять заранее.","**Shootiranje** is a bar on Tošin bunar in New Belgrade, near Studentski grad. On New Year's Eve it throws a party from 21:00 to 3 am, and the announcement makes clear the plan is plenty of toasts.
+
+Entry is 25 euros. The party lasts six hours, from nine to three, so midnight falls right in the middle of it. It suits people who do not want a restaurant dinner or a big club in the centre: a neighbourhood bar and your crowd until morning.
+
+No performers are named. Tables are booked through the bar's Instagram direct messages or by phone at +381 60 354 7337; in a small bar it is worth booking early for this night.","**Shootiranje** je bar na Tošinom bunaru na Novom Beogradu, blizu Studentskog grada. Za doček je žurka od 21:00 do tri ujutru, a bar u najavi otvoreno piše da Novu godinu dočekuje uz mnogo zdravica.
+
+Ulaz je 25 evra. Žurka traje šest sati, od devet do tri, pa ponoć pada tačno na sredinu provoda. Ovo je opcija za one kojima ne treba večera u restoranu ni veliki klub u centru: svoj kraj, bar i društvo do jutra.
+
+Izvođači u najavi nisu navedeni. Stolovi se rezervišu u DM na Instagramu bara ili na telefon +381 60 354 7337, a u manjem baru mesto za doček je bolje obezbediti ranije.",21:00,2925,Shootiranje,"Tošin bunar 162, 11070 Novi Beograd","44.828585,20.398345",https://www.instagram.com/p/DgA4ad-OQaH/,Instagram @shootiranje_nbg,,Shootiranje,https://www.instagram.com/shootiranje_nbg/,,+381 60 354 7337,,,,"Клубы и вечеринки, Новый год, Shootiranje, бар, новогодняя ночь, Новый Белград, Тошин бунар, вечеринка","Clubs and parties, New Year, Shootiranje, bar, New Year's Eve, New Belgrade, Tošin bunar, party","Klubovi i žurke, Nova godina, Shootiranje, bar, novogodišnja noć, Novi Beograd, Tošin bunar, žurka",25,available,Вход 25 евро; столы по брони,Ulaz 25 evra; stolovi uz rezervaciju,Entry 25 euros; tables by booking,"вечеринка, исполнители не названы","žurka, izvođači nisu navedeni","party, no performers named",,,
+12/31/2026,12/31/2026,11/22/2026,3692,Person,Rambo Amadeus,https://www.kolarac.rs/,,MusicEvent,Рамбо Амадеус на Коларце в новогоднюю ночь: «Новогодишни COOLarac»,Rambo Amadeus at Kolarac on New Year's Eve: Novogodišnji COOLarac,Rambo Amadeus na Kolarcu za doček: Novogodišnji COOLarac,https://raw.githubusercontent.com/newsgl/arsposters/main/3692-RamboAmadeusKolarac.webp,,Concerts,"Рамбо Амадеус играет новогодний концерт в Коларчевой задужбине 31 декабря в 21:30, вечер называется «Новогодишни COOLarac». Билет 5 000 динаров, продажа в кассе и на сайте Коларца.","Rambo Amadeus plays a New Year's Eve concert at the Kolarac Endowment on 31 December at 21:30, billed as Novogodišnji COOLarac. Tickets 5,000 dinars at the Kolarac box office and website.","Rambo Amadeus drži novogodišnji koncert na Kolarcu 31. decembra u 21:30, veče nosi naziv Novogodišnji COOLarac. Karta 5.000 dinara, prodaja na blagajni i sajtu Kolarca.","**Рамбо Амадеус**, черногорский музыкант Антоние Пушич, давно стал для Белграда своим человеком: ироничные тексты, джаз, рок и балканские мотивы в одном концерте. В 2012 году он представлял Черногорию на «Евровидении».
+
+В новогоднюю ночь он выходит на сцену **Коларца**, одного из главных концертных залов города на Студентском трге. Вечер называется «Новогодишни COOLarac», игра слов с названием зала. Начало в 21:30.
+
+Билет стоит 5 000 динаров, продажа в кассе Коларца и на его сайте. Касса: 011 263 05 50.
+
+До полуночи концерт или через неё, зал на странице не уточняет; после концерта до площадей и кафан центра несколько минут пешком.","**Rambo Amadeus**, the Montenegrin musician Antonije Pušić, has long been one of Belgrade's own: ironic lyrics, jazz, rock and Balkan motifs in a single show. In 2012 he represented Montenegro at Eurovision.
+
+On New Year's Eve he takes the stage at **Kolarac**, one of the city's main concert halls on Studentski trg. The night is billed as Novogodišnji COOLarac, a pun on the hall's name. It starts at 21:30.
+
+Tickets are 5,000 dinars at the Kolarac box office and website. Box office: 011 263 05 50.
+
+The hall does not say whether the concert runs through midnight; afterwards the squares and kafanas of the centre are a few minutes' walk away.","**Rambo Amadeus**, crnogorski muzičar Antonije Pušić, odavno je Beograđanin po duši: ironični tekstovi, džez, rok i balkanski motivi u jednom koncertu. Crnu Goru je 2012. predstavljao na Evroviziji.
+
+Za doček nastupa na **Kolarcu**, jednoj od glavnih koncertnih sala u gradu, na Studentskom trgu. Veče nosi naziv Novogodišnji COOLarac, igru reči sa imenom sale. Početak je u 21:30.
+
+Karta košta 5.000 dinara, prodaja na blagajni Kolarca i na sajtu. Blagajna: 011 263 05 50.
+
+Da li koncert traje i posle ponoći, Kolarac ne navodi; posle koncerta su trgovi i kafane centra na par minuta hoda.",21:30,5000,Zadužbina Ilije M. Kolarca,"Studentski trg 5, Beograd","44.819094,20.456261",https://www.kolarac.rs/koncerti/novogodisnji-koncert-na-kolarcu-rambo-amadeus-31-12-2026-u-21-30/,kolarac.rs,https://ticketing.kolarac.rs/,Zadužbina Ilije M. Kolarca,https://www.kolarac.rs/,,011 263 05 50,,,,"Новый год, Рамбо Амадеус, Коларац, новогодняя ночь, концерт, рок, джаз, Студентски трг","New Year, Rambo Amadeus, Kolarac, New Year's Eve, concert, rock, jazz, Studentski trg","Nova godina, Rambo Amadeus, Kolarac, novogodišnja noć, koncert, rok, džez, Studentski trg",,,,,,,,,,,
+12/31/2026,12/31/2026,11/22/2026,3693,Organization,"Jadranka Gojić, Euroexpress bend, DJ Emanuele, DJ Kostov",https://zimskabajka.rs/,,Festival,31 декабря в «Зимней сказке»: отсчёт с диджеями и концерт Ядранки Гоич,31 December at Zimska bajka: DJ countdowns and a Jadranka Gojić concert,Doček u Zimskoj bajci: otkucavanje uz DJ-eve i koncert Jadranke Gojić,https://raw.githubusercontent.com/newsgl/arsposters/main/3693-ZimskaBajka3112.webp,,"Festivals, Concerts","Бесплатная новогодняя программа «Зимней сказки» в Савском парке 31 декабря: днём детский спектакль и хор, в 16:00 Euroexpress bend, отсчёт с DJ Emanuele в 18:30 и DJ Kostov в 20:00, в 22:30 концерт Ядранки Гоич.","The free New Year's Eve programme of Zimska bajka in Savski park: a children's show and choir in the afternoon, Euroexpress bend at 16:00, countdowns with DJ Emanuele at 18:30 and DJ Kostov at 20:00, and a Jadranka Gojić concert at 22:30.","Besplatan novogodišnji program Zimske bajke u Savskom parku 31. decembra: danju dečja predstava i hor, u 16:00 Euroexpress bend, otkucavanje uz DJ Emanuelea u 18:30 i DJ Kostova u 20:00, a u 22:30 koncert Jadranke Gojić.","**«Зимняя сказка»** в Савском парке у Белграда-на-воде в последний день года работает с обеда до позднего вечера, и программа расписана так, чтобы прийти и с детьми, и компанией.
+
+Программа дня:
+
+13:00 детский спектакль;
+
+14:00 детский хор «Чаролия»;
+
+16:00 Euroexpress bend;
+
+18:30 новогодний отсчёт с DJ Emanuele;
+
+20:00 отсчёт с DJ Kostov;
+
+22:30 концерт **Ядранки Гоич**.
+
+Два ранних отсчёта удобны тем, кто встречает Новый год с маленькими детьми и не ждёт полуночи. Полночь, салют и дрон-шоу в программе «Сказки» не упомянуты, а Белград-на-воде о новогоднем салюте этого сезона пока не объявлял.
+
+Вход в Савский парк свободный. Каток, базар и еда работают в обычном режиме фестиваля.","**Zimska bajka** in Savski park by Belgrade Waterfront runs from lunchtime to late evening on the last day of the year, with a programme that works for families and for groups of friends.
+
+The day's programme:
+
+13:00 children's show;
+
+14:00 Čarolija children's choir;
+
+16:00 Euroexpress bend;
+
+18:30 New Year countdown with DJ Emanuele;
+
+20:00 countdown with DJ Kostov;
+
+22:30 **Jadranka Gojić** concert.
+
+The two early countdowns suit anyone celebrating with small children who will not wait up for midnight. Midnight, fireworks and a drone show are not on the Zimska bajka programme, and Belgrade Waterfront has not announced New Year fireworks for this season yet.
+
+Entry to Savski park is free. The rink, the bazaar and the food stalls run as usual during the festival.","**Zimska bajka** u Savskom parku kod Beograda na vodi poslednjeg dana u godini radi od podneva do kasno uveče, a program je složen tako da se dođe i sa decom i sa društvom.
+
+Program dana:
+
+13:00 dečja predstava;
+
+14:00 dečji hor „Čarolija“;
+
+16:00 Euroexpress bend;
+
+18:30 otkucavanje uz DJ Emanuelea;
+
+20:00 otkucavanje uz DJ Kostova;
+
+22:30 koncert **Jadranke Gojić**.
+
+Dva ranija otkucavanja su zgodna za porodice sa malom decom koja neće dočekati ponoć. Ponoć, vatromet i dron šou nisu u programu Zimske bajke, a Beograd na vodi novogodišnji vatromet za ovu sezonu još nije najavio.
+
+Ulaz u Savski park je slobodan. Klizalište, bazar i hrana rade po uobičajenom rasporedu festivala.",13:00,,Savski park,"Savski park, Beograd na vodi, Beograd","44.804988,20.451521",https://zimskabajka.rs/program/,zimskabajka.rs,,Zimska bajka,https://zimskabajka.rs/,,,,,,"Площади и бесплатные концерты, Новый год, Зимняя сказка, Савский парк, Белград-на-воде, Ядранка Гоич, бесплатно, с детьми","Squares and free concerts, New Year, Zimska bajka, Savski park, Belgrade Waterfront, Jadranka Gojić, free, with kids","Trgovi i besplatni koncerti, Nova godina, Zimska bajka, Savski park, Beograd na vodi, Jadranka Gojić, besplatno, sa decom",,,,,,,,,,,
+01/01/2027,01/01/2027,11/22/2026,3694,Person,"Zera, DJ Ike",https://freestylerclub.com/,,MusicEvent,Реприза 1 января на сплаве Freestyler: Зера и DJ Ike,1 January repriza at the Freestyler splav: Zera and DJ Ike,Repriza 1. januara na splavu Freestyler: Zera i DJ Ike,https://raw.githubusercontent.com/newsgl/arsposters/main/3694-Repriza0101FreestylerZera.webp,,Concerts,"Третья новогодняя ночь на сплаве Freestyler на Земунском кею: 1 января выступает Зера, за пультом DJ Ike. Время и цену клуб пока не объявил, столы бронируются по WhatsApp.","The third New Year night on the Freestyler splav on Zemunski kej: Zera performs on 1 January with DJ Ike on the decks. The club has not announced the time or price yet, tables are booked via WhatsApp.","Treća novogodišnja noć na splavu Freestyler na Zemunskom keju: 1. januara nastupa Zera, za pultom DJ Ike. Vreme i cenu klub još nije objavio, stolovi se rezervišu preko WhatsAppa.","На Новый год сплав **Freestyler** на Земунском кею работает три ночи подряд, и 1 января последняя из них. Клуб называет её новогодним афтепати: выступает **Зера**, за пультом **DJ Ike**.
+
+Реприза 1 января в Белграде своя традиция: вторую новогоднюю ночь многие проводят так же шумно, как первую, а в клубах и на сплавах она часто спокойнее по цене.
+
+Время начала и цену входа на эту ночь клуб пока не объявил; обычные ночи на сплаве идут с 23:00 до 04:00, но на 1 января это стоит уточнить. Столы бронируются по WhatsApp +381 62 800 2020.
+
+31 декабря на этом же сплаве выступает INAS, а зимняя сцена Freestyler в Бетон-хале 1 января ставит Devito.","For New Year the **Freestyler** splav on Zemunski kej opens three nights in a row, and 1 January is the last of them. The club calls it the New Year afterparty: **Zera** performs with **DJ Ike** on the decks.
+
+The 1 January repriza is a Belgrade tradition of its own: many people spend the second New Year night as loudly as the first, and in clubs and on splavs it is often easier on the wallet.
+
+The club has not announced the start time or entry price for this night yet; regular nights on the splav run from 23:00 to 04:00, but check for 1 January. Tables are booked via WhatsApp at +381 62 800 2020.
+
+INAS plays the same splav on 31 December, and on 1 January the Freestyler Winter Stage in Beton Hala has Devito.","Za Novu godinu splav **Freestyler** na Zemunskom keju radi tri noći zaredom, a 1. januar je poslednja. Klub je zove novogodišnjim afterpartijem: nastupa **Zera**, za pultom je **DJ Ike**.
+
+Repriza 1. januara je beogradska tradicija za sebe: mnogi drugu novogodišnju noć provode jednako bučno kao prvu, a u klubovima i na splavovima je često povoljnija.
+
+Vreme početka i cenu ulaza za ovu noć klub još nije objavio; obične noći na splavu traju od 23:00 do 04:00, ali za 1. januar to proverite. Stolovi se rezervišu preko WhatsAppa na +381 62 800 2020.
+
+Na istom splavu 31. decembra nastupa INAS, a zimska bina Freestylera u Beton hali 1. januara ima Devita.",,,Freestyler Summer Stage,"Obala kralja Aleksandra I Karađorđevića 100 (Zemunski kej), 11070 Novi Beograd","44.824074,20.427079",https://www.instagram.com/p/DfhEjFLsqpD/,Instagram @freestylerbelgrade_official,https://freestylerclub.com/splav-new-year-2027/zera/,Freestyler,https://freestylerclub.com/,,+381 62 800 2020,,,,"Реприза 1 января, Новый год, Freestyler, Зера, DJ Ike, сплав, Земунский кей, афтепати","Repriza on 1 January, New Year, Freestyler, Zera, DJ Ike, splav, Zemunski kej, afterparty","Repriza 1. januara, Nova godina, Freestyler, Zera, DJ Ike, splav, Zemunski kej, afterparty",,available,Вход; столы по брони через WhatsApp,Ulaz; stolovi uz rezervaciju preko WhatsAppa,Entry; tables by booking via WhatsApp,"Зера, DJ Ike","Zera, DJ Ike","Zera, DJ Ike",,,
+01/01/2027,01/01/2027,11/22/2026,3695,Person,Devito,https://freestylerclub.com/,,MusicEvent,Реприза 1 января на Freestyler Winter Stage в Бетон-хале: Девито,1 January repriza at Freestyler Winter Stage in Beton Hala: Devito,Repriza 1. januara na Freestyler Winter Stage u Beton hali: Devito,https://raw.githubusercontent.com/newsgl/arsposters/main/3695-Repriza0101FreestylerDevito.webp,,Concerts,"1 января на зимней сцене Freestyler в Бетон-хале выступает Девито, с ним DJ Architect и DJ Anubis. Двери открываются в 22:00, брони держат до 23:30. Цену входа на эту ночь клуб пока не объявил.","On 1 January Devito plays the Freestyler Winter Stage in Beton Hala with DJ Architect and DJ Anubis. Doors at 22:00, bookings held until 23:30. The club has not announced the entry price for this night yet.","Na zimskoj bini Freestylera u Beton hali 1. januara nastupa Devito, uz DJ Architecta i DJ Anubisa. Vrata se otvaraju u 22:00, rezervacije se drže do 23:30. Cenu ulaza za ovu noć klub još nije objavio.","Новогодний марафон **Freestyler** в Бетон-хале идёт девять ночей, с 25 декабря по 2 января, и 1 января на сцену выходит **Девито**. За пультом **DJ Architect** и **DJ Anubis**, резиденты ставят R&B, хип-хоп и хаус, хедлайнер выступает после полуночи.
+
+В этот вечер двери открываются в 22:00, на час раньше обычного. Брони держат до 23:30, дальше столы отдают тем, кто пришёл.
+
+Цена входа объявлена только для новогодней ночи (50 евро заранее, 60 на месте), на 1 января клуб её пока не назвал. Столы продаются пакетами с бутылками и билетами на компанию; в клубе платят в динарах наличными или картой.
+
+Бронирование через сайт или WhatsApp +381 62 800 2020.","The **Freestyler** New Year marathon in Beton Hala runs for nine nights, from 25 December to 2 January, and on 1 January **Devito** takes the stage. **DJ Architect** and **DJ Anubis** are on the decks, residents play R&B, hip hop and house, and the headliner comes on after midnight.
+
+Doors open at 22:00 this night, an hour earlier than usual. Bookings are held until 23:30, after that tables go to whoever is there.
+
+The entry price has only been announced for New Year's Eve (50 euros in advance, 60 on the night); for 1 January the club has not named it yet. Tables are sold as packages with bottles and tickets for the group; at the venue you pay in dinars, in cash or by card.
+
+Book on the website or via WhatsApp at +381 62 800 2020.","Novogodišnji maraton **Freestylera** u Beton hali traje devet noći, od 25. decembra do 2. januara, a 1. januara na binu izlazi **Devito**. Za pultom su **DJ Architect** i **DJ Anubis**, rezidenti puštaju R&B, hip-hop i haus, a hedlajner nastupa posle ponoći.
+
+Te večeri vrata se otvaraju u 22:00, sat ranije nego obično. Rezervacije se drže do 23:30, posle toga stolovi idu onima koji su tu.
+
+Cena ulaza objavljena je samo za doček (50 evra unapred, 60 na dan događaja), za 1. januar klub je još nije naveo. Stolovi se prodaju u paketima sa flašama i kartama za društvo; u klubu se plaća u dinarima, gotovinom ili karticom.
+
+Rezervacije preko sajta ili WhatsAppa na +381 62 800 2020.",22:00,,Freestyler Winter Stage,"Karađorđeva 2-4 (Beton hala), 11000 Beograd","44.819865,20.448431",https://ws.freestylerclub.com/new-year-2027/,freestylerclub.com,https://ws.freestylerclub.com/new-year-2027/,Freestyler,https://freestylerclub.com/,,+381 62 800 2020,,,,"Реприза 1 января, Новый год, Freestyler, Девито, Бетон-хала, R&B, хип-хоп, клубная ночь","Repriza on 1 January, New Year, Freestyler, Devito, Beton Hala, R&B, hip hop, club night","Repriza 1. januara, Nova godina, Freestyler, Devito, Beton hala, R&B, hip-hop, klupska noć",,available,Вход; столы пакетами с бутылками и билетами на компанию,Ulaz; stolovi u paketima sa flašama i kartama za društvo,Entry; table packages with bottles and tickets for the group,"Девито, DJ Architect, DJ Anubis","Devito, DJ Architect, DJ Anubis","Devito, DJ Architect, DJ Anubis",,,
+01/01/2027,01/01/2027,11/22/2026,3696,Person,Kevin Saunderson,https://ra.co/events/2590046,,MusicEvent,"Реприза 1 января в клубе Kult: Кевин Сондерсон, один из отцов детройт-техно","1 January repriza at Kult: Kevin Saunderson, one of the fathers of Detroit techno","Repriza 1. januara u klubu Kult: Kevin Saunderson, jedan od očeva detroit tehna",https://raw.githubusercontent.com/newsgl/arsposters/main/3696-Repriza0101KultSaunderson.webp,,Concerts,"KULT NYE2027 Reprise: 1 января в клубе Kult играет Кевин Сондерсон, с 23:00 до 06:00. Билеты на Resident Advisor от 17 евро при входе до полуночи, дальше от 20 до 30 евро.","KULT NYE2027 Reprise: Kevin Saunderson plays Kult on 1 January, from 23:00 to 06:00. Tickets on Resident Advisor from 17 euros with entry before midnight, then from 20 to 30 euros.","KULT NYE2027 Reprise: 1. januara u klubu Kult svira Kevin Saunderson, od 23:00 do 06:00. Karte na Resident Advisoru od 17 evra uz ulaz do ponoći, zatim od 20 do 30 evra.","**Кевин Сондерсон** входит в «бельвильскую тройку» вместе с Хуаном Аткинсом и Дерриком Мэем: в Детройте 1980-х они придумали техно. С проектом Inner City он записал «Big Fun» и «Good Life», хиты, которые до сих пор звучат в клубах.
+
+Первого января он играет в **Kult** на Чумичевом сокаче: клуб устраивает репризу своей новогодней ночи, KULT NYE2027 Reprise. Вечер идёт с 23:00 до 06:00.
+
+Билеты на Resident Advisor, цены в евро уже с сервисным сбором: самый дешёвый «NØT MISSING OUT» за 17 евро действует при входе до полуночи, дальше early bird 20 евро, затем 25, 28 и последняя волна 30 евро.
+
+Новогоднюю ночь 31 декабря Kult проводит отдельно, с марафоном Cristina Lazic.","**Kevin Saunderson** is one of the Belleville Three, with Juan Atkins and Derrick May: in 1980s Detroit they came up with techno. With Inner City he made ""Big Fun"" and ""Good Life"", hits that still get played in clubs.
+
+On 1 January he plays **Kult** in Čumićevo sokače, where the club runs a repriza of its New Year party, KULT NYE2027 Reprise. The night goes from 23:00 to 06:00.
+
+Tickets are on Resident Advisor, with euro prices including the RA fee: the cheapest ""NØT MISSING OUT"" tier at 17 euros is valid for entry before midnight, then early bird at 20 euros, then 25, 28 and a final release at 30 euros.
+
+Kult holds New Year's Eve on 31 December separately, with a Cristina Lazic marathon.","**Kevin Saunderson** je deo „Belleville Three“, sa Huanom Atkinsom i Derikom Mejem: u Detroitu osamdesetih oni su smislili tehno. Sa projektom Inner City snimio je „Big Fun“ i „Good Life“, hitove koji se i danas puštaju u klubovima.
+
+Prvog januara svira u **Kultu** u Čumićevom sokačetu, gde klub pravi reprizu svog dočeka, KULT NYE2027 Reprise. Noć traje od 23:00 do 06:00.
+
+Karte su na Resident Advisoru, cene u evrima su sa naknadom RA: najjeftinija „NØT MISSING OUT“ za 17 evra važi uz ulaz do ponoći, zatim early bird 20 evra, pa 25, 28 i poslednja faza 30 evra.
+
+Doček 31. decembra Kult pravi posebno, uz maraton Cristine Lazic.",23:00,1989,Kult,"Čumićevo sokače 3, 11000 Beograd","44.813900,20.461900",https://ra.co/events/2590046,Resident Advisor,https://ra.co/events/2590046,KULT,https://ra.co/events/2590046,,,,,,"Реприза 1 января, Новый год, Kult, Кевин Сондерсон, техно, хаус, Чумичево сокаче, клубная ночь","Repriza on 1 January, New Year, Kult, Kevin Saunderson, techno, house, Čumićevo sokače, club night","Repriza 1. januara, Nova godina, Kult, Kevin Saunderson, tehno, haus, Čumićevo sokače, klupska noć",17,available,Вход по билету; цены Resident Advisor со сбором,Ulaz uz kartu; cene Resident Advisora sa naknadom,Entry with a ticket; Resident Advisor prices include the fee,"Кевин Сондерсон, детройт-техно, хаус","Kevin Saunderson, detroit tehno, haus","Kevin Saunderson, Detroit techno, house",,,
+01/01/2027,01/01/2027,11/22/2026,3697,Organization,"Tajna veza, Željko i Bane, DJ Groove Sessions",https://zimskabajka.rs/,,Festival,"1 января в «Зимней сказке»: трибьют Bijelo Dugme и Indexi, Желько и Бане","1 January at Zimska bajka: Bijelo Dugme and Indexi tribute, Željko i Bane","1. januar u Zimskoj bajci: tribute Bijelo Dugme i Indexi, Željko i Bane",https://raw.githubusercontent.com/newsgl/arsposters/main/3697-ZimskaBajka0101.webp,,"Festivals, Concerts","Бесплатная реприза в Савском парке 1 января: днём детский спектакль и хор «Мари Мари», в 16:00 DJ Groove Sessions, в 18:00 Желько и Бане, в 20:00 Tajna veza с песнями Bijelo Dugme и Indexi.","A free repriza in Savski park on 1 January: a children's show and the Mari Mari choir in the afternoon, DJ Groove Sessions at 16:00, Željko i Bane at 18:00 and Tajna veza playing Bijelo Dugme and Indexi songs at 20:00.","Besplatna repriza u Savskom parku 1. januara: danju dečja predstava i hor „Mari Mari“, u 16:00 DJ Groove Sessions, u 18:00 Željko i Bane, u 20:00 Tajna veza sa pesmama Bijelog Dugmeta i Indexa.","Первого января **«Зимняя сказка»** в Савском парке продолжает праздник с обеда до вечера, и это одна из немногих объявленных бесплатных уличных программ на этот день.
+
+Программа:
+
+13:00 детский спектакль;
+
+14:00 детский хор «Мари Мари»;
+
+16:00 DJ Groove Sessions, соул, диско и хаус;
+
+18:00 живая музыка, Желько и Бане;
+
+20:00 **Tajna veza**, трибьют **Bijelo Dugme и Indexi**.
+
+Вечером главная тема югославский рок: Bijelo Dugme из Сараево и сараевские же Indexi, песни, которые в Белграде знает каждое поколение.
+
+Вход в Савский парк свободный. Каток, базар и еда работают как обычно, «Сказка» открыта до 4 января.","On 1 January **Zimska bajka** in Savski park keeps the holiday going from lunchtime to evening, and it is one of the few free outdoor programmes announced for the day.
+
+The programme:
+
+13:00 children's show;
+
+14:00 Mari Mari children's choir;
+
+16:00 DJ Groove Sessions, soul, disco and house;
+
+18:00 live music, Željko i Bane;
+
+20:00 **Tajna veza**, a tribute to **Bijelo Dugme and Indexi**.
+
+The evening is about Yugoslav rock: Bijelo Dugme and Indexi, both from Sarajevo, with songs every generation in Belgrade knows.
+
+Entry to Savski park is free. The rink, the bazaar and the food stalls run as usual, and Zimska bajka stays open until 4 January.","Prvog januara **Zimska bajka** u Savskom parku nastavlja praznik od podneva do večeri, i to je jedan od retkih najavljenih besplatnih programa na otvorenom za taj dan.
+
+Program:
+
+13:00 dečja predstava;
+
+14:00 dečji hor „Mari Mari“;
+
+16:00 DJ Groove Sessions, soul, disko i haus;
+
+18:00 živa svirka, Željko i Bane;
+
+20:00 **Tajna veza**, tribute **Bijelom Dugmetu i Indexima**.
+
+Uveče je u prvom planu jugoslovenski rok: Bijelo Dugme i Indexi, oba benda iz Sarajeva, sa pesmama koje u Beogradu zna svaka generacija.
+
+Ulaz u Savski park je slobodan. Klizalište, bazar i hrana rade kao i obično, a Zimska bajka je otvorena do 4. januara.",13:00,,Savski park,"Savski park, Beograd na vodi, Beograd","44.804988,20.451521",https://zimskabajka.rs/program/,zimskabajka.rs,,Zimska bajka,https://zimskabajka.rs/,,,,,,"Реприза 1 января, Новый год, Зимняя сказка, Савский парк, Bijelo Dugme, югославский рок, бесплатно, с детьми","Repriza on 1 January, New Year, Zimska bajka, Savski park, Bijelo Dugme, Yugoslav rock, free, with kids","Repriza 1. januara, Nova godina, Zimska bajka, Savski park, Bijelo Dugme, jugoslovenski rok, besplatno, sa decom",,,,,,,,,,,
+12/04/2026,12/04/2026,11/22/2026,3698,Organization,"Zvonko Bogdan, Željko i Bane, DJ Groove Sessions",https://zimskabajka.rs/,,Festival,"Открытие «Зимней сказки» в Савском парке: огни, отсчёт и концерт Звонко Богдана","Zimska bajka opens in Savski park: lights, a countdown and a Zvonko Bogdan concert","Otvaranje Zimske bajke u Savskom parku: lampice, odbrojavanje i Zvonko Bogdan",https://raw.githubusercontent.com/newsgl/arsposters/main/3698-ZimskaBajkaOtvaranje.webp,,"Festivals, Concerts","Зимний фестиваль «Зимняя сказка» в Савском парке открывается 4 декабря: в 16:00 зажигают огни под отсчёт с DJ Groove Sessions, в 18:00 Желько и Бане, в 20:00 концерт Звонко Богдана. Вход свободный.","The Zimska bajka winter festival in Savski park opens on 4 December: lights on at 16:00 with a countdown and DJ Groove Sessions, Željko i Bane at 18:00 and a Zvonko Bogdan concert at 20:00. Free entry.","Zimska bajka u Savskom parku otvara se 4. decembra: u 16:00 paljenje lampica uz odbrojavanje i DJ Groove Sessions, u 18:00 Željko i Bane, u 20:00 koncert Zvonka Bogdana. Ulaz slobodan.","**«Зимняя сказка»**, зимний фестиваль в Савском парке у Белграда-на-воде, открывает сезон 2026/27: 32 дня каток, базар, концерты, детские спектакли и мастерские, каждый день с 12:00 до 22:00.
+
+В день открытия:
+
+16:00 торжественное открытие: зажигают праздничные огни под обратный отсчёт, играет DJ Groove Sessions (соул, диско, хаус);
+
+18:00 живая музыка, Желько и Бане;
+
+20:00 концерт **Звонко Богдана**.
+
+Звонко Богдан один из самых известных исполнителей старогородских и тамбурашских песен Воеводины, и его концерт под открытым небом хорошее начало для фестиваля, который потом месяц живёт музыкой каждый вечер.
+
+Вход в Савский парк свободный. Полная программа по дням на сайте фестиваля.","**Zimska bajka**, the winter festival in Savski park by Belgrade Waterfront, opens its 2026/27 season: 32 days of skating, a bazaar, concerts, children's shows and workshops, daily from 12:00 to 22:00.
+
+On opening day:
+
+16:00 official opening: the festive lights go on to a countdown, with DJ Groove Sessions (soul, disco, house);
+
+18:00 live music, Željko i Bane;
+
+20:00 **Zvonko Bogdan** concert.
+
+Zvonko Bogdan is one of the best known singers of old town and tamburica songs from Vojvodina, and an open air concert by him is a good start for a festival that then has music every evening for a month.
+
+Entry to Savski park is free. The full day by day programme is on the festival website.","**Zimska bajka**, zimski festival u Savskom parku kod Beograda na vodi, otvara sezonu 2026/27: 32 dana klizanja, bazara, koncerata, dečjih predstava i radionica, svakog dana od 12:00 do 22:00.
+
+Na dan otvaranja:
+
+16:00 svečano otvaranje: paljenje prazničnih lampica uz odbrojavanje, svira DJ Groove Sessions (soul, disko, haus);
+
+18:00 živa svirka, Željko i Bane;
+
+20:00 koncert **Zvonka Bogdana**.
+
+Zvonko Bogdan je jedan od najpoznatijih izvođača starogradskih i tamburaških pesama Vojvodine, a njegov koncert pod vedrim nebom dobar je početak festivala koji posle toga mesec dana svake večeri živi uz muziku.
+
+Ulaz u Savski park je slobodan. Ceo program po danima je na sajtu festivala.",16:00,,Savski park,"Savski park, Beograd na vodi, Beograd","44.804988,20.451521",https://zimskabajka.rs/program/,zimskabajka.rs,,Zimska bajka,https://zimskabajka.rs/,,,,,,"Ярмарки и катки, Новый год, Зимняя сказка, Савский парк, Звонко Богдан, иллюминация, бесплатно, Белград-на-воде","Markets and ice rinks, New Year, Zimska bajka, Savski park, Zvonko Bogdan, festive lights, free, Belgrade Waterfront","Vašari i klizališta, Nova godina, Zimska bajka, Savski park, Zvonko Bogdan, praznična rasveta, besplatno, Beograd na vodi",,,,,,,,,,,
+12/13/2026,12/13/2026,11/22/2026,3699,Person,Mađioničar Strahinja,https://akademija28.com/,,ChildrensEvent,«Фокусник Страхиня и Деда Мраз»: новогоднее шоу для всей семьи в «Академии 28»,Magician Strahinja and Deda Mraz: New Year family show at Akademija 28,Mađioničar Strahinja i Deda Mraz: novogodišnja predstava u Akademiji 28,https://raw.githubusercontent.com/newsgl/arsposters/main/3699-StrahinjaDedaMraz.webp,,Kids,"Новогоднее шоу фокусника Страхини с Деда Мразом в «Академии 28» у Славии: новые иллюзии и трюки, публика участвует в номерах. Для всех возрастов, на сербском. Билеты от 1 200 до 1 800 динаров на tickets.rs.","A New Year show by magician Strahinja with Deda Mraz at Akademija 28 near Slavija: new illusions and tricks, with the audience taking part. For all ages, in Serbian. Tickets from 1,200 to 1,800 dinars at tickets.rs.","Novogodišnja predstava mađioničara Strahinje sa Deda Mrazom u Akademiji 28 kod Slavije: nove iluzije i trikovi, publika učestvuje. Za sve uzraste, karte od 1.200 do 1.800 dinara na tickets.rs.","**Фокусник Страхиня** готовит к праздникам новое новогоднее шоу, и в этот раз на сцену с ним выходит **Деда Мраз**, сербский Дед Мороз.
+
+В программе новые иллюзии и трюки, а зрители участвуют в номерах вместе с фокусником. Шоу рассчитано на всю семью, без ограничений по возрасту, идёт на сербском языке, но фокусы понятны и без перевода.
+
+«Академия 28» находится на Немањиной, 28, в паре минут от Славии.
+
+Билеты на tickets.rs и в книжных Delfi Laguna: балкон 1 200 динаров, стандарт 1 500, места «magic» 1 800 динаров. Справки в кассе «Академии 28»: 011 3616 020.","**Magician Strahinja** has a new New Year show this season, and this time **Deda Mraz**, the Serbian Father Frost, joins him on stage.
+
+The show has new illusions and tricks, and the audience takes part in the acts. It is for the whole family with no age limit, performed in Serbian, though the magic works without translation.
+
+Akademija 28 is at Nemanjina 28, a couple of minutes from Slavija.
+
+Tickets at tickets.rs and Delfi Laguna bookshops: balcony 1,200 dinars, standard 1,500, ""magic"" seats 1,800 dinars. Information at the Akademija 28 box office: 011 3616 020.","**Mađioničar Strahinja** sprema novu novogodišnju predstavu, a ovog puta sa njim na binu izlazi **Deda Mraz**.
+
+U programu su nove iluzije i trikovi, a publika učestvuje u tačkama zajedno sa mađioničarem. Predstava je za celu porodicu i sve uzraste, igra se na srpskom jeziku, a trikovi su zanimljivi i najmlađima. Na plakatu je najavljena kao nova novogodišnja predstava i hit sezone.
+
+Akademija 28 je u Nemanjinoj 28, na par minuta od Slavije.
+
+Karte na tickets.rs i u knjižarama Delfi Laguna: balkon 1.200 dinara, standard 1.500, „magic“ mesta 1.800 dinara. Informacije na blagajni Akademije 28: 011 3616 020.",15:00,1200,Akademija 28,"Nemanjina 28, 11000 Beograd","44.803498,20.463513",https://tickets.rs/event/madionicar_strahinja_i_deda_mraz_29710,tickets.rs,https://tickets.rs/event/madionicar_strahinja_i_deda_mraz_29710,Akademija 28,https://akademija28.com/,,011 3616 020,0+,,,"Ёлки и спектакли для детей, Новый год, фокусник, Деда Мраз, Академия 28, Славия, для всей семьи, шоу","Shows and parties for kids, New Year, magician, Deda Mraz, Akademija 28, Slavija, family, show","Predstave i novogodišnji programi za decu, Nova godina, mađioničar, Deda Mraz, Akademija 28, Slavija, porodično, predstava",,,,,,,,,,,
+12/13/2026,12/13/2026,11/22/2026,3700,Organization,Beogradski sajam,https://sajam.rs/,,Festival,Большая новогодняя ярмарка игрушек и коллекционирования на Белградской ярмарке,Big New Year toy and collectors' fair at the Belgrade Fair,Veliki novogodišnji sajam igračaka i kolekcionarstva na Beogradskom sajmu,https://raw.githubusercontent.com/newsgl/arsposters/main/3700-SajamIgracaka.webp,,Festivals,"Однодневная новогодняя ярмарка игрушек и коллекционирования в Зале 1A Белградской ярмарки: модели машин, фигурки из кино и комиксов, LEGO, игрушки из Kinder, альбомы с наклейками, комиксы и настольные игры.","A one day New Year toy and collectors' fair in Hall 1A of the Belgrade Fair: model cars, film and comic figures, LEGO, Kinder toys, sticker albums, comics and board games.","Jednodnevni novogodišnji sajam igračaka i kolekcionarstva u Hali 1A Beogradskog sajma: modeli automobila, figure iz filmova i stripova, LEGO, Kinder figurice, albumi sa sličicama, stripovi i društvene igre.","В середине декабря Белградская ярмарка собирает в **Зале 1A** коллекционеров и продавцов игрушек. Удобный повод поискать подарки не в торговом центре.
+
+На прилавках:
+
+модели машин;
+
+фигурки героев кино и комиксов;
+
+**LEGO**;
+
+игрушки из Kinder-сюрпризов;
+
+альбомы и наклейки для них;
+
+комиксы и настольные игры.
+
+Ярмарка проходит в те же дни, что и большая 64-я Новогодняя ярмарка в Зале 1, так что можно обойти обе за один визит.
+
+На весеннем выпуске ярмарка работала с 10:00 до 19:00, вход стоил 350 динаров, дети до 10 лет проходили бесплатно; часы и цену декабрьского выпуска организатор пока не подтвердил отдельно, уточняйте ближе к дате.","In mid December the Belgrade Fair brings collectors and toy sellers together in **Hall 1A**. A good excuse to look for presents outside the malls.
+
+On the stalls:
+
+model cars;
+
+figures of film and comic heroes;
+
+**LEGO**;
+
+Kinder Surprise toys;
+
+sticker albums and stickers;
+
+comics and board games.
+
+The fair runs at the same time as the big 64th New Year Fair in Hall 1, so you can see both in one visit.
+
+At the spring edition the fair was open from 10:00 to 19:00, entry was 350 dinars and children under 10 went in free; the organiser has not confirmed the hours and price for December separately, so check closer to the date.","Sredinom decembra Beogradski sajam okuplja kolekcionare i prodavce igračaka u **Hali 1A**. Dobra prilika da se pokloni potraže van tržnih centara.
+
+Na tezgama:
+
+modeli automobila;
+
+figure junaka iz filmova i stripova;
+
+**LEGO**;
+
+Kinder figurice;
+
+albumi i sličice;
+
+stripovi i društvene igre.
+
+Sajam je u isto vreme kad i veliki 64. Novogodišnji vašar u Hali 1, pa se oba obilaze u jednoj poseti.
+
+Na prolećnom izdanju sajam je radio od 10:00 do 19:00, ulaz je bio 350 dinara, a deca do 10 godina ulazila su besplatno; radno vreme i cenu za decembar organizator još nije posebno potvrdio, proverite pred sajam.",10:00,350,Beogradski sajam,"Bulevar vojvode Mišića 14, Beograd","44.795697,20.431571",https://sajam.rs/sr/%d0%ba%d0%b0%d0%bb%d0%b5%d0%bd%d0%b4%d0%b0%d1%80-2026/,sajam.rs,https://ticketing.sajam.rs/,Beogradski sajam,https://sajam.rs/,,,,,,"Ярмарки и катки, Новый год, Белградская ярмарка, игрушки, коллекционирование, LEGO, подарки, комиксы","Markets and ice rinks, New Year, Belgrade Fair, toys, collecting, LEGO, presents, comics","Vašari i klizališta, Nova godina, Beogradski sajam, igračke, kolekcionarstvo, LEGO, pokloni, stripovi",,,,,,,,,,,
+12/20/2026,12/20/2026,11/22/2026,3701,TheaterGroup,Pozorište Boško Buha,https://buha.rs/,,ChildrensEvent,«Новогодняя музыкальная карусель» театра «Бошко Буха» в Театре Вук,New Year Musical Carousel by the Boško Buha theatre at Teatar Vuk,Novogodišnji muzički ringišpil Pozorišta Boško Buha u Teatru Vuk,https://raw.githubusercontent.com/newsgl/arsposters/main/3701-BuhaMuzickiRingispil.webp,,"Kids, Theatre","Новогодняя музыкальная программа детского театра «Бошко Буха» на сцене Театра Вук, утренний показ в 11:00. Билеты 1 200 динаров в партер, продажа в кассе театра на tickets.rs.","A New Year musical programme by the Boško Buha children's theatre on the Teatar Vuk stage, morning show at 11:00. Tickets 1,200 dinars for the stalls, sold through the theatre's box office at tickets.rs.","Novogodišnji muzički program dečjeg Pozorišta Boško Buha na sceni Teatra Vuk, jutarnja predstava u 11:00. Karte 1.200 dinara za parter, prodaja na blagajni pozorišta na tickets.rs.","Театр **«Бошко Буха»** с 1950 года ставит спектакли для детей и носит имя юного партизана Бошко Бухи. Сейчас его показы идут на сцене **Театра Вук** на Бульваре короля Александра.
+
+К праздникам театр готовит **«Новогоднюю музыкальную карусель»**: утренние показы в 11:00, три даты в последние выходные перед Новым годом. Этот показ: 20 декабря, воскресенье.
+
+Описания программы и возрастной рекомендации у кассы пока нет, по названию это новогодний музыкальный спектакль с песнями. Идёт на сербском языке.
+
+Билеты стоят 1 200 динаров в партер, одна категория на все показы, продаются в кассе театра на tickets.rs. На утренние праздничные показы детских театров билеты в декабре разбирают быстро, стоит купить заранее.","The **Boško Buha** theatre has staged plays for children since 1950 and is named after the young partisan Boško Buha. Its shows currently run on the **Teatar Vuk** stage on Bulevar kralja Aleksandra.
+
+For the holidays the theatre has the **New Year Musical Carousel**: morning shows at 11:00 on three dates over the last weekends before New Year. This show: Sunday 20 December.
+
+The box office does not have a programme description or age guidance yet; going by the title it is a New Year musical show with songs. It is performed in Serbian.
+
+Tickets are 1,200 dinars for the stalls, one price for all shows, sold through the theatre's box office at tickets.rs. Morning holiday shows at children's theatres sell out quickly in December, so buy early.","**Pozorište Boško Buha** od 1950. igra predstave za decu i nosi ime mladog partizana Boška Buhe. Njegove predstave sada se igraju na sceni **Teatra Vuk** na Bulevaru kralja Aleksandra.
+
+Za praznike pozorište sprema **„Novogodišnji muzički ringišpil“**: jutarnje predstave u 11:00, tri termina poslednjih vikenda pred Novu godinu. Ova predstava: nedelja, 20. decembar.
+
+Opis programa i preporuku za uzrast blagajna još nema; po nazivu je u pitanju novogodišnja muzička predstava sa pesmama.
+
+Karte su 1.200 dinara za parter, jedna kategorija za sve termine, a prodaju se na blagajni pozorišta na tickets.rs. Karte za jutarnje praznične predstave dečjih pozorišta u decembru brzo planu, pa ih kupite na vreme.",11:00,1200,Teatar Vuk,"Bulevar kralja Aleksandra 77a, Beograd","44.803743,20.481278",https://buha.tickets.rs/event/novogodisnji_muzicki_ringispil_29793,buha.tickets.rs,https://buha.tickets.rs/event/novogodisnji_muzicki_ringispil_29793,Pozorište Boško Buha,https://buha.rs/,,,,,,"Ёлки и спектакли для детей, Новый год, Бошко Буха, Театр Вук, детский театр, музыкальный спектакль, утренний показ, Вуков споменик","Shows and parties for kids, New Year, Boško Buha, Teatar Vuk, children's theatre, musical show, morning show, Vukov spomenik","Predstave i novogodišnji programi za decu, Nova godina, Boško Buha, Teatar Vuk, dečje pozorište, muzička predstava, jutarnja predstava, Vukov spomenik",,,,,,,,,,,
+12/26/2026,12/26/2026,11/22/2026,3702,TheaterGroup,Pozorište Boško Buha,https://buha.rs/,,ChildrensEvent,«Новогодняя музыкальная карусель» театра «Бошко Буха» в Театре Вук,New Year Musical Carousel by the Boško Buha theatre at Teatar Vuk,Novogodišnji muzički ringišpil Pozorišta Boško Buha u Teatru Vuk,https://raw.githubusercontent.com/newsgl/arsposters/main/3702-BuhaMuzickiRingispil.webp,,"Kids, Theatre","Новогодняя музыкальная программа детского театра «Бошко Буха» на сцене Театра Вук, утренний показ в 11:00. Билеты 1 200 динаров в партер, продажа в кассе театра на tickets.rs.","A New Year musical programme by the Boško Buha children's theatre on the Teatar Vuk stage, morning show at 11:00. Tickets 1,200 dinars for the stalls, sold through the theatre's box office at tickets.rs.","Novogodišnji muzički program dečjeg Pozorišta Boško Buha na sceni Teatra Vuk, jutarnja predstava u 11:00. Karte 1.200 dinara za parter, prodaja na blagajni pozorišta na tickets.rs.","Театр **«Бошко Буха»** с 1950 года ставит спектакли для детей и носит имя юного партизана Бошко Бухи. Сейчас его показы идут на сцене **Театра Вук** на Бульваре короля Александра.
+
+К праздникам театр готовит **«Новогоднюю музыкальную карусель»**: утренние показы в 11:00, три даты в последние выходные перед Новым годом. Этот показ: 26 декабря, суббота.
+
+Описания программы и возрастной рекомендации у кассы пока нет, по названию это новогодний музыкальный спектакль с песнями. Идёт на сербском языке.
+
+Билеты стоят 1 200 динаров в партер, одна категория на все показы, продаются в кассе театра на tickets.rs. На утренние праздничные показы детских театров билеты в декабре разбирают быстро, стоит купить заранее.","The **Boško Buha** theatre has staged plays for children since 1950 and is named after the young partisan Boško Buha. Its shows currently run on the **Teatar Vuk** stage on Bulevar kralja Aleksandra.
+
+For the holidays the theatre has the **New Year Musical Carousel**: morning shows at 11:00 on three dates over the last weekends before New Year. This show: Saturday 26 December.
+
+The box office does not have a programme description or age guidance yet; going by the title it is a New Year musical show with songs. It is performed in Serbian.
+
+Tickets are 1,200 dinars for the stalls, one price for all shows, sold through the theatre's box office at tickets.rs. Morning holiday shows at children's theatres sell out quickly in December, so buy early.","**Pozorište Boško Buha** od 1950. igra predstave za decu i nosi ime mladog partizana Boška Buhe. Njegove predstave sada se igraju na sceni **Teatra Vuk** na Bulevaru kralja Aleksandra.
+
+Za praznike pozorište sprema **„Novogodišnji muzički ringišpil“**: jutarnje predstave u 11:00, tri termina poslednjih vikenda pred Novu godinu. Ova predstava: subota, 26. decembar.
+
+Opis programa i preporuku za uzrast blagajna još nema; po nazivu je u pitanju novogodišnja muzička predstava sa pesmama.
+
+Karte su 1.200 dinara za parter, jedna kategorija za sve termine, a prodaju se na blagajni pozorišta na tickets.rs. Karte za jutarnje praznične predstave dečjih pozorišta u decembru brzo planu, pa ih kupite na vreme.",11:00,1200,Teatar Vuk,"Bulevar kralja Aleksandra 77a, Beograd","44.803743,20.481278",https://buha.tickets.rs/event/novogodisnji_muzicki_ringispil_29794,buha.tickets.rs,https://buha.tickets.rs/event/novogodisnji_muzicki_ringispil_29794,Pozorište Boško Buha,https://buha.rs/,,,,,,"Ёлки и спектакли для детей, Новый год, Бошко Буха, Театр Вук, детский театр, музыкальный спектакль, утренний показ, Вуков споменик","Shows and parties for kids, New Year, Boško Buha, Teatar Vuk, children's theatre, musical show, morning show, Vukov spomenik","Predstave i novogodišnji programi za decu, Nova godina, Boško Buha, Teatar Vuk, dečje pozorište, muzička predstava, jutarnja predstava, Vukov spomenik",,,,,,,,,,,
+12/27/2026,12/27/2026,11/22/2026,3703,TheaterGroup,Pozorište Boško Buha,https://buha.rs/,,ChildrensEvent,«Новогодняя музыкальная карусель» театра «Бошко Буха» в Театре Вук,New Year Musical Carousel by the Boško Buha theatre at Teatar Vuk,Novogodišnji muzički ringišpil Pozorišta Boško Buha u Teatru Vuk,https://raw.githubusercontent.com/newsgl/arsposters/main/3703-BuhaMuzickiRingispil.webp,,"Kids, Theatre","Новогодняя музыкальная программа детского театра «Бошко Буха» на сцене Театра Вук, утренний показ в 11:00. Билеты 1 200 динаров в партер, продажа в кассе театра на tickets.rs.","A New Year musical programme by the Boško Buha children's theatre on the Teatar Vuk stage, morning show at 11:00. Tickets 1,200 dinars for the stalls, sold through the theatre's box office at tickets.rs.","Novogodišnji muzički program dečjeg Pozorišta Boško Buha na sceni Teatra Vuk, jutarnja predstava u 11:00. Karte 1.200 dinara za parter, prodaja na blagajni pozorišta na tickets.rs.","Театр **«Бошко Буха»** с 1950 года ставит спектакли для детей и носит имя юного партизана Бошко Бухи. Сейчас его показы идут на сцене **Театра Вук** на Бульваре короля Александра.
+
+К праздникам театр готовит **«Новогоднюю музыкальную карусель»**: утренние показы в 11:00, три даты в последние выходные перед Новым годом. Этот показ: 27 декабря, воскресенье.
+
+Описания программы и возрастной рекомендации у кассы пока нет, по названию это новогодний музыкальный спектакль с песнями. Идёт на сербском языке.
+
+Билеты стоят 1 200 динаров в партер, одна категория на все показы, продаются в кассе театра на tickets.rs. На утренние праздничные показы детских театров билеты в декабре разбирают быстро, стоит купить заранее.","The **Boško Buha** theatre has staged plays for children since 1950 and is named after the young partisan Boško Buha. Its shows currently run on the **Teatar Vuk** stage on Bulevar kralja Aleksandra.
+
+For the holidays the theatre has the **New Year Musical Carousel**: morning shows at 11:00 on three dates over the last weekends before New Year. This show: Sunday 27 December.
+
+The box office does not have a programme description or age guidance yet; going by the title it is a New Year musical show with songs. It is performed in Serbian.
+
+Tickets are 1,200 dinars for the stalls, one price for all shows, sold through the theatre's box office at tickets.rs. Morning holiday shows at children's theatres sell out quickly in December, so buy early.","**Pozorište Boško Buha** od 1950. igra predstave za decu i nosi ime mladog partizana Boška Buhe. Njegove predstave sada se igraju na sceni **Teatra Vuk** na Bulevaru kralja Aleksandra.
+
+Za praznike pozorište sprema **„Novogodišnji muzički ringišpil“**: jutarnje predstave u 11:00, tri termina poslednjih vikenda pred Novu godinu. Ova predstava: nedelja, 27. decembar.
+
+Opis programa i preporuku za uzrast blagajna još nema; po nazivu je u pitanju novogodišnja muzička predstava sa pesmama.
+
+Karte su 1.200 dinara za parter, jedna kategorija za sve termine, a prodaju se na blagajni pozorišta na tickets.rs. Karte za jutarnje praznične predstave dečjih pozorišta u decembru brzo planu, pa ih kupite na vreme.",11:00,1200,Teatar Vuk,"Bulevar kralja Aleksandra 77a, Beograd","44.803743,20.481278",https://buha.tickets.rs/event/novogodisnji_muzicki_ringispil_29795,buha.tickets.rs,https://buha.tickets.rs/event/novogodisnji_muzicki_ringispil_29795,Pozorište Boško Buha,https://buha.rs/,,,,,,"Ёлки и спектакли для детей, Новый год, Бошко Буха, Театр Вук, детский театр, музыкальный спектакль, утренний показ, Вуков споменик","Shows and parties for kids, New Year, Boško Buha, Teatar Vuk, children's theatre, musical show, morning show, Vukov spomenik","Predstave i novogodišnji programi za decu, Nova godina, Boško Buha, Teatar Vuk, dečje pozorište, muzička predstava, jutarnja predstava, Vukov spomenik",,,,,,,,,,,
