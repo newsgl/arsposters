@@ -1,0 +1,87 @@
+StartDate,EndDate,PubDate,UniqueID,PerformerType,PerformerName,SameAs,Language,EventType,EventNameRus,EventNameEng,EventNameSrb,CoverImage,SpotifyButton,Section,ShortDescriptionRus,ShortDescriptionEng,ShortDescriptionSrb,LongDescriptionRus,LongDescriptionEng,LongDescriptionSrb,Time,PriceDin,PlaceName,PlaceAddress,GoogleMap,EventPage,SourceName,TicketsLink,OrganizerName,OrganizerPageURL,OrganizerEmail,OrganizerPhone,AgeRestriction,EventCapacity,ImageGallery,TagsRus,TagsEng,TagsSrb
+11/23/2026,11/23/2026,11/23/2026,3762,MusicGroup,Simfonijski orkestar FMU,https://www.fmu.bg.ac.rs/,,MusicEvent,Симфонический оркестр ФМИ и молодые солисты в зале Белградской филармонии,FMU Symphony Orchestra and young soloists at the Belgrade Philharmonic Hall,Simfonijski orkestar FMU i mladi solisti u sali Beogradske filharmonije,https://raw.githubusercontent.com/newsgl/arsposters/main/3762-SimfonijskiOrkestarFMU.webp,,Concerts,"Симфонический оркестр Факультета музыкального искусства под управлением Србольуба Динича, солисты виолончелист Вук Младенич и флейтистка Надя Пушкаревич: Россини, Моцарт, Поппер и Гайдн. Понедельник, 23 ноября, 20:00, вход свободный.","The Faculty of Music Symphony Orchestra under Srboljub Dinić, with cellist Vuk Mladenić and flautist Nađa Puškarević as soloists: Rossini, Mozart, Popper and Haydn. Monday 23 November, 20:00, free admission.","Simfonijski orkestar Fakulteta muzičke umetnosti pod upravom Srboljuba Dinića, solisti violončelista Vuk Mladenić i flautistkinja Nađa Puškarević: Rosini, Mocart, Poper i Hajdn. Ponedeljak, 23. novembar, 20.00, ulaz slobodan.","Этим вечером Факультет музыкального искусства начинает два концерта в преддверии своего 90-летия и юбилеев Университета искусств и Задужбины Коларца. Концерт называется «Артисты на взлёте».
+
+Играет **Симфонический оркестр ФМИ**: его основали в 1950-х, и это старейший академический оркестр Сербии. Солисты тоже студенты факультета.
+
+Дирижирует **Србольуб Динич**. Он работал с оперными театрами и оркестрами Европы, Северной и Южной Америки и Азии, а с 2024 года преподаёт на факультете.
+
+У виолончелиста **Вука Младенича** из класса профессора Драгана Джорджевича больше двадцати наград национальных и международных конкурсов. Флейтистка **Надя Пушкаревич** из класса профессора Любиши Йовановича получала награды международного конкурса «Антон Эберст».
+
+Программа: Россини, увертюра к опере «Севильский цирюльник»; Моцарт, Концерт для флейты с оркестром ре мажор K314; Поппер, Концертный полонез op. 14; Гайдн, Симфония № 45 фа-диез минор «Прощальная».
+
+Место: зал Белградской филармонии, Studentski trg 11.
+
+Время: понедельник, 23 ноября, 20:00.
+
+Вход свободный.","With this concert the Faculty of Music in Belgrade opens two evenings ahead of its 90th anniversary and the jubilees of the University of Arts and the Kolarac Endowment. The concert is called Artists on the Rise.
+
+The **FMU Symphony Orchestra** was founded in the 1950s and is the oldest academic orchestra in Serbia. The soloists are students of the faculty too.
+
+The conductor is **Srboljub Dinić**, who has worked with opera houses and orchestras in Europe, North and South America and Asia and has taught at the faculty since 2024.
+
+Cellist **Vuk Mladenić**, from the class of Professor Dragan Đorđević, has won more than twenty prizes at national and international competitions. Flautist **Nađa Puškarević**, from the class of Professor Ljubiša Jovanović, has won prizes at the Anton Eberst international competition.
+
+Programme: Rossini, overture to The Barber of Seville; Mozart, Flute Concerto in D major, K314; Popper, Polonaise de concert, Op. 14; Haydn, Symphony No. 45 in F sharp minor, Farewell.
+
+Venue: Belgrade Philharmonic Hall, Studentski trg 11.
+
+Time: Monday 23 November, 20:00.
+
+Admission is free.","Ovim koncertom Fakultet muzičke umetnosti u Beogradu otvara dve večeri u susret svojim 90 godinama i jubilejima Univerziteta umetnosti i Zadužbine Ilije M. Kolarca. Koncert nosi naziv „Umetnici u usponu“.
+
+Nastupa **Simfonijski orkestar FMU**, osnovan pedesetih godina 20. veka, najstariji akademski orkestar u Srbiji. I solisti su studenti Fakulteta.
+
+Diriguje maestro **Srboljub Dinić**, koji je sarađivao sa operskim kućama i orkestrima u Evropi, Severnoj i Južnoj Americi i Aziji, a od 2024. predaje na Fakultetu.
+
+Violončelista **Vuk Mladenić** iz klase prof. Dragana Đorđevića ima više od dvadeset nagrada sa domaćih i međunarodnih takmičenja. Flautistkinja **Nađa Puškarević** iz klase prof. Ljubiše Jovanovića nagrađivana je na Međunarodnom takmičenju „Anton Eberst“.
+
+Program: Rosini, uvertira za operu „Seviljski berberin“; Mocart, Koncert za flautu i orkestar u De duru, K314; Poper, Koncertna poloneza op. 14; Hajdn, Simfonija br. 45 u fis molu, „Oproštajna“.
+
+Mesto: sala Beogradske filharmonije, Studentski trg 11.
+
+Vreme: ponedeljak, 23. novembar, 20.00.
+
+Ulaz je slobodan.",20:00,0,Sala Beogradske filharmonije,"Studentski trg 11, 11000 Beograd","44.819232,20.455808",https://www.fmu.bg.ac.rs/dogadjaj/koncert-simfonijskog-orkestra-fmu-2/,pr.fmu.bg@gmail.com,,Fakultet muzičke umetnosti u Beogradu,https://www.fmu.bg.ac.rs/,,,,,,"академическая музыка, симфонический оркестр, Моцарт, Гайдн, ФМИ, бесплатно","classical music, symphony orchestra, Mozart, Haydn, FMU, free","klasična muzika, simfonijski orkestar, Mocart, Hajdn, FMU, besplatno"
+12/08/2026,12/08/2026,11/23/2026,3763,MusicGroup,Simfonijski orkestar FMU,https://www.fmu.bg.ac.rs/,,MusicEvent,Юбилейный концерт оркестра ФМИ на Коларце со скрипачкой Ниной Ракочевич,FMU Symphony Orchestra jubilee concert at Kolarac with violinist Nina Rakočević,Jubilarni koncert Simfonijskog orkestra FMU na Kolarcu sa Ninom Rakočević,https://raw.githubusercontent.com/newsgl/arsposters/main/3763-SimfonijskiOrkestarFMUKolarac.webp,,Concerts,"Торжественный вечер к юбилеям ФМИ, Университета искусств и Коларца: статуэтку «Даринка Матич Марович» вручают режиссёру Горану Марковичу, оркестр под управлением Србольуба Динича играет темы Симьяновича, Паганини с Ниной Ракочевич и Мусоргского. Вторник, 8 декабря, 20:00, вход свободный.","A gala evening for the jubilees of the Faculty of Music, the University of Arts and Kolarac: director Goran Marković receives the Darinka Matić Marović statuette, and the orchestra under Srboljub Dinić plays Simjanović film themes, Paganini with Nina Rakočević, and Mussorgsky. Tuesday 8 December, 20:00, free admission.","Svečano veče u susret jubilejima FMU, Univerziteta umetnosti i Kolarca: Statueta „Darinka Matić Marović“ reditelju Goranu Markoviću, a orkestar pod upravom Srboljuba Dinića izvodi filmske teme Simjanovića, Paganinija sa Ninom Rakočević i Musorgskog. Utorak, 8. decembar, 20.00, ulaz slobodan.","В Большом зале Коларца Факультет музыкального искусства отмечает предстоящие юбилеи: свои 90 лет, годовщину Университета искусств и 150 лет Задужбины Илии М. Коларца.
+
+Вечер открывает декан ФМИ профессор Слободан Герич. Потом Университет искусств вручает статуэтку «Даринка Матич Марович» за 2026 год режиссёру **Горану Марковичу**, почётному профессору Факультета драматических искусств.
+
+В его честь большой **Симфонический оркестр ФМИ** под управлением **Србольуба Динича** играет темы, которые Зоран Симьянович написал к фильмам Марковича.
+
+Солирует скрипачка **Нина Ракочевич**. Она родилась в 2011 году, учится на факультете в классе Роберта Лакатоша и стала одной из самых молодых студенток в его истории. У неё больше сорока первых премий и награда САНУ «Станойло Раичич» за лучший концерт сезона в Галерее САНУ в 2026 году. Она играет Концерт для скрипки с оркестром № 1 ре мажор Паганини.
+
+Ещё в программе «Картинки с выставки» Мусоргского и «Дикие воды», цикл для оркестра Душана Джорджевича, докторанта ФМИ.
+
+Место: Большой зал Задужбины Илии М. Коларца, Studentski trg 5.
+
+Время: вторник, 8 декабря, 20:00.
+
+Вход свободный.","In the Great Hall of Kolarac, the Faculty of Music in Belgrade marks its upcoming 90th anniversary together with the jubilee of the University of Arts and 150 years of the Ilija M. Kolarac Endowment.
+
+Dean Professor Slobodan Gerić opens the evening. The University of Arts then presents its Darinka Matić Marović statuette for 2026 to film director **Goran Marković**, professor emeritus of the Faculty of Dramatic Arts.
+
+In his honour the full **FMU Symphony Orchestra** under **Srboljub Dinić** plays themes Zoran Simjanović wrote for Marković's films.
+
+The soloist is violinist **Nina Rakočević**. Born in 2011, she studies at the faculty in the class of Robert Lakatoš and is one of the youngest students in its history. She has more than forty first prizes and the SANU Stanojlo Rajičić award for the best concert of the 2026 season at the SANU Gallery. She plays Paganini's Violin Concerto No. 1 in D major.
+
+Also on the programme: Mussorgsky's Pictures at an Exhibition and Wild Waters, a cycle for orchestra by FMU doctoral student Dušan Đorđević.
+
+Venue: Great Hall of the Ilija M. Kolarac Endowment, Studentski trg 5.
+
+Time: Tuesday 8 December, 20:00.
+
+Admission is free.","U Velikoj dvorani Kolarca Fakultet muzičke umetnosti obeležava predstojeće jubileje: svojih 90 godina, jubilej Univerziteta umetnosti i 150 godina Zadužbine Ilije M. Kolarca.
+
+Veče otvara dekan FMU prof. dr Slobodan Gerić. Univerzitet umetnosti zatim uručuje Statuetu „Darinka Matić Marović“ za 2026. godinu reditelju **Goranu Markoviću**, profesoru emeritusu Fakulteta dramskih umetnosti.
+
+Njemu u čast veliki **Simfonijski orkestar FMU** pod upravom maestra **Srboljuba Dinića** izvodi izbor tema koje je Zoran Simjanović napisao za filmove Gorana Markovića.
+
+Solistkinja je violinistkinja **Nina Rakočević**. Rođena je 2011, studira na Fakultetu u klasi prof. Roberta Lakatoša i jedna je od najmlađih studentkinja u njegovoj istoriji. Ima više od četrdeset prvih nagrada i nagradu SANU „Stanojlo Rajičić“ za najbolji koncert sezone u Galeriji SANU za 2026. Izvodi Paganinijev Koncert za violinu i orkestar br. 1 u De duru.
+
+Na programu su i „Slike sa izložbe“ Musorgskog i „Divlje vode“, ciklus za orkestar Dušana Đorđevića, doktoranda FMU.
+
+Mesto: Velika dvorana Zadužbine Ilije M. Kolarca, Studentski trg 5.
+
+Vreme: utorak, 8. decembar, 20.00.
+
+Ulaz je slobodan.",20:00,0,Zadužbina Ilije M. Kolarca,"Studentski trg 5, Beograd","44.819094,20.456261",https://www.fmu.bg.ac.rs/dogadjaj/simfonijski-orkestar-fmu-i-muzicka-akademija-franc-list-iz-budimpeste/,pr.fmu.bg@gmail.com,,Fakultet muzičke umetnosti u Beogradu,https://www.fmu.bg.ac.rs/,,,,,,"академическая музыка, симфонический оркестр, Паганини, Мусоргский, музыка из кино, Коларац, бесплатно","classical music, symphony orchestra, Paganini, Mussorgsky, film music, Kolarac, free","klasična muzika, simfonijski orkestar, Paganini, Musorgski, filmska muzika, Kolarac, besplatno"
